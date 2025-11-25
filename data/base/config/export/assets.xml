@@ -1,0 +1,14 @@
+<ModOps>
+  <!--
+    Modtools - Helper Website
+    https://a1800.net/?aGAME=a117
+    Modloder Reference
+    https://jakobharder.github.io/anno-mod-loader/
+
+    For Properties see properties-meta.xml from game.rda
+  -->
+
+  <Include File="testing/specialists-test.xml" />
+  <Include File="testing/pools-test.xml" />
+
+</ModOps>

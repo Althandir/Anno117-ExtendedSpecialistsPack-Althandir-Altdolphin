@@ -1,0 +1,32 @@
+<ModOps>
+  <!-- Test Specialist aka DolphinTest-->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Dolphin Test Specialist</Text>
+          <LineId>2001000001</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Meb Meb! Test Description</Text>
+          <LineId>2001000002</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+  <!-- Test Specialist aka DolphinTest2-->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Dolphin Test Specialist 2</Text>
+          <LineId>2000000503</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Meb Meb! Test Description 2</Text>
+          <LineId>2000000504</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+</ModOps>

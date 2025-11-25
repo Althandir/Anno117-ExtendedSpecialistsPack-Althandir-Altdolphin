@@ -1,0 +1,17 @@
+{
+  "ModID": "learningmod-dolphin",
+  "Version": "0.1.3",
+  "Anno": 8,
+  "Difficulty": "easier",
+  "GameSetup": {
+	"SafeToRemove": true
+  },
+  "ModName": {
+    "English": "LearningMod-Dolphin"
+  },
+  "Category": {
+    "English": "Mod"
+  },
+  "CreatorName": "dolphin",
+  "CreatorContact": ""
+}

@@ -1,0 +1,28 @@
+<ModOps>
+
+<!-- Add to AssetList -->
+  <Group>
+    <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
+      <Item>
+        <ItemLink>2001000001</ItemLink>
+      </Item>
+    </ModOp>
+  </Group>
+
+  <!-- Add to RewardPools -->
+  <Group>
+    <ModOp Type="add" GUID="43037" Path="/Values/RewardPool/ItemsPool">
+      <Item>
+        <ItemLink>2001000001</ItemLink>
+      </Item>
+    </ModOp>
+    <!-- for Testing -->
+    <ModOp Type="add" GUID="43037,83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
+      <Item>
+        <ItemLink>2001000001</ItemLink>
+        <Weight>100</Weight> <!-- for Testing -->
+      </Item>
+    </ModOp>
+  </Group>
+
+</ModOps>
