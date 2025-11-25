@@ -8,7 +8,17 @@
     For Properties see properties-meta.xml from game.rda
   -->
 
-  <Include File="testing/specialists-test.xml" />
-  <Include File="testing/pools-test.xml" />
+<!-- Testing & Learning -->
+  <Group>
+    <Include File="testing/specialists-test.xml" />
+    <Include File="testing/pools-test.xml" />
+  </Group>
+  
+  <!-- Common Specialists -->
+  <Group>
+    <Include File="items-common/AllPublicServicesRange-C.xml" />
+  </Group>
 
+  <!-- Add to Pools -->
+  <Include File="pools.xml" />
 </ModOps>

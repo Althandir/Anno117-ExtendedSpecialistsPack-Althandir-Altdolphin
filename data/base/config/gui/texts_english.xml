@@ -14,19 +14,24 @@
       </Text>
     </ModOp>
   </Group>
-  <!-- Test Specialist aka DolphinTest2-->
+  
+  <!-- Specialist AllPublicServicesRange C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Dolphin Test Specialist 2</Text>
-          <LineId>2000000503</LineId>
+          <Text>Specialist AllPublicServicesRange C Title</Text>
+          <LineId>2001000003</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Meb Meb! Test Description 2</Text>
-          <LineId>2000000504</LineId>
+          <Text>Specialist AllPublicServicesRange C Description</Text>
+          <LineId>2001000004</LineId>
       </Text>
     </ModOp>
   </Group>
+
+
+
+
 </ModOps>

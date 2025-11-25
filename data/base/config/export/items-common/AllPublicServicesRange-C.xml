@@ -1,0 +1,85 @@
+<ModOps>
+<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4-->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000003</GUID>
+            <Name>Specialist AllPublicServicesRange C</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000004</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Area</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000004</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>43099</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <TradePrice>2500</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Common</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000003</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+          <Template>AreaBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>2001000004</GUID>
+              <Name>Specialist AllPublicServicesRange C AreaBuff</Name>
+              <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            </Standard>
+            <Text>
+              <OasisId>2001000003</OasisId>
+            </Text>
+            <AreaBuff>
+              <RadiusEffectRangeUpgrade>
+                <Value>7.5</Value>
+                <Percental>1</Percental>
+              </RadiusEffectRangeUpgrade>
+              <RadiusEffectRangeTarget>
+                <Item>
+                  <Target>43099</Target>
+                </Item>
+              </RadiusEffectRangeTarget>
+            </AreaBuff>
+            <Buff>
+              <SourceCategory>Item</SourceCategory>
+            </Buff>
+            <AreaPassiveTradeUpgrade/>
+            <AreaMaintenanceUpgrade/>
+            <AreaFestivalAttributeUpgrade/>
+          </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>
