@@ -1,5 +1,6 @@
 <ModOps>
-<Group>
+<!-- Item Definition GUID:2001000001-2 | LineID:2001000001-2-->
+  <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
@@ -11,7 +12,7 @@
             <InfoDescription>2001000002</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Area</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -26,7 +27,7 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>2500</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>0</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <!-- Rarity Not Needed for lowest Rarity 
@@ -58,7 +59,7 @@
                 <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
               </Standard>
               <Text>
-                <OasisId>2001000004</OasisId>
+                <OasisId>2001000001</OasisId>
               </Text>
               <HealthUpgrade/>
               <BuildingUpgrade> <!-- Some Buffs only works when EffectScope is Radius -->
@@ -69,6 +70,12 @@
                       <Percental>0</Percental>
                     </AmountOrPercent>
                   </Happiness>
+                  <Money>
+                    <AmountOrPercent>
+                      <Value>10000</Value>
+                      <Percental>0</Percental>
+                    </AmountOrPercent>
+                  </Money>
                 </AdditionalAttributes>
 			    </BuildingUpgrade>
               <DistributionUpgrade/>
@@ -122,7 +129,7 @@
                 <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
               </Standard>
               <Text>
-                <OasisId>2001000004</OasisId>
+                <OasisId>2001000001</OasisId>
               </Text>
               <AreaBuff>
                 <RadiusEffectRangeUpgrade>
