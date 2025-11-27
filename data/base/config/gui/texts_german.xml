@@ -31,5 +31,21 @@
     </ModOp>
   </Group>
 
+   <!-- Specialist AllPublicServicesRange R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange R Titel</Text>
+          <LineId>2001000005</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange R Beschreibung</Text>
+          <LineId>2001000006</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
 
 </ModOps>

@@ -19,6 +19,11 @@
     <Include File="items-common/AllPublicServicesRange-C.xml" />
   </Group>
 
+  <!-- Rare Specialists -->
+  <Group>
+    <Include File="items-rare/AllPublicServicesRange-R.xml" />
+  </Group>
+
   <!-- Add to Pools -->
   <Include File="pools.xml" />
 </ModOps>

@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>2500</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>10000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Common</Rarity> 
@@ -44,10 +44,48 @@
     </ModOp>
   </Group>
 
-  <!-- Buff Definitions-->
+  <!-- Buff Definitions-->§
   <Group>
-    
+    <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
+      <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+              <Standard>
+                <GUID>2001000005</GUID>
+                <Name>Specialist AllPublicServicesRange C BuildingBuff</Name>
+                <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+              </Standard>
+              <Text>
+                <OasisId>2001000003</OasisId>
+              </Text>
+              <HealthUpgrade/>
+              <BuildingUpgrade/>
+              <DistributionUpgrade/>
+              <Buff>
+                <SourceCategory>Item</SourceCategory>
+              </Buff>
+              <ResidenceUpgrade/>
+              <FactoryUpgrade/>
+              <ModuleOwnerUpgrade/>
+              <MaintenanceUpgrade>
+                <MaintenanceFactorUpgrade>
+                  <Value>50</Value>
+                  <Percental>1</Percental>
+                </MaintenanceFactorUpgrade>
+              </MaintenanceUpgrade>
+              <CityInstitutionUpgrade/>
+              <IncidentInfectableUpgrade/>
+              <RecruitmentUpgrade/>
+              <AqueductUpgrade/>
+              <AreaBuff/> 
+              <WarehouseUpgrade/>
+              <IrrigationUpgrade/>
+            </Values>
+          </Asset>
+    </ModOp>
+    <!-- AreaEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="81445">
         <Asset>
           <Template>AreaBuff</Template>
           <Values>
@@ -61,7 +99,7 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>7.5</Value>
+                <Value>10</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
@@ -74,7 +112,12 @@
               <SourceCategory>Item</SourceCategory>
             </Buff>
             <AreaPassiveTradeUpgrade/>
-            <AreaMaintenanceUpgrade/>
+            <AreaMaintenanceUpgrade>
+              <LandTax>
+                <Value>300</Value>
+                <Percental>1</Percental>
+              </LandTax>
+            </AreaMaintenanceUpgrade>
             <AreaFestivalAttributeUpgrade/>
           </Values>
         </Asset>

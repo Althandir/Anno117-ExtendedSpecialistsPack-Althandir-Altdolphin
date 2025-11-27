@@ -12,7 +12,7 @@
             <InfoDescription>2001000002</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta, ObjectsInArea | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -77,7 +77,7 @@
                     </AmountOrPercent>
                   </Money>
                 </AdditionalAttributes>
-			    </BuildingUpgrade>
+			        </BuildingUpgrade>
               <DistributionUpgrade/>
               <Buff>
                 <SourceCategory>Item</SourceCategory>
@@ -148,6 +148,16 @@
               <AreaPassiveTradeUpgrade/>
               <AreaMaintenanceUpgrade/>
               <AreaFestivalAttributeUpgrade/>
+              <AreaNeedAttributeBuff>
+                <BonusAttributes>
+                  <Money>
+                    <ValueOrPercent>
+                      <Value>50</Value>
+                      <Percental>1</Percental>
+                    </ValueOrPercent>
+                  </Money>
+                </BonusAttributes>
+              </AreaNeedAttributeBuff>
             </Values>
           </Asset>
       </ModOp>

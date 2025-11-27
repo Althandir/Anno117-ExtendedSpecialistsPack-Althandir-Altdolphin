@@ -1,29 +1,39 @@
 <ModOps>
 
 <!-- Add to AssetList -->
-  <Group>
-    <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
-      <Item>
-        <ItemLink>2001000003</ItemLink>
-      </Item>
-    </ModOp>
-  </Group>
-
-  <!-- Add to RewardPools -->
-  <Group>
-    <ModOp Type="add" GUID="43037" Path="/Values/RewardPool/ItemsPool">
-      <Item>
-        <ItemLink>2001000003</ItemLink>
-      </Item>
-    </ModOp>
-    <!-- Common Trader Pool -->
-    <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
+    <Group>
+        <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
         <Item>
             <ItemLink>2001000003</ItemLink>
-            <Weight>100</Weight>
+        </Item>
+        <Item>
+            <ItemLink>2001000005</ItemLink>        
+        </Item>
+        </ModOp>
+    </Group>
+
+  <!-- Add to RewardPools -->
+    <!-- RewardPool All Items-->
+    <Group>
+        <ModOp Type="add" GUID="43037" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000003</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000005</ItemLink>
+        </Item>
+        </ModOp>
+    </Group>
+    <!-- RewardPool Common Traders-->
+    <Group>
+        <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000003</ItemLink> <!-- for Testing -->
+        </Item>
+        <Item>
+            <ItemLink>2001000005</ItemLink>
         </Item>
     </ModOp>
-    
-  </Group>
+    </Group>
 
 </ModOps>
