@@ -47,5 +47,35 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist AllPublicServicesRange R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange E Title</Text>
+          <LineId>2001000007</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange E Description</Text>
+          <LineId>2001000008</LineId>
+      </Text>
+    </ModOp>
+  </Group>
 
+  <!-- Specialist MarketFaithFocus C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist MarketFaithFocus C Title</Text>
+          <LineId>2001000009</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist MarketFaithFocus C Description</Text>
+          <LineId>2001000010</LineId>
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>

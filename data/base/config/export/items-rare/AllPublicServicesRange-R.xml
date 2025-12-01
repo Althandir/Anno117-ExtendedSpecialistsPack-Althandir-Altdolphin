@@ -61,7 +61,7 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>20</Value>
+                <Value>25</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
@@ -76,7 +76,7 @@
             <AreaPassiveTradeUpgrade/>
             <AreaMaintenanceUpgrade>
               <LandTax>
-                <Value>300</Value>
+                <Value>200</Value>
                 <Percental>1</Percental>
               </LandTax>
             </AreaMaintenanceUpgrade>
