@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>250000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>900000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Epic</Rarity> 
@@ -44,7 +44,7 @@
     </ModOp>
   </Group>
 
-  <!-- Buff Definitions-->§
+  <!-- Buff Definitions-->
   <Group>
     <!-- AreaEffect Definition -->
     <ModOp Type="addNextSibling" GUID="81445">
@@ -53,7 +53,7 @@
           <Values>
             <Standard>
               <GUID>2001000008</GUID>
-              <Name>Specialist AllPublicServicesRange Economy AreaBuff</Name>
+              <Name>Specialist AllPublicServicesRange E AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             </Standard>
             <Text>
@@ -61,7 +61,7 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>40</Value>
+                <Value>37.5</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>

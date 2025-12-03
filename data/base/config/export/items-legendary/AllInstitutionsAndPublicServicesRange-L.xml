@@ -1,43 +1,49 @@
 <ModOps>
-<!-- Item Definition GUID:2001000005-6 | LineID:2001000005-6-->
+<!-- Item Definition GUID:2001000017-18 | LineID:2001000017-18-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000005</GUID>
-            <Name>Specialist AllPublicServicesRange R</Name>
+            <GUID>2001000017</GUID>
+            <Name>Specialist AllInstitutionsAndPublicServicesRange L</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000006</InfoDescription>
+            <InfoDescription>2001000018</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Area</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000006</GUID>
+                <GUID>2001000018</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
+                <GUID>43102</GUID>
+              </Item>
+              <Item>
                 <GUID>43099</GUID>
+              </Item>
+              <Item>
+                <GUID>50226</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>300000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <Niche>Civic</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <TradePrice>2000000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000005</OasisId>
+            <OasisId>2001000017</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,21 +58,27 @@
           <Template>AreaBuff</Template>
           <Values>
             <Standard>
-              <GUID>2001000006</GUID>
-              <Name>Specialist AllPublicServicesRange R AreaBuff</Name>
+              <GUID>2001000018</GUID>
+              <Name>Specialist AllInstitutionsAndPublicServicesRange L AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             </Standard>
             <Text>
-              <OasisId>2001000006</OasisId>
+              <OasisId>2001000017</OasisId>
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>25</Value>
+                <Value>50</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
                 <Item>
+                  <Target>43102</Target>
+                </Item>
+                <Item>
                   <Target>43099</Target>
+                </Item>
+                <Item>
+                  <Target>50226</Target>
                 </Item>
               </RadiusEffectRangeTarget>
             </AreaBuff>

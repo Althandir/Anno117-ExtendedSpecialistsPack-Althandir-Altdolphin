@@ -27,8 +27,8 @@
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>2750</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <Niche>Religion</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <TradePrice>3000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Common</Rarity> 
@@ -44,7 +44,7 @@
     </ModOp>
   </Group>
 
-  <!-- Buff Definitions-->§
+  <!-- Buff Definitions-->
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
@@ -62,6 +62,14 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>2001000011</AdditionalFunctionalEffect>
+                    <AdditionalAttributes>
+                      <Belief>
+                        <AmountOrPercent>
+                          <Value>1</Value>
+                          <Percental>0</Percental>
+                        </AmountOrPercent>
+                      </Belief>
+                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -96,7 +104,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>135499</GUID>
+                            <GUID>2001000012</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -129,18 +137,18 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Faith>
+                        <Belief>
                             <AmountOrPercent>
-                                <Value>0.75</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-                        </Faith>
+                        </Belief>
                         <Money>
                             <AmountOrPercent>
                                 <Value>-1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-				        </Money>
+				                </Money>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

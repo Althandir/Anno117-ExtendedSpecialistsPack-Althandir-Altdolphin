@@ -44,46 +44,8 @@
     </ModOp>
   </Group>
 
-  <!-- Buff Definitions-->§
+  <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
-    <ModOp Type="addNextSibling" GUID="80193">
-      <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-              <Standard>
-                <GUID>2001000005</GUID>
-                <Name>Specialist AllPublicServicesRange C BuildingBuff</Name>
-                <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-              </Standard>
-              <Text>
-                <OasisId>2001000003</OasisId>
-              </Text>
-              <HealthUpgrade/>
-              <BuildingUpgrade/>
-              <DistributionUpgrade/>
-              <Buff>
-                <SourceCategory>Item</SourceCategory>
-              </Buff>
-              <ResidenceUpgrade/>
-              <FactoryUpgrade/>
-              <ModuleOwnerUpgrade/>
-              <MaintenanceUpgrade>
-                <MaintenanceFactorUpgrade>
-                  <Value>50</Value>
-                  <Percental>1</Percental>
-                </MaintenanceFactorUpgrade>
-              </MaintenanceUpgrade>
-              <CityInstitutionUpgrade/>
-              <IncidentInfectableUpgrade/>
-              <RecruitmentUpgrade/>
-              <AqueductUpgrade/>
-              <AreaBuff/> 
-              <WarehouseUpgrade/>
-              <IrrigationUpgrade/>
-            </Values>
-          </Asset>
-    </ModOp>
     <!-- AreaEffect Definition -->
     <ModOp Type="addNextSibling" GUID="81445">
         <Asset>

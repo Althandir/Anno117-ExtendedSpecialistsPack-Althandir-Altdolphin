@@ -9,18 +9,48 @@
         <Item>
             <ItemLink>2001000005</ItemLink>        
         </Item>
+        <Item>
+            <ItemLink>2001000007</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000009</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000013</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000015</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000017</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
   <!-- Add to RewardPools -->
-    <!-- RewardPool All Items-->
+    <!-- RewardList All Items & Specialists Items-->
     <Group>
-        <ModOp Type="add" GUID="43037" Path="/Values/RewardPool/ItemsPool">
+        <ModOp Type="add" GUID="43037, 82598" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000003</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000005</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000007</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000009</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000013</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000015</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000017</ItemLink>
         </Item>
         </ModOp>
     </Group>
@@ -31,9 +61,39 @@
             <ItemLink>2001000003</ItemLink> <!-- for Testing -->
         </Item>
         <Item>
+            <ItemLink>2001000009</ItemLink>
+        </Item>
+        </ModOp>
+    </Group>
+    <!-- RewardPool Rare Traders-->
+    <Group>
+      <ModOp Type="add" GUID="83461,83465,83477,83473" Path="/Values/RewardPool/ItemsPool">
+        <Item>
             <ItemLink>2001000005</ItemLink>
         </Item>
-    </ModOp>
+        <Item>
+            <ItemLink>2001000013</ItemLink>
+        </Item>
+      </ModOp>
+    </Group>
+    <!-- RewardPool Epic Traders-->
+    <Group>
+      <ModOp Type="add" GUID="83462,83466,83478,83474" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000007</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000015</ItemLink>
+        </Item>
+      </ModOp>
     </Group>
 
+    <!-- RewardPool Legendary Traders-->
+    <Group>
+      <ModOp Type="add" GUID="83463,83467,83479,83475" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000017</ItemLink>
+        </Item>
+      </ModOp>
+    </Group>
 </ModOps>

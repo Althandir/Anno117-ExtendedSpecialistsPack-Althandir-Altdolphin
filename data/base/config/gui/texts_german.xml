@@ -31,7 +31,7 @@
     </ModOp>
   </Group>
 
-   <!-- Specialist AllPublicServicesRange R -->
+  <!-- Specialist AllPublicServicesRange R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -47,5 +47,84 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist AllPublicServicesRange E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange E Titel</Text>
+          <LineId>2001000007</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllPublicServicesRange E Beschreibung</Text>
+          <LineId>2001000008</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist MarketFaithFocus C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist MarketFaithFocus C Titel</Text>
+          <LineId>2001000009</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist MarketFaithFocus C Beschreibung</Text>
+          <LineId>2001000010</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsRange R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllInstitutionsRange R Titel</Text>
+          <LineId>2001000013</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllInstitutionsRange R Beschreibung</Text>
+          <LineId>2001000014</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsRange E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllInstitutionsRange E Titel</Text>
+          <LineId>2001000015</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllInstitutionsRange E Beschreibung</Text>
+          <LineId>2001000016</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsAndPublicServicesRange L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AllInstitutionsAndPublicServicesRange L Titel</Text>
+          <LineId>2001000017</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AllInstitutionsAndPublicServicesRange L Beschreibung</Text>
+          <LineId>2001000018</LineId>
+      </Text>
+    </ModOp>
+  </Group>
 
 </ModOps>
