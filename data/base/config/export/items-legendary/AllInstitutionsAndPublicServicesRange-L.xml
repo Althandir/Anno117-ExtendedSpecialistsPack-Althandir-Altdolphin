@@ -29,6 +29,9 @@
               <Item>
                 <GUID>50226</GUID>
               </Item>
+              <Item>
+                <GUID>3621</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
@@ -80,6 +83,9 @@
                 <Item>
                   <Target>50226</Target>
                 </Item>
+                <Item>
+                  <Target>3621</Target>
+                </Item>
               </RadiusEffectRangeTarget>
             </AreaBuff>
             <Buff>
@@ -88,7 +94,7 @@
             <AreaPassiveTradeUpgrade/>
             <AreaMaintenanceUpgrade>
               <LandTax>
-                <Value>200</Value>
+                <Value>150</Value>
                 <Percental>1</Percental>
               </LandTax>
             </AreaMaintenanceUpgrade>
