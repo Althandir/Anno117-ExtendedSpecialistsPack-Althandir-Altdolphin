@@ -23,6 +23,9 @@
               <Item>
                 <GUID>43099</GUID>
               </Item>
+              <Item>
+                <GUID>50226</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
@@ -67,6 +70,9 @@
               <RadiusEffectRangeTarget>
                 <Item>
                   <Target>43099</Target>
+                </Item>
+                <Item>
+                  <Target>50226</Target>
                 </Item>
               </RadiusEffectRangeTarget>
             </AreaBuff>
