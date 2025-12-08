@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000019</GUID>
-            <Name>Specialist ClayWaterWheels R</Name>
+            <Name>Specialist ClayWaterSlots R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000020</InfoDescription>
           </Standard>
@@ -27,6 +27,9 @@
                 <GUID>3074</GUID>
               </Item>
               <Item>
+                <GUID>3075</GUID>
+              </Item>
+              <Item>
                 <GUID>31753</GUID>
               </Item>
             </Targets>
@@ -34,10 +37,10 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>3000</TradePrice>
+            <TradePrice>17500</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -59,7 +62,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000020</GUID>
-                    <Name>Specialist ClayWaterWheels R BuildingBuff</Name>
+                    <Name>Specialist ClayWaterSlots R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -88,10 +91,10 @@
                     <Value>50</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
                     <Value>33</Value>
                     <Percental>1</Percental>
-                  </WorkforceMaintenanceUpgrade>
+                  </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>

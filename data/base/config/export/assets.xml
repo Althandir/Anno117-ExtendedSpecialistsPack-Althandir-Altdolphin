@@ -24,7 +24,7 @@
   <Group>
     <Include File="items-rare/AllPublicServicesRange-R.xml" />
     <Include File="items-rare/AllInstitutionsRange-R.xml" />
-    <Include File="items-rare/ClayWaterWheels-R.xml" />
+    <Include File="items-rare/ClayWaterSlots-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->

@@ -127,4 +127,19 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ClayWaterSlots R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist ClayWaterSlots R Titel</Text>
+          <LineId>2001000019</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist ClayWaterSlots R Beschreibung</Text>
+          <LineId>2001000020</LineId>
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>
