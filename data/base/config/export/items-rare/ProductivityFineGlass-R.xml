@@ -21,7 +21,8 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3961</GUID>
+                <GUID>3303</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
@@ -56,7 +57,7 @@
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000022</OasisId>
+                    <OasisId>2001000021</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -68,7 +69,7 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>25</Value>
+                    <Value>20</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
                 </FactoryUpgrade>

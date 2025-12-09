@@ -1,43 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000023-24 | LineID:20010000023-24-->
+<!-- Item Definition GUID:2001000027-28 | LineID:20010000025-26-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000023</GUID>
-            <Name>Specialist AmphoresToFineGlass E</Name>
+            <GUID>2001000027</GUID>
+            <Name>Specialist Maintenance AllBinders R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000024</InfoDescription>
+            <InfoDescription>2001000028</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000024</GUID>
+                <GUID>2001000028</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3202</GUID>
+                <GUID>51929</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>150000</TradePrice>
+            <TradePrice>17500</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000023</OasisId>
+            <OasisId>2001000027</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,12 +52,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000024</GUID>
-                    <Name>Specialist AmphoresToFineGlass E BuildingBuff</Name>
+                    <GUID>2001000028</GUID>
+                    <Name>Specialist Maintenance AllBinders R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000024</OasisId>
+                    <OasisId>2001000027</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -67,23 +67,18 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2151</Product>
-                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
-                  <ReplaceInputs>
-                    <Item>
-                      <OldInput>2117</OldInput>
-                      <NewInput>31700</NewInput>
-                    </Item>
-                  </ReplaceInputs>
-                </FactoryUpgrade>
+                <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>-50</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

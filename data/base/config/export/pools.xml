@@ -27,6 +27,18 @@
         <Item>
             <ItemLink>2001000019</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000021</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000023</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000025</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000027</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -58,6 +70,18 @@
         <Item>
             <ItemLink>2001000019</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000021</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000023</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000025</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000027</ItemLink>
+        </Item>
         </ModOp>
     </Group>
     <!-- RewardPool Common Traders-->
@@ -66,9 +90,15 @@
         <Item>
             <ItemLink>2001000003</ItemLink> <!-- for Testing -->
         </Item>
+        <Item> <!-- for Testing -->
+            <ItemLink>2001000027</ItemLink>
+            <Weight>100</Weight>
+        </Item>
+        <!-- Start Common Items -->
         <Item>
             <ItemLink>2001000009</ItemLink>
         </Item>
+
         </ModOp>
     </Group>
     <!-- RewardPool Rare Traders-->
@@ -83,6 +113,15 @@
         <Item>
             <ItemLink>2001000019</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000021</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000025</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000027</ItemLink>
+        </Item>
       </ModOp>
     </Group>
     <!-- RewardPool Epic Traders-->
@@ -93,6 +132,9 @@
         </Item>
         <Item>
             <ItemLink>2001000015</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000023</ItemLink>
         </Item>
       </ModOp>
     </Group>

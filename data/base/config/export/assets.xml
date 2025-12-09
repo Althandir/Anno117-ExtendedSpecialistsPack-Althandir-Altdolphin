@@ -25,12 +25,16 @@
     <Include File="items-rare/AllPublicServicesRange-R.xml" />
     <Include File="items-rare/AllInstitutionsRange-R.xml" />
     <Include File="items-rare/ClayWaterSlots-R.xml" />
+    <Include File="items-rare/ProductivityFineGlass-R.xml" />
+    <Include File="items-rare/MaintenanceAllBinders-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
     <Include File="items-epic/AllPublicServicesRange-E.xml" />
     <Include File="items-epic/AllInstitutionsRange-E.xml" />
+    <Include File="items-epic/AmphoresToFineGlass-E.xml" />
+    <Include File="items-epic/ProductivityAllBinders-E.xml" />
   </Group>
 
   <!-- Legendary Specialists -->

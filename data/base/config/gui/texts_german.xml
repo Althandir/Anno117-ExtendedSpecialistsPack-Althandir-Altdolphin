@@ -142,4 +142,69 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist Productivity FineGlass R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist Productivity FineGlass R Titel</Text>
+          <LineId>2001000021</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist Productivity FineGlass R Beschreibung</Text>
+          <LineId>2001000022</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AmphoraesToFineGlass E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AmphoraesToFineGlass E Titel</Text>
+          <LineId>2001000023</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AmphoraesToFineGlass E Beschreibung</Text>
+          <LineId>2001000024</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist Productivity AllBinders E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist Productivity AllBinders E Titel</Text>
+          <LineId>2001000025</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist Productivity AllBinders E Beschreibung</Text>
+          <LineId>2001000026</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist Maintenance AllBinders R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist Maintenance AllBinders R Titel</Text>
+          <LineId>2001000027</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist Maintenance AllBinders R Beschreibung</Text>
+          <LineId>2001000028</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>
