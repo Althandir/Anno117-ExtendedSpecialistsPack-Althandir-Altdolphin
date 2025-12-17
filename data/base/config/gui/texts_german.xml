@@ -15,17 +15,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesRange C -->
+  <!-- Specialist ReligionT2 Population C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange C Titel</Text>
+          <Text>Specialist ReligionT2 Population C Titel</Text>
           <LineId>2001000003</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange C Beschreibung</Text>
+          <Text>Specialist ReligionT2 Population C Beschreibung</Text>
           <LineId>2001000004</LineId>
       </Text>
     </ModOp>

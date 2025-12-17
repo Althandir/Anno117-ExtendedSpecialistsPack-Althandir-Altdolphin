@@ -16,7 +16,8 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/AllPublicServicesRange-C.xml" />
+    <!--<Include File="items-common/AllPublicServicesRange-C.xml" /> -->
+    <Include File="items-common/SpecialistReligionT2Population-C.xml" />
     <Include File="items-common/MarketFaithFocus-C.xml" />
   </Group>
 
