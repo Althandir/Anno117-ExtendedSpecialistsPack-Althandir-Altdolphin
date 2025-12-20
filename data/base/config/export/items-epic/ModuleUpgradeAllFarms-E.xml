@@ -1,0 +1,98 @@
+<ModOps>
+<!-- Item Definition GUID:2001000029-30 | LineID:20010000029-30-->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000029</GUID>
+            <Name>Specialist ModuleUpgrade AllFarms E</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000030</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope> 
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000030</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>42602</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Economy</Niche> 
+            <TradePrice>150000</TradePrice>
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Epic</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000029</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>2001000030</GUID>
+                    <Name>Specialist ModuleUpgrade AllFarms E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>2001000029</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>25</Value>
+                    <Percental>1</Percental>
+			            </ProductivityUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade>
+                  <ModuleLimitPercent>50</ModuleLimitPercent> <!--NOTE: Module Count is directly linked to productivity. e.g. -50% Modules = -50 Prod | See properties.xml in desc-->
+                </ModuleOwnerUpgrade>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <AreaBuff/> 
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

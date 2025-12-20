@@ -19,6 +19,7 @@
     <!--<Include File="items-common/AllPublicServicesRange-C.xml" /> -->
     <Include File="items-common/SpecialistReligionT2Population-C.xml" />
     <Include File="items-common/MarketFaithFocus-C.xml" />
+    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
@@ -36,6 +37,8 @@
     <Include File="items-epic/AllInstitutionsRange-E.xml" />
     <Include File="items-epic/AmphoresToFineGlass-E.xml" />
     <Include File="items-epic/ProductivityAllBinders-E.xml" />
+    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
+    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
   </Group>
 
   <!-- Legendary Specialists -->

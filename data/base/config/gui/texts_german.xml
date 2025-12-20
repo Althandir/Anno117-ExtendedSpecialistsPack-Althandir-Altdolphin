@@ -207,4 +207,52 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ModuleUpgradeAllFarms-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist ModuleUpgrade AllFarms E Titel</Text>
+          <LineId>2001000029</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist ModuleUpgrade AllFarms E Beschreibung</Text>
+          <LineId>2001000030</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradePastures-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist ModuleUpgrade Pastures E Titel</Text>
+          <LineId>2001000031</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist ModuleUpgrade Pastures E Beschreibung</Text>
+          <LineId>2001000032</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist WarehouseCapacityUpgrade C-->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist WarehouseCapacityUpgrade C Titel</Text>
+          <LineId>2001000033</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist WarehouseCapacityUpgrade C Beschreibung</Text>
+          <LineId>2001000034</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>
