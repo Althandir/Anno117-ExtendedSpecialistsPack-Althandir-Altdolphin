@@ -48,6 +48,15 @@
         <Item>
             <ItemLink>2001000033</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000035</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000037</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000039</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -100,13 +109,22 @@
         <Item>
             <ItemLink>2001000033</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000035</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000037</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000039</ItemLink>
+        </Item>
         </ModOp>
     </Group>
     <!-- RewardPool Common Traders-->
     <Group>
         <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
         <Item> <!-- for Testing -->
-            <ItemLink>2001000033</ItemLink>
+            <ItemLink>2001000039</ItemLink>
             <Weight>100</Weight>
         </Item>
         <!-- Start Common Items -->
@@ -114,7 +132,7 @@
             <ItemLink>2001000009</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000003</ItemLink> <!-- for Testing -->
+            <ItemLink>2001000003</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000033</ItemLink>
@@ -139,6 +157,9 @@
         <Item>
             <ItemLink>2001000027</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000037</ItemLink>
+        </Item>
       </ModOp>
     </Group>
     <!-- RewardPool Epic Traders-->
@@ -158,6 +179,12 @@
         </Item>
         <Item>
             <ItemLink>2001000031</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000035</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000039</ItemLink>
         </Item>
       </ModOp>
     </Group>

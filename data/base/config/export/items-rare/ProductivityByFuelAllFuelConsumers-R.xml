@@ -1,49 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000033-34 | LineID:20010000033-34-->
+<!-- Item Definition GUID:2001000037-38 | LineID:20010000037-38-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000033</GUID>
-            <Name>Specialist WarehouseCapacity C</Name>
+            <GUID>2001000037</GUID>
+            <Name>Specialist ProductitvityByFuel AllFuelConsumers R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000034</InfoDescription>
+            <InfoDescription>2001000038</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000034</GUID>
+                <GUID>2001000038</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>38564</GUID>
-              </Item>
-              <Item>
-                <GUID>38552</GUID>
-              </Item>
-              <Item>
-                <GUID>37202</GUID>
+                <GUID>71197</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>10000</TradePrice>
+            <TradePrice>50000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000033</OasisId>
+            <OasisId>2001000037</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -58,37 +52,44 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000034</GUID>
-                    <Name>Specialist Specialist WarehouseCapacity C BuildingBuff</Name>
+                    <GUID>2001000038</GUID>
+                    <Name>Specialist ProductitvityByFuel AllFuelConsumers R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000033</OasisId>
+                    <OasisId>2001000037</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
+                  <AdditionalAttributes>
+                      <FireSafety>
+                        <AmountOrPercent>
+                          <Value>-15</Value>
+                          <Percental>1</Percental>
+                        </AmountOrPercent>
+                      </FireSafety>
+                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
                     <Value>25</Value>
                     <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+			            </ProductivityUpgrade>
+                  <FuelDurationPercent>-25</FuelDurationPercent>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <AreaBuff/> 
-                <WarehouseUpgrade>
-                  <StorageCapacityModifier>50</StorageCapacityModifier>
-                </WarehouseUpgrade>
+                <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
         </Asset>

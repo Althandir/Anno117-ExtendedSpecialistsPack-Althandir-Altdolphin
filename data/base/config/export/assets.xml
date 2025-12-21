@@ -16,7 +16,6 @@
   
   <!-- Common Specialists -->
   <Group>
-    <!--<Include File="items-common/AllPublicServicesRange-C.xml" /> -->
     <Include File="items-common/SpecialistReligionT2Population-C.xml" />
     <Include File="items-common/MarketFaithFocus-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
@@ -27,8 +26,9 @@
     <Include File="items-rare/AllPublicServicesRange-R.xml" />
     <Include File="items-rare/AllInstitutionsRange-R.xml" />
     <Include File="items-rare/ClayWaterSlots-R.xml" />
-    <Include File="items-rare/ProductivityFineGlass-R.xml" />
+    <Include File="items-rare/ProductivityByFuelFineGlass-R.xml" />
     <Include File="items-rare/MaintenanceAllBinders-R.xml" />
+    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml"/>
   </Group>
 
   <!-- Epic Specialists -->
@@ -39,6 +39,8 @@
     <Include File="items-epic/ProductivityAllBinders-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
+    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
+    <Include File="items-epic/MineralsAllQuarriesAndMines-E.xml" />
   </Group>
 
   <!-- Legendary Specialists -->

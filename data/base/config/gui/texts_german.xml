@@ -1,4 +1,8 @@
 <ModOps>
+  <!-- 
+    UNEVEN NUMBER == TITLE
+    EVEN NUMBER == DESCRIPTION
+  --> 
   <!-- Test Specialist aka DolphinTest-->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -143,17 +147,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist Productivity FineGlass R -->
+  <!-- Specialist Productivity ByFuel FineGlass R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Productivity FineGlass R Titel</Text>
+          <Text>Specialist Productivity ByFuel FineGlass R Titel</Text>
           <LineId>2001000021</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist Productivity FineGlass R Beschreibung</Text>
+          <Text>Specialist Productivity ByFuel FineGlass R Beschreibung</Text>
           <LineId>2001000022</LineId>
       </Text>
     </ModOp>
@@ -239,7 +243,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist WarehouseCapacityUpgrade C-->
+  <!-- Specialist WarehouseCapacityUpgrade C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -251,6 +255,54 @@
       <Text>
           <Text>Specialist WarehouseCapacityUpgrade C Beschreibung</Text>
           <LineId>2001000034</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradeAllPlantations-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist ModuleUpgradeAllPlantations E Titel</Text>
+          <LineId>2001000035</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist ModuleUpgradeAllPlantations E Beschreibung</Text>
+          <LineId>2001000036</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+<!-- Specialist ProductitvityByFuel AllFuelConsumers R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist ProductitvityByFuel AllFuelConsumers R Titel</Text>
+          <LineId>2001000037</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist ProductitvityByFuel AllFuelConsumers R Beschreibung</Text>
+          <LineId>2001000038</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist Minerals AllQuarriesAndMines E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist Minerals AllQuarriesAndMines E Titel</Text>
+          <LineId>2001000039</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist Minerals AllQuarriesAndMines E Beschreibung</Text>
+          <LineId>2001000040</LineId>
       </Text>
     </ModOp>
   </Group>
