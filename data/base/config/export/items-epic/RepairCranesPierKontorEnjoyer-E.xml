@@ -1,34 +1,40 @@
 <ModOps>
-<!-- Item Definition GUID:2001000015-16 | LineID:2001000015-16-->
+<!-- Item Definition GUID:2001000059-60 | LineID:20010000059-60 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000015</GUID>
-            <Name>Specialist AllInstitutionsRange E</Name>
+            <GUID>2001000059</GUID>
+            <Name>Specialist RepairCranesPierKontorEnjoyer-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000016</InfoDescription>
+            <InfoDescription>2001000060</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>ObjectsInArea</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000016</GUID>
+                <GUID>2001000060</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>43102</GUID>
-              </Item>
+					      <GUID>41582</GUID>
+				      </Item>
+              <Item>
+					      <GUID>37202</GUID>
+				      </Item>
+              <Item>
+					      <GUID>31666</GUID>
+				      </Item>
             </Targets>
-            <HideInGovernorsBar>0</HideInGovernorsBar>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Civic</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>750000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <Niche>Economy</Niche> 
+            <TradePrice>215000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Epic</Rarity> 
@@ -37,7 +43,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000015</OasisId>
+            <OasisId>2001000059</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -46,19 +52,25 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <ModOp Type="addNextSibling" GUID="81445">
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
-          <Template>BuildingBuff</Template>
+            <Template>DefenseBuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000016</GUID>
-                    <Name>Specialist AllInstitutionsRange R BuildingBuff</Name>
+                    <GUID>2001000060</GUID>
+                    <Name>Specialist RepairCranesPierKontorEnjoyer-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000015</OasisId>
+                    <OasisId>2001000059</OasisId>
                 </Text>
-                <HealthUpgrade/>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
                 <BuildingUpgrade>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
@@ -70,33 +82,32 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>33</Value>
+                    <Value>-50</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value>-25</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade>
-                  <ResolverRangeUpgrade>
-                    <Value>50</Value>
-                    <Percental>1</Percental>
-                  </ResolverRangeUpgrade>
-                  <ResolverUnitCountUpgrade>
-				            <Value>2</Value>
-				            <Percental>0</Percental>
-			            </ResolverUnitCountUpgrade>
-                </CityInstitutionUpgrade>
+                <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <WarehouseUpgrade/>
+                <WarehouseUpgrade>
+                  <AdditionalLoadingSpeedInPercent>25</AdditionalLoadingSpeedInPercent>
+                </WarehouseUpgrade>
                 <IrrigationUpgrade/>
+                <RepairCraneUpgrade>
+                  <HealRadiusUpgrade>
+                    <Value>33</Value>
+                    <Percental>1</Percental>
+                  </HealRadiusUpgrade>
+                </RepairCraneUpgrade>
             </Values>
         </Asset>
     </ModOp>
-
+    
   </Group>
 
 </ModOps>

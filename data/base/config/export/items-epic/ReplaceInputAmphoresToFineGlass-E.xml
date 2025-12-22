@@ -1,43 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000037-38 | LineID:20010000037-38-->
+<!-- Item Definition GUID:2001000023-24 | LineID:20010000023-24-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000037</GUID>
-            <Name>Specialist ProductitvityByFuel AllFuelConsumers R</Name>
+            <GUID>2001000023</GUID>
+            <Name>Specialist ReplaceInput AmphoresToFineGlass E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000038</InfoDescription>
+            <InfoDescription>2001000024</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000038</GUID>
+                <GUID>2001000024</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71197</GUID>
+                <GUID>3202</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>50000</TradePrice>
+            <TradePrice>150000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000037</OasisId>
+            <OasisId>2001000023</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,23 +52,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000038</GUID>
-                    <Name>Specialist ProductitvityByFuel AllFuelConsumers R BuildingBuff</Name>
+                    <GUID>2001000024</GUID>
+                    <Name>Specialist ReplaceInput AmphoresToFineGlass E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000037</OasisId>
+                    <OasisId>2001000024</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -76,11 +68,19 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>25</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-25</FuelDurationPercent>
+                  <AdditionalOutput>
+                    <Item>
+                      <Product>2151</Product>
+                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
+                  <ReplaceInputs>
+                    <Item>
+                      <OldInput>2117</OldInput>
+                      <NewInput>31700</NewInput>
+                    </Item>
+                  </ReplaceInputs>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -88,6 +88,7 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
+                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

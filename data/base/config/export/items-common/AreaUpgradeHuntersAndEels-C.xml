@@ -1,43 +1,46 @@
 <ModOps>
-<!-- Item Definition GUID:2001000037-38 | LineID:20010000037-38-->
+<!-- Item Definition GUID:2001000067-68 | LineID:20010000067-68 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000037</GUID>
-            <Name>Specialist ProductitvityByFuel AllFuelConsumers R</Name>
+            <GUID>2001000067</GUID>
+            <Name>Specialist AreaUpgrade HuntersAndEels C</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000038</InfoDescription>
+            <InfoDescription>2001000067</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000038</GUID>
+                <GUID>2001000068</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71197</GUID>
+                <GUID>51906</GUID>
+              </Item>
+              <Item>
+                <GUID>5299</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>50000</TradePrice>
+            <TradePrice>12000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000037</OasisId>
+            <OasisId>2001000067</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,23 +55,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000038</GUID>
-                    <Name>Specialist ProductitvityByFuel AllFuelConsumers R BuildingBuff</Name>
+                    <GUID>2001000068</GUID>
+                    <Name>Specialist AreaUpgrade HuntersAndEels C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000037</OasisId>
+                    <OasisId>2001000067</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -76,11 +71,10 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>25</Value>
+                  <NeededAreaUpgrade>
+                    <Value>-15</Value>
                     <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-25</FuelDurationPercent>
+                  </NeededAreaUpgrade>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -88,6 +82,7 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
+                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

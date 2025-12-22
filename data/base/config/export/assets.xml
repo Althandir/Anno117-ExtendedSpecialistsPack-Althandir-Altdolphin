@@ -16,11 +16,12 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/SpecialistReligionT2Population-C.xml" />
+    <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
     <Include File="items-common/MarketFaithFocus-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
-    
+    <Include File="items-common/AreaUpgradeHuntersAndEels-C.xml" />
+    <Include File="items-common/AdditionalGoodsAllExtractors-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
@@ -32,19 +33,29 @@
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml"/>
     <Include File="items-rare/ProductivityAllCoastalProductions-R.xml"/>
     <Include File="items-rare/WarehouseCapacityUpgrade-R.xml"/>
+    <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml"/>
+    <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml"/>
+    <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml"/>
+    <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
+    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml"/>
+    <Include File="items-rare/ModuleUpgradeReed-R.xml"/>
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
     <Include File="items-epic/AllInstitutionsResolverRange-E.xml" />
-    <Include File="items-epic/AmphoresToFineGlass-E.xml" />
+    <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
+    <Include File="items-epic/ReplaceInputAmphoresToFineGlass-E.xml" />
     <Include File="items-epic/ProductivityAllBinders-E.xml" />
     <Include File="items-epic/ProductivityAllCoopers-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
     <Include File="items-epic/MineralsAllQuarriesAndMines-E.xml" />
+    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
+    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
+    <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />
+    <Include File="items-epic/ReplaceInputSilverToNecklaces-E.xml" />
   </Group>
 
   <!-- Legendary Specialists -->

@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>10000</TradePrice>
+            <TradePrice>12000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Common</Rarity> 
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000033</OasisId>
+            <OasisId>2001000047</OasisId>
           </Text>
         </Values>
       </Asset>

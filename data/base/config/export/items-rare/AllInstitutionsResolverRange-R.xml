@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000013</GUID>
-            <Name>Specialist AllInstitutionsRange R</Name>
+            <Name>Specialist AllInstitutionsReseolverRange R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000014</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000014</GUID>
-                    <Name>Specialist AllInstitutionsRange R BuildingBuff</Name>
+                    <Name>Specialist AllInstitutionsResolverRange R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -68,12 +68,25 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>25</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade>
                   <ResolverRangeUpgrade>
                     <Value>25</Value>
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
+                  <ResolverUnitCountUpgrade>
+				            <Value>1</Value>
+				            <Percental>0</Percental>
+			            </ResolverUnitCountUpgrade>
                 </CityInstitutionUpgrade>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

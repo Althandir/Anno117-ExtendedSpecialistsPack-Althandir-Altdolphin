@@ -24,12 +24,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist ReligionT2 Population C Titel</Text>
+          <Text>Specialist NeedReward Religion T2 Population C Titel</Text>
           <LineId>2001000003</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist ReligionT2 Population C Beschreibung</Text>
+          <Text>Specialist NeedReward Religion T2 Population C Beschreibung</Text>
           <LineId>2001000004</LineId>
       </Text>
     </ModOp>
@@ -163,17 +163,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AmphoraesToFineGlass E -->
+  <!-- Specialist ReplaceInput AmphoraesToFineGlass E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AmphoraesToFineGlass E Titel</Text>
+          <Text>Specialist ReplaceInput AmphoraesToFineGlass E Titel</Text>
           <LineId>2001000023</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AmphoraesToFineGlass E Beschreibung</Text>
+          <Text>Specialist ReplaceInput AmphoraesToFineGlass E Beschreibung</Text>
           <LineId>2001000024</LineId>
       </Text>
     </ModOp>
@@ -303,6 +303,25 @@
       <Text>
           <Text>Specialist Minerals AllQuarriesAndMines E Beschreibung</Text>
           <LineId>2001000040</LineId>
+      </Text>
+    </ModOp>
+  </Group>
+
+
+
+
+  <!-- Specialist AreaUpgradeForestries C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaUpgradeForestries C Titel</Text>
+          <LineId>2001000047</LineId>
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AreaUpgradeForestries C Beschreibung</Text>
+          <LineId>2001000048</LineId>
       </Text>
     </ModOp>
   </Group>

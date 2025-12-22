@@ -80,8 +80,8 @@
                   <AdditionalOutput>
                     <Item>
                       <Product>2086</Product>
-                      <AdditionalOutputCycle>2</AdditionalOutputCycle>
-                      <Amount>1</Amount>
+                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
+                      <Amount>2</Amount>
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
@@ -100,7 +100,6 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

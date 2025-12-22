@@ -48,7 +48,6 @@
   <!-- Buff Definitions-->
   <Group>
     <!-- Test Specialist BuildingBuff-->
-    <Group>
       <ModOp Type="addNextSibling" GUID="80193">
           <Asset>
             <Template>BuildingBuff</Template>

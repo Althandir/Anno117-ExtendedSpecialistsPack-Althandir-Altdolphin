@@ -69,6 +69,51 @@
         <Item>
             <ItemLink>2001000047</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000049</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000051</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000053</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000055</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000057</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000059</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000061</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000063</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000065</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000067</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000069</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000071</ItemLink>
+        </Item> <!-- 
+        <Item>
+            <ItemLink>2001000073</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000075</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000077</ItemLink>
+        </Item> -->
         </ModOp>
     </Group>
 
@@ -142,16 +187,61 @@
         <Item>
             <ItemLink>2001000047</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000049</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000051</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000053</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000055</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000057</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000059</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000061</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000063</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000065</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000067</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000069</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000067</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000069</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000071</ItemLink>
+        </Item>
         </ModOp>
     </Group>
-    <!-- RewardPool Common Traders-->
+
+    <!-- 
+    ###
+    #INFO: For some Reason Manx as Trader points to Voada RewardPool 
+    #INFO: RewardPool GUID order for add is always: "Any","Traders&PirateLatium","Traders&PirateAlbion"
+    ### 
+    -->
+
+    <!-- RewardPool Common Traders -->
     <Group>
-        <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
-        <Item> <!-- for Testing -->
-            <ItemLink>2001000047</ItemLink>
-            <Weight>100</Weight>
-        </Item>
-        <!-- Start Common Items -->
+        <ModOp Type="add" GUID="83448,83460,83464,83468,83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000009</ItemLink>
         </Item>
@@ -164,11 +254,17 @@
         <Item> 
             <ItemLink>2001000047</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000063</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000067</ItemLink>
+        </Item>
         </ModOp>
     </Group>
-    <!-- RewardPool Rare Traders-->
+    <!-- RewardPool Rare Traders -->
     <Group>
-      <ModOp Type="add" GUID="83461,83465,83477,83473" Path="/Values/RewardPool/ItemsPool">
+      <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000005</ItemLink>
         </Item>
@@ -193,11 +289,29 @@
         <Item>
             <ItemLink>2001000043</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000049</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000051</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000053</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000055</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000069</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000071</ItemLink>
+        </Item>
       </ModOp>
     </Group>
-    <!-- RewardPool Epic Traders-->
+    <!-- RewardPool Epic Traders -->
     <Group>
-      <ModOp Type="add" GUID="83462,83466,83478,83474" Path="/Values/RewardPool/ItemsPool">
+      <ModOp Type="add" GUID="83450,83462,83466,83470,83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000007</ItemLink>
         </Item>
@@ -219,12 +333,24 @@
         <Item>
             <ItemLink>2001000039</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000057</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000059</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000061</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000065</ItemLink>
+        </Item>
       </ModOp>
     </Group>
 
-    <!-- RewardPool Legendary Traders-->
+    <!-- RewardPool Legendary Traders -->
     <Group>
-      <ModOp Type="add" GUID="83463,83467,83479,83475" Path="/Values/RewardPool/ItemsPool">
+      <ModOp Type="add" GUID="83451,83463,83467,83471,83479,83475,83483" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000017</ItemLink>
         </Item>

@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:2001000037-38 | LineID:20010000037-38-->
+<!-- Item Definition GUID:2001000071-72 | LineID:20010000071-72 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000037</GUID>
-            <Name>Specialist ProductitvityByFuel AllFuelConsumers R</Name>
+            <GUID>2001000071</GUID>
+            <Name>Specialist ModuleUpgrade Reed R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000038</InfoDescription>
+            <InfoDescription>2001000072</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000038</GUID>
+                <GUID>2001000072</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71197</GUID>
+                <GUID>5849</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000037</OasisId>
+            <OasisId>2001000071</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,23 +52,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000038</GUID>
-                    <Name>Specialist ProductitvityByFuel AllFuelConsumers R BuildingBuff</Name>
+                    <GUID>2001000072</GUID>
+                    <Name>Specialist ModuleUpgrade Reed R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000037</OasisId>
+                    <OasisId>2001000071</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -77,17 +69,26 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-25</FuelDurationPercent>
+                  <AdditionalOutput>
+                    <Item>
+                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
+                <ModuleOwnerUpgrade>
+                  <ModuleLimitPercent>50</ModuleLimitPercent>
+                </ModuleOwnerUpgrade>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
+                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
