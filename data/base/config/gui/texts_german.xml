@@ -35,33 +35,33 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesRange R -->
+  <!-- Specialist AllPublicServicesEffectRange R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange R Titel</Text>
+          <Text>Specialist AllPublicServicesEffectRange R Titel</Text>
           <LineId>2001000005</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange R Beschreibung</Text>
+          <Text>Specialist AllPublicServicesEffectRange R Beschreibung</Text>
           <LineId>2001000006</LineId>
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesRange E -->
+  <!-- Specialist AllPublicServicesEffectRange E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange E Titel</Text>
+          <Text>Specialist AllPublicServicesEffectRange E Titel</Text>
           <LineId>2001000007</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange E Beschreibung</Text>
+          <Text>Specialist AllPublicServicesEffectRange E Beschreibung</Text>
           <LineId>2001000008</LineId>
       </Text>
     </ModOp>
@@ -83,49 +83,49 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsRange R -->
+  <!-- Specialist AllInstitutionsResolverRange R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllInstitutionsRange R Titel</Text>
+          <Text>Specialist AllInstitutionsResolverRange R Titel</Text>
           <LineId>2001000013</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllInstitutionsRange R Beschreibung</Text>
+          <Text>Specialist AllInstitutionsResolverRange R Beschreibung</Text>
           <LineId>2001000014</LineId>
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsRange E -->
+  <!-- Specialist AllInstitutionsResolverRange E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllInstitutionsRange E Titel</Text>
+          <Text>Specialist AllInstitutionsResolverRange E Titel</Text>
           <LineId>2001000015</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllInstitutionsRange E Beschreibung</Text>
+          <Text>Specialist AllInstitutionsResolverRange E Beschreibung</Text>
           <LineId>2001000016</LineId>
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsAndPublicServicesRange L -->
+  <!-- Specialist AllInstitutionsAndPublicServicesEffectRange L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllInstitutionsAndPublicServicesRange L Titel</Text>
+          <Text>Specialist AllInstitutionsAndPublicServicesEffectRange L Titel</Text>
           <LineId>2001000017</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllInstitutionsAndPublicServicesRange L Beschreibung</Text>
+          <Text>Specialist AllInstitutionsAndPublicServicesEffectRange L Beschreibung</Text>
           <LineId>2001000018</LineId>
       </Text>
     </ModOp>
@@ -147,17 +147,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist Productivity ByFuel FineGlass R -->
+  <!-- Specialist Productitvity AllCoopers E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Productivity ByFuel FineGlass R Titel</Text>
+          <Text>Specialist Productitvity AllCoopers E Titel</Text>
           <LineId>2001000021</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist Productivity ByFuel FineGlass R Beschreibung</Text>
+          <Text>Specialist Productitvity AllCoopers E Beschreibung</Text>
           <LineId>2001000022</LineId>
       </Text>
     </ModOp>

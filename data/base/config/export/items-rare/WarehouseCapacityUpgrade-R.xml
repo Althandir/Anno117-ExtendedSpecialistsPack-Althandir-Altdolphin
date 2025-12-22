@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000033-34 | LineID:20010000033-34-->
+<!-- Item Definition GUID:2001000041-42 | LineID:20010000041-42 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000033</GUID>
-            <Name>Specialist WarehouseCapacity C</Name>
+            <GUID>2001000041</GUID>
+            <Name>Specialist WarehouseCapacity R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000034</InfoDescription>
+            <InfoDescription>2001000042</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000034</GUID>
+                <GUID>2001000042</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -34,16 +34,16 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>10000</TradePrice>
+            <TradePrice>50000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000033</OasisId>
+            <OasisId>2001000041</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -58,12 +58,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000034</GUID>
-                    <Name>Specialist WarehouseCapacity C BuildingBuff</Name>
+                    <GUID>2001000042</GUID>
+                    <Name>Specialist WarehouseCapacity R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000033</OasisId>
+                    <OasisId>2001000041</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -77,11 +77,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value>-25</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>-25</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -91,7 +91,7 @@
                 <AqueductUpgrade/>
                 <AreaBuff/> 
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
+                  <StorageCapacityModifier>50</StorageCapacityModifier>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>

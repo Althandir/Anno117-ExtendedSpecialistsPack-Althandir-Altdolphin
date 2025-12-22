@@ -1,33 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:2001000033-34 | LineID:20010000033-34-->
+<!-- Item Definition GUID:2001000047-48 | LineID:20010000047-48 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000033</GUID>
-            <Name>Specialist WarehouseCapacity C</Name>
+            <GUID>2001000047</GUID>
+            <Name>Specialist AreaUpgradeForestries C</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000034</InfoDescription>
+            <InfoDescription>2001000048</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000034</GUID>
+                <GUID>2001000048</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>38564</GUID>
-              </Item>
-              <Item>
-                <GUID>38552</GUID>
-              </Item>
-              <Item>
-                <GUID>37202</GUID>
+                <GUID>50251</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -58,12 +52,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000034</GUID>
-                    <Name>Specialist WarehouseCapacity C BuildingBuff</Name>
+                    <GUID>2001000048</GUID>
+                    <Name>Specialist AreaUpgradeForestries C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000033</OasisId>
+                    <OasisId>2001000047</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -73,26 +67,22 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                <FactoryUpgrade>
+                  <NeededAreaUpgrade>
+                    <Value>-15</Value>
                     <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                  </NeededAreaUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade>
+                  <ModuleLimitPercent>20</ModuleLimitPercent>
+                </ModuleOwnerUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <AreaBuff/> 
-                <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
-                </WarehouseUpgrade>
+                <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
         </Asset>

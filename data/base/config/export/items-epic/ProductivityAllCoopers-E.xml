@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000021</GUID>
-            <Name>Specialist ProductitvityByFuel FineGlassChain R</Name>
+            <Name>Specialist Productitvity AllCoopers E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000022</InfoDescription>
           </Standard>
@@ -21,20 +21,17 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3202</GUID>
-              </Item>
-              <Item>
-                <GUID>3074</GUID>
+                <GUID>50606</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>17500</TradePrice>
+            <TradePrice>175000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -56,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000022</GUID>
-                    <Name>Specialist Productitvity FineGlassChain R BuildingBuff</Name>
+                    <Name>Specialist Productitvity AllCoopers E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -64,14 +61,6 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                      <FireSafety>
-                        <AmountOrPercent>
-                          <Value>-10</Value>
-                          <Percental>1</Percental>
-                        </AmountOrPercent>
-                      </FireSafety>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -80,10 +69,9 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>25</Value>
+                    <Value>35</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-25</FuelDurationPercent>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

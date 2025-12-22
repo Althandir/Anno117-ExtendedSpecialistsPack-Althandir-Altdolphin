@@ -1,0 +1,128 @@
+<ModOps>
+<!-- Item Definition GUID:2001000015-16 | LineID:2001000015-16-->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000015</GUID>
+            <Name>Specialist AllInstitutionsRange E</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000016</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>ObjectsInArea</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000016</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>43102</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Civic</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <TradePrice>900000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Epic</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000015</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- AreaEffect Definition 
+    <ModOp Type="addNextSibling" GUID="81445">
+        <Asset>
+          <Template>AreaBuff</Template>
+          <Values>
+            <Standard>
+              <GUID>2001000016</GUID>
+              <Name>Specialist AllInstitutionsRange R AreaBuff</Name>
+              <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            </Standard>
+            <Text>
+              <OasisId>2001000015</OasisId>
+            </Text>
+            <AreaBuff>
+              <RadiusEffectRangeUpgrade>
+                <Value>35</Value>
+                <Percental>1</Percental>
+              </RadiusEffectRangeUpgrade>
+              <RadiusEffectRangeTarget>
+                <Item>
+                  <Target>43102</Target>
+                </Item>
+              </RadiusEffectRangeTarget>
+            </AreaBuff>
+            <Buff>
+              <SourceCategory>Item</SourceCategory>
+            </Buff>
+            <AreaPassiveTradeUpgrade/>
+            <AreaMaintenanceUpgrade>
+              <LandTax>
+                <Value>200</Value>
+                <Percental>1</Percental>
+              </LandTax>
+            </AreaMaintenanceUpgrade>
+            <AreaFestivalAttributeUpgrade/>
+          </Values>
+        </Asset>
+    </ModOp> -->
+    
+    <ModOp Type="addNextSibling" GUID="81445">
+        <Asset>
+          <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>2001000016</GUID>
+                    <Name>Specialist AllInstitutionsRange R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>2001000015</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade>
+                  <ResolverRangeUpgrade>
+                    <Value>35</Value>
+                    <Percental>1</Percental>
+                  </ResolverRangeUpgrade>
+                </CityInstitutionUpgrade>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>

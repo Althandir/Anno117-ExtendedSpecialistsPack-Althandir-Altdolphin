@@ -57,6 +57,18 @@
         <Item>
             <ItemLink>2001000039</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000041</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000043</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000045</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000047</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -118,13 +130,25 @@
         <Item>
             <ItemLink>2001000039</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000041</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000043</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000045</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000047</ItemLink>
+        </Item>
         </ModOp>
     </Group>
     <!-- RewardPool Common Traders-->
     <Group>
         <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
         <Item> <!-- for Testing -->
-            <ItemLink>2001000039</ItemLink>
+            <ItemLink>2001000047</ItemLink>
             <Weight>100</Weight>
         </Item>
         <!-- Start Common Items -->
@@ -136,6 +160,9 @@
         </Item>
         <Item>
             <ItemLink>2001000033</ItemLink>
+        </Item>
+        <Item> 
+            <ItemLink>2001000047</ItemLink>
         </Item>
         </ModOp>
     </Group>
@@ -159,6 +186,12 @@
         </Item>
         <Item>
             <ItemLink>2001000037</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000041</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000043</ItemLink>
         </Item>
       </ModOp>
     </Group>
@@ -194,6 +227,9 @@
       <ModOp Type="add" GUID="83463,83467,83479,83475" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>2001000017</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000045</ItemLink>
         </Item>
       </ModOp>
     </Group>

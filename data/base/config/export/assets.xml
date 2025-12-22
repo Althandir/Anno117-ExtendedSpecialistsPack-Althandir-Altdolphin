@@ -19,24 +19,28 @@
     <Include File="items-common/SpecialistReligionT2Population-C.xml" />
     <Include File="items-common/MarketFaithFocus-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
+    <Include File="items-common/AreaUpgradeForestries-C.xml" />
+    
   </Group>
 
   <!-- Rare Specialists -->
   <Group>
-    <Include File="items-rare/AllPublicServicesRange-R.xml" />
-    <Include File="items-rare/AllInstitutionsRange-R.xml" />
+    <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
+    <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
     <Include File="items-rare/ClayWaterSlots-R.xml" />
-    <Include File="items-rare/ProductivityByFuelFineGlass-R.xml" />
     <Include File="items-rare/MaintenanceAllBinders-R.xml" />
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml"/>
+    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml"/>
+    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml"/>
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AllPublicServicesRange-E.xml" />
-    <Include File="items-epic/AllInstitutionsRange-E.xml" />
+    <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
+    <Include File="items-epic/AllInstitutionsResolverRange-E.xml" />
     <Include File="items-epic/AmphoresToFineGlass-E.xml" />
     <Include File="items-epic/ProductivityAllBinders-E.xml" />
+    <Include File="items-epic/ProductivityAllCoopers-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
@@ -45,8 +49,8 @@
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AllInstitutionsAndPublicServicesRange-L.xml" />
-
+    <Include File="items-legendary/AllInstitutionsAndPublicServicesEffectRange-L.xml" />
+    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
   </Group>
 
   <!-- Add to Pools -->
