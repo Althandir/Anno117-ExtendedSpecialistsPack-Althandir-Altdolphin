@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4-->
+<!-- Item Definition GUID:2001000085-86 | LineID:2001000085-86 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000003</GUID>
-            <Name>Specialist NeedReward Religion T2 Population C</Name>
+            <GUID>2001000085</GUID>
+            <Name>Specialist GoodConsumptionDecrease-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000004</InfoDescription>
+            <InfoDescription>200100086</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000004</GUID>
+                <GUID>2001000086</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -28,16 +28,16 @@
           </Effect>
           <Item>
             <Niche>Religion</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>250000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000003</OasisId>
+            <OasisId>2001000085</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,12 +52,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000004</GUID>
-                    <Name>Specialist NeedReward Religion T2 Population C BuildingBuff</Name>
+                    <GUID>2001000086</GUID>
+                    <Name>Specialist GoodConsumptionDecrease-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000003</OasisId>
+                    <OasisId>2001000085</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>
@@ -66,30 +66,7 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
-                  <NeedProvidedNeedAttributes>
-                    <ChangeNeedAttributesOf>
-                      <Item>
-                        <ProvidedProduct>2679</ProvidedProduct> <!-- Product Sanctuary -->
-                      </Item>
-                      <Item>
-                        <ProvidedProduct>6710</ProvidedProduct> <!-- Product Sanctuary -->
-                      </Item>
-                    </ChangeNeedAttributesOf>
-                    <AdditionalNeedAttributes>
-                      <Population>
-                        <AmountOrPercent>
-                          <Value>1</Value>
-                          <Percental>0</Percental>
-                        </AmountOrPercent>
-                      </Population>
-                      <Health>
-                        <AmountOrPercent>
-                          <Value>-1.5</Value>
-                          <Percental>0</Percental>
-                        </AmountOrPercent>
-                      </Health>
-                    </AdditionalNeedAttributes>
-                  </NeedProvidedNeedAttributes>
+                  <ConsumptionModifierInPercent>-15</ConsumptionModifierInPercent>
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>

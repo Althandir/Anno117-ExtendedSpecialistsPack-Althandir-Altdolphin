@@ -19,7 +19,7 @@
                 <GUID>2001000018</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff -->
+            <Targets> <!-- Targets of Buff # Not Required Here as Target is Defined in AreaBuff
               <Item>
                 <GUID>43102</GUID>
               </Item>
@@ -31,7 +31,7 @@
               </Item>
               <Item>
                 <GUID>3621</GUID>
-              </Item>
+              </Item>  -->
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
@@ -74,9 +74,11 @@
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
+                <!-- 
                 <Item>
                   <Target>43102</Target>
                 </Item>
+                -->
                 <Item>
                   <Target>43099</Target>
                 </Item>
@@ -90,13 +92,23 @@
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
+              <IsStackable>0</IsStackable>
             </Buff>
             <AreaPassiveTradeUpgrade/>
             <AreaMaintenanceUpgrade>
               <LandTax>
-                <Value>150</Value>
+                <Value>200</Value>
                 <Percental>1</Percental>
               </LandTax>
+              <Workforce>
+                <Item>
+                  <WorkforceGUID>2186</WorkforceGUID>
+                  <Amount>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </Amount>
+               </Item>
+              </Workforce>
             </AreaMaintenanceUpgrade>
             <AreaFestivalAttributeUpgrade/>
           </Values>

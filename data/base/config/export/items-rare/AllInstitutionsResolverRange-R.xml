@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000013</GUID>
-            <Name>Specialist AllInstitutionsReseolverRange R</Name>
+            <Name>Specialist AllInstitutionsResolverRange R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000014</InfoDescription>
           </Standard>
@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Civic</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>300000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>30000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Rare</Rarity> 
@@ -74,7 +74,7 @@
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -84,9 +84,13 @@
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
                   <ResolverUnitCountUpgrade>
-				            <Value>1</Value>
+				            <Value>0</Value>
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
+                  <ResolverResolveDurationUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </ResolverResolveDurationUpgrade>
                 </CityInstitutionUpgrade>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

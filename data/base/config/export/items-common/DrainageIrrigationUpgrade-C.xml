@@ -1,49 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000059-60 | LineID:20010000059-60 -->
+<!-- Item Definition GUID:2001000067-68 | LineID:20010000067-68 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000059</GUID>
-            <Name>Specialist RepairCranesPierKontorEnjoyer-E</Name>
+            <GUID>2001000067</GUID>
+            <Name>Specialist DrainageIrrigationUpgrade C</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000060</InfoDescription>
+            <InfoDescription>2001000067</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000060</GUID>
+                <GUID>2001000068</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-					      <GUID>41582</GUID>
-				      </Item>
-              <Item>
-					      <GUID>37202</GUID>
-				      </Item>
-              <Item>
-					      <GUID>31666</GUID>
-				      </Item>
+                <GUID>9035</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>215000</TradePrice>
+            <TradePrice>12000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000059</OasisId>
+            <OasisId>2001000067</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -55,19 +49,19 @@
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
-            <Template>DefenseBuildingBuff</Template>
+            <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000060</GUID>
-                    <Name>Specialist RepairCranesPierKontorEnjoyer-E BuildingBuff</Name>
+                    <GUID>2001000068</GUID>
+                    <Name>Specialist DrainageIrrigationUpgrade C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000059</OasisId>
+                    <OasisId>2001000067</OasisId>
                 </Text>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
-                    <Value>0</Value>
+                    <Value>100</Value>
                     <Percental>1</Percental>
                   </BaseHealthUpgrade>
                 </HealthUpgrade>
@@ -78,38 +72,22 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade/>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>-50</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <WarehouseUpgrade>
-                  <AdditionalLoadingSpeedInPercent>0</AdditionalLoadingSpeedInPercent>
-                </WarehouseUpgrade>
-                <IrrigationUpgrade/>
-                <RepairCraneUpgrade>
-                  <HealRadiusUpgrade>
-                    <Value>33</Value>
-                    <Percental>1</Percental>
-                  </HealRadiusUpgrade>
-                </RepairCraneUpgrade>
-                <PierUpgrade>
-                  <PierSpeedUpgrade>
-                    <Value>25</Value>
-                    <Percental>1</Percental>
-                  </PierSpeedUpgrade>
-                </PierUpgrade>
+                <AreaBuff/> 
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade>
+                  <PipeCapacityUpgrade>
+                  	<Value>25</Value>
+				            <Percental>0</Percental>
+                  </PipeCapacityUpgrade>
+                </IrrigationUpgrade>
             </Values>
         </Asset>
     </ModOp>

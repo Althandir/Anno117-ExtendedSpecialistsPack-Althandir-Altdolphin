@@ -1,0 +1,182 @@
+<ModOps>
+<!-- Item Definition GUID:2001000063-64 + 98 | LineID:20010000063-64 + 98 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000063</GUID>
+            <Name>Specialist AdditionalGoodsAllExtractors-C-Boost</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000064</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope> 
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000064</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>50607</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Economy</Niche> 
+            <TradePrice>12500</TradePrice>
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Common</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000063</OasisId>
+          </Text>
+ 
+          <ItemWithBoost>
+            <BoostCondition>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <PreConditionList>
+                  <Condition>
+                  <Template>ConditionItemUsed</Template>
+                  <Values>
+                    <Condition/>
+                    <ConditionItemUsed>
+                      <TargetItem>2001000095</TargetItem> <!--<GUID>2001000095</GUID> -->
+                      <ItemAmount>1</ItemAmount>
+                      <ItemCountCalculation>InSameObject</ItemCountCalculation>
+                    </ConditionItemUsed>
+                  <ObjectFilter>
+                    <UseContextObjects>1</UseContextObjects>
+                  </ObjectFilter>
+                  </Values>
+                  </Condition>
+                </PreConditionList>
+              </Values>
+            </BoostCondition>
+            <BoostBuffs>
+              <Item>
+                <GUID>2001000098</GUID>
+              </Item>
+            </BoostBuffs>
+            <BoostHint>2001000088</BoostHint>
+          </ItemWithBoost>
+          
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>2001000064</GUID>
+                    <Name>Specialist AdditionalGoodsAllExtractors-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>2001000063</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                  <AdditionalAttributes>
+                    <FireSafety>
+                      <AmountOrPercent>
+                        <Value>-2</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </FireSafety>
+                  </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                      <Amount>1</Amount> <!-- Equals 13,3% Prod Buff --> 
+                    </Item>
+                  </AdditionalOutput>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <AreaBuff/> 
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>2001000098</GUID>
+                    <Name>Specialist AdditionalGoodsAllExtractors-C-Boost BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>2001000063</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                  <AdditionalAttributes>
+                    <FireSafety>
+                      <AmountOrPercent>
+                        <Value>0</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </FireSafety>
+                  </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
+                      <Amount>1</Amount> <!-- Equals 20% Prod Buff --> 
+                    </Item>
+                  </AdditionalOutput>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <AreaBuff/> 
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

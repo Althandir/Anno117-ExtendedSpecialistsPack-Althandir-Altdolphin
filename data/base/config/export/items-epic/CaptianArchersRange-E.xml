@@ -1,0 +1,90 @@
+<ModOps>
+<!-- Item Definition GUID:2001000077-78 | LineID:20010000077-78 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000077</GUID>
+            <Name>Captian ArchersRange E</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000078</InfoDescription>
+          </Standard>
+          <Effect>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000078</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>38995</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Allocation>Ship</Allocation>
+            <Niche>Economy</Niche> 
+            <ItemType>Captains</ItemType>
+            <TradePrice>62000</TradePrice>
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Epic</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000077</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>2001000078</GUID>
+                    <Name>Captian ArchersRange E ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <HealthUpgrade/>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade/>
+                <Text>
+                    <OasisId>2001000077</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>15</Value>
+                    <Percental>0</Percental>
+                  </BuffBaseSpeedUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade/>
+                <UnitUpgrade>
+                  <DistanceAttackRangeArcherModulePercentualUpgrade>
+                    <Value>25</Value>
+                    <Percental>0</Percental>
+                  </DistanceAttackRangeArcherModulePercentualUpgrade>
+                </UnitUpgrade>
+                <ItemContainerUpgrade/>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

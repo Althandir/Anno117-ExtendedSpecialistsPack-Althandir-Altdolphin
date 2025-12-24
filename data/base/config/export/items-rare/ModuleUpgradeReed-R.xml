@@ -74,7 +74,7 @@
 			            </ProductivityUpgrade>
                   <AdditionalOutput>
                     <Item>
-                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                      <Product>2103</Product>
                       <AdditionalOutputCycle>6</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>

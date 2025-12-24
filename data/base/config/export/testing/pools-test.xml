@@ -20,24 +20,12 @@
     <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
       <Item>
         <ItemLink>2001000001</ItemLink> for Testing 
-      </Item> <!-- for Testing 
+      </Item> <!--
       <Item> 
-        <ItemLink>2001000059</ItemLink>
+        <ItemLink>2001000095</ItemLink>
         <Weight>100</Weight>
       </Item>
-      
-      <Item> 
-        <ItemLink>2001000051</ItemLink>
-        <Weight>100</Weight>
-      </Item>
-      <Item> 
-        <ItemLink>2001000053</ItemLink>
-        <Weight>100</Weight>
-      </Item>
-      <Item> 
-        <ItemLink>2001000055</ItemLink>
-        <Weight>100</Weight>
-      </Item> -->
+       for Testing -->
     </ModOp>
   </Group>
 

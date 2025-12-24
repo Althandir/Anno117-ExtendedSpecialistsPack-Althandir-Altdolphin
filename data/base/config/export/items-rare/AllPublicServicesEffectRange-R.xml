@@ -19,14 +19,6 @@
                 <GUID>2001000006</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff -->
-              <Item>
-                <GUID>43099</GUID>
-              </Item>
-              <Item>
-                <GUID>50226</GUID>
-              </Item>
-            </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
@@ -64,7 +56,7 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>20</Value>
+                <Value>15</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
@@ -82,7 +74,7 @@
             <AreaPassiveTradeUpgrade/>
             <AreaMaintenanceUpgrade>
               <LandTax>
-                <Value>200</Value>
+                <Value>250</Value>
                 <Percental>1</Percental>
               </LandTax>
             </AreaMaintenanceUpgrade>

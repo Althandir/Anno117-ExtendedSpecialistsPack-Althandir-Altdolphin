@@ -64,7 +64,7 @@
                   <AdditionalAttributes>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-10</Value>
+                        <Value>-20</Value>
                         <Percental>1</Percental>
                       </AmountOrPercent>
                     </FireSafety>

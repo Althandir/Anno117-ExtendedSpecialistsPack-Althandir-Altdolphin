@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4-->
+<!-- Item Definition GUID:2001000083-84 | LineID:2001000083-84 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000003</GUID>
-            <Name>Specialist NeedReward Religion T2 Population C</Name>
+            <GUID>2001000083</GUID>
+            <Name>Specialist NeedRewardbyConsumptionIncBeerHappiness-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000004</InfoDescription>
+            <InfoDescription>200100084</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000004</GUID>
+                <GUID>2001000084</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -28,16 +28,16 @@
           </Effect>
           <Item>
             <Niche>Religion</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>250000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000003</OasisId>
+            <OasisId>2001000083</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,12 +52,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000004</GUID>
-                    <Name>Specialist NeedReward Religion T2 Population C BuildingBuff</Name>
+                    <GUID>2001000084</GUID>
+                    <Name>Specialist NeedRewardbyConsumptionIncBeerHappiness-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000003</OasisId>
+                    <OasisId>2001000083</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>
@@ -66,25 +66,46 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
+                  <GoodConsumptionUpgrade>
+                    <Item>
+                      <ProvidedNeed>2154</ProvidedNeed>
+                      <AmountInPercent>20</AmountInPercent>
+                    </Item>
+                  </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2679</ProvidedProduct> <!-- Product Sanctuary -->
-                      </Item>
-                      <Item>
-                        <ProvidedProduct>6710</ProvidedProduct> <!-- Product Sanctuary -->
+                        <ProvidedProduct>2154</ProvidedProduct> <!-- Product Beer -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>
                       <Population>
                         <AmountOrPercent>
-                          <Value>1</Value>
+                          <Value>0</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Population>
+                      <Money>
+                        <AmountOrPercent>
+                          <Value>1</Value>
+                          <Percental>0</Percental>
+                        </AmountOrPercent>
+                      </Money>
+                      <Happiness>
+                        <AmountOrPercent>
+                          <Value>3</Value>
+                          <Percental>0</Percental>
+                        </AmountOrPercent>
+                      </Happiness>
+                      <Knowledge>
+                        <AmountOrPercent>
+                          <Value>-1</Value>
+                          <Percental>0</Percental>
+                        </AmountOrPercent>
+                      </Knowledge>
                       <Health>
                         <AmountOrPercent>
-                          <Value>-1.5</Value>
+                          <Value>0</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Health>

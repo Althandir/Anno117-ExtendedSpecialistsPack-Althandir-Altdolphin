@@ -104,12 +104,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllInstitutionsResolverRange E Titel</Text>
+          <Text>Specialist AllInstitutionsResolverUpgrade-E Titel</Text>
           <LineId>2001000015</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllInstitutionsResolverRange E Beschreibung</Text>
+          <Text>Specialist AllInstitutionsResolverUpgrade-E Beschreibung</Text>
           <LineId>2001000016</LineId>
       </Text>
     </ModOp>

@@ -20,8 +20,10 @@
     <Include File="items-common/MarketFaithFocus-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
-    <Include File="items-common/AreaUpgradeHuntersAndEels-C.xml" />
-    <Include File="items-common/AdditionalGoodsAllExtractors-C.xml" />
+    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
+    <Include File="items-common/AdditionalGoodsAllExtractors-C-Boost.xml" />
+    <Include File="items-common/CaptianMoreSlots-C.xml" />
+
   </Group>
 
   <!-- Rare Specialists -->
@@ -39,11 +41,12 @@
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
     <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml"/>
+    <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AllInstitutionsResolverRange-E.xml" />
+    <Include File="items-epic/AllInstitutionsResolverUpgrade-E.xml" />
     <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
     <Include File="items-epic/ReplaceInputAmphoresToFineGlass-E.xml" />
     <Include File="items-epic/ProductivityAllBinders-E.xml" />
@@ -56,12 +59,23 @@
     <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
     <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />
     <Include File="items-epic/ReplaceInputSilverToNecklaces-E.xml" />
+    <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
+    <Include File="items-epic/CaptianMoreSlots-E.xml" />  
+    <Include File="items-epic/CaptianArchersRange-E.xml" />
+    <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
+    <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
+    <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
+
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
     <Include File="items-legendary/AllInstitutionsAndPublicServicesEffectRange-L.xml" />
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
+    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
+    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
+    <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
+    <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
   </Group>
 
   <!-- Add to Pools -->

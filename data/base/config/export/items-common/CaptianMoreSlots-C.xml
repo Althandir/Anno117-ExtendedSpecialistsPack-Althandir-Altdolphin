@@ -1,37 +1,35 @@
 <ModOps>
-<!-- Item Definition GUID:2001000067-68 | LineID:20010000067-68 -->
+<!-- Item Definition GUID:2001000075-76 | LineID:20010000075-76 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000067</GUID>
-            <Name>Specialist AreaUpgrade HuntersAndEels C</Name>
+            <GUID>2001000075</GUID>
+            <Name>Captian MoreSlots C</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000067</InfoDescription>
+            <InfoDescription>2001000076</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000068</GUID>
+                <GUID>2001000076</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>51906</GUID>
-              </Item>
-              <Item>
-                <GUID>5299</GUID>
+                <GUID>38995</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
+            <Allocation>Ship</Allocation>
             <Niche>Economy</Niche> 
-            <TradePrice>12000</TradePrice>
+            <ItemType>Captains</ItemType>
+            <TradePrice>5000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
             <Rarity>Common</Rarity> 
@@ -40,7 +38,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000067</OasisId>
+            <OasisId>2001000075</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,39 +50,42 @@
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
-            <Template>BuildingBuff</Template>
+            <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000068</GUID>
-                    <Name>Specialist AreaUpgrade HuntersAndEels C BuildingBuff</Name>
+                    <GUID>2001000076</GUID>
+                    <Name>Captian MoreSlots C ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>2001000067</OasisId>
+                    <OasisId>2001000075</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <NeededAreaUpgrade>
-                    <Value>-15</Value>
-                    <Percental>1</Percental>
-                  </NeededAreaUpgrade>
-                </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
+                <MovementUpgrade>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>-20</Value>
+                    <Percental>0</Percental>
+                  </BuffBaseSpeedUpgrade>
+                </MovementUpgrade>
                 <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <AreaBuff/> 
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>2</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
             </Values>
         </Asset>
     </ModOp>
