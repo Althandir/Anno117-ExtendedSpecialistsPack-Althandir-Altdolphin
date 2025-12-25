@@ -17,7 +17,7 @@
   <!-- Common Specialists -->
   <Group>
     <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
-    <Include File="items-common/MarketFaithFocus-C.xml" />
+    <Include File="items-common/MarketFaith-AreaEffect-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
@@ -42,6 +42,7 @@
     <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml"/>
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
+    <Include File="items-rare/MaintananceMiniInstitutions-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
