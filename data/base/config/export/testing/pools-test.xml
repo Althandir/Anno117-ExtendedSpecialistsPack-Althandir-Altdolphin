@@ -20,7 +20,7 @@
     <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
       <Item>
         <ItemLink>2001000001</ItemLink> 
-      </Item> 
+      </Item> <!--
       <Item>
       <ItemLink>2001000149</ItemLink>
           <Weight>100</Weight>
@@ -37,7 +37,7 @@
           <ItemLink>2001000161</ItemLink>
           <Weight>100</Weight>
       </Item>
-      <!--
+      
        for Testing -->
     </ModOp>
   </Group>

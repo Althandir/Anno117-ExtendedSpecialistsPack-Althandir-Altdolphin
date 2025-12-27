@@ -16,88 +16,106 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
-    <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
-    <Include File="items-common/AreaUpgradeForestries-C.xml" />
-    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
     <Include File="items-common/AdditionalGoodsAllExtractors-C-Boost.xml" />
-    <Include File="items-common/CaptianMoreSlots-C.xml" />
-    <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
     <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
-
+    <Include File="items-common/AreaEffect-CelcicBarrowHealth-C.xml" />
+    <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
+    <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
+    <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
+    <Include File="items-common/AreaUpgradeForestries-C.xml" />
+    <Include File="items-common/CaptianMoreSlots-C.xml" />
+    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
+    <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
+    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
   <Group>
-    <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
     <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
-    <Include File="items-rare/ClayWaterSlots-R.xml" />
-    <Include File="items-rare/MaintenanceAllBinders-R.xml" />
-    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml"/>
-    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml"/>
-    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml"/>
-    <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml"/>
-    <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml"/>
-    <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml"/>
-    <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
-    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml"/>
-    <Include File="items-rare/ModuleUpgradeReed-R.xml"/>
-    <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
-    <Include File="items-rare/MaintananceMiniInstitutions-R.xml" />
-    <Include File="items-rare/AreaEffect-GrammaticusKnowledge-R.xml" />
-    <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml" />
-    <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml" />
+    <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml" />
+    <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByFireSafety-R.xml" />
+    <Include File="items-rare/AreaEffect-CelcicTownHallPopulationbyHealth-R.xml"/>
+    <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
+    <Include File="items-rare/AreaEffect-GrammaticusKnowledge-R.xml"/>
+    <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml"/>
+    <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
+    <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
+    <Include File="items-rare/ClayWaterSlots-R.xml"/>
+    <Include File="items-rare/MaintananceMiniInstitutions-R.xml"/>
+    <Include File="items-rare/MaintenanceAllBinders-R.xml"/>
+    <Include File="items-rare/ModuleUpgradeReed-R.xml" />
+    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
+    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
+    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
+    <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
+    <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
+    <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
+    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
+    <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
+
+
+
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
     <Include File="items-epic/AllInstitutionsResolverUpgrade-E.xml" />
     <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
-    <Include File="items-epic/ReplaceInputAmphoresToFineGlass-E.xml" />
-    <Include File="items-epic/ProductivityAllBinders-E.xml" />
-    <Include File="items-epic/ProductivityAllCoopers-E.xml" />
-    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
-    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
-    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
-    <Include File="items-epic/MineralsAllQuarriesAndMines-E.xml" />
-    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
-    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
-    <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />
-    <Include File="items-epic/ReplaceInputSilverToNecklaces-E.xml" />
-    <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
-    <Include File="items-epic/CaptianMoreSlots-E.xml" />  
+    <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
+    <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsupmtion-E.xml" />
+    <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
+    <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
+    <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
+    <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
+    <Include File="items-epic/AreaEffect-LibraryPopulationHealth-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleAres-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleCeres-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleCernunnos-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleEpona-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleMercur-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
+    <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
+    <Include File="items-epic/AreaEffect-TheaterHealthBelief-E.xml" />
     <Include File="items-epic/CaptianArchersRange-E.xml" />
+    <Include File="items-epic/CaptianMoreSlots-E.xml" />
+
+    <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
+    <Include File="items-epic/MineralsAllQuarriesAndMines-E.xml" />
+    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
+    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
+    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
-    <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
-
-    <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
-    <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
-    <Include File="items-epic/AreaEffect-TheaterHealthBelief-E.xml" />
-    <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsupmtion-E.xml" />
-    <Include File="items-epic/AreaEffect-LibraryPopulationHealth-E.xml" />
-    <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
-    <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
+    <Include File="items-epic/ProductivityAllBinders-E.xml" />
+    <Include File="items-epic/ProductivityAllCoopers-E.xml" />
+    <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
+    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
+    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
+    <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
+    <Include File="items-epic/ReplaceInputAmphoresToFineGlass-E.xml" />
+    <Include File="items-epic/ReplaceInputSilverToNecklaces-E.xml" />
 
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AllInstitutionsAndPublicServicesEffectRange-L.xml" />
-    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
-    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
-    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
-    <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
     <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
-    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
-
+    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
+    <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
+    <Include File="items-legendary/AllInstitutionsAndPublicServicesEffectRange-L.xml" />
     <Include File="items-legendary/AreaEffect-CollosseumGladiatorNeptun-L.xml" />
+    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
+    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
+    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
     
   </Group>
 
   <!-- Add to Pools -->
   <Include File="pools.xml" />
+
+  <Include File="pools-common.xml" />
+  <Include File="pools-rare.xml" />
+  <Include File="pools-epic.xml" />
+  <Include File="pools-legendary.xml" />
 </ModOps>

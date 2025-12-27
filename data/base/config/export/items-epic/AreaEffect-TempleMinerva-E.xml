@@ -1,46 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000181-184 | LineID:2001000181-182 -->
+<!-- Item Definition GUID:2001000197 - 2001000200 | LineID:2001000197 - 2001000198 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000181</GUID>
-            <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C</Name>
+            <GUID>2001000197</GUID>
+            <Name>Specialist AreaEffect-TempleMinerva-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000182</InfoDescription>
+            <InfoDescription>2001000197</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000182</GUID>
+                <GUID>2001000198</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3615</GUID>
-              </Item>
-              <Item>
-                <GUID>6728</GUID>
+                <GUID>140886</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Religion</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>7500</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <TradePrice>275000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000181</OasisId>
+            <OasisId>2001000197</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -55,16 +52,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000182</GUID>
-                    <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C BuildingBuff</Name>
+                    <GUID>2001000198</GUID>
+                    <Name>Specialist AreaEffect-TempleMinerva-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000181</OasisId>
+                    <OasisId>2001000197</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000183</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>2001000199</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -90,8 +87,8 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000183</GUID>
-                    <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C FunctionalEffect</Name>
+                    <GUID>2001000199</GUID>
+                    <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -99,7 +96,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000184</GUID>
+                            <GUID>2001000200</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -111,7 +108,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000181</OasisId>
+                    <OasisId>2001000197</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -122,12 +119,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000184</GUID>
-                    <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C FunctionalEffect BuildingBuff</Name>
+                    <GUID>2001000200</GUID>
+                    <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000181</OasisId>
+                    <OasisId>2001000197</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -146,28 +143,34 @@
                         </Happiness>
                         <Money>
                         <AmountOrPercent>
-                            <Value>-0.5</Value>
+                            <Value>0</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Money>
                         <Prestige>
                         <AmountOrPercent>
-                            <Value>0</Value>
+                            <Value>1</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>0</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
                         <FireSafety>
                             <AmountOrPercent>
                                 <Value>0</Value>

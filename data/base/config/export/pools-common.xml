@@ -1,0 +1,49 @@
+<ModOps>
+<!-- 
+###
+#INFO: For some Reason Manx as Trader points to Voada RewardPool 
+#INFO: RewardPool GUID order for add is always: "Any","Traders&PirateLatium","Traders&PirateAlbion"
+### 
+-->
+<!-- RewardPool Common Traders -->
+    <Group>
+        <ModOp Type="add" GUID="83448,83460,83464,83468,83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000063</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000141</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000173</ItemLink>
+        </Item>
+        <Item> 
+            <ItemLink>2001000009</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000181</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000137</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000047</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000075</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000067</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000003</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000033</ItemLink>
+        </Item>
+
+        </ModOp>
+    </Group>
+</ModOps>

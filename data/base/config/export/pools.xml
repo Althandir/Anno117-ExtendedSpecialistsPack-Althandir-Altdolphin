@@ -192,6 +192,42 @@
         <Item>
             <ItemLink>2001000161</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000165</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000169</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000173</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000177</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000181</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000185</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000189</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000193</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000197</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000201</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000205</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000209</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -382,203 +418,62 @@
         <Item>
             <ItemLink>2001000145</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000149</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000153</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000157</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000161</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000165</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000169</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000173</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000177</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000181</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000185</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000189</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000193</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000197</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000201</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000205</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000209</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
-    <!-- 
-    ###
-    #INFO: For some Reason Manx as Trader points to Voada RewardPool 
-    #INFO: RewardPool GUID order for add is always: "Any","Traders&PirateLatium","Traders&PirateAlbion"
-    ### 
-    -->
+    
 
-    <!-- RewardPool Common Traders -->
-    <Group>
-        <ModOp Type="add" GUID="83448,83460,83464,83468,83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
-        <Item>
-            <ItemLink>2001000009</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000003</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000033</ItemLink>
-        </Item>
-        <Item> 
-            <ItemLink>2001000047</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000063</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000067</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000075</ItemLink>
-        </Item>
-        </ModOp>
-    </Group>
-    <!-- RewardPool Rare Traders -->
-    <Group>
-      <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
-        <Item>
-            <ItemLink>2001000005</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000013</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000019</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000021</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000027</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000037</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000041</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000043</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000049</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000051</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000053</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000055</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000081</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000069</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000099</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000101</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000113</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000117</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000129</ItemLink>
-        </Item>
-      </ModOp>
-    </Group>
-    <!-- RewardPool Epic Traders -->
-    <Group>
-      <ModOp Type="add" GUID="83450,83462,83466,83470,83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
-        <Item>
-            <ItemLink>2001000007</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000015</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000023</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000025</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000029</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000031</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000035</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000039</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000057</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000059</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000061</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000065</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000069</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000073</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000077</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000083</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000085</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000087</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000091</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000105</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000109</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000121</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000133</ItemLink>
-        </Item>
-      </ModOp>
-    </Group>
+    
+    
 
-    <!-- RewardPool Legendary Traders -->
-    <Group>
-      <ModOp Type="add" GUID="83451,83463,83467,83471,83479,83475,83483" Path="/Values/RewardPool/ItemsPool">
-        <Item>
-            <ItemLink>2001000017</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000045</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000089</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000079</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000093</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000095</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000125</ItemLink>
-        </Item>
-      </ModOp>
-    </Group>
+
+    
 </ModOps>

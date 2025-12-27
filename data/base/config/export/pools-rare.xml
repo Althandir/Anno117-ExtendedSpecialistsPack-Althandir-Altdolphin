@@ -1,0 +1,88 @@
+<ModOps>
+<!-- 
+###
+#INFO: For some Reason Manx as Trader points to Voada RewardPool 
+#INFO: RewardPool GUID order for add is always: "Any","Traders&PirateLatium","Traders&PirateAlbion"
+### 
+-->
+<!-- RewardPool Rare Traders -->
+    <Group>
+      <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>2001000013</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000005</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000129</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000177</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000169</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000157</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000101</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000117</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000113</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000055</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000019</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000055</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000099</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000027</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000071</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000069</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000043</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000037</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000049</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000051</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>2001000053</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000041</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000081</ItemLink>
+        </Item>
+      </ModOp>
+    </Group>
+
+
+</ModOps>
