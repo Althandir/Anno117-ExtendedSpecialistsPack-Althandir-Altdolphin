@@ -66,7 +66,7 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
-                  <ConsumptionModifierInPercent>-15</ConsumptionModifierInPercent>
+                  <ConsumptionModifierInPercent>-10</ConsumptionModifierInPercent>
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>

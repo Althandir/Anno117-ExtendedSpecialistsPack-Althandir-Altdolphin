@@ -67,17 +67,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MarketFaithFocus C -->
+  <!-- Specialist AreaEffect-MarketFaith-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist MarketFaithFocus C Titel</Text>
+          <Text>Specialist AreaEffect-MarketFaith-C Titel</Text>
           <LineId>2001000009</LineId>
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist MarketFaithFocus C Beschreibung</Text>
+          <Text>Specialist AreaEffect-MarketFaith-C Beschreibung</Text>
           <LineId>2001000010</LineId>
       </Text>
     </ModOp>

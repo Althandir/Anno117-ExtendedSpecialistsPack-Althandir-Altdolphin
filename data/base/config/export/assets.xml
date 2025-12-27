@@ -17,12 +17,14 @@
   <!-- Common Specialists -->
   <Group>
     <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
-    <Include File="items-common/MarketFaith-AreaEffect-C.xml" />
+    <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
     <Include File="items-common/AdditionalGoodsAllExtractors-C-Boost.xml" />
     <Include File="items-common/CaptianMoreSlots-C.xml" />
+    <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
+    <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
 
   </Group>
 
@@ -43,6 +45,11 @@
     <Include File="items-rare/ModuleUpgradeReed-R.xml"/>
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
     <Include File="items-rare/MaintananceMiniInstitutions-R.xml" />
+    <Include File="items-rare/AreaEffect-GrammaticusKnowledge-R.xml" />
+    <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml" />
+    <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml" />
+    <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
+    <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
@@ -67,6 +74,14 @@
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
 
+    <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
+    <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
+    <Include File="items-epic/AreaEffect-TheaterHealthBelief-E.xml" />
+    <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsupmtion-E.xml" />
+    <Include File="items-epic/AreaEffect-LibraryPopulationHealth-E.xml" />
+    <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
+    <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
+
   </Group>
 
   <!-- Legendary Specialists -->
@@ -77,6 +92,10 @@
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
     <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
     <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
+    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
+
+    <Include File="items-legendary/AreaEffect-CollosseumGladiatorNeptun-L.xml" />
+    
   </Group>
 
   <!-- Add to Pools -->

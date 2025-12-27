@@ -75,7 +75,7 @@
                 <MaintenanceUpgrade/>
                 <UnitUpgrade>
                   <DistanceAttackRangeArcherModulePercentualUpgrade>
-                    <Value>25</Value>
+                    <Value>30</Value>
                     <Percental>0</Percental>
                   </DistanceAttackRangeArcherModulePercentualUpgrade>
                 </UnitUpgrade>

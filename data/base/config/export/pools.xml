@@ -144,6 +144,54 @@
         <Item>
             <ItemLink>2001000099</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000101</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000105</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000109</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000113</ItemLink>
+        </Item>
+                <Item>
+            <ItemLink>2001000117</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000121</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000125</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000129</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000133</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000137</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000141</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000145</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000149</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000153</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000157</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000161</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -298,6 +346,42 @@
         <Item>
             <ItemLink>2001000099</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000101</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000105</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000109</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000113</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000117</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000121</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000125</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000129</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000133</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000137</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000141</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000145</ItemLink>
+        </Item>
         </ModOp>
     </Group>
 
@@ -382,6 +466,18 @@
         <Item>
             <ItemLink>2001000099</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000101</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000113</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000117</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000129</ItemLink>
+        </Item>
       </ModOp>
     </Group>
     <!-- RewardPool Epic Traders -->
@@ -444,6 +540,18 @@
         <Item>
             <ItemLink>2001000091</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>2001000105</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000109</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000121</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>2001000133</ItemLink>
+        </Item>
       </ModOp>
     </Group>
 
@@ -468,7 +576,9 @@
         <Item>
             <ItemLink>2001000095</ItemLink>
         </Item>
-
+        <Item>
+            <ItemLink>2001000125</ItemLink>
+        </Item>
       </ModOp>
     </Group>
 </ModOps>
