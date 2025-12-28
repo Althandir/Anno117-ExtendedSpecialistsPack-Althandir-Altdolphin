@@ -1,0 +1,169 @@
+<ModOps>
+<!-- Item Definition GUID:2001000017-18 + 2001000213 | LineID:2001000017-18-->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000017</GUID>
+            <Name>Specialist AllPublicServicesAndWondersEffectRange-L</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>2001000018</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Area</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>2001000018</GUID>
+              </Item>
+              <Item>
+                <GUID>2001000213</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff # Not Required Here as Target is Defined in AreaBuff
+              <Item>
+                <GUID>43102</GUID>
+              </Item>
+              <Item>
+                <GUID>43099</GUID>
+              </Item>
+              <Item>
+                <GUID>50226</GUID>
+              </Item>
+              <Item>
+                <GUID>3621</GUID>
+              </Item>  -->
+            </Targets>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Diplomacy</Niche>
+            <TradePrice>2000000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <BarkPool>83331</BarkPool> 
+            <!-- Bark f Dominus -->
+            <Rarity>Legendary</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>2001000017</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- AreaEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="81445">
+      <Asset>
+        <Template>AreaBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000018</GUID>
+            <Name>Specialist AllPublicServicesAndWondersEffectRange-L AreaBuff</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>2001000017</OasisId>
+          </Text>
+          <AreaBuff>
+            <RadiusEffectRangeUpgrade>
+              <Value>35</Value>
+              <Percental>1</Percental>
+            </RadiusEffectRangeUpgrade>
+            <RadiusEffectRangeTarget>
+              <Item>
+                <Target>43099</Target> <!-- <GUID>43099</GUID> -->
+              </Item>
+            </RadiusEffectRangeTarget>
+          </AreaBuff>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+            <IsStackable>0</IsStackable>
+          </Buff>
+          <AreaNeedAttributeBuff>
+            <BonusAttributes>
+              <Money>
+                <ValueOrPercent>
+                  <Value>0</Value>
+                  <Percental>1</Percental>
+                </ValueOrPercent>
+              </Money>
+            </BonusAttributes>
+          </AreaNeedAttributeBuff>
+          <AreaPassiveTradeUpgrade/>
+          <AreaMaintenanceUpgrade/>
+          <AreaFestivalAttributeUpgrade/>
+        </Values>
+      </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="81445">
+      <Asset>
+        <Template>AreaBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000213</GUID>
+            <Name>Specialist AllPublicServicesAndWondersEffectRange-L Wonders AreaBuff</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>2001000017</OasisId>
+          </Text>
+          <AreaBuff>
+            <RadiusEffectRangeUpgrade>
+              <Value>20</Value>
+              <Percental>1</Percental>
+            </RadiusEffectRangeUpgrade>
+            <RadiusEffectRangeTarget>
+              <Item>
+                <Target>50226</Target> <!-- <GUID>50226</GUID> -->
+              </Item>
+              <Item>
+                <Target>3621</Target> <!-- <GUID>3621</GUID> -->
+              </Item>
+            </RadiusEffectRangeTarget>
+          </AreaBuff>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+            <IsStackable>0</IsStackable>
+          </Buff>
+          <AreaPassiveTradeUpgrade/>
+          <AreaMaintenanceUpgrade>
+            <LandTax>
+              <Value>0</Value>
+              <Percental>1</Percental>
+            </LandTax>
+            <Workforce>
+              <Item>
+                <WorkforceGUID>2186</WorkforceGUID>
+                <Amount>
+                  <Value>0</Value>
+                  <Percental>1</Percental>
+                </Amount>
+              </Item>
+            </Workforce>
+          </AreaMaintenanceUpgrade>
+          <AreaNeedAttributeBuff>
+            <BonusAttributes>
+              <Money>
+                <ValueOrPercent>
+                  <Value>0</Value>
+                  <Percental>1</Percental>
+                </ValueOrPercent>
+              </Money>
+            </BonusAttributes>
+          </AreaNeedAttributeBuff>
+          <AreaFestivalAttributeUpgrade/>
+        </Values>
+      </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>

@@ -61,7 +61,7 @@
   <!-- Epic Specialists -->
   <Group>
     <Include File="items-epic/AllInstitutionsResolverUpgrade-E.xml" />
-    <Include File="items-epic/AllPublicServicesEffectRange-E.xml" />
+    <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsupmtion-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
@@ -103,7 +103,7 @@
     <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
     <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
-    <Include File="items-legendary/AllInstitutionsAndPublicServicesEffectRange-L.xml" />
+    <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
     <Include File="items-legendary/AreaEffect-CollosseumGladiatorNeptun-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />

@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:2001000007-8 | LineID:2001000007-8-->
+<!-- Item Definition GUID:2001000007-8 + 2001000214 | LineID:2001000007-8-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000007</GUID>
-            <Name>Specialist AllPublicServicesEffectRange E</Name>
+            <Name>Specialist AllPublicServicesAndWondersEffectRange-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000008</InfoDescription>
           </Standard>
@@ -17,6 +17,9 @@
             <Buffs>
               <Item>
                 <GUID>2001000008</GUID>
+              </Item>
+              <Item>
+                <GUID>2001000214</GUID>
               </Item>
             </Buffs>
             <HideInGovernorsBar>0</HideInGovernorsBar>
@@ -48,7 +51,7 @@
           <Values>
             <Standard>
               <GUID>2001000008</GUID>
-              <Name>Specialist AllPublicServicesEffectRange E AreaBuff</Name>
+              <Name>Specialist AllPublicServicesAndWondersEffectRange-E AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             </Standard>
             <Text>
@@ -63,26 +66,62 @@
                 <Item>
                   <Target>43099</Target>
                 </Item>
-                <Item>
-                  <Target>50226</Target>
-                </Item>
               </RadiusEffectRangeTarget>
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
             </Buff>
+            <AreaNeedAttributeBuff>
+              <BonusAttributes>
+                <Money>
+                  <ValueOrPercent>
+                    <Value>-5</Value>
+                    <Percental>1</Percental>
+                  </ValueOrPercent>
+                </Money>
+              </BonusAttributes>
+            </AreaNeedAttributeBuff>
             <AreaPassiveTradeUpgrade/>
-            <AreaMaintenanceUpgrade>
-              <LandTax>
-                <Value>250</Value>
-                <Percental>1</Percental>
-              </LandTax>
-            </AreaMaintenanceUpgrade>
+            <AreaMaintenanceUpgrade/>
             <AreaFestivalAttributeUpgrade/>
           </Values>
         </Asset>
     </ModOp>
     
+    <ModOp Type="addNextSibling" GUID="81445">
+      <Asset>
+        <Template>AreaBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>2001000214</GUID>
+            <Name>Specialist AllPublicServicesAndWondersEffectRange-E Wonders AreaBuff</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>2001000007</OasisId>
+          </Text>
+          <AreaBuff>
+            <RadiusEffectRangeUpgrade>
+              <Value>15</Value>
+              <Percental>1</Percental>
+            </RadiusEffectRangeUpgrade>
+            <RadiusEffectRangeTarget>
+              <Item>
+                <Target>50226</Target>
+              </Item>
+            </RadiusEffectRangeTarget>
+          </AreaBuff>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <AreaNeedAttributeBuff/>
+          <AreaPassiveTradeUpgrade/>
+          <AreaMaintenanceUpgrade/>
+          <AreaFestivalAttributeUpgrade/>
+        </Values>
+      </Asset>
+    </ModOp>
+
   </Group>
 
 </ModOps>

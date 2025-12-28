@@ -9,7 +9,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Meb Meb! Test Description</Text>
+          <Text>Meb Meb! Ignore me please. I only exists for testing reasons. Otherwise I will bite your nose!</Text>
           <LineId>2001000002</LineId>
       </Text>
     </ModOp>
@@ -31,7 +31,7 @@
     </ModOp>
   </Group>
 
-   <!-- Specialist AllPublicServicesRange R -->
+  <!-- Specialist AllPublicServicesRange R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

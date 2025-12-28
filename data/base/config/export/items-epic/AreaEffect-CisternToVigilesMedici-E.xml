@@ -123,7 +123,7 @@
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Effect>
-                    <EffectScope>StreetDistance</EffectScope>
+                    <EffectScope>Radius</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>

@@ -115,7 +115,7 @@
                 </Standard>
                 <Effect>
                     <EffectScope>Radius</EffectScope>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
                             <GUID>2001000108</GUID>

@@ -22,7 +22,7 @@
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche>
+            <Niche>Diplomacy</Niche>
             <TradePrice>300000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
@@ -56,28 +56,30 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>15</Value>
+                <Value>10</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
                 <Item>
                   <Target>43099</Target>
                 </Item>
-                <Item>
-                  <Target>50226</Target>
-                </Item>
               </RadiusEffectRangeTarget>
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
             </Buff>
+            <AreaNeedAttributeBuff>
+              <BonusAttributes>
+                <Money>
+                  <ValueOrPercent>
+                    <Value>-5</Value>
+                    <Percental>1</Percental>
+                  </ValueOrPercent>
+                </Money>
+              </BonusAttributes>
+            </AreaNeedAttributeBuff>
             <AreaPassiveTradeUpgrade/>
-            <AreaMaintenanceUpgrade>
-              <LandTax>
-                <Value>250</Value>
-                <Percental>1</Percental>
-              </LandTax>
-            </AreaMaintenanceUpgrade>
+            <AreaMaintenanceUpgrade/>
             <AreaFestivalAttributeUpgrade/>
           </Values>
         </Asset>
