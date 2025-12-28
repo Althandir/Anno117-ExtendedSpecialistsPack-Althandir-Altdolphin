@@ -27,7 +27,7 @@
           </Effect>
           <Item>
             <Allocation>Ship</Allocation>
-            <Niche>Economy</Niche> 
+            <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
             <TradePrice>5000</TradePrice>
             <BarkPool>83331</BarkPool> 

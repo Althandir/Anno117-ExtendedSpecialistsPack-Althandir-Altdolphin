@@ -27,7 +27,7 @@
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
+            <Niche>Diplomacy</Niche> 
             <TradePrice>1500000</TradePrice>
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->

@@ -22,7 +22,7 @@
             <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Culture</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <Niche>Culture</Niche>
             <TradePrice>300000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
