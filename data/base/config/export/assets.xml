@@ -73,7 +73,7 @@
     <Include File="items-epic/AreaEffect-TempleCeres-E.xml" />
     <Include File="items-epic/AreaEffect-TempleCernunnos-E.xml" />
     <Include File="items-epic/AreaEffect-TempleEpona-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleMercur-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleMercury-E.xml" />
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
     <Include File="items-epic/AreaEffect-TheaterHealthBelief-E.xml" />

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000129</GUID>
             <Name>Specialist AreaEffect-BathsHealthbyHappiness-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
             <InfoDescription>2001000130</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000130</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000129</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>2001000131</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>2001000132</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000129</OasisId>

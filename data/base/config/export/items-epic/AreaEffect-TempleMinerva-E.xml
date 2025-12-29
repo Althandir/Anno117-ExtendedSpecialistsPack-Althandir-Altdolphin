@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000197</GUID>
             <Name>Specialist AreaEffect-TempleMinerva-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/final/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
             <InfoDescription>2001000197</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000198</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000197</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000199</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000200</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/final/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000197</OasisId>
