@@ -25,7 +25,7 @@
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
     <Include File="items-common/CaptianMoreSlots-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
-    <Include File="items-common/NeedRewardReligionT2Population-C.xml" />
+    <Include File="items-common/NeedRewardReligionT2Belief-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
   </Group>
 
@@ -37,7 +37,7 @@
     <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByFireSafety-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicTownHallPopulationbyHealth-R.xml"/>
     <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
-    <Include File="items-rare/AreaEffect-GrammaticusKnowledge-R.xml"/>
+    <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>

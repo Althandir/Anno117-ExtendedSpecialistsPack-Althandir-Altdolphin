@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4-->
+<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4 #TODO: REPLACE ME  --> 
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>2001000003</GUID>
-            <Name>Specialist NeedReward Religion T2 Population C</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <Name>Specialist NeedRewardReligionT2Belief-C</Name>
+            <IconFilename>data/base/graphics/icons/unused/roman_female_NeedRewardReligionT2BeliefC.png</IconFilename>
             <InfoDescription>2001000004</InfoDescription>
           </Standard>
           <Effect>
@@ -27,7 +27,7 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Civic</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
+            <Niche>Civic</Niche>
             <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000004</GUID>
-                    <Name>Specialist NeedReward Religion T2 Population C BuildingBuff</Name>
+                    <Name>Specialist NeedRewardReligionT2Belief-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -69,25 +69,16 @@
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2679</ProvidedProduct> <!-- Product Sanctuary -->
-                      </Item>
-                      <Item>
-                        <ProvidedProduct>6710</ProvidedProduct> <!-- Product Sanctuary -->
+                        <ProvidedProduct>2679</ProvidedProduct> <!-- <GUID>2679</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>
-                      <Population>
+                      <Money>
                         <AmountOrPercent>
                           <Value>1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
-                      </Population>
-                      <Health>
-                        <AmountOrPercent>
-                          <Value>-1.5</Value>
-                          <Percental>0</Percental>
-                        </AmountOrPercent>
-                      </Health>
+                      </Money>
                     </AdditionalNeedAttributes>
                   </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000101</GUID>
-            <Name>Specialist AreaEffect-GrammaticusKnowledge-R</Name>
+            <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>2001000102</InfoDescription>
           </Standard>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000102</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusKnowledge-R BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -95,7 +95,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000103</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusKnowledge-R FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -127,7 +127,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000104</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusKnowledge-R FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>

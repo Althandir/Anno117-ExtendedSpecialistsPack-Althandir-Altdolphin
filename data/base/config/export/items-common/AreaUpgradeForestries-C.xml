@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>2001000047</GUID>
-            <Name>Specialist AreaUpgradeForestries C</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <Name>Specialist AreaUpgradeForestries-C</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_forestries.png</IconFilename>
             <InfoDescription>2001000048</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000048</GUID>
-                    <Name>Specialist AreaUpgradeForestries C BuildingBuff</Name>
+                    <Name>Specialist AreaUpgradeForestries-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
