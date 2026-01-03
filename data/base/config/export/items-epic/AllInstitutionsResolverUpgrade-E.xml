@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000015</GUID>
             <Name>Specialist AllInstitutionsResolverUpgrade-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
             <InfoDescription>2001000016</InfoDescription>
           </Standard>
           <Effect>
@@ -31,7 +31,7 @@
             <TradePrice>750000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Legendary</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>

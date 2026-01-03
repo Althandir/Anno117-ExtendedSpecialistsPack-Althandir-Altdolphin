@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000005</GUID>
             <Name>Specialist AllPublicServicesEffectRange R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
             <InfoDescription>2001000006</InfoDescription>
           </Standard>
           <Effect>
@@ -49,7 +49,7 @@
             <Standard>
               <GUID>2001000006</GUID>
               <Name>Specialist AllPublicServicesEffectRange R AreaBuff</Name>
-              <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+              <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
             </Standard>
             <Text>
               <OasisId>2001000006</OasisId>

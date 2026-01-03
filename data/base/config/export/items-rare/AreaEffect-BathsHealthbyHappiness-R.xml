@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000129</GUID>
             <Name>Specialist AreaEffect-BathsHealthbyHappiness-R</Name>
-            <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_Bathmaster.png</IconFilename>
             <InfoDescription>2001000130</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000130</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000129</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>2001000131</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>2001000132</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/other/roman_male_bathmaster.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000129</OasisId>
@@ -130,7 +130,7 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
@@ -154,7 +154,7 @@
 				        </Knowledge>
                         <Health>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
 				        </Health>

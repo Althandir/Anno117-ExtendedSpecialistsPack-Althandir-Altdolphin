@@ -1,43 +1,43 @@
 <ModOps>
-<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4 #TODO: REPLACE ME  --> 
+<!-- Item Definition GUID:2001000099-100 | LineID:2001000099-100 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000003</GUID>
-            <Name>Specialist NeedRewardReligionT2Belief-C</Name>
-            <IconFilename>data/base/graphics/icons/unused/roman_female_NeedRewardReligionT2BeliefC.png</IconFilename>
-            <InfoDescription>2001000004</InfoDescription>
+            <GUID>2001000099</GUID>
+            <Name>Specialist MaintenanceMiniInstitutions-R</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/celtic_male_MaintenanceMiniInstitutionsR.png</IconFilename>
+            <InfoDescription>2001000100</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000004</GUID>
+                <GUID>2001000100</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>31046</GUID>
+                <GUID>144403</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Civic</Niche>
-            <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <Niche>Economy</Niche>
+            <TradePrice>15000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Common</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000003</OasisId>
+            <OasisId>2001000099</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,39 +52,42 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000004</GUID>
-                    <Name>Specialist NeedRewardReligionT2Belief-C BuildingBuff</Name>
+                    <GUID>2001000100</GUID>
+                    <Name>Specialist MaintenanceMiniInstitutions-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000003</OasisId>
+                    <OasisId>2001000099</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade/>
+                <BuildingUpgrade>
+                  <AdditionalAttributes>
+                    <Knowledge>
+                      <AmountOrPercent>
+                        <Value>0</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Knowledge>
+                  </AdditionalAttributes>
+                </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
-                  <NeedProvidedNeedAttributes>
-                    <ChangeNeedAttributesOf>
-                      <Item>
-                        <ProvidedProduct>2679</ProvidedProduct> <!-- <GUID>2679</GUID> -->
-                      </Item>
-                    </ChangeNeedAttributesOf>
-                    <AdditionalNeedAttributes>
-                      <Money>
-                        <AmountOrPercent>
-                          <Value>1</Value>
-                          <Percental>0</Percental>
-                        </AmountOrPercent>
-                      </Money>
-                    </AdditionalNeedAttributes>
-                  </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>-33</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>-66</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

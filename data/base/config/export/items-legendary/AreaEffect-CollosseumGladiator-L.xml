@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>2001000161</GUID>
-            <Name>Specialist AreaEffect-CollosseumGladiatorNeptun-L</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <Name>Specialist AreaEffect-CollosseumGladiator-L</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/male_CollosseumGladiator.png</IconFilename>
             <InfoDescription>2001000162</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000162</GUID>
-                    <Name>Specialist AreaEffect-CollosseumGladiatorNeptun-L BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CollosseumGladiator-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -88,7 +88,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000163</GUID>
-                    <Name>Specialist AreaEffect-CollosseumGladiatorNeptun-L FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-CollosseumGladiator-L FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -120,7 +120,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000164</GUID>
-                    <Name>Specialist AreaEffect-CollosseumGladiatorNeptun-L FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CollosseumGladiator-L FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -167,10 +167,16 @@
                         </Knowledge>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>0</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

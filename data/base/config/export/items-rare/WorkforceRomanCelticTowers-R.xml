@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000081</GUID>
             <Name>WorkforceRomanCelticTowers-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_RomanCelticTowersWorkforceR.png</IconFilename>
             <InfoDescription>2001000082</InfoDescription>
           </Standard>
           <Effect>
@@ -78,8 +78,8 @@
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                   <ReplaceWorkforce>
-                    <OldWorkforce>2198</OldWorkforce>
-                    <NewWorkforce>2199</NewWorkforce>
+                    <OldWorkforce>2198</OldWorkforce> <!--<GUID>2198</GUID> -->
+                    <NewWorkforce>2199</NewWorkforce> <!--<GUID>2199</GUID> -->
                   </ReplaceWorkforce>
                 </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>

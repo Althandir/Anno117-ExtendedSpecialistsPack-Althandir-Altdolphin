@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000205</GUID>
             <Name>Specialist AreaEffect-TempleEpona-E</Name>
-            <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_eponia.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
             <InfoDescription>2001000202</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000206</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_eponia.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000205</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000207</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_eponia.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000208</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_eponia.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000205</OasisId>

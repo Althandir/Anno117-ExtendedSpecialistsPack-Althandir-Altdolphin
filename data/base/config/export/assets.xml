@@ -25,7 +25,7 @@
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
     <Include File="items-common/CaptianMoreSlots-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
-    <Include File="items-common/NeedRewardReligionT2Belief-C.xml" />
+    <Include File="items-common/AreaUpgradePonies-C.xml" />
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
   </Group>
 
@@ -34,7 +34,7 @@
     <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
     <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByFireSafety-R.xml" />
+    <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByPrestige-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicTownHallPopulationbyHealth-R.xml"/>
     <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
     <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
@@ -42,8 +42,8 @@
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
     <Include File="items-rare/ClayWaterSlots-R.xml"/>
-    <Include File="items-rare/MaintananceMiniInstitutions-R.xml"/>
-    <Include File="items-rare/MaintenanceAllBinders-R.xml"/>
+    <Include File="items-rare/MaintenanceAllUpholsterers-R.xml"/>
+    <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml" />
     <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
     <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
@@ -87,8 +87,8 @@
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
-    <Include File="items-epic/ProductivityAllBinders-E.xml" />
-    <Include File="items-epic/ProductivityAllCoopers-E.xml" />
+    <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
+    <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
     <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
     <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
@@ -104,7 +104,7 @@
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
     <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
     <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
-    <Include File="items-legendary/AreaEffect-CollosseumGladiatorNeptun-L.xml" />
+    <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />

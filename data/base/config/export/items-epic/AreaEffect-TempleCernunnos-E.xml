@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000209</GUID>
             <Name>Specialist AreaEffect-TempleCernunnos-E</Name>
-            <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
             <InfoDescription>2001000210</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000210</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000209</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000211</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000212</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/final/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000209</OasisId>

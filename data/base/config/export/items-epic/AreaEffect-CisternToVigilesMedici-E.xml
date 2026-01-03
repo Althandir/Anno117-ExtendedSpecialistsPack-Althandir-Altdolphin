@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000109</GUID>
             <Name>Specialist AreaEffect-CisternToVigilesMedici-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
             <InfoDescription>2001000110</InfoDescription>
           </Standard>
           <Effect>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000145</GUID>
             <Name>Specialist AreaEffect-LibraryPopulationHealth-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
             <InfoDescription>2001000146</InfoDescription>
           </Standard>
           <Effect>

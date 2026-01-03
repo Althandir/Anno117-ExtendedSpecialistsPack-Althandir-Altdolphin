@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>2001000177</GUID>
-            <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByFireSafety-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
             <InfoDescription>2001000177</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000178</GUID>
-                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByFireSafety-R BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -88,7 +88,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000179</GUID>
-                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByFireSafety-R FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -120,7 +120,7 @@
             <Values>
                 <Standard>
                     <GUID>2001000180</GUID>
-                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByFireSafety-R FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -149,25 +149,25 @@
                         </Money>
                         <Prestige>
                         <AmountOrPercent>
-                            <Value>0</Value>
+                            <Value>-2</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>0</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>-2</Value>
+                                <Value>0</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>

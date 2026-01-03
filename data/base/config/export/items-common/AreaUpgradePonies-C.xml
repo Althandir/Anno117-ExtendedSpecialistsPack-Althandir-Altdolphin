@@ -1,43 +1,45 @@
 <ModOps>
-<!-- Item Definition GUID:2001000099-100 | LineID:2001000099-100 -->
+<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4 
+#Idea from: https://www.reddit.com/r/anno/comments/1pz9qeh/anno_117_how_to_i_remove_trees_to_increase_meadow/  
+--> 
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000099</GUID>
-            <Name>Specialist MaintananceMiniInstitutions-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>2001000100</InfoDescription>
+            <GUID>2001000003</GUID>
+            <Name>Specialist AreaUpgradePonies-C</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_AreaUpgradePoniesC.png</IconFilename>
+            <InfoDescription>2001000004</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000100</GUID>
+                <GUID>2001000004</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>144403</GUID>
+                <GUID>5975</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche>
-            <TradePrice>15000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
+            <Niche>Civic</Niche>
+            <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
             <BarkPool>83331</BarkPool> 
             <!-- Bark f Dominus -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000099</OasisId>
+            <OasisId>2001000003</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,42 +54,25 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000100</GUID>
-                    <Name>Specialist MaintananceMiniInstitutions-R BuildingBuff</Name>
+                    <GUID>2001000004</GUID>
+                    <Name>Specialist AreaUpgradePonies-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000099</OasisId>
+                    <OasisId>2001000003</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <Knowledge>
-                      <AmountOrPercent>
-                        <Value>0</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Knowledge>
-                  </AdditionalAttributes>
-                </BuildingUpgrade>
+                <BuildingUpgrade/>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <CanUseForest>1</CanUseForest>
+                </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>-33</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-66</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

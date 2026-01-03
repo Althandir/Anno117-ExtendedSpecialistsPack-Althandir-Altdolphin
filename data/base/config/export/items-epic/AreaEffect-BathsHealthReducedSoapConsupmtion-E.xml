@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000133</GUID>
             <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
             <InfoDescription>2001000134</InfoDescription>
           </Standard>
           <Effect>

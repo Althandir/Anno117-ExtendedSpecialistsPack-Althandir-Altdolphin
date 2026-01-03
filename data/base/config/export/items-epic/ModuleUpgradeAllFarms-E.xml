@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000029</GUID>
             <Name>Specialist ModuleUpgrade AllFarms E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
             <InfoDescription>2001000030</InfoDescription>
           </Standard>
           <Effect>
@@ -75,7 +75,7 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
