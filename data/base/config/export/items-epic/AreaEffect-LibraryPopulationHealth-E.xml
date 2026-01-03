@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000146</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000145</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000147</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000148</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000145</OasisId>

@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000134</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000133</OasisId>
@@ -95,7 +95,7 @@
                 <Standard>
                     <GUID>2001000135</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -127,7 +127,7 @@
                 <Standard>
                     <GUID>2001000136</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000133</OasisId>

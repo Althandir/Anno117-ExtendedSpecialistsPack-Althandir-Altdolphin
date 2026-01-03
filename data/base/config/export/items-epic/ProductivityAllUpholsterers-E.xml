@@ -8,7 +8,7 @@
           <Standard>
             <GUID>2001000025</GUID>
             <Name>Specialist ProductivityAllUpholsterers-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_AllBindersE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_AllUpholsterersE.png</IconFilename>
             <InfoDescription>2001000026</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000026</GUID>
                     <Name>Specialist ProductivityAllUpholsterers-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AllUpholsterersE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000025</OasisId>

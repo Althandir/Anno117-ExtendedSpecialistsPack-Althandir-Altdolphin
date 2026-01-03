@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000170</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000169</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000171</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000172</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000169</OasisId>

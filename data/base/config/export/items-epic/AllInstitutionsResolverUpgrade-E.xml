@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>2001000016</GUID>
                     <Name>Specialist AllInstitutionsResolverUpgrade-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000015</OasisId>

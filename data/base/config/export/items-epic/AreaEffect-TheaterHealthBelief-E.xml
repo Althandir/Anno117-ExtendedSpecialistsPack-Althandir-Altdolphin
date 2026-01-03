@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000122</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000121</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>2001000123</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>2001000124</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000117</OasisId>

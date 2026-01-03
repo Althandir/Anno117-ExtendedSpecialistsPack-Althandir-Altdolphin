@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000088</GUID>
                     <Name>Specialist NeedRewardbyConsumptionIncGarum-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardGarum.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000087</OasisId>

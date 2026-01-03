@@ -60,7 +60,7 @@
                 <Standard>
                     <GUID>2001000034</GUID>
                     <Name>Specialist WarehouseCapacity C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_warehouseCapaC.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000033</OasisId>

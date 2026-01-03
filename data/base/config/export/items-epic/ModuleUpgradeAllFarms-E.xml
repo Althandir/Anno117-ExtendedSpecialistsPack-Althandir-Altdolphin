@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>2001000029</GUID>
-            <Name>Specialist ModuleUpgrade AllFarms E</Name>
+            <Name>Specialist ModuleUpgradeAllFarms-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
             <InfoDescription>2001000030</InfoDescription>
           </Standard>
@@ -53,8 +53,8 @@
             <Values>
                 <Standard>
                     <GUID>2001000030</GUID>
-                    <Name>Specialist ModuleUpgrade AllFarms E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <Name>Specialist ModuleUpgradeAllFarms-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000029</OasisId>

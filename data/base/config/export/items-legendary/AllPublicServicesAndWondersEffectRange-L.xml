@@ -66,7 +66,7 @@
           <Standard>
             <GUID>2001000018</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-L AreaBuff</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_EffectRangeL.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>2001000017</OasisId>
@@ -110,7 +110,7 @@
           <Standard>
             <GUID>2001000213</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-L Wonders AreaBuff</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_EffectRangeL.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>2001000017</OasisId>

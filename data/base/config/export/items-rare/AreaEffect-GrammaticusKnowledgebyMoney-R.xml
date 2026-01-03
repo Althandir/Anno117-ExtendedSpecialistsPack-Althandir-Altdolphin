@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000102</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000101</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>2001000103</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>2001000104</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000101</OasisId>

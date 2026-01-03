@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000106</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000105</OasisId>
@@ -111,7 +111,7 @@
                 <Standard>
                     <GUID>2001000107</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>Radius</EffectScope>
@@ -143,7 +143,7 @@
                 <Standard>
                     <GUID>2001000108</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000105</OasisId>

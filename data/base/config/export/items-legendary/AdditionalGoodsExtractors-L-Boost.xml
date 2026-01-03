@@ -85,7 +85,7 @@
                 <Standard>
                     <GUID>2001000096</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000095</OasisId>
@@ -127,7 +127,7 @@
                 <Standard>
                     <GUID>2001000097</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff Boosted</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000095</OasisId>

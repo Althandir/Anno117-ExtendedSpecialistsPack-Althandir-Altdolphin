@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000084</GUID>
                     <Name>Specialist NeedRewardbyConsumptionIncBeerHappiness-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardBeer.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000083</OasisId>

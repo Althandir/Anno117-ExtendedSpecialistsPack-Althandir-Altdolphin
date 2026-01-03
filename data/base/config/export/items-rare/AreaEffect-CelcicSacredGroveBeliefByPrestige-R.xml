@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000178</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000177</OasisId>
@@ -89,7 +89,7 @@
                 <Standard>
                     <GUID>2001000179</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -121,7 +121,7 @@
                 <Standard>
                     <GUID>2001000180</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000177</OasisId>

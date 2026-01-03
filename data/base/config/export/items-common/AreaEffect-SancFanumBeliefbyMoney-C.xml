@@ -57,7 +57,7 @@
                 <Standard>
                     <GUID>2001000182</GUID>
                     <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_SancFanumBeliefbyMoney.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000181</OasisId>
@@ -92,7 +92,7 @@
                 <Standard>
                     <GUID>2001000183</GUID>
                     <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_SancFanumBeliefbyMoney.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -124,7 +124,7 @@
                 <Standard>
                     <GUID>2001000184</GUID>
                     <Name>Specialist AreaEffect-SancFanumBeliefbyMoney-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_SancFanumBeliefbyMoney.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000181</OasisId>

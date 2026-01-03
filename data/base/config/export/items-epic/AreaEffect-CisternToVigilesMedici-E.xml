@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>2001000110</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000105</OasisId>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>2001000111</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>Radius</EffectScope>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>2001000112</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>2001000105</OasisId>
