@@ -12,7 +12,7 @@
             <InfoDescription>2001000138</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -27,10 +27,9 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Finance</Niche> <!-- Known Niches: Economy, Civic, Military, Culture, Religion -->
-            <TradePrice>5000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <Niche>Finance</Niche>  
+            <TradePrice>5000</TradePrice> 
+            <BarkPool>83311</BarkPool> <!-- <GUID>83311</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>

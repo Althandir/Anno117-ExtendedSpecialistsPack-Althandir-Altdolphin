@@ -12,7 +12,7 @@
             <InfoDescription>2001000166</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -28,9 +28,8 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche>
-            <TradePrice>45000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <TradePrice>45000</TradePrice> 
+            <BarkPool>83360</BarkPool> <!-- <GUID>83360</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>

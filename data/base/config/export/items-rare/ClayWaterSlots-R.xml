@@ -41,8 +41,7 @@
           <Item>
             <Niche>Economy</Niche> 
             <TradePrice>17500</TradePrice>
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>

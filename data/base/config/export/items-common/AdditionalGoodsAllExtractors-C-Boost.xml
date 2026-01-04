@@ -19,7 +19,7 @@
                 <GUID>2001000064</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff -->
+            <Targets> 
               <Item>
                 <GUID>50607</GUID>
               </Item>
@@ -29,8 +29,7 @@
           <Item>
             <Niche>Economy</Niche> 
             <TradePrice>12500</TradePrice>
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <BarkPool>83322</BarkPool> <!-- <GUID>83322</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>

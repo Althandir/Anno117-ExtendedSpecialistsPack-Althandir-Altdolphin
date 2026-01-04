@@ -28,8 +28,8 @@
           <Item>
             <Niche>Culture</Niche> <!-- Known Niches: Economy, Diplomacy = Civic, Military, Culture, Religion, Nature, Nautics = Seafaring, Research, Finance ##Fallback is Finance## -->
             <TradePrice>1000000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <BarkPool>83331</BarkPool> <!-- <GUID>83331</GUID> -->
+             
             <!-- Rarity Not Needed for lowest Rarity 
             <Rarity>Common</Rarity> 
             -->

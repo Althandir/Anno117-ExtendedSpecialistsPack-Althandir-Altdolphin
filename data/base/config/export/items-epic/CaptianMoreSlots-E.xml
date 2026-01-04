@@ -30,8 +30,7 @@
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
             <TradePrice>60000</TradePrice>
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <BarkPool>83318</BarkPool> <!-- <GUID>83318</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>

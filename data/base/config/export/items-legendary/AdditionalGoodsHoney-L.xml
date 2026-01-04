@@ -29,8 +29,7 @@
           <Item>
             <Niche>Economy</Niche> 
             <TradePrice>1350000</TradePrice>
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <BarkPool>0</BarkPool> <!-- #TODO: Test if no Audio is possible or try to import new audio file  <GUID>0</GUID> -->
             <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>

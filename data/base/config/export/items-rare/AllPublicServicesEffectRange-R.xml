@@ -12,7 +12,7 @@
             <InfoDescription>2001000006</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Area</EffectScope> <!-- KnownScopes:Area = Island, Radius = Circle, AreainMeta | Areabuff only works on AreaX -->
+            <EffectScope>Area</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -23,9 +23,8 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche>
-            <TradePrice>300000</TradePrice> <!-- Known Prices: Legendary: ~600000|Epic:~110000|Rare:~16500|Common:~2750 -->
-            <BarkPool>83331</BarkPool> 
-            <!-- Bark f Dominus -->
+            <TradePrice>300000</TradePrice> 
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
