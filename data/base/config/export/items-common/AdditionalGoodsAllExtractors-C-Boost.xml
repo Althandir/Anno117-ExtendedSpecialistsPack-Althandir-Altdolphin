@@ -49,7 +49,7 @@
                   <Values>
                     <Condition/>
                     <ConditionItemUsed>
-                      <TargetItem>2001000095</TargetItem> <!-- #TODO: Update ReqBoostedItem <GUID>2001000095</GUID> -->
+                      <TargetItem>1600000134</TargetItem> <!-- <GUID>1600000134</GUID> -->
                       <ItemAmount>1</ItemAmount>
                       <ItemCountCalculation>InSameObject</ItemCountCalculation>
                     </ConditionItemUsed>

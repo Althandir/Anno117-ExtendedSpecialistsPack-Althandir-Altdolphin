@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000089-90 | LineID:20010000089-90 -->
+<!-- Item Definition GUID:1600000154 - 1600000155 | LineID:1600000154 - 1600000155 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000089</GUID>
+            <GUID>1600000154</GUID>
             <Name>Specialist ProdAreaUpgrade HuntersAndEels L</Name>
             <IconFilename>data/base/graphics/icons/other/male_HunterL.png</IconFilename>
-            <InfoDescription>2001000090</InfoDescription>
+            <InfoDescription>1600000155</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000090</GUID>
+                <GUID>1600000155</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -39,7 +39,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000089</OasisId>
+            <OasisId>1600000154</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -54,12 +54,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000090</GUID>
+                    <GUID>1600000155</GUID>
                     <Name>Specialist ProdAreaUpgrade HuntersAndEels L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/male_HunterL.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000089</OasisId>
+                    <OasisId>1600000154</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

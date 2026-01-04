@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000095-97 | LineID:20010000095-97 -->
+<!-- Item Definition GUID:1600000134 - 1600000136 | LineID:1600000134 - 1600000136 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>ItemWithBoost</Template>
         <Values>
           <Standard>
-            <GUID>2001000095</GUID>
+            <GUID>1600000134</GUID>
             <Name>Specialist AdditionalGoodsExtractors-L-Boost</Name>
             <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
-            <InfoDescription>2001000096</InfoDescription>
+            <InfoDescription>1600000135</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000096</GUID>
+                <GUID>1600000135</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000095</OasisId>
+            <OasisId>1600000134</OasisId>
           </Text>
 
           <ItemWithBoost>
@@ -63,10 +63,10 @@
             </BoostCondition>
             <BoostBuffs>
               <Item>
-                <GUID>2001000097</GUID>
+                <GUID>1600000136</GUID>
               </Item>
             </BoostBuffs>
-            <BoostHint>2001000097</BoostHint>
+            <BoostHint>1600000136</BoostHint>
           </ItemWithBoost>
 
         </Values>
@@ -82,12 +82,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000096</GUID>
+                    <GUID>1600000135</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000095</OasisId>
+                    <OasisId>1600000134</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -123,12 +123,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000097</GUID>
+                    <GUID>1600000136</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff Boosted</Name>
                     <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000095</OasisId>
+                    <OasisId>1600000134</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

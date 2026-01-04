@@ -1,25 +1,25 @@
 <ModOps>
-<!-- Item Definition GUID:2001000017-18 + 2001000213 | LineID:2001000017-18-->
+<!-- Item Definition GUID:GUID:1600000141 - 1600000143 | LineID:1600000141 - 1600000142 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000017</GUID>
+            <GUID>1600000141</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-L</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_EffectRangeL.png</IconFilename>
-            <InfoDescription>2001000018</InfoDescription>
+            <InfoDescription>1600000142</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Area</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000018</GUID>
+                <GUID>1600000142</GUID>
               </Item>
               <Item>
-                <GUID>2001000213</GUID>
+                <GUID>1600000143</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff # Not Required Here as Target is Defined in AreaBuff
@@ -48,7 +48,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000017</OasisId>
+            <OasisId>1600000141</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -63,12 +63,12 @@
         <Template>AreaBuff</Template>
         <Values>
           <Standard>
-            <GUID>2001000018</GUID>
+            <GUID>1600000142</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-L AreaBuff</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_EffectRangeL.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>2001000017</OasisId>
+            <OasisId>1600000141</OasisId>
           </Text>
           <AreaBuff>
             <RadiusEffectRangeUpgrade>
@@ -107,12 +107,12 @@
         <Template>AreaBuff</Template>
         <Values>
           <Standard>
-            <GUID>2001000213</GUID>
+            <GUID>1600000143</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-L Wonders AreaBuff</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_EffectRangeL.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>2001000017</OasisId>
+            <OasisId>1600000141</OasisId>
           </Text>
           <AreaBuff>
             <RadiusEffectRangeUpgrade>

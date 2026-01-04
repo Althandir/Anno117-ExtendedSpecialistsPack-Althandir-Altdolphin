@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000093-94 | LineID:20010000093-94 -->
+<!-- Item Definition GUID:1600000137 - 1600000138 | LineID:1600000137 - 1600000138 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000093</GUID>
+            <GUID>1600000137</GUID>
             <Name>Specialist AdditionalGoods Honey L</Name>
             <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
-            <InfoDescription>2001000094</InfoDescription>
+            <InfoDescription>1600000138</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000094</GUID>
+                <GUID>1600000138</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000093</OasisId>
+            <OasisId>1600000137</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000094</GUID>
+                    <GUID>1600000138</GUID>
                     <Name>Specialist AdditionalGoods Honey L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000093</OasisId>
+                    <OasisId>1600000137</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

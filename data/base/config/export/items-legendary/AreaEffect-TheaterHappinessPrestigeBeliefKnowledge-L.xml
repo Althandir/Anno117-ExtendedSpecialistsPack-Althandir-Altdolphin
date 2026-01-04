@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000125-128 | LineID:2001000125-128 -->
+<!-- Item Definition GUID:1600000148 - 1600000151 | LineID:1600000148 - 1600000149 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000125</GUID>
+            <GUID>1600000148</GUID>
             <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L</Name>
             <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
-            <InfoDescription>2001000126</InfoDescription>
+            <InfoDescription>1600000149</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000126</GUID>
+                <GUID>1600000149</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000125</OasisId>
+            <OasisId>1600000148</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000126</GUID>
+                    <GUID>1600000149</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000125</OasisId>
+                    <OasisId>1600000148</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000127</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000150</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -85,7 +85,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000127</GUID>
+                    <GUID>1600000150</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
@@ -94,7 +94,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000128</GUID>
+                            <GUID>1600000151</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000125</OasisId>
+                    <OasisId>1600000148</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,12 +117,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000128</GUID>
+                    <GUID>1600000151</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000125</OasisId>
+                    <OasisId>1600000148</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
