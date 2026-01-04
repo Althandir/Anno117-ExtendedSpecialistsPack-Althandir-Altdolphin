@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000105-108 | LineID:2001000105-106-->
+<!-- Item Definition GUID:1600000040 - 1600000043 | LineID:1600000040 - 1600000041 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000105</GUID>
+            <GUID>1600000040</GUID>
             <Name>Specialist AreaEffect-ArmsToCustodes-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
-            <InfoDescription>2001000106</InfoDescription>
+            <InfoDescription>1600000041</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000106</GUID>
+                <GUID>1600000041</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000105</OasisId>
+            <OasisId>1600000040</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000106</GUID>
+                    <GUID>1600000041</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000040</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000107</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000042</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -108,7 +108,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000107</GUID>
+                    <GUID>1600000042</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
@@ -117,7 +117,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000108</GUID>
+                            <GUID>1600000043</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -129,7 +129,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000040</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -140,12 +140,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000108</GUID>
+                    <GUID>1600000043</GUID>
                     <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000040</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

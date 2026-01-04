@@ -9,7 +9,7 @@
             <GUID>2001000169</GUID>
             <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
-            <InfoDescription>2001000166</InfoDescription>
+            <InfoDescription>2001000170</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000165</OasisId>
+            <OasisId>2001000169</OasisId>
           </Text>
         </Values>
       </Asset>

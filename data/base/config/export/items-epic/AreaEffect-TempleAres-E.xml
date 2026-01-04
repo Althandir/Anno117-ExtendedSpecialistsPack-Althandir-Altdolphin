@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000193 - 2001000196 | LineID:2001000193 - 2001000194 -->
+<!-- Item Definition GUID:1600000068 - 1600000071 | LineID:1600000068 - 1600000069 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000193</GUID>
+            <GUID>1600000068</GUID>
             <Name>Specialist AreaEffect-TempleAres-E</Name>
             <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
-            <InfoDescription>2001000194</InfoDescription>
+            <InfoDescription>1600000069</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000194</GUID>
+                <GUID>1600000069</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000193</OasisId>
+            <OasisId>1600000068</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000194</GUID>
+                    <GUID>1600000069</GUID>
                     <Name>Specialist AreaEffect-TempleAres-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000193</OasisId>
+                    <OasisId>1600000068</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000195</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000070</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000195</GUID>
+                    <GUID>1600000070</GUID>
                     <Name>Specialist AreaEffect-TempleAres-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000196</GUID>
+                            <GUID>1600000071</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000193</OasisId>
+                    <OasisId>1600000068</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000196</GUID>
+                    <GUID>1600000071</GUID>
                     <Name>Specialist AreaEffect-TempleAres-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000193</OasisId>
+                    <OasisId>1600000068</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

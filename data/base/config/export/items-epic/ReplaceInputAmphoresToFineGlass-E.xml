@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000023-24 | LineID:20010000023-24-->
+<!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000023</GUID>
+            <GUID>1600000130</GUID>
             <Name>Specialist ReplaceInput AmphoresToFineGlass E</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_male_AmphoreToFineGlassE.png</IconFilename>
-            <InfoDescription>2001000024</InfoDescription>
+            <InfoDescription>1600000131</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000024</GUID>
+                <GUID>1600000131</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000023</OasisId>
+            <OasisId>1600000130</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000024</GUID>
+                    <GUID>1600000131</GUID>
                     <Name>Specialist ReplaceInput AmphoresToFineGlass E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_AmphoreToFineGlassE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000024</OasisId>
+                    <OasisId>1600000130</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

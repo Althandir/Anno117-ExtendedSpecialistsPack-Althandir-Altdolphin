@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000087-88 | LineID:2001000087-88 -->
+<!-- Item Definition GUID:1600000116 - 1600000117 | LineID:1600000116 - 1600000117 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000087</GUID>
+            <GUID>1600000116</GUID>
             <Name>Specialist NeedRewardbyConsumptionIncGarum-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardGarum.png</IconFilename>
-            <InfoDescription>200100088</InfoDescription>
+            <InfoDescription>1600000117</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000088</GUID>
+                <GUID>1600000117</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000087</OasisId>
+            <OasisId>1600000116</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000088</GUID>
+                    <GUID>1600000117</GUID>
                     <Name>Specialist NeedRewardbyConsumptionIncGarum-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardGarum.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000087</OasisId>
+                    <OasisId>1600000116</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>

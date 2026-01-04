@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000197 - 2001000200 | LineID:2001000197 - 2001000198 -->
+<!-- Item Definition GUID:1600000088 - 1600000091 | LineID:1600000088 - 1600000089 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000197</GUID>
+            <GUID>1600000088</GUID>
             <Name>Specialist AreaEffect-TempleMinerva-E</Name>
             <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
-            <InfoDescription>2001000197</InfoDescription>
+            <InfoDescription>1600000089</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000198</GUID>
+                <GUID>1600000089</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000197</OasisId>
+            <OasisId>1600000088</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000198</GUID>
+                    <GUID>1600000089</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000197</OasisId>
+                    <OasisId>1600000088</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000199</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000090</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000199</GUID>
+                    <GUID>1600000090</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000200</GUID>
+                            <GUID>1600000091</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000197</OasisId>
+                    <OasisId>1600000088</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000200</GUID>
+                    <GUID>1600000091</GUID>
                     <Name>Specialist AreaEffect-TempleMinerva-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000197</OasisId>
+                    <OasisId>1600000088</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

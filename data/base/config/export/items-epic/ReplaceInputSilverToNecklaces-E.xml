@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000065-66 | LineID:20010000065-66 -->
+<!-- Item Definition GUID:1600000132 - 1600000133 | LineID:1600000132 - 1600000133 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000065</GUID>
+            <GUID>1600000132</GUID>
             <Name>Specialist ReplaceInput SilverToNecklaces E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_male_SilverToNecklacesE.png</IconFilename>
-            <InfoDescription>2001000065</InfoDescription>
+            <InfoDescription>1600000133</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000066</GUID>
+                <GUID>1600000133</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000065</OasisId>
+            <OasisId>1600000132</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000066</GUID>
+                    <GUID>1600000133</GUID>
                     <Name>Specialist ReplaceInput SilverToNecklaces E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_SilverToNecklacesE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000065</OasisId>
+                    <OasisId>1600000132</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000201 - 2001000204 | LineID:2001000201 - 2001000202 -->
+<!-- Item Definition GUID:1600000084 - 1600000087 | LineID:1600000084 - 1600000085 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000201</GUID>
+            <GUID>1600000084</GUID>
             <Name>Specialist AreaEffect-TempleMercury-E</Name>
             <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mercury.png</IconFilename>
-            <InfoDescription>2001000202</InfoDescription>
+            <InfoDescription>1600000085</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000202</GUID>
+                <GUID>1600000085</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000201</OasisId>
+            <OasisId>1600000084</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000202</GUID>
+                    <GUID>1600000085</GUID>
                     <Name>Specialist AreaEffect-TempleMercury-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mercury.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000201</OasisId>
+                    <OasisId>1600000084</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000203</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000086</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000203</GUID>
+                    <GUID>1600000086</GUID>
                     <Name>Specialist AreaEffect-TempleMercury-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mercury.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000204</GUID>
+                            <GUID>1600000087</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000201</OasisId>
+                    <OasisId>1600000084</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000204</GUID>
+                    <GUID>1600000087</GUID>
                     <Name>Specialist AreaEffect-TempleMercury-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mercury.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000201</OasisId>
+                    <OasisId>1600000084</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

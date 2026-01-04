@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000085-86 | LineID:2001000085-86 -->
+<!-- Item Definition GUID:1600000104 - 1600000105 | LineID:1600000104 - 1600000105 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000085</GUID>
+            <GUID>1600000104</GUID>
             <Name>Specialist GoodConsumptionDecrease-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_env.png</IconFilename>
-            <InfoDescription>200100086</InfoDescription>
+            <InfoDescription>1600000105</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000086</GUID>
+                <GUID>1600000105</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000085</OasisId>
+            <OasisId>1600000104</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000086</GUID>
+                    <GUID>1600000105</GUID>
                     <Name>Specialist GoodConsumptionDecrease-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_env.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000085</OasisId>
+                    <OasisId>1600000104</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>

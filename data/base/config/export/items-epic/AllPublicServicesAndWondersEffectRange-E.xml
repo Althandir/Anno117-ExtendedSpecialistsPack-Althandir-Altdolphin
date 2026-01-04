@@ -1,25 +1,25 @@
 <ModOps>
-<!-- Item Definition GUID:2001000007-8 + 2001000214 | LineID:2001000007-8-->
+<!-- Item Definition GUID:1600000037 - 1600000039 | LineID:1600000036 - 1600000036 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000007</GUID>
+            <GUID>1600000037</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
-            <InfoDescription>2001000008</InfoDescription>
+            <InfoDescription>1600000038</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Area</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000008</GUID>
+                <GUID>1600000038</GUID>
               </Item>
               <Item>
-                <GUID>2001000214</GUID>
+                <GUID>1600000039</GUID>
               </Item>
             </Buffs>
             <HideInGovernorsBar>0</HideInGovernorsBar>
@@ -34,7 +34,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000007</OasisId>
+            <OasisId>1600000037</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -49,12 +49,12 @@
           <Template>AreaBuff</Template>
           <Values>
             <Standard>
-              <GUID>2001000008</GUID>
+              <GUID>1600000038</GUID>
               <Name>Specialist AllPublicServicesAndWondersEffectRange-E AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
             </Standard>
             <Text>
-              <OasisId>2001000007</OasisId>
+              <OasisId>1600000037</OasisId>
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
@@ -92,12 +92,12 @@
         <Template>AreaBuff</Template>
         <Values>
           <Standard>
-            <GUID>2001000214</GUID>
+            <GUID>1600000039</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-E Wonders AreaBuff</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
           </Standard>
           <Text>
-            <OasisId>2001000007</OasisId>
+            <OasisId>1600000037</OasisId>
           </Text>
           <AreaBuff>
             <RadiusEffectRangeUpgrade>

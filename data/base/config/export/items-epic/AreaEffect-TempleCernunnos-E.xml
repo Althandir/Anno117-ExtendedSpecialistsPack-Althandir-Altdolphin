@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000209 - 2001000212 | LineID:2001000209 - 2001000210 -->
+<!-- Item Definition GUID:1600000076 - 1600000079 | LineID:1600000076 - 1600000077 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000209</GUID>
+            <GUID>1600000076</GUID>
             <Name>Specialist AreaEffect-TempleCernunnos-E</Name>
             <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
-            <InfoDescription>2001000210</InfoDescription>
+            <InfoDescription>1600000077</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000210</GUID>
+                <GUID>1600000077</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000209</OasisId>
+            <OasisId>1600000076</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000210</GUID>
+                    <GUID>1600000077</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000209</OasisId>
+                    <OasisId>1600000076</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000211</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000078</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000211</GUID>
+                    <GUID>1600000078</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000212</GUID>
+                            <GUID>1600000079</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000209</OasisId>
+                    <OasisId>1600000076</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000212</GUID>
+                    <GUID>1600000079</GUID>
                     <Name>Specialist AreaEffect-TempleCernunnos-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000209</OasisId>
+                    <OasisId>1600000076</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

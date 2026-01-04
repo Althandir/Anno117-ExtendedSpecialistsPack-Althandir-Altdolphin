@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000015-16 | LineID:2001000015-16 #TODO: Evaluate Rarity -->
+<!-- Item Definition GUID:1600000035 - 1600000036 | LineID:1600000035 - 1600000036 #TODO: Evaluate Rarity -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000015</GUID>
+            <GUID>1600000035</GUID>
             <Name>Specialist AllInstitutionsResolverUpgrade-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
-            <InfoDescription>2001000016</InfoDescription>
+            <InfoDescription>1600000036</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>ObjectsInArea</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000016</GUID>
+                <GUID>1600000036</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000015</OasisId>
+            <OasisId>1600000035</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -50,12 +50,12 @@
           <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000016</GUID>
+                    <GUID>1600000036</GUID>
                     <Name>Specialist AllInstitutionsResolverUpgrade-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000015</OasisId>
+                    <OasisId>1600000035</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

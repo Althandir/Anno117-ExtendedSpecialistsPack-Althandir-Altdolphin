@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000039-40 | LineID:20010000039-40 -->
+<!-- Item Definition GUID:1600000106 - 1600000107 | LineID:1600000106 - 1600000107 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000039</GUID>
+            <GUID>1600000106</GUID>
             <Name>Specialist Minerals AllQuarriesAndMines E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_mineraldigger.png</IconFilename>
-            <InfoDescription>2001000040</InfoDescription>
+            <InfoDescription>1600000107</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000040</GUID>
+                <GUID>1600000107</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -39,7 +39,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000039</OasisId>
+            <OasisId>1600000106</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -54,12 +54,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000040</GUID>
+                    <GUID>1600000107</GUID>
                     <Name>Specialist Minerals AllQuarriesAndMines E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_mineraldigger.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000039</OasisId>
+                    <OasisId>1600000106</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

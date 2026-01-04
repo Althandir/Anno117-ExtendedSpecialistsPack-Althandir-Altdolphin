@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000133-136 | LineID:2001000133-134 -->
+<!-- Item Definition GUID:1600000044 - 1600000047| LineID:1600000044 - 1600000045 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000133</GUID>
+            <GUID>1600000044</GUID>
             <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
-            <InfoDescription>2001000134</InfoDescription>
+            <InfoDescription>1600000045</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000134</GUID>
+                <GUID>1600000045</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000133</OasisId>
+            <OasisId>1600000044</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000134</GUID>
+                    <GUID>1600000045</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000133</OasisId>
+                    <OasisId>1600000044</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000135</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000046</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -92,7 +92,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000135</GUID>
+                    <GUID>1600000046</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
@@ -101,7 +101,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000136</GUID>
+                            <GUID>1600000047</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -113,7 +113,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000133</OasisId>
+                    <OasisId>1600000044</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -124,12 +124,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000136</GUID>
+                    <GUID>1600000047</GUID>
                     <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000133</OasisId>
+                    <OasisId>1600000044</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

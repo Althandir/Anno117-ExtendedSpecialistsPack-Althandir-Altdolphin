@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000091-92 | LineID:20010000091-92 -->
+<!-- Item Definition GUID:1600000122 - 1600000123 | LineID:1600000122 - 1600000123 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000091</GUID>
+            <GUID>1600000122</GUID>
             <Name>Specialist ProductitvityByFuel AllFuelConsumers E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
-            <InfoDescription>2001000092</InfoDescription>
+            <InfoDescription>1600000123</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000092</GUID>
+                <GUID>1600000123</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000069</OasisId>
+            <OasisId>1600000122</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000092</GUID>
+                    <GUID>1600000123</GUID>
                     <Name>Specialist ProductitvityByFuel AllFuelConsumers E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000091</OasisId>
+                    <OasisId>1600000122</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -79,7 +79,7 @@
                     <Value>40</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-25</FuelDurationPercent>
+                  <FuelDurationPercent>-20</FuelDurationPercent>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

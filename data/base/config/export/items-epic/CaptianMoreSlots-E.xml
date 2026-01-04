@@ -1,21 +1,21 @@
 <ModOps>
-<!-- Item Definition GUID:2001000073-74 | LineID:20010000073-74 -->
+<!-- Item Definition GUID:1600000102 - 1600000103 | LineID:1600000102 - 1600000103 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000073</GUID>
+            <GUID>1600000102</GUID>
             <Name>Captian MoreSlots E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_MoreSlotsE.png</IconFilename>
-            <InfoDescription>2001000074</InfoDescription>
+            <InfoDescription>1600000103</InfoDescription>
           </Standard>
           <Effect>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000074</GUID>
+                <GUID>1600000103</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000073</OasisId>
+            <OasisId>1600000102</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,7 +52,7 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000074</GUID>
+                    <GUID>1600000103</GUID>
                     <Name>Captian MoreSlots E ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_MoreSlotsE.png</IconFilename>
                 </Standard>
@@ -65,7 +65,7 @@
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>2001000073</OasisId>
+                    <OasisId>1600000102</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>

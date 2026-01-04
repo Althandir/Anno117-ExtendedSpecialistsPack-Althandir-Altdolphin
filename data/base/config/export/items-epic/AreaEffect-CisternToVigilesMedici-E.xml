@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000109-112 | LineID:2001000109-110-->
+<!-- Item Definition GUID:1600000052 - 1600000055 | LineID:1600000052 - 1600000053 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000109</GUID>
+            <GUID>1600000052</GUID>
             <Name>Specialist AreaEffect-CisternToVigilesMedici-E</Name>
             <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
-            <InfoDescription>2001000110</InfoDescription>
+            <InfoDescription>1600000053</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000110</GUID>
+                <GUID>1600000053</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000109</OasisId>
+            <OasisId>1600000052</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000110</GUID>
+                    <GUID>1600000053</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000111</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000054</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -117,7 +117,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000111</GUID>
+                    <GUID>1600000054</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
@@ -126,7 +126,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000112</GUID>
+                            <GUID>1600000055</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -141,7 +141,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -152,12 +152,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000112</GUID>
+                    <GUID>1600000055</GUID>
                     <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000105</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

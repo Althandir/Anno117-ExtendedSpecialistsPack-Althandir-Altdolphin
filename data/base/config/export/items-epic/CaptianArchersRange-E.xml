@@ -1,21 +1,21 @@
 <ModOps>
-<!-- Item Definition GUID:2001000077-78 | LineID:20010000077-78 -->
+<!-- Item Definition GUID:1600000100 - 1600000101 | LineID:1600000100 - 1600000101 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000077</GUID>
+            <GUID>1600000100</GUID>
             <Name>Captian ArchersRange E</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_male_captianArchersRangeE.png</IconFilename>
-            <InfoDescription>2001000078</InfoDescription>
+            <InfoDescription>1600000101</InfoDescription>
           </Standard>
           <Effect>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000078</GUID>
+                <GUID>1600000101</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000077</OasisId>
+            <OasisId>1600000100</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,7 +52,7 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000078</GUID>
+                    <GUID>1600000101</GUID>
                     <Name>Captian ArchersRange E ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_captianArchersRangeE.png</IconFilename>
                 </Standard>
@@ -60,7 +60,7 @@
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>2001000077</OasisId>
+                    <OasisId>1600000100</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>

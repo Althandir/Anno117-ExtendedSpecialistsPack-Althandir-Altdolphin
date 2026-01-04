@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000145-148 | LineID:2001000145-146 -->
+<!-- Item Definition GUID:1600000064 - 1600000067 | LineID:1600000064 - 1600000065 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000145</GUID>
+            <GUID>1600000064</GUID>
             <Name>Specialist AreaEffect-LibraryPopulationHealth-E</Name>
             <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
-            <InfoDescription>2001000146</InfoDescription>
+            <InfoDescription>1600000065</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000146</GUID>
+                <GUID>1600000065</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000145</OasisId>
+            <OasisId>1600000064</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000146</GUID>
+                    <GUID>1600000065</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000145</OasisId>
+                    <OasisId>1600000064</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000147</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000066</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000147</GUID>
+                    <GUID>1600000066</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000148</GUID>
+                            <GUID>1600000067</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000145</OasisId>
+                    <OasisId>1600000064</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000148</GUID>
+                    <GUID>1600000067</GUID>
                     <Name>Specialist AreaEffect-LibraryPopulationHealth-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/other_male_LibraryPopulationHealth.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000145</OasisId>
+                    <OasisId>1600000064</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

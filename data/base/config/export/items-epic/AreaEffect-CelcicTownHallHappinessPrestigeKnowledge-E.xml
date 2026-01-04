@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000165-168 | LineID:2001000161-162 -->
+<!-- Item Definition GUID:1600000048 - 1600000051 | LineID:1600000048 - 1600000049 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000165</GUID>
+            <GUID>1600000048</GUID>
             <Name>Specialist AreaEffect-CelcicTownHallPrestigeKnowledge-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_male_celticTownhallHappinessPrestigeKnowledge.png</IconFilename>
-            <InfoDescription>2001000166</InfoDescription>
+            <InfoDescription>1600000049</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000166</GUID>
+                <GUID>1600000049</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000165</OasisId>
+            <OasisId>1600000048</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000166</GUID>
+                    <GUID>1600000049</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPrestigeKnowledge-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_celticTownhallHappinessPrestigeKnowledge.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000165</OasisId>
+                    <OasisId>1600000048</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000167</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000050</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000167</GUID>
+                    <GUID>1600000050</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPrestigeKnowledge-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_celticTownhallHappinessPrestigeKnowledge.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000168</GUID>
+                            <GUID>1600000051</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000161</OasisId>
+                    <OasisId>1600000048</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000168</GUID>
+                    <GUID>1600000051</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPrestigeKnowledge-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_celticTownhallHappinessPrestigeKnowledge.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000165</OasisId>
+                    <OasisId>1600000048</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000205 - 2001000208 | LineID:2001000205 - 2001000206 -->
+<!-- Item Definition GUID:1600000080 - 1600000083 | LineID:1600000080 - 1600000081 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000205</GUID>
+            <GUID>1600000080</GUID>
             <Name>Specialist AreaEffect-TempleEpona-E</Name>
             <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
-            <InfoDescription>2001000202</InfoDescription>
+            <InfoDescription>1600000081</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000206</GUID>
+                <GUID>1600000081</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000201</OasisId>
+            <OasisId>1600000080</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000206</GUID>
+                    <GUID>1600000081</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000205</OasisId>
+                    <OasisId>1600000080</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000207</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000082</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000207</GUID>
+                    <GUID>1600000082</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000208</GUID>
+                            <GUID>1600000083</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000205</OasisId>
+                    <OasisId>1600000080</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000208</GUID>
+                    <GUID>1600000083</GUID>
                     <Name>Specialist AreaEffect-TempleEpona-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_eponia.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000205</OasisId>
+                    <OasisId>1600000080</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000029-30 | LineID:20010000029-30-->
+<!-- Item Definition GUID:1600000108 - 1600000109 | LineID:1600000108 - 1600000109 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000029</GUID>
+            <GUID>1600000108</GUID>
             <Name>Specialist ModuleUpgradeAllFarms-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
-            <InfoDescription>2001000030</InfoDescription>
+            <InfoDescription>1600000109</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000030</GUID>
+                <GUID>1600000109</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000029</OasisId>
+            <OasisId>1600000108</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000030</GUID>
+                    <GUID>1600000109</GUID>
                     <Name>Specialist ModuleUpgradeAllFarms-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000029</OasisId>
+                    <OasisId>1600000108</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000121-124 | LineID:2001000121-122 -->
+<!-- Item Definition GUID:1600000096 - 1600000099 | LineID:1600000096 - 1600000097 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000121</GUID>
+            <GUID>1600000096</GUID>
             <Name>Specialist AreaEffect-TheaterHealthBelief-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
-            <InfoDescription>2001000122</InfoDescription>
+            <InfoDescription>1600000097</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000122</GUID>
+                <GUID>1600000097</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000121</OasisId>
+            <OasisId>1600000096</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,16 +52,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000122</GUID>
+                    <GUID>1600000097</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000121</OasisId>
+                    <OasisId>1600000096</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000123</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000098</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000123</GUID>
+                    <GUID>1600000098</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000124</GUID>
+                            <GUID>1600000099</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000117</OasisId>
+                    <OasisId>1600000096</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,7 +118,7 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000124</GUID>
+                    <GUID>1600000099</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>

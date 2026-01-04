@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000149-152 | LineID:2001000149-150 -->
+<!-- Item Definition GUID:1600000060 - 1600000063 | LineID:1600000060 - 1600000061 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000149</GUID>
+            <GUID>1600000060</GUID>
             <Name>Specialist AreaEffect-LibraryKnowledgePrestigebyFireSafety-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_female_LibraryKnowledgePrestigebyFireSafety.png</IconFilename>
-            <InfoDescription>2001000150</InfoDescription>
+            <InfoDescription>1600000061</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000150</GUID>
+                <GUID>1600000061</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000149</OasisId>
+            <OasisId>1600000060</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000150</GUID>
+                    <GUID>1600000061</GUID>
                     <Name>Specialist AreaEffect-LibraryKnowledgePrestigebyFireSafety-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_female_LibraryKnowledgePrestigebyFireSafety.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000149</OasisId>
+                    <OasisId>1600000060</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000151</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000062</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000151</GUID>
+                    <GUID>1600000062</GUID>
                     <Name>Specialist AreaEffect-LibraryKnowledgePrestigebyFireSafety-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_female_LibraryKnowledgePrestigebyFireSafety.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000152</GUID>
+                            <GUID>1600000063</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000149</OasisId>
+                    <OasisId>1600000060</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000152</GUID>
+                    <GUID>1600000063</GUID>
                     <Name>Specialist AreaEffect-LibraryKnowledgePrestigebyFireSafety-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_female_LibraryKnowledgePrestigebyFireSafety.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000149</OasisId>
+                    <OasisId>1600000060</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
