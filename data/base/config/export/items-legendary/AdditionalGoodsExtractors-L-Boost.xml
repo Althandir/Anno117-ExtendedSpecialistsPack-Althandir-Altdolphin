@@ -112,7 +112,6 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
@@ -162,7 +161,6 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

@@ -1,5 +1,5 @@
 <ModOps>
-
+<!-- #TODO: Remove Old Testing code -->
 <!-- Add to AssetList -->
   <Group>
     <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
@@ -25,24 +25,6 @@
       <ItemLink>2001000081</ItemLink>
           <Weight>100</Weight>
       </Item>
-      <Item>
-      <ItemLink>2001000205</ItemLink>
-          <Weight>100</Weight>
-      </Item>
- 
-      <Item>
-          <ItemLink>2001000153</ItemLink>
-          <Weight>100</Weight>
-      </Item>
-      <Item>
-          <ItemLink>2001000157</ItemLink>
-          <Weight>100</Weight>
-      </Item>
-      <Item>
-          <ItemLink>2001000161</ItemLink>
-          <Weight>100</Weight>
-      </Item>
-      
        for Testing -->
     </ModOp>
   </Group>

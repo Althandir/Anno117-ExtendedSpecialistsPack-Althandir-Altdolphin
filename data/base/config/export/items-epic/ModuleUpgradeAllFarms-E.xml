@@ -92,7 +92,6 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <AreaBuff/> 
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>

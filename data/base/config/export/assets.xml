@@ -8,10 +8,13 @@
     For Properties see properties-meta.xml from game.rda
   -->
 
-<!-- Testing & Learning -->
+  <!-- Testing & Learning -->
   <Group>
+    <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
+    -->
+    <Include File="testing/pools-forceSpawnTesting.xml"/>
   </Group>
   
   <!-- Common Specialists -->

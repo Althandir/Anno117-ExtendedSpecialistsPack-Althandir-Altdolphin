@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:2001000023-24 | LineID:20010000023-24-->
+<!-- Item Definition GUID:1600000000 - 1600000001 | LineID:1600000000 - 1600000001 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000023</GUID>
-            <Name>Specialist ReplaceInput AmphoresToFineGlass E</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_AmphoreToFineGlassE.png</IconFilename>
-            <InfoDescription>2001000024</InfoDescription>
+            <GUID>1600000000</GUID>
+            <Name>Specialist DolphinVilla-L</Name>
+            <IconFilename>data/base/graphics/icons/other/animals/dolphin.png</IconFilename>
+            <InfoDescription>1600000001</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000024</GUID>
+                <GUID>1600000001</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3202</GUID>
+                <GUID>68720</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
-            <TradePrice>150000</TradePrice>
-            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Niche>Diplomacy</Niche> 
+            <TradePrice>1350000</TradePrice>
+            <BarkPool>0</BarkPool> <!-- #TODO: Test if no Audio is possible or try to import new audio file  <GUID>0</GUID> -->
+            <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000023</OasisId>
+            <OasisId>1600000000</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,36 +51,37 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000024</GUID>
-                    <Name>Specialist ReplaceInput AmphoresToFineGlass E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AmphoreToFineGlassE.png</IconFilename>
+                    <GUID>1600000001</GUID>
+                    <Name>Specialist DolphinVilla-L BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/animals/dolphin.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000024</OasisId>
+                    <OasisId>1600000000</OasisId>
                 </Text>
-                <HealthUpgrade/>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>250</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
                 <BuildingUpgrade>
+                  <AdditionalAttributes>
+                    <Prestige>
+                      <Value>250</Value>
+                      <Percental>0</Percental>
+                    </Prestige>
+                    <Belief>
+                      <Value>100</Value>
+                      <Percental>0</Percental>
+                    </Belief>
+                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2151</Product>
-                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
-                  <ReplaceInputs>
-                    <Item>
-                      <OldInput>2117</OldInput>
-                      <NewInput>31700</NewInput>
-                    </Item>
-                  </ReplaceInputs>
-                </FactoryUpgrade>
+                <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>

@@ -88,7 +88,6 @@
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <AreaBuff/> 
                 <WarehouseUpgrade>
                   <StorageCapacityModifier>50</StorageCapacityModifier>
                 </WarehouseUpgrade>
