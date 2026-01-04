@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000173-176 | LineID:2001000173-174 -->
+<!-- Item Definition GUID:1600000009 - 1600000012 | LineID:1600000009 - 1600000010 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000173</GUID>
+            <GUID>1600000009</GUID>
             <Name>Specialist AreaEffect-CelcicBarrowHealth-C</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
-            <InfoDescription>2001000174</InfoDescription>
+            <InfoDescription>1600000010</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000174</GUID>
+                <GUID>1600000010</GUID>
               </Item>
             </Buffs>
             <Targets> 
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000173</OasisId>
+            <OasisId>1600000009</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000174</GUID>
+                    <GUID>1600000010</GUID>
                     <Name>Specialist AreaEffect-CelcicBarrowHealth-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000173</OasisId>
+                    <OasisId>1600000009</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000175</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000011</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000175</GUID>
+                    <GUID>1600000011</GUID>
                     <Name>Specialist AreaEffect-CelcicBarrowHealth-C FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000176</GUID>
+                            <GUID>1600000012</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000173</OasisId>
+                    <OasisId>1600000009</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000176</GUID>
+                    <GUID>1600000012</GUID>
                     <Name>Specialist AreaEffect-CelcicBarrowHealth-C FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000173</OasisId>
+                    <OasisId>1600000009</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

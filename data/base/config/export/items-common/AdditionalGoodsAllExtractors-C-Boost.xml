@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000063-64 + 98 | LineID:20010000063-64 + 98 -->
+<!-- Item Definition GUID:1600000002 - 1600000004 | LineID:1600000002 - 1600000004 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>ItemWithBoost</Template>
         <Values>
           <Standard>
-            <GUID>2001000063</GUID>
+            <GUID>1600000002</GUID>
             <Name>Specialist AdditionalGoodsAllExtractors-C-Boost</Name>
             <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
-            <InfoDescription>2001000064</InfoDescription>
+            <InfoDescription>1600000003</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000064</GUID>
+                <GUID>1600000003</GUID>
               </Item>
             </Buffs>
             <Targets> 
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000063</OasisId>
+            <OasisId>1600000002</OasisId>
           </Text>
  
           <ItemWithBoost>
@@ -49,7 +49,7 @@
                   <Values>
                     <Condition/>
                     <ConditionItemUsed>
-                      <TargetItem>2001000095</TargetItem> <!--<GUID>2001000095</GUID> -->
+                      <TargetItem>2001000095</TargetItem> <!-- #TODO: Update ReqBoostedItem <GUID>2001000095</GUID> -->
                       <ItemAmount>1</ItemAmount>
                       <ItemCountCalculation>InSameObject</ItemCountCalculation>
                     </ConditionItemUsed>
@@ -63,10 +63,10 @@
             </BoostCondition>
             <BoostBuffs>
               <Item>
-                <GUID>2001000098</GUID>
+                <GUID>1600000004</GUID>
               </Item>
             </BoostBuffs>
-            <BoostHint>2001000088</BoostHint>
+            <BoostHint>1600000004</BoostHint>
           </ItemWithBoost>
           
         </Values>
@@ -82,12 +82,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000064</GUID>
+                    <GUID>1600000003</GUID>
                     <Name>Specialist AdditionalGoodsAllExtractors-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000063</OasisId>
+                    <OasisId>1600000002</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -130,12 +130,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000098</GUID>
+                    <GUID>1600000004</GUID>
                     <Name>Specialist AdditionalGoodsAllExtractors-C-Boost BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000063</OasisId>
+                    <OasisId>1600000002</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000009-12 | LineID:2001000009-10-->
+<!-- Item Definition GUID:1600000013 - 1600000016 | LineID:1600000013 - 14 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000009</GUID>
+            <GUID>1600000013</GUID>
             <Name>Specialist AreaEffect-MarketBelief-C</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_female_market_belief.png</IconFilename>
-            <InfoDescription>2001000010</InfoDescription>
+            <InfoDescription>1600000014</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000010</GUID>
+                <GUID>1600000014</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000009</OasisId>
+            <OasisId>1600000013</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000010</GUID>
+                    <GUID>1600000014</GUID>
                     <Name>Specialist AreaEffect-MarketBelief-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_female_market_belief.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000009</OasisId>
+                    <OasisId>1600000013</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000011</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000015</AdditionalFunctionalEffect>
                     <AdditionalAttributes>
                       <Belief>
                         <AmountOrPercent>
@@ -93,7 +93,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000011</GUID>
+                    <GUID>1600000015</GUID>
                     <Name>Specialist AreaEffect-MarketBelief-C FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_female_market_belief.png</IconFilename>
                 </Standard>
@@ -102,7 +102,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000012</GUID>
+                            <GUID>1600000016</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -114,7 +114,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000009</OasisId>
+                    <OasisId>1600000013</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -125,12 +125,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000012</GUID>
+                    <GUID>1600000016</GUID>
                     <Name>Specialist AreaEffect-MarketBelief-C FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_female_market_belief.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000009</OasisId>
+                    <OasisId>1600000013</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

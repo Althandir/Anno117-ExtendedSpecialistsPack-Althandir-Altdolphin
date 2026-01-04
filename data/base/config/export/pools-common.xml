@@ -9,39 +9,39 @@
     <Group>
         <ModOp Type="add" GUID="83448,83460,83464,83468,83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
         <Item>
-            <ItemLink>2001000063</ItemLink>
+            <ItemLink>1600000002</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000141</ItemLink>
+            <ItemLink>1600000005</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000173</ItemLink>
+            <ItemLink>1600000009</ItemLink>
         </Item>
         <Item> 
-            <ItemLink>2001000009</ItemLink>
+            <ItemLink>1600000013</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000181</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>2001000137</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000047</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000075</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000067</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000003</ItemLink>
+            <ItemLink>1600000017</ItemLink>
         </Item>
         <!-- 5 -->
         <Item>
-            <ItemLink>2001000033</ItemLink>
+            <ItemLink>1600000021</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000025</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000029</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000031</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000027</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>1600000033</ItemLink>
         </Item>
 
         </ModOp>

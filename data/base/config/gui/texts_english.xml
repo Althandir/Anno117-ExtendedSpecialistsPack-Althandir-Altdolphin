@@ -1,5 +1,5 @@
 <ModOps>
-  <!--#TODO: Remove Test Code -->
+  <!-- #TODO: Remove Test Code -->
   <!-- Test Specialist aka DolphinTest 
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -14,85 +14,202 @@
     </ModOp>
   </Group>
   -->
+
   <!-- Specialist Specialist DolphinVilla-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist DolphinVilla-L Title</Text>
+          <Text>Majestic Dolphin</Text>
           <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist DolphinVilla-L Description</Text>
+          <Text>Housing such a majestic Creature in this Building attracts many visitors from far shores. Just look at it.. wiggling with his fins. Meb Meb. </Text>
           <LineId>1600000001</LineId> 
       </Text>
     </ModOp>
   </Group>
-
-
-
-  <!-- Specialist AllPublicServicesRange C -->
+  
+  <!-- Specialist AdditionalGoodsAllExtractors-C-Boost -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange C Title</Text>
-          <LineId>2001000003</LineId>
+          <Text>Specialist AdditionalGoodsAllExtractors-C-Boost Title</Text>
+          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange C Description</Text>
-          <LineId>2001000004</LineId>
+          <Text>Specialist AdditionalGoodsAllExtractors-C-Boost Description</Text>
+          <LineId>1600000003</LineId> 
+      </Text>
+      <!-- Boost Description -->
+      <Text>
+          <Text>Specialist AdditionalGoodsAllExtractors-C-Boost Boost Hint</Text>
+          <LineId>1600000004</LineId> 
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist AllPublicServicesRange R -->
+  
+  <!-- Specialist AreaEffect-BardicHallBelief-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange R Title</Text>
-          <LineId>2001000005</LineId>
+          <Text>Specialist AreaEffect-BardicHallBelief-C Title</Text>
+          <LineId>1600000005</LineId> <!-- <GUID>1600000005</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange R Description</Text>
-          <LineId>2001000006</LineId>
+          <Text>Specialist AreaEffect-BardicHallBelief-C Description</Text>
+          <LineId>1600000006</LineId> 
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist AllPublicServicesRange E -->
+  
+  <!-- Specialist AreaEffect-CelcicBarrowHealth-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AllPublicServicesRange E Title</Text>
-          <LineId>2001000007</LineId>
+          <Text>Specialist AreaEffect-CelcicBarrowHealth-C Title</Text>
+          <LineId>1600000009</LineId> <!-- <GUID>1600000009</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist AllPublicServicesRange E Description</Text>
-          <LineId>2001000008</LineId>
+          <Text>Specialist AreaEffect-CelcicBarrowHealth-C Description</Text>
+          <LineId>1600000010</LineId> 
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist MarketFaithFocus C -->
+  
+  <!-- Specialist AreaEffect-MarketBelief-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist MarketFaithFocus C Title</Text>
-          <LineId>2001000009</LineId>
+          <Text>Specialist AreaEffect-MarketBelief-C Title</Text>
+          <LineId>1600000013</LineId> <!-- <GUID>1600000013</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Specialist MarketFaithFocus C Description</Text>
-          <LineId>2001000010</LineId>
+          <Text>Specialist AreaEffect-MarketBelief-C Description</Text>
+          <LineId>1600000014</LineId> 
       </Text>
     </ModOp>
   </Group>
+  
+  <!-- Specialist AreaEffect-SancFanumBeliefbyMoney-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-SancFanumBeliefbyMoney-C Title</Text>
+          <LineId>1600000017</LineId> <!-- <GUID>1600000017</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AreaEffect-SancFanumBeliefbyMoney-C Description</Text>
+          <LineId>1600000018</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-TabernaMoney-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-TabernaMoney-C Title</Text>
+          <LineId>1600000021</LineId> <!-- <GUID>1600000021</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AreaEffect-TabernaMoney-C Description</Text>
+          <LineId>1600000022</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaUpgradeForestries-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaUpgradeForestries-C Title</Text>
+          <LineId>1600000025</LineId> <!-- <GUID>1600000025</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AreaUpgradeForestries-C Description</Text>
+          <LineId>1600000026</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaUpgradePonies-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaUpgradePonies-C Title</Text>
+          <LineId>1600000027</LineId> <!-- <GUID>1600000027</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist AreaUpgradePonies-C Description</Text>
+          <LineId>1600000028</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist CaptianMoreSlots-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist CaptianMoreSlots-C Title</Text>
+          <LineId>1600000029</LineId> <!-- <GUID>1600000029</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist CaptianMoreSlots-C Description</Text>
+          <LineId>1600000030</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist DrainageIrrigationUpgrade-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist DrainageIrrigationUpgrade-C Title</Text>
+          <LineId>1600000031</LineId> <!-- <GUID>1600000031</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist DrainageIrrigationUpgrade-C Description</Text>
+          <LineId>1600000032</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist WarehouseCapacityUpgrade-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist WarehouseCapacityUpgrade-C Title</Text>
+          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Specialist WarehouseCapacityUpgrade-C Description</Text>
+          <LineId>1600000034</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000067-68 | LineID:20010000067-68 -->
+<!-- Item Definition GUID:1600000031 - 1600000032 | LineID:1600000031 - 1600000032 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000067</GUID>
-            <Name>Specialist DrainageIrrigationUpgrade C</Name>
+            <GUID>1600000031</GUID>
+            <Name>Specialist DrainageIrrigationUpgrade-C</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_drainage.png</IconFilename>
-            <InfoDescription>2001000067</InfoDescription>
+            <InfoDescription>1600000032</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000068</GUID>
+                <GUID>1600000032</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000067</OasisId>
+            <OasisId>1600000031</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000068</GUID>
-                    <Name>Specialist DrainageIrrigationUpgrade C BuildingBuff</Name>
+                    <GUID>1600000032</GUID>
+                    <Name>Specialist DrainageIrrigationUpgrade-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_drainage.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000067</OasisId>
+                    <OasisId>1600000031</OasisId>
                 </Text>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>

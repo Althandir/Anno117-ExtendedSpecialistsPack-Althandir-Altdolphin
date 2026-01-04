@@ -12,7 +12,7 @@
             <InfoDescription>1600000001</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Local</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -21,7 +21,7 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>68720</GUID>
+                <GUID>92731</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>

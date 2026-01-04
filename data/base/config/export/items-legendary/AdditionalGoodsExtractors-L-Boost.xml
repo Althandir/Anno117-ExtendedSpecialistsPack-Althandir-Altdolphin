@@ -49,7 +49,7 @@
                   <Values>
                     <Condition/>
                     <ConditionItemUsed>
-                      <TargetItem>2001000063</TargetItem> <!--<GUID>2001000063</GUID> -->
+                      <TargetItem>1600000002</TargetItem> <!--<GUID>1600000002</GUID> -->
                       <ItemAmount>1</ItemAmount>
                       <ItemCountCalculation>InSameObject</ItemCountCalculation>
                     </ConditionItemUsed>

@@ -1,21 +1,21 @@
 <ModOps>
-<!-- Item Definition GUID:2001000075-76 | LineID:20010000075-76 -->
+<!-- Item Definition GUID: 1600000029 - 1600000030 | LineID:1600000029 - 1600000030 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000075</GUID>
-            <Name>Captian MoreSlots C</Name>
+            <GUID>1600000029</GUID>
+            <Name>CaptianMoreSlots-C</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_male_moreslotsc.png</IconFilename>
-            <InfoDescription>2001000076</InfoDescription>
+            <InfoDescription>1600000030</InfoDescription>
           </Standard>
           <Effect>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000076</GUID>
+                <GUID>1600000030</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -37,7 +37,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000075</OasisId>
+            <OasisId>1600000029</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -52,8 +52,8 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000076</GUID>
-                    <Name>Captian MoreSlots C ShipBuff</Name>
+                    <GUID>1600000030</GUID>
+                    <Name>CaptianMoreSlots-C ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_moreslotsc.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
@@ -65,7 +65,7 @@
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>2001000075</OasisId>
+                    <OasisId>1600000029</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>

@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:2001000003-4 | LineID:2001000003-4 
+<!-- Item Definition GUID:1600000027 - 1600000028 | LineID:1600000027 - 1600000028 
 #Idea from: https://www.reddit.com/r/anno/comments/1pz9qeh/anno_117_how_to_i_remove_trees_to_increase_meadow/  
 --> 
   <Group>
@@ -8,17 +8,17 @@
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000003</GUID>
+            <GUID>1600000027</GUID>
             <Name>Specialist AreaUpgradePonies-C</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_AreaUpgradePoniesC.png</IconFilename>
-            <InfoDescription>2001000004</InfoDescription>
+            <InfoDescription>1600000028</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000004</GUID>
+                <GUID>1600000028</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -38,7 +38,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000003</OasisId>
+            <OasisId>1600000027</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -53,12 +53,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000004</GUID>
+                    <GUID>1600000028</GUID>
                     <Name>Specialist AreaUpgradePonies-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_AreaUpgradePoniesC.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000003</OasisId>
+                    <OasisId>1600000027</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>

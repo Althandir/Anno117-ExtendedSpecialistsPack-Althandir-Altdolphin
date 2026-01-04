@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000141-144 | LineID:2001000141-142 -->
+<!-- Item Definition GUID:1600000005 - 1600000008 | LineID: 1600000005 - 1600000006 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000141</GUID>
+            <GUID>1600000005</GUID>
             <Name>Specialist AreaEffect-BardicHallBelief-C</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_male_bard.png</IconFilename>
-            <InfoDescription>2001000142</InfoDescription>
+            <InfoDescription>1600000006</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000142</GUID>
+                <GUID>1600000006</GUID>
               </Item>
             </Buffs>
             <Targets> 
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000137</OasisId>
+            <OasisId>1600000005</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000142</GUID>
+                    <GUID>1600000006</GUID>
                     <Name>Specialist AreaEffect-BardicHallBelief-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_bard.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000141</OasisId>
+                    <OasisId>1600000005</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000143</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000007</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000143</GUID>
+                    <GUID>1600000007</GUID>
                     <Name>Specialist AreaEffect-BardicHallBelief-C FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_bard.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000144</GUID>
+                            <GUID>1600000008</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000141</OasisId>
+                    <OasisId>1600000005</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000144</GUID>
+                    <GUID>1600000008</GUID>
                     <Name>Specialist AreaEffect-BardicHallBelief-C FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_bard.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000141</OasisId>
+                    <OasisId>1600000005</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

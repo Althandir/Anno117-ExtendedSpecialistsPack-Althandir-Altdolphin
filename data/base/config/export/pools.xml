@@ -4,7 +4,7 @@
     <Group>
         <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
         <Item>
-            <ItemLink>2001000003</ItemLink>
+            <ItemLink>1600000027</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000005</ItemLink>        
@@ -13,7 +13,7 @@
             <ItemLink>2001000007</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000009</ItemLink>
+            <ItemLink>1600000013</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000013</ItemLink>
@@ -46,7 +46,7 @@
             <ItemLink>2001000031</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000033</ItemLink>
+            <ItemLink>1600000033</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000035</ItemLink>
@@ -67,7 +67,7 @@
             <ItemLink>2001000045</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000047</ItemLink>
+            <ItemLink>1600000025</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000049</ItemLink>
@@ -91,13 +91,13 @@
             <ItemLink>2001000061</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000063</ItemLink>
+            <ItemLink>1600000002</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000065</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000067</ItemLink>
+            <ItemLink>1600000031</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000069</ItemLink>
@@ -109,7 +109,7 @@
             <ItemLink>2001000073</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000075</ItemLink>
+            <ItemLink>1600000029</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000077</ItemLink>
@@ -172,10 +172,10 @@
             <ItemLink>2001000133</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000137</ItemLink>
+            <ItemLink>1600000021</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000141</ItemLink>
+            <ItemLink>1600000005</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000145</ItemLink>
@@ -199,13 +199,13 @@
             <ItemLink>2001000169</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000173</ItemLink>
+            <ItemLink>1600000009</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000177</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000181</ItemLink>
+            <ItemLink>1600000017</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000185</ItemLink>
@@ -236,7 +236,7 @@
     <Group>
         <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
         <Item>
-            <ItemLink>2001000003</ItemLink>
+            <ItemLink>1600000027</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000005</ItemLink>
@@ -245,7 +245,7 @@
             <ItemLink>2001000007</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000009</ItemLink>
+            <ItemLink>1600000013</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000013</ItemLink>
@@ -278,7 +278,7 @@
             <ItemLink>2001000031</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000033</ItemLink>
+            <ItemLink>1600000033</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000035</ItemLink>
@@ -299,7 +299,7 @@
             <ItemLink>2001000045</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000047</ItemLink>
+            <ItemLink>1600000025</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000049</ItemLink>
@@ -323,19 +323,13 @@
             <ItemLink>2001000061</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000063</ItemLink>
+            <ItemLink>1600000002</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000065</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000067</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000069</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000067</ItemLink>
+            <ItemLink>1600000031</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000069</ItemLink>
@@ -347,7 +341,7 @@
             <ItemLink>2001000073</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000075</ItemLink>
+            <ItemLink>1600000029</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000077</ItemLink>
@@ -410,10 +404,10 @@
             <ItemLink>2001000133</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000137</ItemLink>
+            <ItemLink>1600000021</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000141</ItemLink>
+            <ItemLink>1600000005</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000145</ItemLink>
@@ -437,13 +431,13 @@
             <ItemLink>2001000169</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000173</ItemLink>
+            <ItemLink>1600000009</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000177</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000181</ItemLink>
+            <ItemLink>1600000017</ItemLink>
         </Item>
         <Item>
             <ItemLink>2001000185</ItemLink>
