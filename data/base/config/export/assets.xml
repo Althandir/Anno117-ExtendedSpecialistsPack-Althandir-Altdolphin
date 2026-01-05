@@ -111,7 +111,8 @@
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
-    <Include File="items-legendary/DolphinVilla-L.xml"/>
+    <Include File="items-legendary/DolphinVilla-L.xml" />
+    <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
   </Group>
 
   <!-- Add to Pools -->
