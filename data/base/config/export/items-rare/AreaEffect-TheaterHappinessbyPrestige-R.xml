@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000113-116 | LineID:2001000113-114-->
+<!-- Item Definition GUID:1600000186 - 1600000189 | LineID:1600000186 - 1600000187 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000113</GUID>
+            <GUID>1600000186</GUID>
             <Name>Specialist AreaEffect-TheaterHappinessbyPrestige-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_TheaterHappinessbyPrestige-R.png</IconFilename>
-            <InfoDescription>2001000114</InfoDescription>
+            <InfoDescription>1600000187</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000114</GUID>
+                <GUID>1600000187</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000113</OasisId>
+            <OasisId>1600000186</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000114</GUID>
+                    <GUID>1600000187</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessbyPrestige-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_TheaterHappinessbyPrestige-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000113</OasisId>
+                    <OasisId>1600000186</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000115</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000188</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -85,7 +85,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000115</GUID>
+                    <GUID>1600000188</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessbyPrestige-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_TheaterHappinessbyPrestige-R.png</IconFilename>
                 </Standard>
@@ -94,7 +94,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000116</GUID>
+                            <GUID>1600000189</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000113</OasisId>
+                    <OasisId>1600000186</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,12 +117,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000116</GUID>
+                    <GUID>1600000189</GUID>
                     <Name>Specialist AreaEffect-TheaterHappinessbyPrestige-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_TheaterHappinessbyPrestige-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000113</OasisId>
+                    <OasisId>1600000186</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

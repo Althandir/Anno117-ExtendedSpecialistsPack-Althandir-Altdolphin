@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000005-6 | LineID:2001000005-6-->
+<!-- Item Definition GUID:1600000160 - 1600000161 | LineID:1600000160 - 1600000161 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000005</GUID>
+            <GUID>1600000160</GUID>
             <Name>Specialist AllPublicServicesEffectRange R</Name>
             <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
-            <InfoDescription>2001000006</InfoDescription>
+            <InfoDescription>1600000161</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Area</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000006</GUID>
+                <GUID>1600000161</GUID>
               </Item>
             </Buffs>
             <HideInGovernorsBar>0</HideInGovernorsBar>
@@ -31,7 +31,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000005</OasisId>
+            <OasisId>1600000160</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -46,12 +46,12 @@
           <Template>AreaBuff</Template>
           <Values>
             <Standard>
-              <GUID>2001000006</GUID>
+              <GUID>1600000161</GUID>
               <Name>Specialist AllPublicServicesEffectRange R AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
             </Standard>
             <Text>
-              <OasisId>2001000006</OasisId>
+              <OasisId>1600000160</OasisId>
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>

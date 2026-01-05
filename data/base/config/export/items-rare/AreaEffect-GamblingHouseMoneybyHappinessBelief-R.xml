@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000157-160 | LineID:2001000157-158 -->
+<!-- Item Definition GUID:1600000174 - 1600000177 | LineID:1600000174 - 1600000175 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000157</GUID>
+            <GUID>1600000174</GUID>
             <Name>Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHouseMoneybyHappinessBelief.png</IconFilename>
-            <InfoDescription>2001000158</InfoDescription>
+            <InfoDescription>1600000175</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000158</GUID>
+                <GUID>1600000175</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000157</OasisId>
+            <OasisId>1600000174</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000158</GUID>
+                    <GUID>1600000175</GUID>
                     <Name>Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHouseMoneybyHappinessBelief.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000157</OasisId>
+                    <OasisId>1600000174</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000159</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000176</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000159</GUID>
+                    <GUID>1600000176</GUID>
                     <Name>Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHouseMoneybyHappinessBelief.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000160</GUID>
+                            <GUID>1600000177</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000157</OasisId>
+                    <OasisId>1600000174</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000160</GUID>
+                    <GUID>1600000177</GUID>
                     <Name>Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHouseMoneybyHappinessBelief.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000157</OasisId>
+                    <OasisId>1600000174</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

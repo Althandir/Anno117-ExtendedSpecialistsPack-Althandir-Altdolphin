@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000081-82 | LineID:20010000081-82 -->
+<!-- Item Definition GUID:1600000214 - 1600000215 | LineID:1600000214 - 1600000215 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000081</GUID>
+            <GUID>1600000214</GUID>
             <Name>WorkforceRomanCelticTowers-R</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_RomanCelticTowersWorkforceR.png</IconFilename>
-            <InfoDescription>2001000082</InfoDescription>
+            <InfoDescription>1600000215</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000082</GUID>
+                <GUID>1600000215</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000081</OasisId>
+            <OasisId>1600000214</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000082</GUID>
+                    <GUID>1600000215</GUID>
                     <Name>WorkforceRomanCelticTowers-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_RomanCelticTowersWorkforceR.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000082</OasisId>
+                    <OasisId>1600000214</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>

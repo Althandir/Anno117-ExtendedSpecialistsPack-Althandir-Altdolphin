@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000101-104 | LineID:2001000101-102-->
+<!-- Item Definition GUID:1600000178 - 1600000181 | LineID:1600000178 - 1600000179 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000101</GUID>
+            <GUID>1600000178</GUID>
             <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R</Name>
             <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
-            <InfoDescription>2001000102</InfoDescription>
+            <InfoDescription>1600000179</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000102</GUID>
+                <GUID>1600000179</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000101</OasisId>
+            <OasisId>1600000178</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000102</GUID>
+                    <GUID>1600000179</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000101</OasisId>
+                    <OasisId>1600000178</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000103</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000180</AdditionalFunctionalEffect>
                     <AdditionalAttributes>
                       <Belief>
                         <AmountOrPercent>
@@ -93,7 +93,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000103</GUID>
+                    <GUID>1600000180</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
@@ -102,7 +102,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000104</GUID>
+                            <GUID>1600000181</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -114,7 +114,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000101</OasisId>
+                    <OasisId>1600000178</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -125,12 +125,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000104</GUID>
+                    <GUID>1600000181</GUID>
                     <Name>Specialist AreaEffect-GrammaticusKnowledgebyMoney-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/male_GrammaticusKnowledgebyMoneyR.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000101</OasisId>
+                    <OasisId>1600000178</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

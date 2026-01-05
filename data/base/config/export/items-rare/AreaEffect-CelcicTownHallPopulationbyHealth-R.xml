@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000169-172 | LineID:2001000169-170 -->
+<!-- Item Definition GUID:1600000170 - 1600000173 | LineID:1600000170 - 1600000171 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000169</GUID>
+            <GUID>1600000170</GUID>
             <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
-            <InfoDescription>2001000170</InfoDescription>
+            <InfoDescription>1600000171</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000170</GUID>
+                <GUID>1600000171</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000169</OasisId>
+            <OasisId>1600000170</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000170</GUID>
+                    <GUID>1600000171</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000169</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000171</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000172</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000171</GUID>
+                    <GUID>1600000172</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000172</GUID>
+                            <GUID>1600000173</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000169</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000172</GUID>
+                    <GUID>1600000173</GUID>
                     <Name>Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticTownHallPopulationbyHealth.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000169</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

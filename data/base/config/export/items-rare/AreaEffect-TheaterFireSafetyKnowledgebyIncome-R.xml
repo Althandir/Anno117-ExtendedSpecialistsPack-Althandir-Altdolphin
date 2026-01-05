@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000117-120 | LineID:2001000117-118-->
+<!-- Item Definition GUID:1600000182 - 1600000185 | LineID:1600000182 - 1600000183 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000117</GUID>
+            <GUID>1600000182</GUID>
             <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
-            <InfoDescription>2001000118</InfoDescription>
+            <InfoDescription>1600000183</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000118</GUID>
+                <GUID>1600000183</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000117</OasisId>
+            <OasisId>1600000182</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000118</GUID>
+                    <GUID>1600000183</GUID>
                     <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000117</OasisId>
+                    <OasisId>1600000182</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000119</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000184</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -85,7 +85,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000119</GUID>
+                    <GUID>1600000184</GUID>
                     <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
                 </Standard>
@@ -94,7 +94,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000120</GUID>
+                            <GUID>1600000185</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000117</OasisId>
+                    <OasisId>1600000182</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,12 +117,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000120</GUID>
+                    <GUID>1600000185</GUID>
                     <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000117</OasisId>
+                    <OasisId>1600000182</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000177-180 | LineID:2001000173-174 -->
+<!-- Item Definition GUID:1600000166 - 1600000169 | LineID:1600000166 - 1600000167 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000177</GUID>
+            <GUID>1600000166</GUID>
             <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
-            <InfoDescription>2001000177</InfoDescription>
+            <InfoDescription>1600000167</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000178</GUID>
+                <GUID>1600000167</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000177</OasisId>
+            <OasisId>1600000166</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000178</GUID>
+                    <GUID>1600000167</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000177</OasisId>
+                    <OasisId>1600000166</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000179</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000168</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -86,7 +86,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000179</GUID>
+                    <GUID>1600000168</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
@@ -95,7 +95,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000180</GUID>
+                            <GUID>1600000169</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -107,7 +107,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000177</OasisId>
+                    <OasisId>1600000166</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -118,12 +118,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000180</GUID>
+                    <GUID>1600000169</GUID>
                     <Name>Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_CelticSacredGroveBeliefByPrestige.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000177</OasisId>
+                    <OasisId>1600000166</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000129-132 | LineID:2001000129-130 -->
+<!-- Item Definition GUID:1600000162 - 1600000165 | LineID:1600000162 - 1600000163 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000129</GUID>
+            <GUID>1600000162</GUID>
             <Name>Specialist AreaEffect-BathsHealthbyHappiness-R</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_Bathmaster.png</IconFilename>
-            <InfoDescription>2001000130</InfoDescription>
+            <InfoDescription>1600000163</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000130</GUID>
+                <GUID>1600000163</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000129</OasisId>
+            <OasisId>1600000162</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000130</GUID>
+                    <GUID>1600000163</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000129</OasisId>
+                    <OasisId>1600000162</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>2001000131</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000164</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -85,7 +85,7 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000131</GUID>
+                    <GUID>1600000164</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
@@ -94,7 +94,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>2001000132</GUID>
+                            <GUID>1600000165</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>2001000129</OasisId>
+                    <OasisId>1600000162</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,12 +117,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000132</GUID>
+                    <GUID>1600000165</GUID>
                     <Name>Specialist AreaEffect-BathsHealthbyHappiness-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathmaster.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000129</OasisId>
+                    <OasisId>1600000162</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

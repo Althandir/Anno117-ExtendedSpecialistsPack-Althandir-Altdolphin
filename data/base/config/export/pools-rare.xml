@@ -9,77 +9,74 @@
     <Group>
       <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
         <Item>
-            <ItemLink>2001000013</ItemLink>
+            <ItemLink>1600000158</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000005</ItemLink>
+            <ItemLink>1600000160</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000129</ItemLink>
+            <ItemLink>1600000162</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000177</ItemLink>
+            <ItemLink>1600000166</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000169</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>2001000157</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000101</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000117</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000113</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000055</ItemLink>
+            <ItemLink>1600000170</ItemLink>
         </Item>
         <!-- 5 -->
         <Item>
-            <ItemLink>2001000019</ItemLink>
+            <ItemLink>1600000174</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000055</ItemLink>
+            <ItemLink>1600000178</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000099</ItemLink>
+            <ItemLink>1600000182</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000027</ItemLink>
+            <ItemLink>1600000186</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000071</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>2001000069</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000043</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000037</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000049</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>2001000051</ItemLink>
+            <ItemLink>1600000190</ItemLink>
         </Item>
         <!-- 5 -->
         <Item>
-            <ItemLink>2001000053</ItemLink>
+            <ItemLink>1600000192</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000041</ItemLink>
+            <ItemLink>1600000196</ItemLink>
         </Item>
         <Item>
-            <ItemLink>2001000081</ItemLink>
+            <ItemLink>1600000194</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000198</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000200</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>1600000202</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000204</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000206</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000208</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000210</ItemLink>
+        </Item>
+        <!-- 5 -->
+        <Item>
+            <ItemLink>1600000212</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000214</ItemLink>
         </Item>
       </ModOp>
     </Group>

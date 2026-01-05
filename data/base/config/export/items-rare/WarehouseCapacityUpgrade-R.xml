@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000041-42 | LineID:20010000041-42 -->
+<!-- Item Definition GUID:1600000212 - 1600000213 | LineID:1600000212 - 1600000213 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000041</GUID>
+            <GUID>1600000212</GUID>
             <Name>Specialist WarehouseCapacity R</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_WarehouseCapaR.png</IconFilename>
-            <InfoDescription>2001000042</InfoDescription>
+            <InfoDescription>1600000213</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000042</GUID>
+                <GUID>1600000213</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -42,7 +42,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000041</OasisId>
+            <OasisId>1600000212</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -57,12 +57,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000042</GUID>
+                    <GUID>1600000213</GUID>
                     <Name>Specialist WarehouseCapacity R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_WarehouseCapaR.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000041</OasisId>
+                    <OasisId>1600000212</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

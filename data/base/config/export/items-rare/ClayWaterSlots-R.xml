@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:2001000019-20 | LineID:20010000019-20-->
+<!-- Item Definition GUID:1600000192 - 1600000193 | LineID:1600000192 - 1600000193 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>2001000019</GUID>
+            <GUID>1600000192</GUID>
             <Name>Specialist ClayWaterSlots R</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
-            <InfoDescription>2001000020</InfoDescription>
+            <InfoDescription>1600000193</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>2001000020</GUID>
+                <GUID>1600000193</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -48,7 +48,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>2001000019</OasisId>
+            <OasisId>1600000192</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -63,12 +63,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>2001000020</GUID>
+                    <GUID>1600000193</GUID>
                     <Name>Specialist ClayWaterSlots R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>2001000019</OasisId>
+                    <OasisId>1600000192</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
