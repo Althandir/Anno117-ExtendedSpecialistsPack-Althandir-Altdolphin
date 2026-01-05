@@ -74,6 +74,7 @@
                       <Amount>7</Amount>
                     </Item>
                   </AdditionalOutput>
+                  <CanUseForest>1</CanUseForest>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

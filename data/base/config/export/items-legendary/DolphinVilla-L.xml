@@ -12,7 +12,7 @@
             <InfoDescription>1600000001</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Local</EffectScope> 
+            <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -67,13 +67,23 @@
                 <BuildingUpgrade>
                   <AdditionalAttributes>
                     <Prestige>
-                      <Value>250</Value>
-                      <Percental>0</Percental>
+                      <AmountOrPercent>
+                        <Value>250</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
                     </Prestige>
                     <Belief>
-                      <Value>100</Value>
-                      <Percental>0</Percental>
+                      <AmountOrPercent>
+                        <Value>100</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
                     </Belief>
+                    <Money>
+                      <AmountOrPercent>
+                        <Value>100</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Money>
                   </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

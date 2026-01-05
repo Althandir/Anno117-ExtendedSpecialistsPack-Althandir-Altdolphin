@@ -82,15 +82,15 @@
                   Buff itself will have no effect on Building. Workaround is to inform Player via Description. 
                   -->
                   <ResolverRangeUpgrade>
-                    <Value>25</Value>
+                    <Value>15</Value>
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
                   <ResolverUnitCountUpgrade>
-				            <Value>2</Value>
+				            <Value>1</Value>
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>
-                    <Value>-10</Value>
+                    <Value>-35</Value>
                     <Percental>1</Percental>
                   </ResolverResolveDurationUpgrade>
                 </CityInstitutionUpgrade>
