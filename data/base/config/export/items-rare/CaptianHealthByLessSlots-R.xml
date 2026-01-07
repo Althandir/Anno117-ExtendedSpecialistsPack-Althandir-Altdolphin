@@ -1,0 +1,94 @@
+<ModOps>
+<!-- Item Definition GUID: 1600000224 - 1600000225 | LineID:1600000224 - 1600000225 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000224</GUID>
+            <Name>CaptianHealthByLessSlots-R</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>1600000225</InfoDescription>
+          </Standard>
+          <Effect>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000225</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>38995</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Allocation>Ship</Allocation>
+            <Niche>Nautics</Niche> 
+            <ItemType>Captains</ItemType>
+            <TradePrice>12000</TradePrice>
+            <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000224</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000225</GUID>
+                    <Name>CaptianHealthByLessSlots-R ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                </Standard>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>75</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade/>
+                <Text>
+                    <OasisId>1600000224</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade>
+                  <BuffBaseSpeedUpgrade>
+                    <Value>0</Value>
+                    <Percental>0</Percental>
+                  </BuffBaseSpeedUpgrade>
+                </MovementUpgrade>
+                <MaintenanceUpgrade/>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SlotCountUpgrade>
+                    <Value>-1</Value>
+                    <Percental>0</Percental>
+                  </SlotCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

@@ -43,6 +43,7 @@
     <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
+    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
     <Include File="items-rare/ClayWaterSlots-R.xml"/>
     <Include File="items-rare/MaintenanceAllUpholsterers-R.xml"/>
@@ -56,8 +57,7 @@
     <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
     <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
-
-
+    <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
 
   </Group>
 
@@ -69,7 +69,7 @@
     <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
     <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
-    <Include File="items-epic/AreaEffect-ForumTODO-E.xml" />
+    <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
     <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryPopulationHealth-E.xml" />

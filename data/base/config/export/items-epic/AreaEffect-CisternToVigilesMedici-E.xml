@@ -100,7 +100,7 @@
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>
-                    <Value>-35</Value>
+                    <Value>-30</Value>
                     <Percental>1</Percental>
                   </ResolverResolveDurationUpgrade>
                 </CityInstitutionUpgrade>
@@ -180,7 +180,7 @@
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>
-                    <Value>-20</Value>
+                    <Value>-30</Value>
                     <Percental>1</Percental>
                   </ResolverResolveDurationUpgrade>
                 </CityInstitutionUpgrade>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000122</GUID>
-            <Name>Specialist ProductitvityByFuel AllFuelConsumers E</Name>
+            <Name>Specialist ProductivityByFuelAllFuelConsumers-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
             <InfoDescription>1600000123</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000123</GUID>
-                    <Name>Specialist ProductitvityByFuel AllFuelConsumers E BuildingBuff</Name>
+                    <Name>Specialist ProductivityByFuelAllFuelConsumers-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
                 </Standard>
                 <Text>
@@ -63,8 +63,8 @@
                   <AdditionalAttributes>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-1</Value>
-                        <Percental>0</Percental>
+                        <Value>-10</Value>
+                        <Percental>1</Percental>
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
@@ -76,10 +76,10 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>40</Value>
+                    <Value>30</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-20</FuelDurationPercent>
+                  <FuelDurationPercent>-15</FuelDurationPercent>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

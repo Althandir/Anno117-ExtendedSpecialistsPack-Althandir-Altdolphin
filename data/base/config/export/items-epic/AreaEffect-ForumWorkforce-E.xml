@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000220</GUID>
-            <Name>Specialist AreaEffect-ForumTODO-E</Name>
+            <Name>Specialist AreaEffect-ForumWorkforce-E</Name>
             <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
             <InfoDescription>1600000221</InfoDescription>
           </Standard>
@@ -30,7 +30,7 @@
             <Niche>Economy</Niche>
             <TradePrice>100000</TradePrice> 
             <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
-            <Rarity>Legendary</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000221</GUID>
-                    <Name>Specialist AreaEffect-ForumTODO-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-ForumWorkforce-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
                 </Standard>
                 <Text>
@@ -61,6 +61,7 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000222</AdditionalFunctionalEffect>
+                    <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -127,6 +128,7 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
+                    <WorkforceModifierInPercent>7.5</WorkforceModifierInPercent>
                     <AdditionalAttributes>
                         <Population>
                         <AmountOrPercent>
@@ -142,13 +144,13 @@
                         </Happiness>
                         <Money>
                         <AmountOrPercent>
-                            <Value>1</Value>
+                            <Value>0</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Money>
                         <Prestige>
                         <AmountOrPercent>
-                            <Value>1</Value>
+                            <Value>0</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Prestige>
@@ -186,7 +188,7 @@
                 </ResidenceUpgrade>
                 <FactoryUpgrade>
                     <ProductivityUpgrade>
-                        <Value>15</Value>
+                        <Value>0</Value>
                         <Percental>1</Percental>
 			        </ProductivityUpgrade>
                 </FactoryUpgrade>

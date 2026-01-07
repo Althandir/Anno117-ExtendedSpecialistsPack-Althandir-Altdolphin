@@ -1,0 +1,92 @@
+<ModOps>
+<!-- Item Definition GUID: 1600000226 - 1600000227 | LineID:1600000226 - 1600000227 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000226</GUID>
+            <Name>AllShipyardsSpeeds-R</Name>
+            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <InfoDescription>1600000227</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000227</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>32363</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Nautics</Niche> 
+            <TradePrice>12000</TradePrice>
+            <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000226</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+              <Standard>
+                  <GUID>1600000227</GUID>
+                  <Name>AllShipyardsSpeeds-R BuildingBuff</Name>
+                  <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+              </Standard>
+              <Text>
+                  <OasisId>1600000226</OasisId>
+              </Text>
+              <HealthUpgrade/>
+              <BuildingUpgrade>
+              </BuildingUpgrade>
+              <DistributionUpgrade/>
+              <Buff>
+                  <SourceCategory>Item</SourceCategory>
+              </Buff>
+              <ResidenceUpgrade/>
+              <FactoryUpgrade/>
+              <ModuleOwnerUpgrade/>
+              <MaintenanceUpgrade>
+                <MaintenanceFactorUpgrade>
+                  <Value>-50</Value>
+                  <Percental>1</Percental>
+                </MaintenanceFactorUpgrade>
+              </MaintenanceUpgrade>
+              <CityInstitutionUpgrade/>
+              <IncidentInfectableUpgrade/>
+              <RecruitmentUpgrade>
+                <ConstructionCostInPercent>0</ConstructionCostInPercent>
+                <ConstructionSpeedInPercent>25</ConstructionSpeedInPercent>
+		          </RecruitmentUpgrade>
+              <AqueductUpgrade/>
+              <WarehouseUpgrade/>
+              <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

@@ -70,7 +70,7 @@
                   <GoodConsumptionUpgrade> <!-- Just hint to showcase Effect, has no Effect on Building itself -->
                     <Item>
                       <ProvidedNeed>2143</ProvidedNeed>
-                      <AmountInPercent>-10</AmountInPercent>
+                      <AmountInPercent>-15</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                 </ResidenceUpgrade>
@@ -174,7 +174,7 @@
                 <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2143</ProvidedNeed>
-                      <AmountInPercent>-10</AmountInPercent>
+                      <AmountInPercent>-15</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                 </ResidenceUpgrade>
