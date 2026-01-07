@@ -23,7 +23,7 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche>
-            <TradePrice>30000</TradePrice> 
+            <TradePrice>75000</TradePrice> 
             <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
@@ -66,6 +66,7 @@
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
+              <IsStackable>1</IsStackable>
             </Buff>
             <AreaNeedAttributeBuff>
               <BonusAttributes>
@@ -78,7 +79,12 @@
               </BonusAttributes>
             </AreaNeedAttributeBuff>
             <AreaPassiveTradeUpgrade/>
-            <AreaMaintenanceUpgrade/>
+            <AreaMaintenanceUpgrade>
+              <LandTax>
+                <Value>0</Value>
+                <Percental>1</Percental>
+              </LandTax>
+            </AreaMaintenanceUpgrade>
             <AreaFestivalAttributeUpgrade/>
           </Values>
         </Asset>

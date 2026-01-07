@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000044</GUID>
-            <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E</Name>
+            <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
             <InfoDescription>1600000045</InfoDescription>
           </Standard>
@@ -27,7 +27,7 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Nature</Niche>
+            <Niche>Agriculture</Niche>
             <TradePrice>158000</TradePrice> 
             <BarkPool>80249</BarkPool> <!-- <GUID>80249</GUID> -->
             <Rarity>Epic</Rarity> 
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000045</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
@@ -93,7 +93,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000046</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -125,7 +125,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000047</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsupmtion-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>

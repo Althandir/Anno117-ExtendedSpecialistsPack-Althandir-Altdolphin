@@ -26,7 +26,7 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche>  
-            <TradePrice>900000</TradePrice> 
+            <TradePrice>500000</TradePrice> 
             <BarkPool>80239</BarkPool> <!-- <GUID>80239</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
@@ -69,6 +69,7 @@
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
+              <IsStackable>1</IsStackable>
             </Buff>
             <AreaNeedAttributeBuff>
               <BonusAttributes>
@@ -81,7 +82,12 @@
               </BonusAttributes>
             </AreaNeedAttributeBuff>
             <AreaPassiveTradeUpgrade/>
-            <AreaMaintenanceUpgrade/>
+            <AreaMaintenanceUpgrade>
+              <LandTax>
+                <Value>0</Value>
+                <Percental>1</Percental>
+              </LandTax>
+            </AreaMaintenanceUpgrade>
             <AreaFestivalAttributeUpgrade/>
           </Values>
         </Asset>
@@ -112,6 +118,7 @@
           </AreaBuff>
           <Buff>
             <SourceCategory>Item</SourceCategory>
+            <IsStackable>1</IsStackable>
           </Buff>
           <AreaNeedAttributeBuff/>
           <AreaPassiveTradeUpgrade/>

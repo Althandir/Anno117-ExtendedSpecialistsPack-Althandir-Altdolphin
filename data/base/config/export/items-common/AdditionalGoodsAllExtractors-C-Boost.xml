@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>12500</TradePrice>
+            <TradePrice>5000</TradePrice>
             <BarkPool>83322</BarkPool> <!-- <GUID>83322</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>

@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Military</Niche>
-            <TradePrice>750000</TradePrice> 
+            <TradePrice>500000</TradePrice> 
             <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
@@ -69,7 +69,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>250</Value>
+                    <Value>300</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>

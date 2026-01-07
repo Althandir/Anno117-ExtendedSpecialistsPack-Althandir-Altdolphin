@@ -27,7 +27,7 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Nature</Niche>
+            <Niche>Agriculture</Niche>
             <TradePrice>5000</TradePrice> 
             <BarkPool>83321</BarkPool> <!-- <GUID>83321</GUID> -->
             <Rarity>Common</Rarity> 
