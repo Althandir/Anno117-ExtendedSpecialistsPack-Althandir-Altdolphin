@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>75000</TradePrice>
+            <TradePrice>28750</TradePrice>
             <BarkPool>80247</BarkPool> <!-- <GUID>80247</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
@@ -61,12 +61,24 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
+                    <Happiness>
+                      <AmountOrPercent>
+                        <Value>-0.8</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Happiness>
                     <Health>
                       <AmountOrPercent>
-                        <Value>-0.5</Value>
+                        <Value>-0.8</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Health>
+                    <FireSafety>
+                      <AmountOrPercent>
+                        <Value>-0.8</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </FireSafety>
                   </AdditionalAttributes>
                   <WorkforceModifierInPercent>-33</WorkforceModifierInPercent>
                   <AdditionalWorkforces>

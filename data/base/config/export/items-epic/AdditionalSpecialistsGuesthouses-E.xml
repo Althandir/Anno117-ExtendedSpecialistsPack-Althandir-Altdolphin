@@ -1,0 +1,88 @@
+<ModOps>
+<!-- Item Definition GUID:1600000234 - 1600000235 | LineID:1600000234 - 1600000235 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000234</GUID>
+            <Name>Specialist AdditionalSpecialistsGuesthouses-E</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+            <InfoDescription>1600000235</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>ObjectsInArea</EffectScope>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000235</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>94282</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Diplomacy</Niche> 
+            <TradePrice>500000</TradePrice>
+            <BarkPool>83333</BarkPool> <!-- <GUID>83333</GUID> -->
+            <Rarity>Epic</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000234</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000235</GUID>
+                    <Name>Specialist AdditionalSpecialistsGuesthouses-E ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                </Standard>
+                <HealthUpgrade/>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade/>
+                <Text>
+                    <OasisId>1600000234</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <MovementUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>500</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SocketCountUpgrade>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </SocketCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

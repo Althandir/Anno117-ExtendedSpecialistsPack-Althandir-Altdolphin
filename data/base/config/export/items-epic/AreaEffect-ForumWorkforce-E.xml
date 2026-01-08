@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000220</GUID>
             <Name>Specialist AreaEffect-ForumWorkforce-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/unchanged/female_ForumsWorkforceE.png</IconFilename>
             <InfoDescription>1600000221</InfoDescription>
           </Standard>
           <Effect>
@@ -29,7 +29,7 @@
           <Item>
             <Niche>Economy</Niche>
             <TradePrice>100000</TradePrice> 
-            <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
+            <BarkPool>83341</BarkPool> <!-- <GUID>83341</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000221</GUID>
                     <Name>Specialist AreaEffect-ForumWorkforce-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumsWorkforceE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000220</OasisId>
@@ -61,7 +61,7 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000222</AdditionalFunctionalEffect>
-                    <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
+                    <WorkforceModifierInPercent>8</WorkforceModifierInPercent>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -88,8 +88,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000222</GUID>
-                    <Name>Specialist AreaEffect-ForumTODO-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <Name>Specialist AreaEffect-ForumWorkforce-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumsWorkforceE.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,15 +120,15 @@
             <Values>
                 <Standard>
                     <GUID>1600000223</GUID>
-                    <Name>Specialist AreaEffect-ForumTODO-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <Name>Specialist AreaEffect-ForumWorkforce-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumsWorkforceE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000220</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <WorkforceModifierInPercent>7.5</WorkforceModifierInPercent>
+                    <WorkforceModifierInPercent>8</WorkforceModifierInPercent>
                     <AdditionalAttributes>
                         <Population>
                         <AmountOrPercent>

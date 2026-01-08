@@ -1,4 +1,5 @@
-Cute Dolphin Icon © from https://www.twitch.tv/dolphinchemist - only used as placeholder & DebugIcon
+# Cute Dolphin Icon 
+© from https://www.twitch.tv/dolphinchemist - only used as placeholder & DebugIcon
 Important: 
 THAT'S NOT THE CREATOR OF THIS MOD. 
 I only use his Icons as Placeholder as these Dolphins are sooooo cute... one day I should comission a own sticker pack by some artist. But until then maybe I change my persona anyway ^^.
@@ -13,9 +14,9 @@ These are here in case Ubisoft decides to remove/change any icons in a future pa
 Contains Icons used by the mod and are changed variations of Icons from Ubisoft. 
 Changed .kra file (Krita) should be in the repo for further modifications. 
 ### animals
-Contains Animal Icons. Currently mostl from 1800 and modified with filters. 
+Contains Animal Icons. Currently mostly from 1800 and modified with filters. 
 ## <name> e.g. celtic_druid
-Contains a template file and varitaions of an item. For example an base Face of a celtic druid but with different clothes bsed on followed deity
+Contains a template file and varitaions of an item. For example an base Face of a celtic druid but with different clothes based on followed deity
 ## helpertemplates
 Contains templates for various Items to be used like Bow, Arrows, Amphore, etc... 
 

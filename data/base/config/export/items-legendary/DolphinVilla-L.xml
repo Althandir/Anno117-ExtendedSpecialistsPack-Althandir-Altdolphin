@@ -12,7 +12,7 @@
             <InfoDescription>1600000001</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Area</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -28,8 +28,8 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>1350000</TradePrice>
-            <BarkPool>0</BarkPool> <!-- #TODO: Test if no Audio is possible or try to import new audio file  <GUID>0</GUID> -->
+            <TradePrice>500000</TradePrice>
+            <BarkPool>0</BarkPool>
             <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
@@ -45,10 +45,10 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
+    <!-- AreaBuff Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
-            <Template>BuildingBuff</Template>
+            <Template>AreaBuff</Template>
             <Values>
                 <Standard>
                     <GUID>1600000001</GUID>
@@ -58,48 +58,36 @@
                 <Text>
                     <OasisId>1600000000</OasisId>
                 </Text>
-                <HealthUpgrade>
-                  <BaseHealthUpgrade>
-                    <Value>250</Value>
-                    <Percental>1</Percental>
-                  </BaseHealthUpgrade>
-                </HealthUpgrade>
-                <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <Prestige>
-                      <AmountOrPercent>
+                <AreaNeedAttributeBuff>
+                  <BonusAttributes>
+                    <Money>
+                      <ValueOrPercent>
                         <Value>250</Value>
                         <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Prestige>
-                    <Belief>
-                      <AmountOrPercent>
-                        <Value>100</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Belief>
-                    <Money>
-                      <AmountOrPercent>
-                        <Value>100</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
+                      </ValueOrPercent>
                     </Money>
-                  </AdditionalAttributes>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
+                    <Belief>
+                      <ValueOrPercent>
+                        <Value>250</Value>
+                        <Percental>0</Percental>
+                      </ValueOrPercent>
+                    </Belief>
+                    <Prestige>
+                      <ValueOrPercent>
+                        <Value>500</Value>
+                        <Percental>0</Percental>
+                      </ValueOrPercent>
+                    </Prestige>
+                  </BonusAttributes>
+                </AreaNeedAttributeBuff>
+                <AreaBuff/>
                 <Buff>
-                    <SourceCategory>Item</SourceCategory>
+                  <SourceCategory>Item</SourceCategory>
+                  <IsStackable>1</IsStackable>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
+                <AreaPassiveTradeUpgrade/>
+                <AreaMaintenanceUpgrade/>
+                <AreaFestivalAttributeUpgrade/>
             </Values>
         </Asset>
     </ModOp>

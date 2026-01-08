@@ -63,19 +63,19 @@
                   <AdditionalAttributes>
                     <Happiness>
                       <AmountOrPercent>
-                        <Value>-0.5</Value>
+                        <Value>-0.8</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
                     <Health>
                       <AmountOrPercent>
-                        <Value>-0.5</Value>
+                        <Value>-0.8</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Health>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-0.5</Value>
+                        <Value>-0.8</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>

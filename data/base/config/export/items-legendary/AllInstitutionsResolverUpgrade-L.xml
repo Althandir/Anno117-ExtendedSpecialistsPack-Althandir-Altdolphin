@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000035</GUID>
-            <Name>Specialist AllInstitutionsResolverUpgrade-E</Name>
+            <Name>Specialist AllInstitutionsResolverUpgrade-L</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
             <InfoDescription>1600000036</InfoDescription>
           </Standard>
@@ -28,9 +28,9 @@
           </Effect>
           <Item>
             <Niche>Military</Niche>
-            <TradePrice>500000</TradePrice> 
+            <TradePrice>650000</TradePrice> 
             <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -51,7 +51,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000036</GUID>
-                    <Name>Specialist AllInstitutionsResolverUpgrade-E BuildingBuff</Name>
+                    <Name>Specialist AllInstitutionsResolverUpgrade-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
                 </Standard>
                 <Text>
@@ -69,7 +69,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>300</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>

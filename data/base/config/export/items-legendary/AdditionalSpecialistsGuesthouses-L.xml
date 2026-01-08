@@ -7,12 +7,12 @@
         <Values>
           <Standard>
             <GUID>1600000139</GUID>
-            <Name>Specialist AdditionalSpecialistsGuesthouses L</Name>
+            <Name>Specialist AdditionalSpecialistsGuesthouses-L</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
             <InfoDescription>1600000140</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>ObjectsInArea</EffectScope>
+            <EffectScope>Local</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -21,7 +21,7 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>94282</GUID>
+                <GUID>94282</GUID> <!-- Don't Use Guesthouse AND Villa GUID 92731 for this Buff! This adds an unremovalable Buff on the Island -->
               </Item>
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000140</GUID>
-                    <Name>Specialist AdditionalSpecialistsGuesthouses ShipBuff</Name>
+                    <Name>Specialist AdditionalSpecialistsGuesthouses-L ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
                 </Standard>
                 <HealthUpgrade/>
@@ -63,6 +63,7 @@
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
+                    <IsStackable>1</IsStackable>
                 </Buff>
                 <MovementUpgrade/>
                 <MaintenanceUpgrade/>

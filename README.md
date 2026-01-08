@@ -2,6 +2,8 @@
 
 ## Known Issues
 ### GUID 160.000.000 points to "Specialist AdditionalGoodsAllExtractors-C BuildingBuff" 
+### Manx RewardPool (Trader) contains Voada RewardList
+
 ## General Findings:
 - AreaBuff
 -- Effect Range is defined in Area Buff

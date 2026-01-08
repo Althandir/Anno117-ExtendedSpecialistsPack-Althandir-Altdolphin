@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Military</Niche>
-            <TradePrice>120000</TradePrice> 
+            <TradePrice>63000</TradePrice> 
             <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
@@ -69,7 +69,7 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>-25</Value>
+                    <Value>-30</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
                 </FactoryUpgrade>

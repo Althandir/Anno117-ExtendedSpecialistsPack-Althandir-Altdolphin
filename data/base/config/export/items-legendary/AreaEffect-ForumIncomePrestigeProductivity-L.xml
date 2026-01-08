@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000216</GUID>
             <Name>Specialist AreaEffect-ForumIncomePrestigeProductivity-L</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/unchanged/female_ForumIncomePrestigeProductivityL.png</IconFilename>
             <InfoDescription>1600000217</InfoDescription>
           </Standard>
           <Effect>
@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche>
-            <TradePrice>0</TradePrice> 
+            <TradePrice>650000</TradePrice> 
             <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
             <Rarity>Legendary</Rarity> 
           </Item>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000217</GUID>
                     <Name>Specialist AreaEffect-ForumIncomePrestigeProductivity-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumIncomePrestigeProductivityL.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000216</OasisId>
@@ -97,7 +97,7 @@
                 <Standard>
                     <GUID>1600000218</GUID>
                     <Name>Specialist AreaEffect-ForumIncomePrestigeProductivity-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumIncomePrestigeProductivityL.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -129,7 +129,7 @@
                 <Standard>
                     <GUID>1600000219</GUID>
                     <Name>Specialist AreaEffect-ForumIncomePrestigeProductivity-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/female_ForumIncomePrestigeProductivityL.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000216</OasisId>

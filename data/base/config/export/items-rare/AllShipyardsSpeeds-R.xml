@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000226</GUID>
             <Name>AllShipyardsSpeeds-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/female_AllShipyardSpeed.png</IconFilename>
             <InfoDescription>1600000227</InfoDescription>
           </Standard>
           <Effect>
@@ -29,7 +29,7 @@
           <Item>
             <Niche>Nautics</Niche> 
             <TradePrice>12000</TradePrice>
-            <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
+            <BarkPool>83327</BarkPool> <!-- <GUID>83327</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
@@ -53,7 +53,7 @@
               <Standard>
                   <GUID>1600000227</GUID>
                   <Name>AllShipyardsSpeeds-R BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                  <IconFilename>data/base/graphics/icons/other/female_AllShipyardSpeed.png</IconFilename>
               </Standard>
               <Text>
                   <OasisId>1600000226</OasisId>
@@ -70,7 +70,7 @@
               <ModuleOwnerUpgrade/>
               <MaintenanceUpgrade>
                 <MaintenanceFactorUpgrade>
-                  <Value>-50</Value>
+                  <Value>100</Value>
                   <Percental>1</Percental>
                 </MaintenanceFactorUpgrade>
               </MaintenanceUpgrade>
@@ -78,7 +78,7 @@
               <IncidentInfectableUpgrade/>
               <RecruitmentUpgrade>
                 <ConstructionCostInPercent>0</ConstructionCostInPercent>
-                <ConstructionSpeedInPercent>25</ConstructionSpeedInPercent>
+                <ConstructionSpeedInPercent>33</ConstructionSpeedInPercent>
 		          </RecruitmentUpgrade>
               <AqueductUpgrade/>
               <WarehouseUpgrade/>

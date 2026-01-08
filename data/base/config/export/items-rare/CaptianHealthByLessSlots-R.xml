@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000224</GUID>
             <Name>CaptianHealthByLessSlots-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/unchanged/roman_female_CaptianHealthbyLessSlots.png</IconFilename>
             <InfoDescription>1600000225</InfoDescription>
           </Standard>
           <Effect>
@@ -30,7 +30,7 @@
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
             <TradePrice>12000</TradePrice>
-            <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
+            <BarkPool>83369</BarkPool> <!-- <GUID>83369</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>1600000225</GUID>
                     <Name>CaptianHealthByLessSlots-R ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_CaptianHealthbyLessSlots.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
