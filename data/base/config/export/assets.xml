@@ -64,7 +64,7 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AdditionalSpecialistsGuesthouses-E.xml"/>
+
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsumption-E.xml" />
@@ -74,7 +74,7 @@
     <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBelief-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
-    <Include File="items-epic/AreaEffect-LibraryPopulationHealth-E.xml" />
+    <Include File="items-epic/AreaEffect-LibraryPopulationHealthHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-TempleAres-E.xml" />
     <Include File="items-epic/AreaEffect-TempleCeres-E.xml" />
     <Include File="items-epic/AreaEffect-TempleCernunnos-E.xml" />
@@ -82,7 +82,7 @@
     <Include File="items-epic/AreaEffect-TempleMercury-E.xml" />
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
-    <Include File="items-epic/AreaEffect-TheaterHealthBelief-E.xml" />
+    <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
     <Include File="items-epic/CaptianArchersRange-E.xml" />
     <Include File="items-epic/CaptianMoreSlots-E.xml" />
 
@@ -95,6 +95,7 @@
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
+    <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
     <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
     <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
     <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
@@ -108,7 +109,7 @@
   <Group>
     <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
-    <Include File="items-legendary/AdditionalSpecialistsGuesthouses-L.xml" />
+    <Include File="items-legendary/AreaEffect-AdditionalSpecialistsGuesthouses-L.xml" />
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
     <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000096</GUID>
-            <Name>Specialist AreaEffect-TheaterHealthBelief-E</Name>
+            <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
             <InfoDescription>1600000097</InfoDescription>
           </Standard>
@@ -53,7 +53,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000097</GUID>
-                    <Name>Specialist AreaEffect-TheaterHealthBelief-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
@@ -87,7 +87,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000098</GUID>
-                    <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -119,7 +119,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000099</GUID>
-                    <Name>Specialist AreaEffect-TheaterHealthBelief-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
@@ -130,16 +130,22 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-				                </Belief>
+				        </Belief>
+                        <Happiness>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+				        </Happiness>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

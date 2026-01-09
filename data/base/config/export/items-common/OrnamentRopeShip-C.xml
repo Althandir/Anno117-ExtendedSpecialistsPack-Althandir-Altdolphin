@@ -72,13 +72,13 @@
                 </Buff>
                 <MovementUpgrade>
                   <BuffBaseSpeedUpgrade>
-                    <Value>-90</Value>
+                    <Value>-95</Value>
                     <Percental>0</Percental>
                   </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-80</Value>
+                    <Value>-75</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                   <MaintenanceFactorUpgrade>

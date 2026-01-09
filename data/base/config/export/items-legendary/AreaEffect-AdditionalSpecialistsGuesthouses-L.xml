@@ -1,0 +1,160 @@
+<ModOps>
+<!-- Item Definition GUID:1600000234 - 1600000237 | LineID:1600000234 - 1600000235 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000234</GUID>
+            <Name>Specialist AdditionalSpecialistsGuesthouses-L</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+            <InfoDescription>1600000235</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000235</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>50226</GUID> <!-- Initially it should point to <GUID>81273</GUID> but in Albion Temple = Forum -->
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Diplomacy</Niche> 
+            <TradePrice>1500000</TradePrice>
+            <BarkPool>83333</BarkPool> <!-- <GUID>83333</GUID> -->
+            <Rarity>Legendary</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000234</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000236</GUID>
+                    <Name>Specialist AdditionalSpecialistsGuesthouses-L FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>ObjectsInArea</EffectScope>
+                    <SourceCategory>Item</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000237</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>92731</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000040</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000235</GUID>
+                    <Name>Specialist AdditionalSpecialistsGuesthouses-L FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000040</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000236</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+                <ItemContainerUpgrade> <!-- Hint for Player to understand Effect -->
+                  <SocketCountUpgrade>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </SocketCountUpgrade>
+                </ItemContainerUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>ShipBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000237</GUID>
+                    <Name>Specialist AdditionalSpecialistsGuesthouses-L ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                </Standard>
+                <HealthUpgrade/>
+                <VehicleUpgrade/>
+                <TradeShipUpgrade/>
+                <Text>
+                    <OasisId>1600000234</OasisId>
+                </Text>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                    <IsStackable>0</IsStackable>
+                </Buff>
+                <MovementUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <UnitUpgrade/>
+                <ItemContainerUpgrade>
+                  <SocketCountUpgrade>
+                    <Value>1</Value>
+                    <Percental>0</Percental>
+                  </SocketCountUpgrade>
+                </ItemContainerUpgrade>
+                <SellableUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>
