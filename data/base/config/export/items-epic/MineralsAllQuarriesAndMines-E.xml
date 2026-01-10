@@ -73,7 +73,7 @@
                   <AdditionalOutput>
                     <Item>
                       <Product>8563</Product>
-                      <AdditionalOutputCycle>4</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
@@ -81,7 +81,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>75</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>

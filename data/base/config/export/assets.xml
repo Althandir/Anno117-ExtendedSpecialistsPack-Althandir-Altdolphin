@@ -45,6 +45,7 @@
     <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
+    <Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
     <Include File="items-rare/ClayWaterSlots-R.xml"/>
     <Include File="items-rare/MaintenanceAllUpholsterers-R.xml"/>
@@ -55,6 +56,7 @@
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
     <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
     <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
+    <Include File="items-rare/RC02ResidencesAdditionalWorkforceC01-R.xml" />
     <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
     <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />

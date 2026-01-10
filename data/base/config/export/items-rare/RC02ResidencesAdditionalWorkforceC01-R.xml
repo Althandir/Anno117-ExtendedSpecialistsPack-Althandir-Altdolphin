@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000204 - 1600000205 | LineID:1600000204 - 1600000205 -->
+<!-- Item Definition GUID:1600000240 - 1600000241 | LineID:1600000240 - 1600000241 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000204</GUID>
-            <Name>Specialist ProductitvityByFuel AllFuelConsumers R</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_ProdByFuelR.png</IconFilename>
-            <InfoDescription>1600000205</InfoDescription>
+            <GUID>1600000240</GUID>
+            <Name>Specialist RC02ResidencesAdditionalWorkforceC01-R</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_RC02ResidencesAdditionalWorkforceC01-R.png</IconFilename>
+            <InfoDescription>1600000241</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000205</GUID>
+                <GUID>1600000241</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71197</GUID>
-              </Item>
+					      <GUID>6475</GUID>
+				      </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>21250</TradePrice>
-            <BarkPool>80246</BarkPool> <!-- <GUID>80246</GUID> -->
+            <TradePrice>50000</TradePrice>
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000204</OasisId>
+            <OasisId>1600000240</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,36 +51,48 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000205</GUID>
-                    <Name>Specialist ProductitvityByFuel AllFuelConsumers R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_ProdByFuelR.png</IconFilename>
+                    <GUID>1600000241</GUID>
+                    <Name>Specialist RC02ResidencesAdditionalWorkforceC01-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_RC02ResidencesAdditionalWorkforceC01-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000204</OasisId>
+                    <OasisId>1600000240</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
+                    <Happiness>
+                      <AmountOrPercent>
+                        <Value>-1</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Happiness>
+                    <Health>
+                      <AmountOrPercent>
+                        <Value>-0.8</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Health>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-20</Value>
-                        <Percental>1</Percental>
+                        <Value>-0.8</Value>
+                        <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
+                  <WorkforceModifierInPercent>-30</WorkforceModifierInPercent>
+                  <AdditionalWorkforces>
+                    <Item>
+                      <WorkforceGUID>2192</WorkforceGUID>
+                    </Item>
+                  </AdditionalWorkforces>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>20</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-30</FuelDurationPercent>
-                </FactoryUpgrade>
+                <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>

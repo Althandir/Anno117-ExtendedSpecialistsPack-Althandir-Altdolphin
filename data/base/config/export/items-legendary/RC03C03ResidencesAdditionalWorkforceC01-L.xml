@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000238</GUID>
             <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_R04HostR01.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
             <InfoDescription>1600000239</InfoDescription>
           </Standard>
           <Effect>
@@ -56,7 +56,7 @@
                 <Standard>
                     <GUID>1600000239</GUID>
                     <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_R04HostR01.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_RC03C03ResidencesAdditionalWorkforceC01-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000238</OasisId>

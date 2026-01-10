@@ -2,11 +2,12 @@
 © from https://www.twitch.tv/dolphinchemist - only used as placeholder & DebugIcon
 Important: 
 THAT'S NOT THE CREATOR OF THIS MOD. 
-I only use his Icons as Placeholder as these Dolphins are sooooo cute... one day I should comission a own sticker pack by some artist. But until then maybe I change my persona anyway ^^.
+I only use his Icons as Placeholder as these Dolphins are sooooo cute... one day I should commission a own sticker pack by some artist. But until then maybe I change my persona anyway ^^.
+If you see the Dolphin Ingame anywhere please inform me so I can replace him. Poor Dolphin :(
 
 # Icons are sorted into different folders:
-## unused
-Contains unused Icons - maybe for later
+## original
+Contains Icons as archive - for later use
 ## unchanged 
 Contains Icons extracted from the main game and are used by the mod. 
 These are here in case Ubisoft decides to remove/change any icons in a future patch.
