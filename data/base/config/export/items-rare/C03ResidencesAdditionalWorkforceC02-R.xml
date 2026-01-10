@@ -63,7 +63,7 @@
                   <AdditionalAttributes>
                     <Happiness>
                       <AmountOrPercent>
-                        <Value>-0.8</Value>
+                        <Value>-1</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
@@ -80,7 +80,7 @@
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
-                  <WorkforceModifierInPercent>-33</WorkforceModifierInPercent>
+                  <WorkforceModifierInPercent>-30</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
                       <WorkforceGUID>2196</WorkforceGUID>

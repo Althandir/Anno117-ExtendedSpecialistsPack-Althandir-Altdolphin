@@ -72,7 +72,7 @@
     <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
     <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
     <Include File="items-epic/AreaEffect-GamblingHousePopulationHappiness-E.xml" />
-    <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBelief-E.xml" />
+    <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryPopulationHealthHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-TempleAres-E.xml" />
@@ -119,6 +119,7 @@
     <Include File="items-legendary/DolphinVilla-L.xml" />
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
     <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
+    <Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />
   </Group>
 
   <!-- Add to Pools -->

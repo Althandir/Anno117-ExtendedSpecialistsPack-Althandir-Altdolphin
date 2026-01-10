@@ -80,7 +80,7 @@
 
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
-            <Template>ShipBuff</Template>
+            <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
                     <GUID>1600000235</GUID>
@@ -101,7 +101,12 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

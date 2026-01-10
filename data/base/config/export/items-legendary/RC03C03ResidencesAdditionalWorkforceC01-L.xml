@@ -1,42 +1,45 @@
 <ModOps>
-<!-- Item Definition GUID:1600000210 - 1600000211 | LineID:1600000210 - 1600000211 -->
+<!-- Item Definition GUID:1600000238 - 1600000239 | LineID:1600000239 - 1600000239 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000210</GUID>
-            <Name>Specialist RC03ResidencesAdditionalWorkforceRC02-R</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_RC03HostRC02.png</IconFilename>
-            <InfoDescription>1600000211</InfoDescription>
+            <GUID>1600000238</GUID>
+            <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L</Name>
+            <IconFilename>data/base/graphics/icons/other/roman_male_R04HostR01.png</IconFilename>
+            <InfoDescription>1600000239</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000211</GUID>
+                <GUID>1600000239</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
 					      <GUID>6514</GUID>
 				      </Item>
+              <Item>
+					      <GUID>6472</GUID>
+				      </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>50000</TradePrice>
-            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <TradePrice>650000</TradePrice>
+            <BarkPool>83336</BarkPool> <!-- <GUID>83336</GUID> -->
+            <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000210</OasisId>
+            <OasisId>1600000238</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,39 +54,39 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000211</GUID>
-                    <Name>Specialist RC03ResidencesAdditionalWorkforceRC02-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_RC03HostRC02.png</IconFilename>
+                    <GUID>1600000239</GUID>
+                    <Name>Specialist RC03C03ResidencesAdditionalWorkforceC01-L BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_R04HostR01.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000210</OasisId>
+                    <OasisId>1600000238</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
                     <Happiness>
                       <AmountOrPercent>
-                        <Value>-1</Value>
+                        <Value>0</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
-                    <Health>
-                      <AmountOrPercent>
-                        <Value>-0.8</Value>
-                        <Percental>0</Percental>
-                      </AmountOrPercent>
-                    </Health>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-0.8</Value>
+                        <Value>0</Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>
+                    <Health>
+                      <AmountOrPercent>
+                        <Value>0</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Health>
                   </AdditionalAttributes>
-                  <WorkforceModifierInPercent>-30</WorkforceModifierInPercent>
+                  <WorkforceModifierInPercent>0</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
-                      <WorkforceGUID>2198</WorkforceGUID>
+                      <WorkforceGUID>2192</WorkforceGUID>
                     </Item>
                   </AdditionalWorkforces>
                 </BuildingUpgrade>
