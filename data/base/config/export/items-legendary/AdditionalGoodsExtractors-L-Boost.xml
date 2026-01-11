@@ -101,8 +101,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
-                      <Amount>2</Amount> <!-- Equals 66% Prod Buff  -->
+                      <AdditionalOutputCycle>4</AdditionalOutputCycle>
+                      <Amount>2</Amount> <!-- Equals 50% Prod Buff  -->
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
@@ -150,8 +150,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
-                      <Amount>3</Amount> <!-- Equals 100% Prod Buff  -->
+                      <AdditionalOutputCycle>4</AdditionalOutputCycle>
+                      <Amount>3</Amount> <!-- Equals 75% Prod Buff  -->
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>

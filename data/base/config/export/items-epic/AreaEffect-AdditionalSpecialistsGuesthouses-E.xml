@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:1600000234 - 1600000237 | LineID:1600000234 - 1600000235 -->
+<!-- Item Definition GUID:1600000244 - 1600000247 | LineID:1600000244 - 1600000245 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000234</GUID>
-            <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
-            <InfoDescription>1600000235</InfoDescription>
+            <GUID>1600000244</GUID>
+            <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E</Name>
+            <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
+            <InfoDescription>1600000245</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000235</GUID>
+                <GUID>1600000245</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -28,15 +28,15 @@
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
-            <TradePrice>1500000</TradePrice>
-            <BarkPool>83333</BarkPool> <!-- <GUID>83333</GUID> -->
-            <Rarity>Legendary</Rarity> 
+            <TradePrice>750000</TradePrice>
+            <BarkPool>80244</BarkPool> <!-- <GUID>80244</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000234</OasisId>
+            <OasisId>1600000244</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000236</GUID>
-                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                    <GUID>1600000247</GUID>
+                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>ObjectsInArea</EffectScope>
                     <SourceCategory>Item</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000237</GUID>
+                            <GUID>1600000248</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -72,7 +72,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000234</OasisId>
+                    <OasisId>1600000244</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -83,16 +83,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000235</GUID>
-                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                    <GUID>1600000245</GUID>
+                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000234</OasisId>
+                    <OasisId>1600000244</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000236</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000247</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -103,7 +103,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value>150</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -115,7 +115,7 @@
                 <IrrigationUpgrade/>
                 <ItemContainerUpgrade> <!-- Hint for Player to understand Effect -->
                   <SocketCountUpgrade>
-                    <Value>2</Value>
+                    <Value>1</Value>
                     <Percental>0</Percental>
                   </SocketCountUpgrade>
                 </ItemContainerUpgrade>
@@ -128,15 +128,15 @@
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000237</GUID>
-                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_SpecialistGuesthouses.png</IconFilename>
+                    <GUID>1600000248</GUID>
+                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E ShipBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
                 </Standard>
                 <HealthUpgrade/>
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>
-                    <OasisId>1600000234</OasisId>
+                    <OasisId>1600000244</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
@@ -145,14 +145,14 @@
                 <MovementUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value>150</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
                 <UnitUpgrade/>
                 <ItemContainerUpgrade>
                   <SocketCountUpgrade>
-                    <Value>2</Value>
+                    <Value>1</Value>
                     <Percental>0</Percental>
                   </SocketCountUpgrade>
                 </ItemContainerUpgrade>

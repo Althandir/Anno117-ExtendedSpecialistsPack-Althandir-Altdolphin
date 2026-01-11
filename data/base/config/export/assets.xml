@@ -13,8 +13,8 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    
-    <Include File="testing/pools-forceSpawnTesting.xml"/> -->
+    -->
+    <Include File="testing/pools-forceSpawnTesting.xml"/> 
   </Group>
   
   <!-- Common Specialists -->
@@ -68,6 +68,7 @@
   <Group>
 
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
+    <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
     <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-BathsHealthReducedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />

@@ -79,7 +79,7 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>2</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
                       <Amount>3</Amount>
                     </Item>
                     <Item>
@@ -99,12 +99,12 @@
                     </Item>
                     <Item>
                       <Product>2077</Product>
-                      <AdditionalOutputCycle>15</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>18</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2144</Product>
-                      <AdditionalOutputCycle>23</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>28</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>

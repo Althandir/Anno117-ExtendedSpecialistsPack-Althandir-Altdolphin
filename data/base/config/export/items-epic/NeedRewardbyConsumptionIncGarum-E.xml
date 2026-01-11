@@ -68,7 +68,7 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2139</ProvidedNeed>
-                      <AmountInPercent>20</AmountInPercent>
+                      <AmountInPercent>25</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
@@ -102,12 +102,12 @@
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Knowledge>
-                      <Health>
+                      <FireSafety>
                         <AmountOrPercent>
                           <Value>-1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
-                      </Health>
+                      </FireSafety>
                     </AdditionalNeedAttributes>
                   </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
