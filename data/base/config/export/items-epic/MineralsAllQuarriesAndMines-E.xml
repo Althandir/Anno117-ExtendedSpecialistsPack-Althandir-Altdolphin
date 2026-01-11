@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000106</GUID>
             <Name>Specialist Minerals AllQuarriesAndMines E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_male_mineraldigger.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_mineraldigger.png</IconFilename>
             <InfoDescription>1600000107</InfoDescription>
           </Standard>
           <Effect>
@@ -56,7 +56,7 @@
                 <Standard>
                     <GUID>1600000107</GUID>
                     <Name>Specialist Minerals AllQuarriesAndMines E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_mineraldigger.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_mineraldigger.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000106</OasisId>
