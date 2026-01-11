@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000116</GUID>
             <Name>Specialist NeedRewardbyConsumptionIncGarum-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardGarum.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/male_NeedRewardGarum.png</IconFilename>
             <InfoDescription>1600000117</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000117</GUID>
                     <Name>Specialist NeedRewardbyConsumptionIncGarum-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_NeedRewardGarum.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_NeedRewardGarum.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000116</OasisId>
@@ -68,7 +68,7 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2139</ProvidedNeed>
-                      <AmountInPercent>25</AmountInPercent>
+                      <AmountInPercent>33</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
@@ -86,13 +86,13 @@
                       </Population>
                       <Money>
                         <AmountOrPercent>
-                          <Value>1</Value>
+                          <Value>2</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Money>
                       <Happiness>
                         <AmountOrPercent>
-                          <Value>3</Value>
+                          <Value>1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Happiness>

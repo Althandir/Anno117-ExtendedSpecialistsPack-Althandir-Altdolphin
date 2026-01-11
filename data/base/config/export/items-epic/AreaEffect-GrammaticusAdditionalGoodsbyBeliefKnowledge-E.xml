@@ -72,7 +72,7 @@
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                            <AdditionalOutputCycle>7</AdditionalOutputCycle>
                             <Amount>1</Amount>
                         </Item>
                     </AdditionalOutput>
@@ -172,7 +172,7 @@
                         </Belief>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
@@ -200,7 +200,7 @@
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                            <AdditionalOutputCycle>7</AdditionalOutputCycle>
                             <Amount>1</Amount>
                         </Item>
                     </AdditionalOutput>

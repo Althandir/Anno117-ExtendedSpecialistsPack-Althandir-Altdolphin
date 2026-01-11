@@ -595,7 +595,184 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000115</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000117</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
   
+  <!-- Specialist ProductivityAllUpholsterers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000119</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllVictuallers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000121</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityByFuelAllFuelConsumers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000123</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000125</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000127</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000129</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ReplaceInputAmphoresToFineGlass-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000131</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ReplaceInputSilverToNecklaces-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000133</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000135</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>
