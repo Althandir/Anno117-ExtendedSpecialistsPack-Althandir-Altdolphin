@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000068</GUID>
-            <Name>Specialist AreaEffect-TempleAres-E</Name>
-            <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
+            <Name>Specialist AreaEffect-TempleMars-E</Name>
+            <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mars.png</IconFilename>
             <InfoDescription>1600000069</InfoDescription>
           </Standard>
           <Effect>
@@ -52,8 +52,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000069</GUID>
-                    <Name>Specialist AreaEffect-TempleAres-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
+                    <Name>Specialist AreaEffect-TempleMars-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000068</OasisId>
@@ -87,8 +87,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000070</GUID>
-                    <Name>Specialist AreaEffect-TempleAres-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
+                    <Name>Specialist AreaEffect-TempleMars-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mars.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -119,8 +119,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000071</GUID>
-                    <Name>Specialist AreaEffect-TempleAres-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ares.png</IconFilename>
+                    <Name>Specialist AreaEffect-TempleMars-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Mars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000068</OasisId>

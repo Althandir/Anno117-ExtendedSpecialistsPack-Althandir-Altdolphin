@@ -78,7 +78,7 @@
     <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
     <Include File="items-epic/AreaEffect-LibraryPopulationHealthHappiness-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleAres-E.xml" />
+    <Include File="items-epic/AreaEffect-TempleMars-E.xml" />
     <Include File="items-epic/AreaEffect-TempleCeres-E.xml" />
     <Include File="items-epic/AreaEffect-TempleCernunnos-E.xml" />
     <Include File="items-epic/AreaEffect-TempleEpona-E.xml" />

@@ -345,17 +345,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-TempleAres-E -->
+  <!-- Specialist AreaEffect-TempleMars-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Priestess of Ares</Text>
+          <Text>Priestess of Mars</Text>
           <LineId>1600000068</LineId> <!-- <GUID>1600000068</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Highly devoted and preaches the roman virtues of the deity Ares.</Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Mars.</Text>
           <LineId>1600000069</LineId> 
       </Text>
     </ModOp>
