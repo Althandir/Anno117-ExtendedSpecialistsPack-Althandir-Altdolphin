@@ -542,7 +542,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Knows where to find any needed minerals.</Text>
           <LineId>1600000107</LineId> 
       </Text>
     </ModOp>
@@ -590,7 +590,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Loves having animals around.</Text>
           <LineId>1600000113</LineId> 
       </Text>
     </ModOp>
@@ -606,7 +606,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>"And the next round goes on me!" </Text>
           <LineId>1600000115</LineId> 
       </Text>
     </ModOp>
@@ -622,7 +622,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Seasons everything extra salty. Creates a breath of desert in your mouth.</Text>
           <LineId>1600000117</LineId> 
       </Text>
     </ModOp>
@@ -718,7 +718,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Enjoys everything with a crane. Would have been a great sailor. If he wouldn't be seasick.</Text>
           <LineId>1600000129</LineId> 
       </Text>
     </ModOp>
@@ -734,7 +734,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Colored Amphores are as beautiful as coloered fine glass.</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
@@ -772,7 +772,117 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000138</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 
+  <!-- Specialist AdditionalGoodsHoney-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000138</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllWorkshops-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000139</LineId> <!-- <GUID>1600000139</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000140</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000142</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CollosseumGladiator-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000145</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000148</LineId> <!-- <GUID>1600000148</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000149</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CrazyLatiumFisheries-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000153</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>
