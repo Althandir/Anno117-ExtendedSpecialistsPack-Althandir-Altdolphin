@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000244 - 1600000247 | LineID:1600000244 - 1600000245 -->
+<!-- Item Definition GUID:1600000244 - 1600000247 | LineID:1600000244 - 1600000245 #TODO: Retest Item GUID Changed-->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -45,39 +45,6 @@
 
   <!-- Buff Definitions-->
   <Group>
-    <!-- BuildingEffect Definition -->
-    <ModOp Type="addNextSibling" GUID="135498">
-        <Asset>
-            <Template>Effect</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000247</GUID>
-                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
-                </Standard>
-                <Effect>
-                    <EffectScope>ObjectsInArea</EffectScope>
-                    <SourceCategory>Item</SourceCategory>
-                    <Buffs>
-                        <Item>
-                            <GUID>1600000248</GUID>
-                        </Item>
-                    </Buffs>
-                    <Targets>
-                        <Item>
-                            <GUID>92731</GUID>
-                        </Item>
-                    </Targets>
-                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
-                    <HideInGovernorsBar>1</HideInGovernorsBar>
-                </Effect>
-                <Text>
-                    <OasisId>1600000244</OasisId>
-                </Text>
-            </Values>
-        </Asset>
-    </ModOp>
-
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>BuildingBuff</Template>
@@ -92,7 +59,7 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000247</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000246</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -123,12 +90,45 @@
         </Asset>
     </ModOp>
 
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000246</GUID>
+                    <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>ObjectsInArea</EffectScope>
+                    <SourceCategory>Item</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000247</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>92731</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000244</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>ShipBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000248</GUID>
+                    <GUID>1600000247</GUID>
                     <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_AreaEffect-AdditionalSpecialistsGuesthouses-E.png</IconFilename>
                 </Standard>

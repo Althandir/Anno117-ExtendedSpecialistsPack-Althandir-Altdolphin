@@ -78,11 +78,11 @@
                 </MovementUpgrade>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-75</Value>
+                    <Value>-70</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-80</Value>
+                    <Value>-70</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
