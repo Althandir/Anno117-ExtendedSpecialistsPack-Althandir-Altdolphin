@@ -84,7 +84,7 @@
                     </Item>
                     <Item>
                       <Product>2089</Product>
-                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
@@ -95,11 +95,6 @@
                     <Item>
                       <Product>2112</Product>
                       <AdditionalOutputCycle>8</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                    <Item>
-                      <Product>2077</Product>
-                      <AdditionalOutputCycle>18</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>

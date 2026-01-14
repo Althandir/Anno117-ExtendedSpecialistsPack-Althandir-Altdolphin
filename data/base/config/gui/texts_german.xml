@@ -585,4 +585,51 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"And the next round goes on me!"</Text>
+          <LineId>1600000115</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Seasons everything extra salty. Creates a breath of desert in your mouth.</Text>
+          <LineId>1600000117</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist ProductivityAllUpholsterers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Always stocks up on every kind of fabric.</Text>
+          <LineId>1600000119</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>

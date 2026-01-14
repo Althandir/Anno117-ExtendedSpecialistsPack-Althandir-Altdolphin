@@ -521,7 +521,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Iana Rodericia, young environmentalist</Text>
           <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
       </Text>
       <!-- Description -->
@@ -558,7 +558,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Enjoys the countrylife.</Text>
           <LineId>1600000109</LineId> 
       </Text>
     </ModOp>
@@ -569,12 +569,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>[PH], the planter for generations</Text>
           <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Reaps the fruits of what was planted generations ago.</Text>
           <LineId>1600000111</LineId> 
       </Text>
     </ModOp>
@@ -590,7 +590,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Loves having animals around.</Text>
+          <Text>Best caretaker any animal could dream of.</Text>
           <LineId>1600000113</LineId> 
       </Text>
     </ModOp>
@@ -606,7 +606,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"And the next round goes on me!" </Text>
+          <Text>"And the next round goes on me!"</Text>
           <LineId>1600000115</LineId> 
       </Text>
     </ModOp>
@@ -638,7 +638,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Always stocks up on every kind of fabric.</Text>
           <LineId>1600000119</LineId> 
       </Text>
     </ModOp>
@@ -654,7 +654,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Has so many beverages, even Bacchus might start to become envious.</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -670,7 +670,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Knows exactly how much heat is required for a reaction.</Text>
           <LineId>1600000123</LineId> 
       </Text>
     </ModOp>
@@ -745,12 +745,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Gaius Septicius, the silversmith</Text>
           <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Silver is the new Gold!</Text>
           <LineId>1600000133</LineId> 
       </Text>
     </ModOp>
@@ -766,24 +766,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>A true master of the elements. Ready and at your service.</Text>
           <LineId>1600000135</LineId> 
       </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
+      <!-- Boost Hint -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>[PH]</Text>
-          <LineId>1600000138</LineId> 
+          <Text>Ready for a young apprentice.</Text>
+          <LineId>1600000136</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -793,12 +782,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Wojtecus, the adopted persian Bear</Text>
           <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Quick! Follow the bear! He will lead us to the honey!... or catches a spy again.</Text>
           <LineId>1600000138</LineId> 
       </Text>
     </ModOp>
@@ -830,7 +819,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Truely belevies in the bureaucratic system and is a master getting everything sorted out for anyone.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -846,7 +835,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Ready to fight for love and glory!</Text>
           <LineId>1600000145</LineId> 
       </Text>
     </ModOp>
@@ -878,11 +867,412 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Catches everything with giant nets. Sandales inclusive... and sometimes... a sheep? How?!</Text>
           <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist ProdAreaUpgradeHuntersAndEels-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000155</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000157</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsResolverRange-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000159</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AllPublicServicesEffectRange-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000161</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000162</LineId> <!-- <GUID>1600000162</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000163</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000166</LineId> <!-- <GUID>1600000166</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000167</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000171</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000174</LineId> <!-- <GUID>1600000174</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000175</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-GrammaticusKnowledgebyMoney-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000178</LineId> <!-- <GUID>1600000178</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Investing into the future results in investing into Knowledge.</Text>
+          <LineId>1600000179</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000183</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterHappinessbyPrestige-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000186</LineId> <!-- <GUID>1600000186</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000187</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000191</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ClayWaterSlots-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000193</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist MaintenanceAllUpholsterers-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000195</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist MaintenanceMiniInstitutions-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000197</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradeReed-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000198</LineId> <!-- <GUID>1600000198</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000199</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProdAreaUpgradeHuntersAndEels-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000200</LineId> <!-- <GUID>1600000200</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000201</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllCoastalProductions-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000202</LineId> <!-- <GUID>1600000202</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000203</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityByFuelAllFuelConsumers-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000204</LineId> <!-- <GUID>1600000204</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000205</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000207</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000209</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000211</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist WarehouseCapacityUpgrade-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>A living catalog for the warehouses.</Text>
+          <LineId>1600000213</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist WorkforceRomanCelticTowers-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000214</LineId> <!-- <GUID>1600000214</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000215</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-ForumIncomePrestigeProductivity-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000216</LineId> <!-- <GUID>1600000216</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Triggers the heart of roman Craftsmanship and Trade.</Text>
+          <LineId>1600000217</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>
