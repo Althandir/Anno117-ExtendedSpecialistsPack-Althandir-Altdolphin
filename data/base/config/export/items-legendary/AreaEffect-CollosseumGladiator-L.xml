@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000144</GUID>
             <Name>Specialist AreaEffect-CollosseumGladiator-L</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/male_CollosseumGladiator.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/male_CollosseumGladiator.png</IconFilename>
             <InfoDescription>1600000145</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000145</GUID>
                     <Name>Specialist AreaEffect-CollosseumGladiator-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_CollosseumGladiator.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_CollosseumGladiator.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000144</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>1600000146</GUID>
                     <Name>Specialist AreaEffect-CollosseumGladiator-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_CollosseumGladiator.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_CollosseumGladiator.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>1600000147</GUID>
                     <Name>Specialist AreaEffect-CollosseumGladiator-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_CollosseumGladiator.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_CollosseumGladiator.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000144</OasisId>

@@ -89,7 +89,7 @@
             <BonusAttributes>
               <Money>
                 <ValueOrPercent>
-                  <Value>0</Value>
+                  <Value>-5</Value>
                   <Percental>1</Percental>
                 </ValueOrPercent>
               </Money>
@@ -135,7 +135,7 @@
           </AreaBuff>
           <Buff>
             <SourceCategory>Item</SourceCategory>
-            <IsStackable>0</IsStackable>
+            <IsStackable>1</IsStackable>
           </Buff>
           <AreaPassiveTradeUpgrade/>
           <AreaMaintenanceUpgrade>

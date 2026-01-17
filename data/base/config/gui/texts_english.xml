@@ -94,7 +94,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Offers a variety of different religious items to everyone for any deity.</Text>
+          <Text>Offers a variety of different religious items for any deity.</Text>
           <LineId>1600000014</LineId> 
       </Text>
     </ModOp>
@@ -126,7 +126,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Makes sure every denarii is collected.</Text>
+          <Text>Makes sure every denarii is payed.</Text>
           <LineId>1600000022</LineId> 
       </Text>
     </ModOp>
@@ -153,7 +153,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Wild Pony Hunter</Text>
+          <Text>Wild Pony Huntress</Text>
           <LineId>1600000027</LineId> <!-- <GUID>1600000027</GUID> -->
       </Text>
       <!-- Description -->
@@ -174,7 +174,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese.</Text>
+          <Text>"A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese."</Text>
           <LineId>1600000030</LineId> 
       </Text>
     </ModOp>
@@ -217,12 +217,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aulus Pius, the Watchful Inspirator</Text>
           <LineId>1600000035</LineId> <!-- <GUID>1600000035</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Inspires the city guards on the island with tales of heroic deeds during horrific disasters. Utilizes this opportunity to provide enhanced training for all guards.</Text>
+          <Text>Inspires the city guards on the island with tales of heroic deeds during horrific disasters. Utilizes this opportunity to provide enhanced training for all guards. Hint: This Effect can Stack.</Text>
           <LineId>1600000036</LineId> 
       </Text>
     </ModOp>
@@ -233,12 +233,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aurelius Cautus, the Bureaucrat</Text>
           <LineId>1600000037</LineId> <!-- <GUID>1600000037</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses Denarii to allegedly optimize bureaucratic processes. "Now please take a number and wait until you hear from us."</Text>
+          <Text>Uses Denarii to allegedly optimize bureaucratic processes. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -249,12 +249,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Gaius Armifex, Local Armorist</Text>
           <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reroutes local armaments for more Custodes. Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
+          <Text>Reroutes local armaments for the Custodes. Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
@@ -265,12 +265,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Valerius Saponius, Master of the Soap</Text>
           <LineId>1600000044</LineId> <!-- <GUID>1600000044</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>By using soap in big pools of water we can clean so many people at once. Hint: Consume reduction applies to every building in street range.</Text>
+          <Text>By using soap in big pools of water we can clean so many people at once. Hint: Consume reduction applies to every building in Street Range.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -281,7 +281,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Vidumaros, Celtic Traditionalist</Text>
           <LineId>1600000048</LineId> <!-- <GUID>1600000048</GUID> -->
       </Text>
       <!-- Description -->
@@ -297,12 +297,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aquarius the Supplier</Text>
+          <Text>Aquarius, the Watersupplier</Text>
           <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Show the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their range.</Text>
+          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range. Maintenance will be only increased for the cistern.</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
@@ -313,7 +313,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Probus, Honest Gambler</Text>
           <LineId>1600000056</LineId> <!-- <GUID>1600000056</GUID> -->
       </Text>
       <!-- Description -->
@@ -329,7 +329,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Julia Archivola, the Living Bibliothēcaria</Text>
           <LineId>1600000060</LineId> <!-- <GUID>1600000060</GUID> -->
       </Text>
       <!-- Description -->
@@ -345,12 +345,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Varius Flexus, Human Biologist</Text>
           <LineId>1600000064</LineId> <!-- <GUID>1600000064</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Traveled to many coasts to observe and study all different types of human bodies. One of the first writers of scrolls on human anatomy.</Text>
+          <Text>Traveled to many coasts to observe and study all different types of human bodies. One of the first writers of scrolls on the flexibilty of human anatomy.</Text>
           <LineId>1600000065</LineId> 
       </Text>
     </ModOp>
@@ -473,7 +473,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Ethelia, Performing Hag</Text>
+          <Text>Ethelia, Hag Actress</Text>
           <LineId>1600000096</LineId> <!-- <GUID>1600000096</GUID> -->
       </Text>
       <!-- Description -->
@@ -494,7 +494,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Swift and with an eagles eye on the seas a force to be reckoned with.</Text>
+          <Text>Swift and with an eagles eye is a force to be reckoned with.</Text>
           <LineId>1600000101</LineId> 
       </Text>
     </ModOp>
@@ -505,7 +505,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Ames, Ship Distorter</Text>
           <LineId>1600000102</LineId> <!-- <GUID>1600000102</GUID> -->
       </Text>
       <!-- Description -->
@@ -521,7 +521,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Iana Rodericia, young environmentalist</Text>
+          <Text>Iana Rodericia, Young Environmentalist</Text>
           <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
       </Text>
       <!-- Description -->
@@ -537,7 +537,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Marcus Speculator, Mineral Expert</Text>
           <LineId>1600000106</LineId> <!-- <GUID>1600000106</GUID> -->
       </Text>
       <!-- Description -->
@@ -553,7 +553,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Piso Agricola, Custodes of the Land</Text>
           <LineId>1600000108</LineId> <!-- <GUID>1600000108</GUID> -->
       </Text>
       <!-- Description -->
@@ -569,7 +569,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH], the planter for generations</Text>
+          <Text>Publius Arboreus, the Planter For Generations</Text>
           <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
       </Text>
       <!-- Description -->
@@ -585,7 +585,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Junia Pascua, Animal Caretaker</Text>
           <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
       </Text>
       <!-- Description -->
@@ -601,7 +601,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Ulpius, Bacchus Blessed</Text>
           <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
       </Text>
       <!-- Description -->
@@ -617,12 +617,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Sericus Garum, Far Eastern Spicer</Text>
           <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Seasons everything extra salty. Creates a breath of desert in your mouth.</Text>
+          <Text>Adds a particularly salty flavor to everything. Creates a taste of the desert on the tongue.</Text>
           <LineId>1600000117</LineId> 
       </Text>
     </ModOp>
@@ -633,7 +633,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Lucius Textor, the Textile Craftsmen.</Text>
           <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
       </Text>
       <!-- Description -->
@@ -649,12 +649,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Cornelia Fusilla, Fluid Artista</Text>
           <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Has so many beverages, even Bacchus might start to become envious.</Text>
+          <Text>Knows how to work with Liquids and Jars.</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -665,7 +665,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Decimus Igneus, Expert Igniter</Text>
           <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
       </Text>
       <!-- Description -->
@@ -681,12 +681,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Domitia Regilla, Always Accompanied</Text>
           <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Always in need of a group of Liberti for her luxurious needs.</Text>
           <LineId>1600000125</LineId> 
       </Text>
     </ModOp>
@@ -697,12 +697,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Cornelia Operosa, the Fascinated One</Text>
           <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities.</Text>
           <LineId>1600000127</LineId> 
       </Text>
     </ModOp>
@@ -713,12 +713,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Gnaeus Geranus, the Cranebird</Text>
           <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enjoys everything with a crane. Would have been a great sailor. If he wouldn't be seasick.</Text>
+          <Text>Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick.</Text>
           <LineId>1600000129</LineId> 
       </Text>
     </ModOp>
@@ -729,12 +729,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Viroglinos</Text>
           <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Colored Amphores are as beautiful as coloered fine glass.</Text>
+          <Text>Colored Amphores are as beautiful as colored fine glass. And as breakable.</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
@@ -745,7 +745,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Gaius Septicius, the silversmith</Text>
+          <Text>Gaius Septicius, the Silversmith</Text>
           <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
       </Text>
       <!-- Description -->
@@ -761,12 +761,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Vullius Brixantus, the Master Alchemist</Text>
           <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A true master of the elements. Ready and at your service.</Text>
+          <Text>A true master of the natural elements. Ready and at your service.</Text>
           <LineId>1600000135</LineId> 
       </Text>
       <!-- Boost Hint -->
@@ -787,7 +787,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Quick! Follow the bear! He will lead us to the honey!... or catches a spy again.</Text>
+          <Text>"Quick! Follow the bear! He will lead us to the honey!... or catches a spy again."</Text>
           <LineId>1600000138</LineId> 
       </Text>
     </ModOp>
@@ -798,12 +798,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Apprilia, Early Engineer</Text>
           <LineId>1600000139</LineId> <!-- <GUID>1600000139</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Dreams of an age of machines and steam.</Text>
           <LineId>1600000140</LineId> 
       </Text>
     </ModOp>
@@ -814,12 +814,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Buritus, Architectus Bureaucraticus</Text>
           <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Truely belevies in the bureaucratic system and is a master getting everything sorted out for anyone.</Text>
+          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. Hint: This Effect can Stack.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -830,12 +830,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Leo Victor, Roaring Gladiator</Text>
           <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ready to fight for love and glory!</Text>
+          <Text>Roars loud like a lion! Ready to fight for glory!</Text>
           <LineId>1600000145</LineId> 
       </Text>
     </ModOp>
@@ -846,12 +846,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Marcus Favor, the Beloved Crowdfavorite</Text>
           <LineId>1600000148</LineId> <!-- <GUID>1600000148</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>“What an exquisite performance!” “What an amazing talent!” “When I grow up, I want to be just like him!”</Text>
           <LineId>1600000149</LineId> 
       </Text>
     </ModOp>
@@ -862,7 +862,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aquarius Crassicius, Neptune Blessed Fisherman</Text>
           <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
       </Text>
       <!-- Description -->
@@ -878,12 +878,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Silvius Vercannos, Legendary Hunter</Text>
           <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Such a great hunter, he would even catch mystical creatures.</Text>
           <LineId>1600000155</LineId> 
       </Text>
     </ModOp>
@@ -894,12 +894,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Marcus Pius, Fair and Thoughtful Patronus</Text>
           <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Knows without a mass of Liberti, he would be nothing.</Text>
           <LineId>1600000157</LineId> 
       </Text>
     </ModOp>
@@ -910,12 +910,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Vigilant Sentry</Text>
           <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Checks every corner.</Text>
           <LineId>1600000159</LineId> 
       </Text>
     </ModOp>
@@ -926,12 +926,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Motivtated Bureaucrat</Text>
           <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Tries his best to optimize processes. Hint: This Effect can Stack.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>
@@ -942,12 +942,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Angry Bath Attendent</Text>
           <LineId>1600000162</LineId> <!-- <GUID>1600000162</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>"By Neptune, don't jump off the edge of the bath!"</Text>
           <LineId>1600000163</LineId> 
       </Text>
     </ModOp>
@@ -958,12 +958,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Pagan Ritualist</Text>
           <LineId>1600000166</LineId> <!-- <GUID>1600000166</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Executes celtic pagan rituals to the Romans' detriment.</Text>
           <LineId>1600000167</LineId> 
       </Text>
     </ModOp>
@@ -974,12 +974,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Annoyed Census Representative</Text>
           <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Crams everyone into a room for the official census.</Text>
           <LineId>1600000171</LineId> 
       </Text>
     </ModOp>
@@ -990,12 +990,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Gambling Debt Collector</Text>
           <LineId>1600000174</LineId> <!-- <GUID>1600000174</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Allows high-risk bets just as an excuse to visit your home. Or better said his new home.</Text>
           <LineId>1600000175</LineId> 
       </Text>
     </ModOp>
@@ -1006,7 +1006,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Public Teacher</Text>
           <LineId>1600000178</LineId> <!-- <GUID>1600000178</GUID> -->
       </Text>
       <!-- Description -->
@@ -1022,12 +1022,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Fire Performer</Text>
           <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Uses fire to perform his acts. Scares everyone into firepreventing measures.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1038,12 +1038,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Mischievous Actor</Text>
           <LineId>1600000186</LineId> <!-- <GUID>1600000186</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Brings nearly everyone to a good laught, except the nobility.</Text>
           <LineId>1600000187</LineId> 
       </Text>
     </ModOp>
@@ -1054,12 +1054,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Retired Smith</Text>
           <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>The youth can always learn from the elder ones.</Text>
           <LineId>1600000191</LineId> 
       </Text>
     </ModOp>
@@ -1070,12 +1070,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Waterwheel Clay Cleaner</Text>
           <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Kept the fun from digging into Clay since the childhood.</Text>
           <LineId>1600000193</LineId> 
       </Text>
     </ModOp>
@@ -1086,12 +1086,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Upholsterer Trainer</Text>
           <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Teaches how to handle needle tools to prevent worker outages.</Text>
           <LineId>1600000195</LineId> 
       </Text>
     </ModOp>
@@ -1102,12 +1102,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Roman Amenity Planner</Text>
           <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Everyone should enjoy the amenities of the romans.</Text>
           <LineId>1600000197</LineId> 
       </Text>
     </ModOp>
@@ -1118,12 +1118,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Mud-covered Reedgrower</Text>
           <LineId>1600000198</LineId> <!-- <GUID>1600000198</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>"Huh? What are you doing in my swamp?! "</Text>
           <LineId>1600000199</LineId> 
       </Text>
     </ModOp>
@@ -1134,12 +1134,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Eager Huntress</Text>
           <LineId>1600000200</LineId> <!-- <GUID>1600000200</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Yearns for the hunt.</Text>
           <LineId>1600000201</LineId> 
       </Text>
     </ModOp>
@@ -1150,12 +1150,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Beachworker</Text>
           <LineId>1600000202</LineId> <!-- <GUID>1600000202</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Could work at the beach all the time.</Text>
           <LineId>1600000203</LineId> 
       </Text>
     </ModOp>
@@ -1166,12 +1166,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Habitual Heater</Text>
           <LineId>1600000204</LineId> <!-- <GUID>1600000204</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>"Baking stuff makes it taste better, why shouldn't it work for other things?"</Text>
           <LineId>1600000205</LineId> 
       </Text>
     </ModOp>
@@ -1182,12 +1182,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aspiring Plebeian</Text>
           <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Thanks to her hard work, she is ready to move up to the next roman stratum.</Text>
           <LineId>1600000207</LineId> 
       </Text>
     </ModOp>
@@ -1198,12 +1198,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aspiring Equites</Text>
           <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Rich, but not rich enough to be considered that relevant.</Text>
           <LineId>1600000209</LineId> 
       </Text>
     </ModOp>
@@ -1214,12 +1214,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Grounded Nobleman</Text>
           <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Not as aloof as other nobles.</Text>
           <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
@@ -1230,7 +1230,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Expericened Warehouse Worker</Text>
           <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
       </Text>
       <!-- Description -->
@@ -1246,12 +1246,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Noble Archer</Text>
           <LineId>1600000214</LineId> <!-- <GUID>1600000214</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Brings his hunting lessions to good use.</Text>
           <LineId>1600000215</LineId> 
       </Text>
     </ModOp>
@@ -1262,12 +1262,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Cornelia Regula Rectrix, Strict Economist</Text>
           <LineId>1600000216</LineId> <!-- <GUID>1600000216</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Triggers the heart of roman Craftsmanship and Trade.</Text>
+          <Text>Triggers the heart of roman Craftsmanship and Trade. Hint I: Productivity applies to All Production Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
           <LineId>1600000217</LineId> 
       </Text>
     </ModOp>
@@ -1278,12 +1278,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Aurelia Ordinata, Worker Organizer</Text>
           <LineId>1600000220</LineId> <!-- <GUID>1600000220</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Manages workers for greater efficiency and organizes them to the best suited profession. Hint I: Workforce Modifier applies to All Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
           <LineId>1600000221</LineId> 
       </Text>
     </ModOp>
@@ -1294,12 +1294,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Armored Sailor</Text>
           <LineId>1600000224</LineId> <!-- <GUID>1600000224</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Sacrifices storage space for more defense.</Text>
           <LineId>1600000225</LineId> 
       </Text>
     </ModOp>
@@ -1310,12 +1310,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Motivated Shipyard Worker</Text>
           <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Swings the hammer quicker for your fleet.</Text>
           <LineId>1600000227</LineId> 
       </Text>
     </ModOp>
@@ -1326,7 +1326,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Strong Rope</Text>
           <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
       </Text>
       <!-- Description -->
@@ -1337,17 +1337,17 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E -->
+  <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Fabia Novella, Experimental Crafter</Text>
           <LineId>1600000230</LineId> <!-- <GUID>1600000230</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Teaches experimental craftmanship which causes people stop trusting the gods.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
@@ -1358,12 +1358,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Lucia Illuminata, Enlightened Housekeeper</Text>
           <LineId>1600000234</LineId> <!-- <GUID>1600000234</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Expert in caring for specialists from everywhere. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1374,12 +1374,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Lucius Domitius Catavignus, Romano-Celtic Envoy</Text>
           <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Closes the cultural gaps between Romans and Celts.</Text>
           <LineId>1600000239</LineId> 
       </Text>
     </ModOp>
@@ -1390,12 +1390,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Merchant with Entourage</Text>
           <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Has so much to trade, always in need a company of strong man around.</Text>
           <LineId>1600000241</LineId> 
       </Text>
     </ModOp>
@@ -1406,12 +1406,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Lovestruck Wader</Text>
           <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Wants to bring flowers to his love, but only finds herbs.</Text>
           <LineId>1600000243</LineId> 
       </Text>
     </ModOp>
@@ -1422,12 +1422,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Quintus Merula, Master of Invitations</Text>
           <LineId>1600000244</LineId> <!-- <GUID>1600000244</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost are applied to Marvel, Officia and Villa.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>

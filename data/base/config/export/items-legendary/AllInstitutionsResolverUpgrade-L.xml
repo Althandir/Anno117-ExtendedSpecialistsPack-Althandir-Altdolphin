@@ -63,6 +63,7 @@
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
+                    <IsStackable>1</IsStackable>
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade/>
@@ -79,7 +80,7 @@
                 </MaintenanceUpgrade>
                 <CityInstitutionUpgrade>
                   <ResolverRangeUpgrade>
-                    <Value>50</Value>
+                    <Value>40</Value>
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
                   <ResolverUnitCountUpgrade>
@@ -87,7 +88,7 @@
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>
-                    <Value>-10</Value>
+                    <Value>-5</Value>
                     <Percental>1</Percental>
                   </ResolverResolveDurationUpgrade>
                 </CityInstitutionUpgrade>

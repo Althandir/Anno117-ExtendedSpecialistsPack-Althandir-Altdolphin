@@ -61,7 +61,7 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000222</AdditionalFunctionalEffect>
-                    <WorkforceModifierInPercent>8</WorkforceModifierInPercent>
+                    <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -73,7 +73,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <WorkforceMaintenanceFactorUpgrade>
-                        <Value>-8</Value>
+                        <Value>-10</Value>
                         <Percental>1</Percental>
                     </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -133,7 +133,7 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <WorkforceModifierInPercent>8</WorkforceModifierInPercent>
+                    <WorkforceModifierInPercent>10</WorkforceModifierInPercent>
                     <AdditionalAttributes>
                         <Population>
                         <AmountOrPercent>
@@ -200,7 +200,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <WorkforceMaintenanceFactorUpgrade>
-                        <Value>-8</Value>
+                        <Value>-10</Value>
                         <Percental>1</Percental>
                     </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>

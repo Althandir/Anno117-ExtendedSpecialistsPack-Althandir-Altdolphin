@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000230</GUID>
-            <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E</Name>
+            <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E</Name>
             <IconFilename>data/base/graphics/icons/other/female_GrammaticusProductivityE.png</IconFilename>
             <InfoDescription>1600000231</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000231</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/female_GrammaticusProductivityE.png</IconFilename>
                 </Standard>
                 <Text>
@@ -72,7 +72,7 @@
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>7</AdditionalOutputCycle>
+                            <AdditionalOutputCycle>10</AdditionalOutputCycle>
                             <Amount>1</Amount>
                         </Item>
                     </AdditionalOutput>
@@ -99,7 +99,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000232</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/female_GrammaticusProductivityE.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -131,7 +131,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000233</GUID>
-                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBeliefKnowledge-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/female_GrammaticusProductivityE.png</IconFilename>
                 </Standard>
                 <Text>
@@ -172,7 +172,7 @@
                         </Belief>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>-0.3</Value>
+                                <Value>0</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
@@ -200,7 +200,7 @@
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>7</AdditionalOutputCycle>
+                            <AdditionalOutputCycle>10</AdditionalOutputCycle>
                             <Amount>1</Amount>
                         </Item>
                     </AdditionalOutput>
