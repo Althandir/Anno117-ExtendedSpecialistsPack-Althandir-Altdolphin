@@ -35,3 +35,7 @@ E.g. Specialist -> Targets Guesthouses via "ObjectsInArea" with SocketUpgrade +1
 ## WORKAROUND: Via 3rd Building and AreaEffect
 Item applies BuildingBuff with only AdditionalFunctionalEffect - new Effect targets Guesthouses and Villa - Item behaves as expected when adding and removing.
 See: AdditionalSpecialistsGuesthouses-L.xml
+
+# Double <AdditionalFunctionalEffects> are not working as of now. Each Buff can only have one AdditionalFunctionalEffect
+# Multiple Buffs per Items are possible
+- I would recommend against it as this will cause the Item appearing twice in the Building Overview with only the Effects from the first Buff. Thats very difficult to ecplain to the Player.

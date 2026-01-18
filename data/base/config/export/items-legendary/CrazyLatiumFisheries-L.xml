@@ -76,35 +76,45 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>66</Value>
+                    <Percental>1</Percental>
+			            </ProductivityUpgrade>
                   <AdditionalOutput>
+                    <!--
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                      <Amount>3</Amount>
+                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
+                      <Amount>4</Amount>
+                    </Item> -->
+                    <Item>
+                      <Product>2088</Product>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                      <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2089</Product>
-                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2087</Product>
-                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2112</Product>
-                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2144</Product>
-                      <AdditionalOutputCycle>28</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>32</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>31697</Product>
-                      <AdditionalOutputCycle>32</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>40</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
