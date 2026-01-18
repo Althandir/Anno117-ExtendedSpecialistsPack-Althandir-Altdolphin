@@ -68,13 +68,13 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2139</ProvidedNeed>
-                      <AmountInPercent>33</AmountInPercent>
+                      <AmountInPercent>30</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2139</ProvidedProduct> <!-- Product Garum -->
+                        <ProvidedProduct>2139</ProvidedProduct> <!-- <GUID>2139</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>

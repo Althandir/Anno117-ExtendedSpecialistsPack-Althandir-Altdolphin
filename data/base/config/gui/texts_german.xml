@@ -249,7 +249,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-BathsHealthReducedSoapConsumption-E -->
+  <!-- Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -259,7 +259,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Durch die Verwendung von Seife in großen Wasserbecken können wir viele Menschen gleichzeitig reinigen. Hinweis: Die Verbrauchsreduzierung gilt für jedes Gebäude in Straßenreichweite.</Text>
+          <Text>Durch die Verwendung von Seife in großen Wasserbecken können wir viele Menschen gleichzeitig reinigen. Hinweis: Die Effekte gelten für jedes Gebäude in Straßenreichweite.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -297,7 +297,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-GamblingHousePopulationHappiness-E -->
+  <!-- Specialist AreaEffect-GamblingHousePrestigeHappiness-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1416,7 +1416,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch ein Wunder im Umkreis dieses Spezialisten. Erhöhter Unterhalt gilt für Wunder, Officia und Villen.</Text>
+          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt gilt für Prachtbauten, Officia und Villen.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>

@@ -68,13 +68,13 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2154</ProvidedNeed>
-                      <AmountInPercent>33</AmountInPercent>
+                      <AmountInPercent>30</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2154</ProvidedProduct> <!-- Product Beer -->
+                        <ProvidedProduct>2154</ProvidedProduct> <!-- <GUID>2154</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>
@@ -98,13 +98,13 @@
                       </Happiness>
                       <Knowledge>
                         <AmountOrPercent>
-                          <Value>-1</Value>
+                          <Value>0</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Knowledge>
                       <Health>
                         <AmountOrPercent>
-                          <Value>0</Value>
+                          <Value>-1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Health>

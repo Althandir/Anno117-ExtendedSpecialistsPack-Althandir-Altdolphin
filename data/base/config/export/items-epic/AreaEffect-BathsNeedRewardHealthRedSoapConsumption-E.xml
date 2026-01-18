@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000044</GUID>
-            <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E</Name>
+            <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
             <InfoDescription>1600000045</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000045</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
@@ -66,13 +66,34 @@
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                  <GoodConsumptionUpgrade> <!-- Just hint to showcase Effect, has no Effect on Building itself -->
-                    <Item>
-                      <ProvidedNeed>2143</ProvidedNeed>
-                      <AmountInPercent>-15</AmountInPercent>
-                    </Item>
-                  </GoodConsumptionUpgrade>
+                <ResidenceUpgrade> <!-- # Hint for the Player -->
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                        <ProvidedNeed>2143</ProvidedNeed>
+                        <AmountInPercent>-15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                      <Item>
+                        <ProvidedProduct>2143</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                      </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Population>
+                            <AmountOrPercent>
+                            <Value>0.5</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Population>
+                        <Health>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                    </AdditionalNeedAttributes>
+                  </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
@@ -93,7 +114,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000046</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -125,7 +146,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000047</GUID>
-                    <Name>Specialist AreaEffect-BathsHealthReducedSoapConsumption-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
@@ -133,50 +154,39 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalAttributes>
-                      <Happiness>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Happiness>
-                      <Prestige>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Prestige>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                      <Knowledge>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Knowledge>
-                      <Health>
-                          <AmountOrPercent>
-                              <Value>1</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Health>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
-                <GoodConsumptionUpgrade>
-                    <Item>
-                      <ProvidedNeed>2143</ProvidedNeed>
-                      <AmountInPercent>-15</AmountInPercent>
-                    </Item>
-                  </GoodConsumptionUpgrade>
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                        <ProvidedNeed>2143</ProvidedNeed>
+                        <AmountInPercent>-15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                      <Item>
+                        <ProvidedProduct>2143</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                      </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Population>
+                            <AmountOrPercent>
+                            <Value>0.5</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Population>
+                        <Health>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                    </AdditionalNeedAttributes>
+                  </NeedProvidedNeedAttributes>
                 </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>

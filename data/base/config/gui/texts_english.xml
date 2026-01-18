@@ -260,7 +260,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-BathsHealthReducedSoapConsumption-E -->
+  <!-- Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -270,7 +270,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>By using soap in big pools of water we can clean so many people at once. Hint: Consume reduction applies to every building in Street Range.</Text>
+          <Text>By using soap in big pools of water we can clean so many people at once. Hint: The Effects are applying to every building in Street Range.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -308,7 +308,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-GamblingHousePopulationHappiness-E -->
+  <!-- Specialist AreaEffect-GamblingHousePrestigeHappiness-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
