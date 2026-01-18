@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000120</GUID>
             <Name>Specialist ProductivityAllVictuallers-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_AllCoopersE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_AllCoopersE.png</IconFilename>
             <InfoDescription>1600000121</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000121</GUID>
                     <Name>Specialist ProductivityAllVictuallers-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_AllCoopersE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_AllCoopersE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000120</OasisId>

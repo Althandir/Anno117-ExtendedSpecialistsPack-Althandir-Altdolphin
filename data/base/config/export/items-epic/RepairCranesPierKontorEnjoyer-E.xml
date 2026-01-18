@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000128</GUID>
             <Name>Specialist RepairCranesPierKontorEnjoyer-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/male_CraneEnjoyer.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/male_CraneEnjoyer.png</IconFilename>
             <InfoDescription>1600000129</InfoDescription>
           </Standard>
           <Effect>
@@ -59,7 +59,7 @@
                 <Standard>
                     <GUID>1600000129</GUID>
                     <Name>Specialist RepairCranesPierKontorEnjoyer-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_CraneEnjoyer.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/male_CraneEnjoyer.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000128</OasisId>

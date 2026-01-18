@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000224</GUID>
             <Name>CaptianHealthByLessSlots-R</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_female_CaptianHealthbyLessSlots.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_female_CaptianHealthByLessSlots.png</IconFilename>
             <InfoDescription>1600000225</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>1600000225</GUID>
                     <Name>CaptianHealthByLessSlots-R ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_female_CaptianHealthbyLessSlots.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_female_CaptianHealthByLessSlots.png</IconFilename>
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
