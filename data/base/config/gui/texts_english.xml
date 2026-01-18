@@ -222,7 +222,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Inspires the city guards on the island with tales of heroic deeds during horrific disasters. Utilizes this opportunity to provide enhanced training for all guards. Hint: This Effect can Stack.</Text>
+          <Text>Inspires all city guards with tales of heroic deeds performed by humans during terrifying disasters. Seizes this opportunity to offer improved training. Hint: This Effect can Stack.</Text>
           <LineId>1600000036</LineId> 
       </Text>
     </ModOp>

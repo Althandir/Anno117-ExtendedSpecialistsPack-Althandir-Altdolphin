@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000037</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_nb_EffectRangeE.png</IconFilename>
             <InfoDescription>1600000038</InfoDescription>
           </Standard>
           <Effect>
@@ -51,7 +51,7 @@
             <Standard>
               <GUID>1600000038</GUID>
               <Name>Specialist AllPublicServicesAndWondersEffectRange-E AreaBuff</Name>
-              <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
+              <IconFilename>data/base/graphics/icons/other/roman_nb_EffectRangeE.png</IconFilename>
             </Standard>
             <Text>
               <OasisId>1600000037</OasisId>
@@ -100,7 +100,7 @@
           <Standard>
             <GUID>1600000039</GUID>
             <Name>Specialist AllPublicServicesAndWondersEffectRange-E Wonders AreaBuff</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_nb_EffectRangeE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_nb_EffectRangeE.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000037</OasisId>

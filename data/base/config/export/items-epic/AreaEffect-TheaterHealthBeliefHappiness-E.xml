@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000096</GUID>
             <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_theaterHealthBelief.png</IconFilename>
             <InfoDescription>1600000097</InfoDescription>
           </Standard>
           <Effect>
@@ -54,7 +54,7 @@
                 <Standard>
                     <GUID>1600000097</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000096</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>1600000098</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>1600000099</GUID>
                     <Name>Specialist AreaEffect-TheaterHealthBeliefHappiness-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_theaterHealthBelief.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_theaterHealthBelief.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000096</OasisId>

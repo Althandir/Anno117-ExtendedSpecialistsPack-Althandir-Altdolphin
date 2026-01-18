@@ -211,7 +211,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Inspiriert die Stadtwachen auf der Insel mit Geschichten über Heldentaten während schrecklicher Katastrophen. Nutzt diese Gelegenheit, um allen Wachen ein verbessertes Training zu bieten. Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Inspiriert alle Stadtwachen mit Erzählungen von Heldentaten der Menschen während schrecklicher Katastrophen. Nutzt diese Gelegenheit direkt um ein verbessertes Training anzubieten. Hinweis: Dieser Effekt ist stapelbar.</Text>
           <LineId>1600000036</LineId> 
       </Text>
     </ModOp>
@@ -574,12 +574,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Junia Pascua, Tierpfleger</Text>
+          <Text>Junia Pascua, Tierpflegerin</Text>
           <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Der beste Tierpfleger, den sich jedes Tier nur wünschen kann.</Text>
+          <Text>Die beste Tierpflegerin, den sich jedes Tier nur wünschen kann.</Text>
           <LineId>1600000113</LineId> 
       </Text>
     </ModOp>
@@ -590,7 +590,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Ulpius, Bacchus Blessed</Text>
+          <Text>Ulpius, von Bacchus gesegnet</Text>
           <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
       </Text>
       <!-- Description -->
@@ -606,7 +606,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Sericus Garum, Far Eastern Spicer</Text>
+          <Text>Sericus Garum, Würzer aus Fernost</Text>
           <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
       </Text>
       <!-- Description -->
@@ -627,7 +627,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat immer alle Arten von Stoffen auf Lager.</Text>
+          <Text>Hat immer alle Arten von Stoffen auf Lager. Hinweis: Polsterer = Handwerksstube</Text>
           <LineId>1600000119</LineId> 
       </Text>
     </ModOp>
@@ -643,7 +643,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Weiß, wie man mit Flüssigkeiten und Gefäßen umgeht.</Text>
+          <Text>Weiß, wie man mit Flüssigkeiten und Gefäßen umgeht. Hinweis: Schankwirte = Manufakturen</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -1080,7 +1080,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Vermittelt den Umgang mit Nadelwerkzeugen, um Arbeitsausfälle zu vermeiden.</Text>
+          <Text>Vermittelt den Umgang mit Nadelwerkzeugen, um Arbeitsausfälle zu vermeiden. Hinweis: Polsterer = Handwerksstube</Text>
           <LineId>1600000195</LineId> 
       </Text>
     </ModOp>

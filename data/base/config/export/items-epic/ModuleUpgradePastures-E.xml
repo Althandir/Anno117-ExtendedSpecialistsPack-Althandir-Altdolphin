@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000112</GUID>
             <Name>Specialist ModuleUpgradePastures-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/female_ModuleUpgradePastures.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/female_ModuleUpgradePastures.png</IconFilename>
             <InfoDescription>1600000113</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000113</GUID>
                     <Name>Specialist ModuleUpgradePastures-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/female_ModuleUpgradePastures.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_ModuleUpgradePastures.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000112</OasisId>

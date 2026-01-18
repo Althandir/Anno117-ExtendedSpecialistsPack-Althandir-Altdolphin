@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000035</GUID>
             <Name>Specialist AllInstitutionsResolverUpgrade-L</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_ResolverUpgradeL.png</IconFilename>
             <InfoDescription>1600000036</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
                 <Standard>
                     <GUID>1600000036</GUID>
                     <Name>Specialist AllInstitutionsResolverUpgrade-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_ResolverUpgradeE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_ResolverUpgradeL.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000035</OasisId>
