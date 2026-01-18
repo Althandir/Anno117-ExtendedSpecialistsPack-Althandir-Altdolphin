@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000056</GUID>
             <Name>Specialist AreaEffect-GamblingHousePopulationHappiness-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
             <InfoDescription>1600000057</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000057</GUID>
                     <Name>Specialist AreaEffect-GamblingHousePopulationHappiness-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000056</OasisId>
@@ -88,7 +88,7 @@
                 <Standard>
                     <GUID>1600000058</GUID>
                     <Name>Specialist AreaEffect-GamblingHousePopulationHappiness-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -120,7 +120,7 @@
                 <Standard>
                     <GUID>1600000059</GUID>
                     <Name>Specialist AreaEffect-GamblingHousePopulationHappiness-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_GamblingHousePopulationHappinessE.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000056</OasisId>
