@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000139 - 1600000140 | LineID:1600000139 - 1600000140 --> 
+<!-- Item Definition GUID:1600000252 - 1600000253 | LineID:1600000252 - 1600000253 --> 
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000139</GUID>
-            <Name>Specialist ProductivityAllWorkshops-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_female_ProductivityAllWorkshopsE.png</IconFilename>
-            <InfoDescription>1600000140</InfoDescription>
+            <GUID>1600000252</GUID>
+            <Name>Specialist ProductivityAllArtisans-E</Name>
+            <IconFilename>data/base/graphics/icons/other/female_ProductivityAllArtisans-E.png</IconFilename>
+            <InfoDescription>1600000253</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000140</GUID>
+                <GUID>1600000253</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50612</GUID>
+                <GUID>50604</GUID> 
               </Item>
             </Targets>
             <HideInGovernorsBar>0</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000139</OasisId>
+            <OasisId>1600000252</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,14 +51,14 @@
             <Template>BuildingBuff</Template>
             <Values>
               <Standard>
-                  <GUID>1600000140</GUID>
-                  <Name>Specialist ProductivityAllWorkshops-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/roman_female_ProductivityAllWorkshopsE.png</IconFilename>
+                  <GUID>1600000253</GUID>
+                  <Name>Specialist ProductivityAllArtisans-E BuildingBuff</Name>
+                  <IconFilename>data/base/graphics/icons/other/female_ProductivityAllArtisans-E.png</IconFilename>
               </Standard>
               <HealthUpgrade/>
 
               <Text>
-                  <OasisId>1600000139</OasisId>
+                  <OasisId>1600000252</OasisId>
               </Text>
               <BuildingUpgrade>
               </BuildingUpgrade>

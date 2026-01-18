@@ -13,8 +13,8 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    
-    <Include File="testing/pools-forceSpawnTesting.xml"/> -->
+    -->
+    <Include File="testing/pools-forceSpawnTesting.xml"/> 
   </Group>
   
   <!-- Common Specialists -->
@@ -96,6 +96,9 @@
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
+    <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
+    <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
+    <Include File="items-epic/ProductivityAllDressers-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />

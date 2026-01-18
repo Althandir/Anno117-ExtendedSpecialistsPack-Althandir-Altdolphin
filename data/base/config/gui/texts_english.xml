@@ -1022,12 +1022,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Fire Performer</Text>
+          <Text>Flame Performer</Text>
           <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses fire to perform his acts. Scares everyone into firepreventing measures.</Text>
+          <Text>Uses flames to perform his acts. To be on the safe side, we should probably invest more resources in fire prevention.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1429,6 +1429,54 @@
       <Text>
           <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost are applied to Marvel, Officia and Villa.</Text>
           <LineId>1600000245</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllCookhouses-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Julia Culinaria</Text>
+          <LineId>1600000248</LineId> <!-- <GUID>1600000248</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Show me the kitchen and I'll whip up something delicious faster than you can blink."</Text>
+          <LineId>1600000249</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllDressers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Bennicus Sartor Steckus, Swift with the Needle</Text>
+          <LineId>1600000250</LineId> <!-- <GUID>1600000250</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Fine feathers make fine birds! You can never have enough clothes!"</Text>
+          <LineId>1600000251</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllArtisans-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Junia Daedala, Master Embellisher</Text>
+          <LineId>1600000252</LineId> <!-- <GUID>1600000252</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Through her artistry, she shows the world her own beauty.</Text>
+          <LineId>1600000253</LineId> 
       </Text>
     </ModOp>
   </Group>  

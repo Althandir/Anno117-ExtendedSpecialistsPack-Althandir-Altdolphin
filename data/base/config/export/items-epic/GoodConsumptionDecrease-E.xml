@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000104</GUID>
             <Name>Specialist GoodConsumptionDecrease-E</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_env.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_env.png</IconFilename>
             <InfoDescription>1600000105</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000105</GUID>
                     <Name>Specialist GoodConsumptionDecrease-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_env.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_env.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000104</OasisId>

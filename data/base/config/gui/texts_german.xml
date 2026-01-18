@@ -1011,12 +1011,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Feuerkünstler</Text>
+          <Text>Flammenkünstler</Text>
           <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt Feuer, um seine Tricks vorzuführen. Versetzt Besucher in Angst, sodass sie Vorsichtsmaßnahmen gegen Feuer treffen.</Text>
+          <Text>Nutzt Flammen, um seine Tricks vorzuführen. Wir sollten sicherheitshalber wohl mehr Ressourcen in Brandschutz stecken.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1256,7 +1256,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Entfacht das Herzstück römischer Handwerkskunst und Handel. Hinweis I: Der Produktivitätbonus gilt für alle Produktionsgebäude im Straßenreichweite. Hinweis II: In Albion zählt der Tempel als Forum.</Text>
+          <Text>Entfacht das Herzstück römischer Handwerkskunst und Handels. Hinweis I: Der Produktivitätbonus gilt für alle Produktionsgebäude im Straßenreichweite. Hinweis II: In Albion zählt der Tempel als Forum.</Text>
           <LineId>1600000217</LineId> 
       </Text>
     </ModOp>
@@ -1422,6 +1422,53 @@
     </ModOp>
   </Group>  
 
+  <!-- Specialist ProductivityAllCookhouses-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Julia Culinaria</Text>
+          <LineId>1600000248</LineId> <!-- <GUID>1600000248</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Zeigt mir die Küche und ich zaubere euch Köstlichkeiten schneller als ihr blinzeln könnt."</Text>
+          <LineId>1600000249</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllDressers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Bennicus Sartor Steckus, Geschickt mit der Nadel</Text>
+          <LineId>1600000250</LineId> <!-- <GUID>1600000250</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Kleider machen Leute! Man kann nie genug Kleider haben."</Text>
+          <LineId>1600000251</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllArtisans-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Junia Daedala, Meisterverziererin</Text>
+          <LineId>1600000252</LineId> <!-- <GUID>1600000252</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Durch ihre Handwerkskünste zeigt Sie der Welt ihre eigene Schönheit.</Text>
+          <LineId>1600000253</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
   <!-- ############################################################### -->
 
 
