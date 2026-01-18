@@ -130,7 +130,7 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>0.25</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
@@ -142,7 +142,7 @@
 				        </Belief>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>0.25</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
 				        </Happiness>

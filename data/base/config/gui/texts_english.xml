@@ -841,7 +841,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L -->
+  <!-- Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

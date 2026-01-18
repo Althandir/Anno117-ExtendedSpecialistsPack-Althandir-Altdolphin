@@ -119,7 +119,7 @@
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
     <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
-    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L.xml" />
+    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
     <Include File="items-legendary/DolphinVilla-L.xml" />

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000148</GUID>
-            <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L</Name>
+            <Name>Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L</Name>
             <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
             <InfoDescription>1600000149</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000149</GUID>
-                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
                 <Text>
@@ -86,7 +86,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000150</GUID>
-                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -118,7 +118,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000151</GUID>
-                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeBeliefKnowledge-L FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/female_TheaterHappinessPrestigeBeliefKnowledge-L.png</IconFilename>
                 </Standard>
                 <Text>
@@ -135,13 +135,13 @@
                         </Happiness>
                         <Prestige>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>0</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
 				        </Belief>
