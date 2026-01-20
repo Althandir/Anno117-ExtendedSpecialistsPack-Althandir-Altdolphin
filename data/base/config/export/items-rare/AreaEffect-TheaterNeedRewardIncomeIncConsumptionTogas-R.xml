@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000182</GUID>
-            <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
+            <Name>Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R</Name>
+            <IconFilename>data/base/graphics/icons/other/male_AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R.png</IconFilename>
             <InfoDescription>1600000183</InfoDescription>
           </Standard>
           <Effect>
@@ -27,7 +27,7 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Research</Niche>
+            <Niche>Finance</Niche>
             <TradePrice>27000</TradePrice> 
             <BarkPool>83314</BarkPool> <!-- <GUID>83314</GUID> -->
             <Rarity>Rare</Rarity> 
@@ -52,8 +52,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000183</GUID>
-                    <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
+                    <Name>Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000182</OasisId>
@@ -66,7 +66,35 @@
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
+                <ResidenceUpgrade>
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                        <ProvidedNeed>2145</ProvidedNeed>
+                        <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                      <Item>
+                        <ProvidedProduct>2145</ProvidedProduct> <!-- <GUID>2145</GUID> -->
+                      </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Money>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                        <Prestige>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Prestige>
+                    </AdditionalNeedAttributes>
+                  </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -86,8 +114,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000184</GUID>
-                    <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
+                    <Name>Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -118,40 +146,48 @@
             <Values>
                 <Standard>
                     <GUID>1600000185</GUID>
-                    <Name>Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/male_TheaterFireSafetyKnowledgebyIncome.png</IconFilename>
+                    <Name>Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000182</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalAttributes>
-                        <FireSafety>
-                            <AmountOrPercent>
-                                <Value>1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </FireSafety>
-                        <Knowledge>
-                            <AmountOrPercent>
-                                <Value>1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-				                </Knowledge>
-                        <Money>
-                            <AmountOrPercent>
-                                <Value>-1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-				                </Money>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
+                <ResidenceUpgrade>
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                        <ProvidedNeed>2145</ProvidedNeed>
+                        <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                      <Item>
+                        <ProvidedProduct>2145</ProvidedProduct> <!-- <GUID>2145</GUID> -->
+                      </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Money>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                        <Prestige>
+                            <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Prestige>
+                    </AdditionalNeedAttributes>
+                  </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

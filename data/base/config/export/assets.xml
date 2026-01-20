@@ -13,15 +13,14 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    -->
-    <Include File="testing/pools-forceSpawnTesting.xml"/> 
+    
+    <Include File="testing/pools-forceSpawnTesting.xml"/> -->
   </Group>
   
   <!-- Common Specialists -->
   <Group>
     <Include File="items-common/AdditionalGoodsAllExtractors-C-Boost.xml" />
     <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
-    <Include File="items-common/AreaEffect-CelcicBarrowHealth-C.xml" />
     <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
     <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
@@ -37,13 +36,19 @@
   <Group>
     <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
     <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
+
+    <Include File="items-rare/AreaEffect-CelcicBarrowHealth-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByPrestige-R.xml" />
-    <Include File="items-rare/AreaEffect-CelcicTownHallPopulationbyHealth-R.xml"/>
+    <Include File="items-rare/AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R.xml"/>
     <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
     <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
-    <Include File="items-rare/AreaEffect-TheaterFireSafetyKnowledgebyIncome-R.xml"/>
+    <Include File="items-rare/AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
+    <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
+    <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.xml" />
+    <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
+    
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
     <Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
@@ -61,8 +66,7 @@
     <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
     <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
-    <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.xml" />
+
   </Group>
 
   <!-- Epic Specialists -->
@@ -87,6 +91,8 @@
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
     <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
+    <Include File="items-epic/AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E.xml" />
+    
     <Include File="items-epic/CaptianArchersRange-E.xml" />
     <Include File="items-epic/CaptianMoreSlots-E.xml" />
 
@@ -97,7 +103,7 @@
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
-    <Include File="items-epic/AreaEffect-BathsNeedRewardIncomeIncTunicsConsumption-E.xml" />
+
     <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
     <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
     <Include File="items-epic/ProductivityAllDressers-E.xml" />
@@ -124,7 +130,7 @@
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
-    <Include File="items-legendary/DolphinVilla-L.xml" />
+    <Include File="items-legendary/Dolphin-L.xml" />
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
     <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
     <Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />

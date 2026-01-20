@@ -15,7 +15,7 @@
   </Group>
   -->
 
-  <!-- Specialist Specialist DolphinVilla-L -->
+  <!-- Specialist Specialist Dolphin-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -68,7 +68,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaEffect-CelcicBarrowHealth-C -->
+  <!-- Specialist AreaEffect-CelcicBarrowHealth-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -190,7 +190,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Loves to drain the swamp. Literally.</Text>
+          <Text>Loves to drain the real swamp. Literally.</Text>
           <LineId>1600000032</LineId> 
       </Text>
     </ModOp>
@@ -238,7 +238,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses Denarii to allegedly optimize bureaucratic processes. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
+          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -969,17 +969,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CelcicTownHallPopulationbyHealth-R -->
+  <!-- Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Annoyed Census Representative</Text>
+          <Text>Rushed Roaster</Text>
           <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Crams everyone into a room for the official census.</Text>
+          <Text>Cooks the roast very quickly... unfortunately not long enough.</Text>
           <LineId>1600000171</LineId> 
       </Text>
     </ModOp>
@@ -1017,17 +1017,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-TheaterFireSafetyKnowledgebyIncome-R -->
+  <!-- Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Flame Performer</Text>
+          <Text>Aspiring Toga Designer</Text>
           <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses flames to perform his acts. To be on the safe side, we should probably invest more resources in fire prevention.</Text>
+          <Text>Uses the theater stage to present his first toga collection.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1070,7 +1070,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Waterwheel Clay Cleaner</Text>
+          <Text>Clay Digger</Text>
           <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
       </Text>
       <!-- Description -->
@@ -1374,7 +1374,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucius Domitius Catavignus, Romano-Celtic Envoy</Text>
+          <Text>Lucia Domitius Catavignus, Romano-Celtic Envoy</Text>
           <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
       </Text>
       <!-- Description -->
@@ -1480,6 +1480,71 @@
       </Text>
     </ModOp>
   </Group>  
+
+    <!-- Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Irresponsible Arms Trader</Text>
+          <LineId>1600000254</LineId> <!-- <GUID>1600000254</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“Everyone should have at least one, if not several, weapons! What could possibly go wrong?”</Text>
+          <LineId>1600000255</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Food Artist</Text>
+          <LineId>1600000258</LineId> <!-- <GUID>1600000258</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Prepares food like an inspiring spectacle. But who cleans up the mess?</Text>
+          <LineId>1600000259</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vercatullos, Sweaty Trainer</Text>
+          <LineId>1600000262</LineId> <!-- <GUID>1600000262</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready.</Text>
+          <LineId>1600000263</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Practice-oriented Instructor</Text>
+          <LineId>1600000266</LineId> <!-- <GUID>1600000266</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“Only through practice you can solidify knowledge!... Ouch! Medicus!”</Text>
+          <LineId>1600000267</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>

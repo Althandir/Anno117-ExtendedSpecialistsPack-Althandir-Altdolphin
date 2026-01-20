@@ -68,7 +68,7 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2139</ProvidedNeed>
-                      <AmountInPercent>30</AmountInPercent>
+                      <AmountInPercent>25</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>

@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Culture</Niche>
-            <TradePrice>50000</TradePrice> 
+            <TradePrice>75000</TradePrice> 
             <BarkPool>83304</BarkPool> <!-- <GUID>83304</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
@@ -68,7 +68,7 @@
                   <GoodConsumptionUpgrade>
                     <Item>
                       <ProvidedNeed>2154</ProvidedNeed>
-                      <AmountInPercent>30</AmountInPercent>
+                      <AmountInPercent>25</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>

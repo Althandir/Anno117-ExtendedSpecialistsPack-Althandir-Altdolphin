@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000000</GUID>
-            <Name>Specialist DolphinVilla-L</Name>
+            <Name>Specialist Dolphin-L</Name>
             <IconFilename>data/base/graphics/icons/other/animals/dolphin.png</IconFilename>
             <InfoDescription>1600000001</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000001</GUID>
-                    <Name>Specialist DolphinVilla-L BuildingBuff</Name>
+                    <Name>Specialist Dolphin-L AreaBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/animals/dolphin.png</IconFilename>
                 </Standard>
                 <Text>
@@ -62,20 +62,20 @@
                   <BonusAttributes>
                     <Money>
                       <ValueOrPercent>
-                        <Value>250</Value>
-                        <Percental>0</Percental>
+                        <Value>3</Value>
+                        <Percental>1</Percental>
                       </ValueOrPercent>
                     </Money>
                     <Belief>
                       <ValueOrPercent>
-                        <Value>250</Value>
-                        <Percental>0</Percental>
+                        <Value>5</Value>
+                        <Percental>1</Percental>
                       </ValueOrPercent>
                     </Belief>
                     <Prestige>
                       <ValueOrPercent>
-                        <Value>500</Value>
-                        <Percental>0</Percental>
+                        <Value>10</Value>
+                        <Percental>1</Percental>
                       </ValueOrPercent>
                     </Prestige>
                   </BonusAttributes>
@@ -85,7 +85,9 @@
                   <SourceCategory>Item</SourceCategory>
                   <IsStackable>1</IsStackable>
                 </Buff>
-                <AreaPassiveTradeUpgrade/>
+                <AreaPassiveTradeUpgrade>
+			            <PassiveTradeProfitModifier>10</PassiveTradeProfitModifier>
+		            </AreaPassiveTradeUpgrade>
                 <AreaMaintenanceUpgrade/>
                 <AreaFestivalAttributeUpgrade/>
             </Values>

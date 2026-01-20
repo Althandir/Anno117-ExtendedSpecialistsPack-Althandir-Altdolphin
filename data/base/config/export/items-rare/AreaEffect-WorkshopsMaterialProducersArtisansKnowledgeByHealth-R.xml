@@ -1,42 +1,48 @@
 <ModOps>
-<!-- Item Definition GUID:1600000254 - 1600000257 | LineID:1600000254 - 1600000255 -->
+<!-- Item Definition GUID:1600000266 - 1600000269 | LineID:1600000266 - 1600000267 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000254</GUID>
-            <Name>Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-ArmoriesMoneyByHealthHappiness-R.png</IconFilename>
-            <InfoDescription>1600000255</InfoDescription>
+            <GUID>1600000266</GUID>
+            <Name>Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R</Name>
+            <IconFilename>data/base/graphics/icons/other/male_AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.png</IconFilename>
+            <InfoDescription>1600000267</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000255</GUID>
+                <GUID>1600000267</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50614</GUID>
+                <GUID>50612</GUID>
+              </Item>
+              <Item>
+                <GUID>50613</GUID>
+              </Item>
+              <Item>
+                <GUID>50604</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Finance</Niche>
+            <Niche>Research</Niche>
             <TradePrice>34000</TradePrice> 
-            <BarkPool>83311</BarkPool> <!-- <GUID>83311</GUID> -->
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000254</OasisId>
+            <OasisId>1600000266</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,22 +57,23 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000255</GUID>
-                    <Name>Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-ArmoriesMoneyByHealthHappiness-R.png</IconFilename>
+                    <GUID>1600000267</GUID>
+                    <Name>Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000254</OasisId>
+                    <OasisId>1600000266</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000256</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000268</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -85,16 +92,16 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000256</GUID>
-                    <Name>Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-ArmoriesMoneyByHealthHappiness-R.png</IconFilename>
+                    <GUID>1600000268</GUID>
+                    <Name>Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>Radius</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000257</GUID>
+                            <GUID>1600000269</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +113,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000254</OasisId>
+                    <OasisId>1600000266</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,48 +124,37 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000257</GUID>
-                    <Name>Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-ArmoriesMoneyByHealthHappiness-R.png</IconFilename>
+                    <GUID>1600000269</GUID>
+                    <Name>Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000254</OasisId>
+                    <OasisId>1600000266</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalAttributes>
-                        <Money>
-                            <AmountOrPercent>
-                                <Value>2</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>                        
-                        </Money>
-                        <Happiness>
-                            <AmountOrPercent>
-                                <Value>-1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-                        </Happiness>
-                        <Health>
-                            <AmountOrPercent>
-                                <Value>-1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-				        </Health>
-                        <FireSafety>
-                            <AmountOrPercent>
-                                <Value>-1</Value>
-                                <Percental>0</Percental>
-                            </AmountOrPercent>
-				        </FireSafety>
-                    </AdditionalAttributes>
+                  <AdditionalAttributes>
+                      <Knowledge>
+                          <AmountOrPercent>
+                              <Value>2</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                      </Knowledge>
+                      <Health>
+                          <AmountOrPercent>
+                              <Value>-2</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                      </Health>
+                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                     <IsStackable>0</IsStackable>
                 </Buff>
-                <ResidenceUpgrade/>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
                 <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -171,6 +167,6 @@
             </Values>
         </Asset>
     </ModOp>
-  </Group>
 
+  </Group>
 </ModOps>

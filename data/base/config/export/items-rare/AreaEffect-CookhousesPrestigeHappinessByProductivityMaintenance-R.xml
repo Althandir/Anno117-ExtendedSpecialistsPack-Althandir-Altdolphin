@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000258</GUID>
             <Name>Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/other/female_AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.png</IconFilename>
             <InfoDescription>1600000259</InfoDescription>
           </Standard>
           <Effect>
@@ -29,7 +29,7 @@
           <Item>
             <Niche>Diplomacy</Niche>
             <TradePrice>34000</TradePrice> 
-            <BarkPool>83313</BarkPool> <!-- <GUID>83313</GUID> -->
+            <BarkPool>83327</BarkPool> <!-- <GUID>83327</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000259</GUID>
                     <Name>Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000258</OasisId>
@@ -101,7 +101,7 @@
                 <Standard>
                     <GUID>1600000260</GUID>
                     <Name>Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>Radius</EffectScope>
@@ -133,7 +133,7 @@
                 <Standard>
                     <GUID>1600000261</GUID>
                     <Name>Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/female_AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000258</OasisId>
@@ -176,6 +176,7 @@
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
+                    <IsStackable>0</IsStackable>
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade/>

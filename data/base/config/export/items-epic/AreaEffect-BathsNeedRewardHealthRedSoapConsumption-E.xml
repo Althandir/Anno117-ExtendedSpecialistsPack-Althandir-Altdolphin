@@ -127,7 +127,7 @@
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>43097</GUID>
+                            <GUID>31046</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
@@ -169,7 +169,7 @@
                     <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2143</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                        <ProvidedProduct>2143</ProvidedProduct> <!-- <GUID>2143</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>

@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000263 - 1600000266 | LineID:1600000263 - 1600000264 -->
+<!-- Item Definition GUID:1600000170 - 1600000173 | LineID:1600000170 - 1600000171 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000263</GUID>
-            <Name>Specialist AreaEffect-BathsNeedRewardIncomeIncTunicsConsumption-E</Name>
-            <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
-            <InfoDescription>1600000264</InfoDescription>
+            <GUID>1600000170</GUID>
+            <Name>Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_female_CelticTownHallNeedRewardMoneyIncConsumptionRoast.png</IconFilename>
+            <InfoDescription>1600000171</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000264</GUID>
+                <GUID>1600000171</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>70714</GUID>
+                <GUID>6726</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Finance</Niche>
-            <TradePrice>75000</TradePrice> 
-            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <TradePrice>22500</TradePrice> 
+            <BarkPool>83338</BarkPool> <!-- <GUID>83338</GUID> -->
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000263</OasisId>
+            <OasisId>1600000170</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000264</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardIncomeIncTunicsConsumption-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
+                    <GUID>1600000171</GUID>
+                    <Name>Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_CelticTownHallNeedRewardMoneyIncConsumptionRoast.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000263</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000265</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000172</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -69,20 +69,20 @@
                 <ResidenceUpgrade>
                   <GoodConsumptionUpgrade>
                     <Item>
-                      <ProvidedNeed>2141</ProvidedNeed>
-                      <AmountInPercent>60</AmountInPercent>
+                      <ProvidedNeed>31768</ProvidedNeed>
+                      <AmountInPercent>33</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2141</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                        <ProvidedProduct>31768</ProvidedProduct> <!-- <GUID>31768</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>
                       <Population>
                         <AmountOrPercent>
-                          <Value>0.5</Value>
+                          <Value>1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Population>
@@ -100,7 +100,7 @@
                       </Prestige>
                       <Health>
                         <AmountOrPercent>
-                          <Value>-0.5</Value>
+                          <Value>-2</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Health>
@@ -137,28 +137,28 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000265</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
+                    <GUID>1600000172</GUID>
+                    <Name>Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_CelticTownHallNeedRewardMoneyIncConsumptionRoast.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000266</GUID>
+                            <GUID>1600000173</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>43097</GUID>
+                            <GUID>31046</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000263</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -169,36 +169,37 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000266</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardIncomeIncTunicsConsumption-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/DolphinHappy128x128.png</IconFilename>
+                    <GUID>1600000173</GUID>
+                    <Name>Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_female_CelticTownHallNeedRewardMoneyIncConsumptionRoast.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000263</OasisId>
+                    <OasisId>1600000170</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade>
                   <GoodConsumptionUpgrade>
                     <Item>
-                      <ProvidedNeed>2141</ProvidedNeed>
-                      <AmountInPercent>60</AmountInPercent>
+                      <ProvidedNeed>31768</ProvidedNeed>
+                      <AmountInPercent>33</AmountInPercent>
                     </Item>
                   </GoodConsumptionUpgrade>
                   <NeedProvidedNeedAttributes>
                     <ChangeNeedAttributesOf>
                       <Item>
-                        <ProvidedProduct>2141</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                        <ProvidedProduct>31768</ProvidedProduct> <!-- <GUID>31768</GUID> -->
                       </Item>
                     </ChangeNeedAttributesOf>
                     <AdditionalNeedAttributes>
                       <Population>
                         <AmountOrPercent>
-                          <Value>0.5</Value>
+                          <Value>1</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Population>
@@ -216,7 +217,7 @@
                       </Prestige>
                       <Health>
                         <AmountOrPercent>
-                          <Value>-0.5</Value>
+                          <Value>-2</Value>
                           <Percental>0</Percental>
                         </AmountOrPercent>
                       </Health>
@@ -247,6 +248,6 @@
             </Values>
         </Asset>
     </ModOp>
-
   </Group>
+
 </ModOps>
