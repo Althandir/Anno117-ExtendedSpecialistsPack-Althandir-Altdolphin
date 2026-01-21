@@ -1,0 +1,89 @@
+<ModOps>
+<!-- Item Definition GUID:1600000274 - 1600000275 | LineID:1600000274 - 1600000275 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000274</GUID>
+            <Name>Specialist ProductivityAllPastures-R</Name>
+            <IconFilename>data/base/graphics/icons/other/male_ProductivityAllPastures-R.png</IconFilename>
+            <InfoDescription>1600000275</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope> 
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000275</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>50224</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Economy</Niche> 
+            <TradePrice>21250</TradePrice>
+            <BarkPool>83321</BarkPool> <!-- <GUID>83321</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000274</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000275</GUID>
+                    <Name>Specialist ProductivityAllPastures-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/male_ProductivityAllPastures-R.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000274</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>20</Value>
+                    <Percental>1</Percental>
+			            </ProductivityUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

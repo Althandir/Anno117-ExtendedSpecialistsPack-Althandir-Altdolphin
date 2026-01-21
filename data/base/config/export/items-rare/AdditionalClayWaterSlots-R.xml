@@ -1,0 +1,113 @@
+<ModOps>
+<!-- Item Definition GUID:1600000192 - 1600000193 | LineID:1600000192 - 1600000193 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000192</GUID>
+            <Name>Specialist AdditionalClayWaterSlots-R</Name>
+            <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
+            <InfoDescription>1600000193</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope> 
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000193</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>2970</GUID>
+              </Item>
+              <Item>
+                <GUID>3074</GUID>
+              </Item>
+              <Item>
+                <GUID>3075</GUID>
+              </Item>
+              <Item>
+                <GUID>2971</GUID>
+              </Item>
+              <Item>
+                <GUID>31753</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Economy</Niche> 
+            <TradePrice>17500</TradePrice>
+            <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000192</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000193</GUID>
+                    <Name>Specialist AdditionalClayWaterSlots-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000192</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <Product>2086</Product>
+                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
+                      <Amount>2</Amount>
+                    </Item>
+                  </AdditionalOutput>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>33</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

@@ -521,7 +521,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MineralsAllQuarriesAndMines-E -->
+  <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1054,7 +1054,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ClayWaterSlots-R -->
+  <!-- Specialist AdditionalClayWaterSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1534,6 +1534,118 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ProductivityAllForestries-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000271</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllFarms-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000273</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPastures-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000275</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000277</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000279</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000281</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>1600000283</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>
@@ -1541,12 +1653,12 @@
       <!-- Title -->
       <Text>
           <Text>[PH]</Text>
-          <LineId>0</LineId> <!-- <GUID>0</GUID> -->
+          <LineId>MissingID</LineId> <!-- <GUID>MissingID</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
           <Text>[PH]</Text>
-          <LineId>0</LineId> 
+          <LineId>MissingID</LineId> 
       </Text>
     </ModOp>
   </Group>

@@ -13,8 +13,8 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    
-    <Include File="testing/pools-forceSpawnTesting.xml"/> -->
+    -->
+    <Include File="testing/pools-forceSpawnTesting.xml"/> 
   </Group>
   
   <!-- Common Specialists -->
@@ -52,12 +52,16 @@
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
     <Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
-    <Include File="items-rare/ClayWaterSlots-R.xml"/>
+    <Include File="items-rare/AdditionalClayWaterSlots-R.xml"/>
     <Include File="items-rare/MaintenanceAllUpholsterers-R.xml"/>
     <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml" />
     <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
     <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
+    <Include File="items-rare/ProductivityAllFarms-R.xml" />
+    <Include File="items-rare/ProductivityAllForestries-R.xml" />
+    <Include File="items-rare/ProductivityAllPastures-R.xml" />
+    <Include File="items-rare/ProductivityAllPlantations-R.xml" />
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
     <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
     <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
@@ -71,6 +75,10 @@
 
   <!-- Epic Specialists -->
   <Group>
+    <Include File="items-epic/AdditionalCocklesRomanCelticSeashell-E.xml" />
+    <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
+    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
+    <Include File="items-epic/AdditionalTinAllMines-E.xml" />
 
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
@@ -90,6 +98,10 @@
     <Include File="items-epic/AreaEffect-TempleMercury-E.xml" />
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
+
+    <Include File="items-epic/AreaEffect-TempleCeresGoodsProductivity-E.xml" />
+
+    
     <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E.xml" />
     
@@ -97,7 +109,7 @@
     <Include File="items-epic/CaptianMoreSlots-E.xml" />
 
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
-    <Include File="items-epic/MineralsAllQuarriesAndMines-E.xml" />
+    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />

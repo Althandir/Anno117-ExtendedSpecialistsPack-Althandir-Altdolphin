@@ -532,7 +532,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MineralsAllQuarriesAndMines-E -->
+  <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1065,7 +1065,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ClayWaterSlots-R -->
+  <!-- Specialist AdditionalClayWaterSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

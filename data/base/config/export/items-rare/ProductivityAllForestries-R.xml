@@ -1,45 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000106 - 1600000107 | LineID:1600000106 - 1600000107 -->
+<!-- Item Definition GUID:1600000270 - 1600000271 | LineID:1600000270 - 1600000271 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000106</GUID>
-            <Name>Specialist Minerals AllQuarriesAndMines E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_mineraldigger.png</IconFilename>
-            <InfoDescription>1600000107</InfoDescription>
+            <GUID>1600000270</GUID>
+            <Name>Specialist ProductivityAllForestries-R</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_ProductivityAllForestries-R.png</IconFilename>
+            <InfoDescription>1600000271</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000107</GUID>
+                <GUID>1600000271</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50608</GUID>
-              </Item>
-              <Item>
-                <GUID>50225</GUID>
+                <GUID>50251</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>82000</TradePrice>
-            <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <TradePrice>21250</TradePrice>
+            <BarkPool>83321</BarkPool> <!-- <GUID>83321</GUID> -->
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000106</OasisId>
+            <OasisId>1600000270</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -54,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000107</GUID>
-                    <Name>Specialist Minerals AllQuarriesAndMines E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_mineraldigger.png</IconFilename>
+                    <GUID>1600000271</GUID>
+                    <Name>Specialist ProductivityAllForestries-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_ProductivityAllForestries-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000106</OasisId>
+                    <OasisId>1600000270</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -70,25 +67,13 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>8563</Product>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
+                  <ProductivityUpgrade>
+                    <Value>20</Value>
+                    <Percental>1</Percental>
+			            </ProductivityUpgrade>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>100</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>100</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
