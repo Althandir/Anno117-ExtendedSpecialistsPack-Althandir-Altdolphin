@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000194</GUID>
-            <Name>Specialist MaintenanceAllUpholsterers-R</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersR.png</IconFilename>
+            <Name>Specialist MaintenanceAllUpholsterers-C</Name>
+            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersC.png</IconFilename>
             <InfoDescription>1600000195</InfoDescription>
           </Standard>
           <Effect>
@@ -28,9 +28,9 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>17500</TradePrice>
+            <TradePrice>5000</TradePrice>
             <BarkPool>83365</BarkPool> <!-- <GUID>83365</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -52,8 +52,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000195</GUID>
-                    <Name>Specialist MaintenanceAllUpholsterers-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersR.png</IconFilename>
+                    <Name>Specialist MaintenanceAllUpholsterers-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersC.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000194</OasisId>
@@ -70,11 +70,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value>-50</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-50</Value>
+                    <Value>-25</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>

@@ -358,6 +358,11 @@
           <Text>Höchst hingebungsvoll und predigt die römischen Tugenden des Gottes Mars.</Text>
           <LineId>1600000069</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel dem Gott Mars folgt...</Text>
+          <LineId>1600000070</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -373,6 +378,11 @@
       <Text>
           <Text>Höchst hingebungsvoll und predigt die römischen Tugenden der Göttin Ceres.</Text>
           <LineId>1600000073</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel der Göttin Ceres folgt...</Text>
+          <LineId>1600000074</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -390,6 +400,11 @@
           <Text>Kennt die alten keltischen Tugenden der Gottheit Cernunnos.</Text>
           <LineId>1600000077</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel dem Gott Cernunnos folgt...</Text>
+          <LineId>1600000078</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -403,8 +418,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Kennt die alten keltischen Tugenden der Gottheit Cernunnos.</Text>
+          <Text>Kennt die alten keltischen Tugenden der Gottheit Epona.</Text>
           <LineId>1600000081</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel der Göttin Epona folgt...</Text>
+          <LineId>1600000082</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -422,6 +442,11 @@
           <Text>Höchst hingebungsvoll und predigt die römischen Tugenden des Gottes Mercur.</Text>
           <LineId>1600000085</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel dem Gott Merkur folgt...</Text>
+          <LineId>1600000086</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -438,6 +463,11 @@
           <Text>Höchst hingebungsvoll und predigt die römischen Tugenden der Göttin Minerva.</Text>
           <LineId>1600000089</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel der Göttin Minerva folgt...</Text>
+          <LineId>1600000090</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -453,6 +483,11 @@
       <Text>
           <Text>Höchst hingebungsvoll und predigt die römischen Tugenden des Gottes Neptun.</Text>
           <LineId>1600000093</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Braucht die Gewissheit dass die Insel dem Gott Neptun folgt...</Text>
+          <LineId>1600000094</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -968,7 +1003,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Brät den Braten sehr schnell... leider nicht lang genug.</Text>
+          <Text>Brät den Braten sehr schnell... leider nicht lang genug. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Ältestensrats.</Text>
           <LineId>1600000171</LineId> 
       </Text>
     </ModOp>
@@ -1016,7 +1051,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen.</Text>
+          <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen. Hinweis: Der Effekt wirkt auf alle Wohnhäuser in Straßenreichweite des Theaters.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1070,7 +1105,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MaintenanceAllUpholsterers-R -->
+  <!-- Specialist MaintenanceAllUpholsterers-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1512,7 +1547,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte extra Tuniken und Hosten parat haben.</Text>
+          <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte extra Tuniken und Hosten parat haben. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite der Wettkampfwiese.</Text>
           <LineId>1600000263</LineId> 
       </Text>
     </ModOp>
@@ -1539,12 +1574,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Ambitionierter Förster</Text>
           <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Bäume nutzbar machen ist seine Berufung.</Text>
           <LineId>1600000271</LineId> 
       </Text>
     </ModOp>
@@ -1555,12 +1590,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Ruhiger Farmer</Text>
           <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Gedanklich immer bei seinen Feldern.</Text>
           <LineId>1600000273</LineId> 
       </Text>
     </ModOp>
@@ -1571,12 +1606,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Umsichtiger Viehzüchter</Text>
           <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Achtet darauf das jedes Vieh seinen Betrag leistet.</Text>
           <LineId>1600000275</LineId> 
       </Text>
     </ModOp>
@@ -1587,64 +1622,97 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Glückliche Plantagenhelferin</Text>
           <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>"Man braucht nicht viel Abwechslung um Glücklich zu werden."</Text>
           <LineId>1600000277</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPlantations-R -->
+  <!-- Specialist AdditionalCocklesRomanCelticSeashell-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Morigenos Conchylius, Nobler Muschelfischer</Text>
           <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>In seiner Nähe hört immer leise das Meer rauschen.</Text>
           <LineId>1600000279</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPlantations-R -->
+  <!-- Specialist AdditionalCopperAllMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Coperovicos, der erste Felsgeborene</Text>
           <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Hat wie sein Bruder Stannos ein Gespür für Kupfer.</Text>
           <LineId>1600000281</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPlantations-R -->
+  <!-- Specialist AdditionalTinAllMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Stannos, der zweite Felsgeborene</Text>
           <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
+          <Text>Hat wie sein Bruder Coperovicos ein Gespür für Zinn.</Text>
           <LineId>1600000283</LineId> 
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lieferant</Text>
+          <LineId>1600000284</LineId> <!-- <GUID>1600000284</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Erfüllt Lieferaufträge für die Bewohner in der Umgebung. Hinweis: Dieser Bereichseffekt wirkt nur auf Wohngebäude um das Produktionsgebäude herum, kann sich dafür stapeln.</Text>
+          <LineId>1600000285</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-AllStoneCutterMoneyByHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Privater Bildhauer</Text>
+          <LineId>1600000309</LineId> <!-- <GUID>1600000309</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Nutzt den besten Stein der Region um Büsten von seinen Kunden herzustellen. </Text>
+          <LineId>1600000310</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
 
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->

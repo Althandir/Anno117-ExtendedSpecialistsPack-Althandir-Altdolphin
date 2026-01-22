@@ -1,0 +1,176 @@
+<ModOps>
+<!-- Item Definition GUID:1600000309 - 1600000312 | LineID:1600000309 - 1600000310 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000309</GUID>
+            <Name>Specialist AreaEffect-AllStoneCutterMoneyByHealth-R</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllStoneCutterMoneyByHealth-R.png</IconFilename>
+            <InfoDescription>1600000310</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>  
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000310</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>41811</GUID>
+              </Item>
+              <Item>
+                <GUID>3138</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Finance</Niche> 
+            <TradePrice>17500</TradePrice> 
+            <BarkPool>83343</BarkPool> <!-- <GUID>83343</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000309</OasisId>
+          </Text>
+
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000310</GUID>
+                    <Name>Specialist AreaEffect-AllStoneCutterMoneyByHealth-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllStoneCutterMoneyByHealth-R.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000309</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000311</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Area Effect Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000311</GUID>
+                    <Name>Specialist AreaEffect-AllStoneCutterMoneyByHealth-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllStoneCutterMoneyByHealth-R.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000312</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000309</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- BuildingBuff by AreaEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000312</GUID>
+                    <Name>Specialist AreaEffect-AllStoneCutterMoneyByHealth-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllStoneCutterMoneyByHealth-R.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000309</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>3</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>-2</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <IsStackable>0</IsStackable>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    </Group>
+
+</ModOps>

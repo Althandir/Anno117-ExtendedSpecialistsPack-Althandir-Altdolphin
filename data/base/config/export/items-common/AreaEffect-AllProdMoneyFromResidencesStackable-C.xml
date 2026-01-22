@@ -1,0 +1,167 @@
+<ModOps>
+<!-- Item Definition GUID:1600000284 - 1600000287 | LineID:1600000284 - 1600000285 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000284</GUID>
+            <Name>Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllProdMoneyFromResidencesStackable-C.png</IconFilename>
+            <InfoDescription>1600000285</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>  
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000285</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>38370</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Finance</Niche> 
+            <TradePrice>5000</TradePrice> 
+            <BarkPool>83343</BarkPool> <!-- <GUID>83343</GUID> -->
+            <Rarity>Common</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000284</OasisId>
+          </Text>
+
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+    <!-- Buff Definitions-->
+    <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000285</GUID>
+                    <Name>Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllProdMoneyFromResidencesStackable-C.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000284</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000286</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Area Effect Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000286</GUID>
+                    <Name>Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllProdMoneyFromResidencesStackable-C.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000287</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>31046</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000284</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- BuildingBuff by AreaEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000287</GUID>
+                    <Name>Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_AreaEffect-AllProdMoneyFromResidencesStackable-C.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000284</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>0.3</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <IsStackable>1</IsStackable>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    </Group>
+
+</ModOps>

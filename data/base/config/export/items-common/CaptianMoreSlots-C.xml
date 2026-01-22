@@ -29,7 +29,7 @@
             <Allocation>Ship</Allocation>
             <Niche>Nautics</Niche> 
             <ItemType>Captains</ItemType>
-            <TradePrice>2500</TradePrice>
+            <TradePrice>5000</TradePrice>
             <BarkPool>83324</BarkPool> <!-- <GUID>83324</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>

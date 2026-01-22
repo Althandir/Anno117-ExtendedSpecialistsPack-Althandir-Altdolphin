@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000076 - 1600000079 | LineID:1600000076 - 1600000077 -->
+<!-- Item Definition GUID:1600000076 - 1600000079 + 1600000290 - 1600000292 | LineID:1600000076 - 1600000078 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -38,6 +38,50 @@
           <Text>
             <OasisId>1600000076</OasisId>
           </Text>
+          
+        <ItemWithBoost>
+			<BoostCondition>
+				<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+				<Values>
+					<PreConditionList>
+						<Condition>
+							<Template>ConditionReligion</Template>
+							<Values>
+								<Condition/>
+								<ConditionReligion>
+									<ReligionAsset>50242</ReligionAsset> <!--<GUID>50242</GUID> -->
+								</ConditionReligion>
+								<ConditionLocationFilter>
+									<LocationFilter>
+										<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+										<Values>
+											<LocationFilter>
+												<ObjectLocations>
+													<ObjectFilter>
+														<Template>ObjectFilter</Template>
+														<Values>
+															<ObjectFilter>
+																<UseContextObjects>1</UseContextObjects>
+															</ObjectFilter>
+														</Values>
+													</ObjectFilter>
+												</ObjectLocations>
+											</LocationFilter>
+										</Values>
+									</LocationFilter>
+								</ConditionLocationFilter>
+							</Values>
+						</Condition>
+					</PreConditionList>
+				</Values>
+			</BoostCondition>
+			<BoostBuffs>
+                <Item>
+                    <GUID>1600000290</GUID>
+                </Item>
+			</BoostBuffs>
+			<BoostHint>1600000078</BoostHint>
+		</ItemWithBoost>
         </Values>
       </Asset>
     </ModOp>
@@ -129,28 +173,183 @@
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                         <Population>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Population>
                         <Happiness>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Happiness>
                         <Money>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Money>
                         <Prestige>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Prestige>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                        <Knowledge>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Knowledge>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>0.5</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                        <FireSafety>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </FireSafety>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Boosted Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000290</GUID>
+                    <Name>Specialist AreaEffect-TempleCernunnos-E Boost BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000076</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000291</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000291</GUID>
+                    <Name>Specialist AreaEffect-TempleCernunnos-E Boost FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000292</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000076</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000292</GUID>
+                    <Name>Specialist AreaEffect-TempleCernunnos-E Boost FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/celtic_druid/celtic_druid_cernunnos.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000076</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Population>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Population>
+                        <Happiness>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Happiness>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                        <Prestige>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>
@@ -197,5 +396,4 @@
         </Asset>
     </ModOp>
   </Group>
-
 </ModOps>

@@ -979,7 +979,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Cooks the roast very quickly... unfortunately not long enough.</Text>
+          <Text>Cooks the roast very quickly... unfortunately not long enough. Note: The effect applies to all residential buildings within Street Range of the Alder Council.</Text>
           <LineId>1600000171</LineId> 
       </Text>
     </ModOp>
@@ -1027,7 +1027,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses the theater stage to present his first toga collection.</Text>
+          <Text>Uses the theater stage to present his first toga collection. Hint: The effect applies to all residential buildings within Street Range of the theater.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1081,7 +1081,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MaintenanceAllUpholsterers-R -->
+  <!-- Specialist MaintenanceAllUpholsterers-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1523,7 +1523,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready.</Text>
+          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready. Hint: The effect applies to all residential buildings within Street Range of the Sportsground.</Text>
           <LineId>1600000263</LineId> 
       </Text>
     </ModOp>
