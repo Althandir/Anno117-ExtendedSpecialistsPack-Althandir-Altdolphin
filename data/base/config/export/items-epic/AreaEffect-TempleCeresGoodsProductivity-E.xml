@@ -18,9 +18,6 @@
               <Item>
                 <GUID>1600000284</GUID>
               </Item>
-              <Item>
-                <GUID>1600000287</GUID>
-              </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
@@ -85,6 +82,9 @@
 				</Values>
 			</BoostCondition>
 			<BoostBuffs>
+                <Item>
+                    <GUID>1600000289</GUID>
+                </Item>
 			</BoostBuffs>
 			<BoostHint>1600000285</BoostHint>
 		</ItemWithBoost>
@@ -97,16 +97,14 @@
   <!-- Buff Definitions-->
   <Group>
     <!-- BuildingEffect Definition -->
-    <!-- Production Buff -->
-    <Group>
-    <!-- BuildingBuff on Temple -->
+    <!-- Buff on Temple Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
                     <GUID>1600000284</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleBuildingBuff Prod</Name>
+                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleBuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
                 </Standard>
                 <Text>
@@ -139,14 +137,14 @@
             </Values>
         </Asset>
     </ModOp>
-    <!-- AreaEffect created by Temple -->
+    <!-- Effect created by Temple Definition -->
     <ModOp Type="addNextSibling" GUID="135498">
         <Asset>
             <Template>Effect</Template>
             <Values>
                 <Standard>
                     <GUID>1600000285</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E Prod TempleFunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -171,14 +169,14 @@
             </Values>
         </Asset>
     </ModOp>
-    <!-- ProdBuff on Target Buildings from Temple -->
+    <!-- Buff by Temple on FollowUp Building Effect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
         <Asset>
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
                     <GUID>1600000286</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect ProdBuildingBuff</Name>
+                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
                 </Standard>
                 <Text>
@@ -186,6 +184,7 @@
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000287</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -219,124 +218,14 @@
             </Values>
         </Asset>
     </ModOp>
-    </Group>
-    <!-- AdditionalAttributes Buff -->
-    <Group>
-    <!-- BuildingBuff on Temple -->
-    <ModOp Type="addNextSibling" GUID="80193">
+    <!-- Additional Follow up Effect on affected Building from Temple Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
         <Asset>
-            <Template>BuildingBuff</Template>
+            <Template>Effect</Template>
             <Values>
                 <Standard>
                     <GUID>1600000287</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleBuildingBuff Prod</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000283</OasisId>
-                </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000288</AdditionalFunctionalEffect>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade>
-                </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
-            </Values>
-        </Asset>
-    </ModOp>
-
-    <!-- AreaEffect created by Temple -->
-    <ModOp Type="addNextSibling" GUID="135498">
-        <Asset>
-            <Template>Effect</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000288</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E Prod TempleFunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
-                </Standard>
-                <Effect>
-                    <EffectScope>StreetDistance</EffectScope>
-                    <SourceCategory>Adjacency</SourceCategory>
-                    <Buffs>
-                        <Item>
-                            <GUID>1600000289</GUID>
-                        </Item>
-                    </Buffs>
-                    <Targets>
-                        <Item>
-                            <GUID>43602</GUID>
-                        </Item>
-                    </Targets>
-                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
-                    <HideInGovernorsBar>1</HideInGovernorsBar>
-                </Effect>
-                <Text>
-                    <OasisId>1600000283</OasisId>
-                </Text>
-            </Values>
-        </Asset>
-    </ModOp>
-<!-- Building Buff on FollowUp Buildings -->
-    <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000289</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000283</OasisId>
-                </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000290</AdditionalFunctionalEffect>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
-                <Buff>
-                    <SourceCategory>Adjacency</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade>
-                </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
-            </Values>
-        </Asset>
-    </ModOp>
-
-    <!-- AreaEffect created on Affected Building -->
-    <ModOp Type="addNextSibling" GUID="135498">
-        <Asset>
-            <Template>Effect</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000290</GUID>
-                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E Prod TempleFunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -344,7 +233,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000291</GUID>
+                            <GUID>1600000288</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -352,7 +241,7 @@
                             <GUID>43097</GUID>
                         </Item>
                     </Targets>
-                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <ExcludeEffectSourceGUID>1</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
@@ -368,7 +257,7 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000291</GUID>
+                    <GUID>1600000288</GUID>
                     <Name>Specialist AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
                 </Standard>
@@ -448,8 +337,251 @@
             </Values>
         </Asset>
     </ModOp>
-    </Group>
-    
-</Group>
+  </Group>
+
+  <!-- Boosted Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <!-- Buff on Temple Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000289</GUID>
+                    <Name>Specialist Boosted AreaEffect-TempleCeresGoodsProductivity-E TempleBuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000283</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000290</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>20</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Effect created by Temple Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000290</GUID>
+                    <Name>Specialist Boosted AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000291</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43602</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000283</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Buff by Temple on FollowUp Building Effect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000291</GUID>
+                    <Name>Specialist Boosted AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000283</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000292</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>20</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    <!-- Additional Follow up Effect on affected Building from Temple Definition -->
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000292</GUID>
+                    <Name>Specialist Boosted AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000293</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000283</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Buff from FollowUp Building on everything else -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000293</GUID>
+                    <Name>Specialist Boosted AreaEffect-TempleCeresGoodsProductivity-E TempleFunctionalEffect FollowUpBuildingBuff FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/roman_priestess/roman_priestess_mod_Ceres.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000283</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Population>
+                        <AmountOrPercent>
+                            <Value>1</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Population>
+                        <Happiness>
+                        <AmountOrPercent>
+                            <Value>0</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Happiness>
+                        <Money>
+                        <AmountOrPercent>
+                            <Value>0</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Money>
+                        <Prestige>
+                        <AmountOrPercent>
+                            <Value>0</Value>
+                            <Percental>0</Percental>
+                        </AmountOrPercent>
+                        </Prestige>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                        <Knowledge>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Knowledge>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                        <FireSafety>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </FireSafety>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade>
+                </MaintenanceUpgrade>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
 
 </ModOps>
