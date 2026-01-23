@@ -125,8 +125,8 @@
     <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
     <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
     <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
-    <Include File="items-epic/ReplaceInputAmphoresToFineGlass-E.xml" />
-    <Include File="items-epic/ReplaceInputSilverToNecklaces-E.xml" />
+    <Include File="items-epic/ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.xml" />
+    <Include File="items-epic/ReplaceInputNecklaces-SilberReplaceGold-E.xml" />
 
   </Group>
 

@@ -724,7 +724,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputAmphoresToFineGlass-E -->
+  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -740,7 +740,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputSilverToNecklaces-E -->
+  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

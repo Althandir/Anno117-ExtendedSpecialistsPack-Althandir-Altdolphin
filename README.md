@@ -22,7 +22,7 @@ Productivity Increase based on higher Fuel Consumption
 Many new AreaEffect Specialists 
 Mostly classic AreaEffect Additions for Public Services
 Some have a Twists to intensify the new possibilities created by AreaEffects (e.g. Additional Goods when Grammaticus is in Range)
-Specialists based on current Deities for the Temple
+Specialists based on current Deities for the Temple - With Boosted Variant
 Chained AreaEffects Specialists (experimental)
 2x Specialists increasing the amount of Specialists useable in your Villa & Officium
 New Captians  

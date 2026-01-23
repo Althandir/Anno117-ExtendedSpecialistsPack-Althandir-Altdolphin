@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000132 - 1600000133 | LineID:1600000132 - 1600000133 -->
+<!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000132</GUID>
-            <Name>Specialist ReplaceInput SilverToNecklaces E</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_SilverToNecklacesE.png</IconFilename>
-            <InfoDescription>1600000133</InfoDescription>
+            <GUID>1600000130</GUID>
+            <Name>Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.png</IconFilename>
+            <InfoDescription>1600000131</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000133</GUID>
+                <GUID>1600000131</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>3192</GUID>
+                <GUID>3202</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000132</OasisId>
+            <OasisId>1600000130</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,17 +51,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000133</GUID>
-                    <Name>Specialist ReplaceInput SilverToNecklaces E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_SilverToNecklacesE.png</IconFilename>
+                    <GUID>1600000131</GUID>
+                    <Name>Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000132</OasisId>
+                    <OasisId>1600000130</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -69,10 +67,17 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <Product>2151</Product>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
                   <ReplaceInputs>
                     <Item>
-                      <OldInput>31698</OldInput>
-                      <NewInput>2129</NewInput>
+                      <OldInput>2117</OldInput>
+                      <NewInput>2091</NewInput>
                     </Item>
                   </ReplaceInputs>
                 </FactoryUpgrade>

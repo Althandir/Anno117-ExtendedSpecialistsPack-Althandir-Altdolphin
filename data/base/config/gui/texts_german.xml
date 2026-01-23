@@ -748,7 +748,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputAmphoresToFineGlass-E -->
+  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -758,13 +758,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Farbige Amphoren sind genauso schön wie farbiges Feinglas. Und genauso zerbrechlich.</Text>
+          <Text>Brennt das Glass direkt vor deinen Augen in Form.</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputSilverToNecklaces-E -->
+  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
