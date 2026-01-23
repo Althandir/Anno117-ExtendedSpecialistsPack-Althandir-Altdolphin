@@ -1580,6 +1580,150 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ProductivityAllForestries-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ambitious Forester</Text>
+          <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Making trees usable is his calling.</Text>
+          <LineId>1600000271</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllFarms-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Quiet Farmer</Text>
+          <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>His mind is always on his fields.</Text>
+          <LineId>1600000273</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPastures-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Prudent Livestock Breeder</Text>
+          <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Make sure that every animal fulfills its contribution.</Text>
+          <LineId>1600000275</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Happy Plantation Helper</Text>
+          <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"You don't need much variation to be happy."</Text>
+          <LineId>1600000277</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalCocklesRomanCelticSeashell-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Morigenos Conchylius, Noble Shellcollector</Text>
+          <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>The sea can always be heard whispering nearby.</Text>
+          <LineId>1600000279</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalCopperAllMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Coperovicos, the first Rock-born</Text>
+          <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Similar to his brother Stannos, he has a sixth sense for copper deposits.</Text>
+          <LineId>1600000281</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalTinAllMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Stannos, the second Rock-born</Text>
+          <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Similar to his brother Coperovicos, he has a sixth sense for tin deposits.</Text>
+          <LineId>1600000283</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Supplier</Text>
+          <LineId>1600000284</LineId> <!-- <GUID>1600000284</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Fulfills delivery orders for residents in the surrounding area. Hint: This area effect only affects residential buildings around the production building, but can stack.</Text>
+          <LineId>1600000285</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-AllStoneCutterMoneyByHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Independent Sculptor</Text>
+          <LineId>1600000309</LineId> <!-- <GUID>1600000309</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Uses the best stone in the region to create busts of his clients.</Text>
+          <LineId>1600000310</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
   <Group>

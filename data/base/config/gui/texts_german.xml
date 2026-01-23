@@ -1659,7 +1659,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat wie sein Bruder Stannos ein Gespür für Kupfer.</Text>
+          <Text>Hat wie sein Bruder Stannos ein Gespür für Kupfervorkommen.</Text>
           <LineId>1600000281</LineId> 
       </Text>
     </ModOp>
@@ -1675,7 +1675,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat wie sein Bruder Coperovicos ein Gespür für Zinn.</Text>
+          <Text>Hat wie sein Bruder Coperovicos ein Gespür für Zinnvorkommen.</Text>
           <LineId>1600000283</LineId> 
       </Text>
     </ModOp>
@@ -1702,7 +1702,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Privater Bildhauer</Text>
+          <Text>Unabhängiger Bildhauer</Text>
           <LineId>1600000309</LineId> <!-- <GUID>1600000309</GUID> -->
       </Text>
       <!-- Description -->
