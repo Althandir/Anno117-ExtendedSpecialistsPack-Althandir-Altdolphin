@@ -753,12 +753,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Viroglinos</Text>
+          <Text>Vitrearios, Der Glasmacher</Text>
           <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Brennt das Glass direkt vor deinen Augen in Form.</Text>
+          <Text>Brennt das Glas direkt vor deinen Augen in Form.</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>

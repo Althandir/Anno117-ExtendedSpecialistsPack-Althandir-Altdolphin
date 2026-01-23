@@ -369,6 +369,11 @@
           <Text>Highly devoted and preaches the roman virtues of the deity Mars.</Text>
           <LineId>1600000069</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Mars...</Text>
+          <LineId>1600000070</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -384,6 +389,11 @@
       <Text>
           <Text>Highly devoted and preaches the roman virtues of the deity Ceres.</Text>
           <LineId>1600000073</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Ceres...</Text>
+          <LineId>1600000074</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -401,6 +411,11 @@
           <Text>Knows the old celtic virtues of the deity Cernunnos.</Text>
           <LineId>1600000077</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Cernunnos...</Text>
+          <LineId>1600000078</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -416,6 +431,11 @@
       <Text>
           <Text>Knows the old celtic virtues of the deity Epona.</Text>
           <LineId>1600000081</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Epona...</Text>
+          <LineId>1600000082</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -433,6 +453,11 @@
           <Text>Highly devoted and preaches the roman virtues of the deity Mercury.</Text>
           <LineId>1600000085</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Mercury...</Text>
+          <LineId>1600000086</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -449,6 +474,11 @@
           <Text>Highly devoted and preaches the roman virtues of the deity Minerva.</Text>
           <LineId>1600000089</LineId> 
       </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Minerva...</Text>
+          <LineId>1600000090</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
@@ -464,6 +494,11 @@
       <Text>
           <Text>Highly devoted and preaches the roman virtues of the deity Neptune.</Text>
           <LineId>1600000093</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Neptune...</Text>
+          <LineId>1600000094</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -729,12 +764,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Viroglinos</Text>
+          <Text>Vitrearios, the Glassmaker</Text>
           <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Colored Amphores are as beautiful as colored fine glass. And as breakable.</Text>
+          <Text>Shapes the glass in form directly in front of your eyes.</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
