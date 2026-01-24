@@ -222,7 +222,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Inspires all city guards with tales of heroic deeds performed by humans during terrifying disasters. Seizes this opportunity to offer improved training. Hint: This Effect can Stack.</Text>
+          <Text>Inspires all city guards with tales of heroic deeds performed by humans during terrifying disasters. Seizes this opportunity to offer improved training.</Text>
           <LineId>1600000036</LineId> 
       </Text>
     </ModOp>
@@ -238,7 +238,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
+          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us."</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -854,7 +854,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. Hint: This Effect can Stack.</Text>
+          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -966,7 +966,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Tries his best to optimize processes. Hint: This Effect can Stack.</Text>
+          <Text>Tries his best to optimize processes.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>

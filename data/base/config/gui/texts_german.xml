@@ -211,7 +211,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Inspiriert alle Stadtwachen mit Erzählungen von Heldentaten der Menschen während schrecklicher Katastrophen. Nutzt diese Gelegenheit direkt um ein verbessertes Training anzubieten. Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Inspiriert alle Stadtwachen mit Erzählungen von Heldentaten der Menschen während schrecklicher Katastrophen. Nutzt diese Gelegenheit direkt um ein verbessertes Training anzubieten.</Text>
           <LineId>1600000036</LineId> 
       </Text>
     </ModOp>
@@ -227,7 +227,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Verwendet Denarii um bürokratische Prozesse zu optimieren. Dabei wandert die ein oder andere Münze woanders hin. „Bitte ziehen Sie nun eine Nummer und warten Sie, bis wir uns bei Ihnen melden.“ Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Verwendet Denarii um bürokratische Prozesse zu optimieren. Dabei wandert die ein oder andere Münze woanders hin. „Bitte ziehen Sie nun eine Nummer und warten Sie, bis wir uns bei Ihnen melden.“</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -843,7 +843,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architekt des bürokratischen Systems und Meister darin, alles für jeden zu regeln. Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Architekt des bürokratischen Systems und Meister darin, alles für jeden zu regeln.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -955,7 +955,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Versucht sein Bestes, um Prozesse zu optimieren. Hinweis: Dieser Effekt kann gestapelt werden.</Text>
+          <Text>Versucht sein Bestes, um Prozesse zu optimieren.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>

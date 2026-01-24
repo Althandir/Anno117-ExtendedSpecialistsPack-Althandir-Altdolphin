@@ -69,7 +69,7 @@
             </AreaBuff>
             <Buff>
               <SourceCategory>Item</SourceCategory>
-              <IsStackable>1</IsStackable>
+              <IsStackable>0</IsStackable>
             </Buff>
             <AreaNeedAttributeBuff>
               <BonusAttributes>
@@ -118,7 +118,7 @@
           </AreaBuff>
           <Buff>
             <SourceCategory>Item</SourceCategory>
-            <IsStackable>1</IsStackable>
+            <IsStackable>0</IsStackable>
           </Buff>
           <AreaNeedAttributeBuff/>
           <AreaPassiveTradeUpgrade/>
