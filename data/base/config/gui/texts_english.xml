@@ -238,7 +238,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us."</Text>
+          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -854,7 +854,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone.</Text>
+          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. Hint: This Effect can Stack.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -966,7 +966,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Tries his best to optimize processes.</Text>
+          <Text>Tries his best to optimize processes. Hint: This Effect can Stack.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>

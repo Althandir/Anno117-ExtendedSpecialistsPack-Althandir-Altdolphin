@@ -13,7 +13,7 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-
+    
     <Include File="testing/pools-forceSpawnTesting.xml"/> 
     -->
   </Group>

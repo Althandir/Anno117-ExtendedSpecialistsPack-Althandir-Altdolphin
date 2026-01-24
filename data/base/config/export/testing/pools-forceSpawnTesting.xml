@@ -6,23 +6,14 @@
     # Enable:   Add <Include File="testing/pools-forceSpawnTesting.xml"/> in <asset.xml> 
     # Disable:  Remove <Include File="testing/pools-forceSpawnTesting.xml"/> from <asset.xml>
   -->
-  <!-- Add to RewardPools -->
-  <Group>
-    <ModOp Type="add" GUID="43037" Path="/Values/RewardPool/ItemsPool">
-      <Item>
-        <ItemLink>1600000000</ItemLink>
-        <Weight>100</Weight>
-      </Item>
-    </ModOp>
-
+  
     <!-- Add to TraderRewardPools - Use high Weight for forced Spawn -->
     <ModOp Type="add" GUID="83460,83464,83476,83472" Path="/Values/RewardPool/ItemsPool">
       <Item>
-        <ItemLink>1600000278</ItemLink>
+        <ItemLink>1600000313</ItemLink>
         <Weight>100</Weight> 
       </Item> 
       <!-- # Additional Items here -->
     </ModOp>
-  </Group>
 
 </ModOps>

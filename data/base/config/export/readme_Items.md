@@ -9,6 +9,7 @@
 
 # AreaBuff
 - Effect Range is defined in Area Buff
+- AreaBuff seems to ignore <IsStackable> and can always stack
 
 # AreaEffects
 - Chained AreaEffects are possible

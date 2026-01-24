@@ -13,6 +13,9 @@ Adds:
 - 45 new Epic Specialists
 - 13 new Legendary Specialists
 
+- All Specialists are added to Trader Specialists Pool
+- All Specialists can also drop from Raider Ships
+
 Example Features:
 - Islandwide EffectRange Specialists for Public Services and Marvels 
 - Resolver Range Upgrade Specialists for Institutions
@@ -24,7 +27,8 @@ Example Features:
 - Many new AreaEffect Specialists 
   - Mostly classic AreaEffect Additions for Public Services
     - e.g. Specialists based on current Deities for the Temple - With Boosted Variant
-  - Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range) 
+  - Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range)
+  - new Area Effects some Productions
 - Chained AreaEffects Specialists (experimental)
   - One for Armories -> Custodia
   - One for Cisterns -> Vigiles & Medicus
@@ -58,6 +62,10 @@ Some of the Items might be unbalanced so reach out to me if some Items feel to s
 Download this mod via mod.io Download Button.
 Unpack the zip file into the Anno 117 mods directory:
 – Either "<user documents>/Anno 117 - Pax Romana/mods/" or "<installation dir>/Anno 117 - Pax Romana/mods/"
+
+# How to Uninstall:
+
+Remove the extracted Folder from your Anno 117 mods directory
 
 # If you want to contibute with translations feel free to reach out to me on Discord
 

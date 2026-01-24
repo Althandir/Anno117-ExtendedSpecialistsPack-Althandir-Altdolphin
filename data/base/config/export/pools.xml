@@ -297,6 +297,24 @@
         <Item>
             <ItemLink>1600000276</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>1600000278</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000280</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000282</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000284</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000309</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000313</ItemLink>
+        </Item>
 
         </ModOp>
     </Group>
@@ -305,11 +323,11 @@
     <!-- RewardList All Items & Specialists Items-->
     <Group>
         <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
-        <Item>
+                <Item>
             <ItemLink>1600000027</ItemLink>
         </Item>
         <Item>
-            <ItemLink>1600000160</ItemLink>
+            <ItemLink>1600000160</ItemLink>        
         </Item>
         <Item>
             <ItemLink>1600000037</ItemLink>
@@ -406,7 +424,7 @@
         </Item>
         <Item>
             <ItemLink>1600000198</ItemLink>
-        </Item>
+        </Item> 
         <Item>
             <ItemLink>1600000102</ItemLink>
         </Item>
@@ -599,6 +617,25 @@
         <Item>
             <ItemLink>1600000276</ItemLink>
         </Item>
+        <Item>
+            <ItemLink>1600000278</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000280</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000282</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000284</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000309</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000313</ItemLink>
+        </Item>
+        
         </ModOp>
     </Group>
 

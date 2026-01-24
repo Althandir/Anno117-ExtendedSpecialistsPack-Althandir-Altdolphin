@@ -24,7 +24,7 @@
                 <GUID>92731</GUID>
               </Item>
             </Targets>
-            <HideInGovernorsBar>1</HideInGovernorsBar>
+            <HideInGovernorsBar>0</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Diplomacy</Niche> 
@@ -83,7 +83,7 @@
                 <AreaBuff/>
                 <Buff>
                   <SourceCategory>Item</SourceCategory>
-                  <IsStackable>0</IsStackable>
+                  <IsStackable>0</IsStackable> <!-- Ignored as this is an AreaBuff -->
                 </Buff>
                 <AreaPassiveTradeUpgrade>
 			            <PassiveTradeProfitModifier>10</PassiveTradeProfitModifier>
