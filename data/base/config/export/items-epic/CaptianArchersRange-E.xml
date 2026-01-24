@@ -67,14 +67,14 @@
                 </Buff>
                 <MovementUpgrade>
                   <BuffBaseSpeedUpgrade>
-                    <Value>15</Value>
+                    <Value>10</Value>
                     <Percental>0</Percental>
                   </BuffBaseSpeedUpgrade>
                 </MovementUpgrade>
                 <MaintenanceUpgrade/>
                 <UnitUpgrade>
                   <DistanceAttackRangeArcherModulePercentualUpgrade>
-                    <Value>30</Value>
+                    <Value>35</Value>
                     <Percental>0</Percental>
                   </DistanceAttackRangeArcherModulePercentualUpgrade>
                 </UnitUpgrade>

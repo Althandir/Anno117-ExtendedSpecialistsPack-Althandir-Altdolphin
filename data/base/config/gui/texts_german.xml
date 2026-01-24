@@ -1654,7 +1654,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Coperovicos, der erste Felsgeborene</Text>
+          <Text>Copervicos, der erste Felsgeborene</Text>
           <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
       </Text>
       <!-- Description -->
@@ -1675,7 +1675,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat wie sein Bruder Coperovicos ein Gespür für Zinnvorkommen.</Text>
+          <Text>Hat wie sein Bruder Copervicos ein Gespür für Zinnvorkommen.</Text>
           <LineId>1600000283</LineId> 
       </Text>
     </ModOp>

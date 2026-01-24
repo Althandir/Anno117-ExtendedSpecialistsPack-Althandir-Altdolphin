@@ -81,11 +81,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-50</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -99,13 +99,13 @@
                 <IrrigationUpgrade/>
                 <RepairCraneUpgrade>
                   <HealRadiusUpgrade>
-                    <Value>33</Value>
+                    <Value>40</Value>
                     <Percental>1</Percental>
                   </HealRadiusUpgrade>
                 </RepairCraneUpgrade>
                 <PierUpgrade>
                   <PierSpeedUpgrade>
-                    <Value>25</Value>
+                    <Value>50</Value>
                     <Percental>1</Percental>
                   </PierSpeedUpgrade>
                 </PierUpgrade>

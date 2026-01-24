@@ -58,7 +58,7 @@
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
-                    <Value>50</Value>
+                    <Value>60</Value>
                     <Percental>1</Percental>
                   </BaseHealthUpgrade>
                 </HealthUpgrade>

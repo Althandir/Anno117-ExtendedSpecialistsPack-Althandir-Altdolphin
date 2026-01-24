@@ -76,7 +76,7 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>30</Value>
+                    <Value>40</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
                   <FuelDurationPercent>-15</FuelDurationPercent>
