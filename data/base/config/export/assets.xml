@@ -86,10 +86,12 @@
 
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
+
     <Include File="items-epic/AreaEffect-ArmsToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
     <Include File="items-epic/AreaEffect-CisternToVigilesMedici-E.xml" />
+    <Include File="items-epic/AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E.xml" />
     <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
     <Include File="items-epic/AreaEffect-GamblingHousePrestigeHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBelief-E.xml" />
@@ -102,7 +104,6 @@
     <Include File="items-epic/AreaEffect-TempleMercury-E.xml" />
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
-    
     <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E.xml" />
     
@@ -110,10 +111,10 @@
     <Include File="items-epic/CaptianMoreSlots-E.xml" />
 
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
-    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
+    
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
@@ -136,15 +137,19 @@
   <Group>
     <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
+
     <Include File="items-legendary/AreaEffect-AdditionalSpecialistsGuesthouses-L.xml" />
+
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
     <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
+
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
     <Include File="items-legendary/Dolphin-L.xml" />
     <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
+    
     <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
     <Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />
   </Group>
@@ -157,5 +162,5 @@
   <Include File="pools-epic.xml" />
   <Include File="pools-legendary.xml" />
 
-  
+
 </ModOps>

@@ -1707,12 +1707,27 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt den besten Stein der Region um Büsten von seinen Kunden herzustellen. </Text>
+          <Text>Nutzt den besten Stein der Region um Büsten von seinen Kunden herzustellen.</Text>
           <LineId>1600000310</LineId> 
       </Text>
     </ModOp>
   </Group>
 
+  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassiocaseos, Culinarius Casei</Text>
+          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.</Text>
+          <LineId>1600000314</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->

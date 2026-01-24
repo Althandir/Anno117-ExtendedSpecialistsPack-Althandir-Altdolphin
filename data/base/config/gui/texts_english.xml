@@ -1723,6 +1723,22 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassiocaseos, Culinarius Casei</Text>
+          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Came up with the idea of melting cheese and combining it with sweet fruit. Some love this experimental cuisine, others hate it and give free rein to their anger. Note: The effect applies to all residential buildings within Street Range of the Market or Forum.</Text>
+          <LineId>1600000314</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
   
   <!-- ############################################################### -->
   <!-- Specialist Placeholder -->
