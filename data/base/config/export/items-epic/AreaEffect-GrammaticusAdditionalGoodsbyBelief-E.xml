@@ -21,13 +21,13 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>42605</GUID> <!-- #Info: For some Reason: RomanCelticTemple is in this Asset Pool? -->
+                <GUID>42605</GUID> 
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche>
+            <Niche>Research</Niche>
             <TradePrice>80000</TradePrice> 
             <BarkPool>83364</BarkPool> <!-- <GUID>83364</GUID> -->
             <Rarity>Epic</Rarity> 
