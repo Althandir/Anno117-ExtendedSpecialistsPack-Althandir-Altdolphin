@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000009</GUID>
-            <Name>Specialist AreaEffect-CelcicBarrowHealth-R</Name>
+            <Name>Specialist AreaEffect-CelcicBarrowHealthPrestige-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
             <InfoDescription>1600000010</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000010</GUID>
-                    <Name>Specialist AreaEffect-CelcicBarrowHealth-R BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CelcicBarrowHealthPrestige-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
                 <Text>
@@ -87,7 +87,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000011</GUID>
-                    <Name>Specialist AreaEffect-CelcicBarrowHealth-R FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-CelcicBarrowHealthPrestige-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -119,7 +119,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000012</GUID>
-                    <Name>Specialist AreaEffect-CelcicBarrowHealth-R FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-CelcicBarrowHealthPrestige-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/celtic_male_barrowgardener.png</IconFilename>
                 </Standard>
                 <Text>
@@ -129,28 +129,28 @@
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                         <Population>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Population>
                         <Happiness>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Happiness>
                         <Money>
-                        <AmountOrPercent>
-                            <Value>0</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>0</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Money>
                         <Prestige>
-                        <AmountOrPercent>
-                            <Value>2</Value>
-                            <Percental>0</Percental>
-                        </AmountOrPercent>
+                            <AmountOrPercent>
+                                <Value>2</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
                         </Prestige>
                         <Belief>
                             <AmountOrPercent>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000137</GUID>
-            <Name>Specialist AdditionalGoods Honey L</Name>
+            <Name>Specialist AdditionalGoodsHoney-L</Name>
             <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
             <InfoDescription>1600000138</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000138</GUID>
-                    <Name>Specialist AdditionalGoods Honey L BuildingBuff</Name>
+                    <Name>Specialist AdditionalGoodsHoney-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
                 </Standard>
                 <Text>
@@ -74,7 +74,6 @@
                       <Amount>3</Amount>
                     </Item>
                   </AdditionalOutput>
-                  <CanUseForest>1</CanUseForest>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

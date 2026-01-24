@@ -13,8 +13,9 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    -->
+
     <Include File="testing/pools-forceSpawnTesting.xml"/> 
+    -->
   </Group>
   
   <!-- Common Specialists -->
@@ -40,7 +41,7 @@
     <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
 
     <Include File="items-rare/AreaEffect-AllStoneCutterMoneyByHealth-R.xml" />
-    <Include File="items-rare/AreaEffect-CelcicBarrowHealth-R.xml" />
+    <Include File="items-rare/AreaEffect-CelcicBarrowHealthPrestige-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByPrestige-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R.xml"/>
@@ -155,4 +156,6 @@
   <Include File="pools-rare.xml" />
   <Include File="pools-epic.xml" />
   <Include File="pools-legendary.xml" />
+
+  
 </ModOps>

@@ -57,7 +57,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaEffect-CelcicBarrowHealth-R -->
+  <!-- Specialist AreaEffect-CelcicBarrowHealthPrestige-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
