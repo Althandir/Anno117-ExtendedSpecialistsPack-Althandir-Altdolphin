@@ -58,7 +58,7 @@
             </Text>
             <AreaBuff>
               <RadiusEffectRangeUpgrade>
-                <Value>20</Value>
+                <Value>15</Value>
                 <Percental>1</Percental>
               </RadiusEffectRangeUpgrade>
               <RadiusEffectRangeTarget>
@@ -75,7 +75,7 @@
               <BonusAttributes>
                 <Money>
                   <ValueOrPercent>
-                    <Value>-10</Value>
+                    <Value>-12</Value>
                     <Percental>1</Percental>
                   </ValueOrPercent>
                 </Money>
@@ -107,7 +107,7 @@
           </Text>
           <AreaBuff>
             <RadiusEffectRangeUpgrade>
-              <Value>10</Value>
+              <Value>5</Value>
               <Percental>1</Percental>
             </RadiusEffectRangeUpgrade>
             <RadiusEffectRangeTarget>

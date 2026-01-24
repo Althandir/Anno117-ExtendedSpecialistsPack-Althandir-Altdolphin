@@ -127,7 +127,7 @@
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>43097</GUID>
+                            <GUID>31046</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
@@ -163,7 +163,7 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                         <ProvidedNeed>2145</ProvidedNeed>
-                        <AmountInPercent>15</AmountInPercent>
+                        <AmountInPercent>33</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -181,7 +181,7 @@
                         </Money>
                         <Prestige>
                             <AmountOrPercent>
-                            <Value>1</Value>
+                            <Value>2</Value>
                             <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>

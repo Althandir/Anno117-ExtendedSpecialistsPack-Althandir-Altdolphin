@@ -24,7 +24,7 @@
                 <GUID>43102</GUID>
               </Item>
             </Targets>
-            <HideInGovernorsBar>0</HideInGovernorsBar>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Military</Niche>

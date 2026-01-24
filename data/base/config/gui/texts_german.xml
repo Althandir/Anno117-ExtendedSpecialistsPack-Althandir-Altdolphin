@@ -785,7 +785,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, the Meister Alchemist</Text>
+          <Text>Vullius Brixantus, der Meisteralchemist</Text>
           <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
       </Text>
       <!-- Description -->

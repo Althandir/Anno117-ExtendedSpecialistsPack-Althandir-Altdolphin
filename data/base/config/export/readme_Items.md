@@ -4,12 +4,17 @@
 - Combining AreaBuff and BuildingBuff is not possible
 - Item sets EffectScope
 
+# Only Legendary Items support ItemWithBoost UI! 
+- BoostHint visibility via Research does NOT Work on Items with Non-Legendary-Rarity
+- When Condition is fullfilled BoostHint on Non-legendary-Items is visible
+
 # Other Findings:
 - AssetPool All Wonder Forums (81273) contains Roman Forum AND Celtic Roman Temple? But Localization only names "Forums"
 
 # AreaBuff
 - Effect Range is defined in Area Buff
 - AreaBuff seems to ignore <IsStackable> and can always stack
+- Effect Range: Try using % Based Upgrade. Fixed Number Upgrade seems to have a performance Impact?
 
 # AreaEffects
 - Chained AreaEffects are possible
