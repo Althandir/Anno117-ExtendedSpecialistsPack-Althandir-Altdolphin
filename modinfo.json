@@ -1,5 +1,5 @@
 {
-  "ModID": "extended-specialists-dolphin",
+  "ModID": "extended-specialists-pack-althandir-altdolphin",
   "Version": "1.0.0",
   "Anno": 8,
   "IncompatibleIds": null,
@@ -15,18 +15,17 @@
     "Campaign": true
   },
   "ModName": {
-    "English": "Extended SpecialistsPack by Althandir / Altdolphin",
-    "German": "Erweitertes SpezialistenPack von Althandir / Altdolphin"
+    "English": "Extended Specialists Pack by Althandir / Altdolphin",
+    "German": "Erweitertes Spezialisten Pack von Althandir / Altdolphin"
   },
   "Description": {
     "English": "",
-    "German": ""
+    "German": "Fügt Variationen von verschiedenen Spezialisten zu Anno 117 hinzu."
   },
   "Category": {
     "English": "Gameplay",
-    "German": ""
+    "German": "Gameplay"
   },
   "CreatorName": "Althandir / Altdolphin",
-  "CreatorContact": "",
-  "Image": ""
+  "CreatorContact": "althandir via Anno-Modding-Discord / https://github.com/Althandir/Anno117-ExtendedSpecialistsPack-Althandir-Altdolphin"
 }

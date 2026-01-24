@@ -1,9 +1,5 @@
 # Main Readme
 
-## Known Issues
-- GUID 160.000.000 points to "Specialist AdditionalGoodsAllExtractors-C BuildingBuff" 
-- Manx RewardPool (Trader) contains Voada RewardList
-
 # Mod.io Description Text:
 This mods adds a variety of Specialists into the game. I hope you will find them lso as insteresting & enjoyable.
 
@@ -37,10 +33,21 @@ Some are chained in requiring a Public Service in Range to enable their effect
 Warehouse / Depot Capacity Upgrade Specialists
 Some new Legendary Items (non boosted)
 Contains 2 fancy animals
-Many new Icons created by my non existing Art Skills (reused original Icons and remixed them with some Icons from 117 and 1800)
+Many new Icons created by my non existing art skills (reused original Icons and remixed them with some Icons from 117 and 1800)
 Translations into: 
 DE 
 EN
 
+Every other Language should Fallback to EN
 
-If you want to help with translations feel free to reach out to me on Discord
+# How to Install: 
+
+Download this mod via mod.io Download Button.
+Unpack the zip file into the Anno 117 mods directory:
+– Either "<user documents>/Anno 117 - Pax Romana/mods/" or "<installation dir>/Anno 117 - Pax Romana/mods/"
+
+# If you want to contibute with translations feel free to reach out to me on Discord
+
+## Known Issues
+- GUID 160.000.000 points to "Specialist AdditionalGoodsAllExtractors-C BuildingBuff" 
+- Manx RewardPool (Trader) contains Voada RewardList
