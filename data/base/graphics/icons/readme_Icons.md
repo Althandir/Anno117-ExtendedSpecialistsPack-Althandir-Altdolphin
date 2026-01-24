@@ -19,7 +19,9 @@ Contains Animal Icons. Currently mostly from 1800 and modified with filters.
 ## <name> e.g. celtic_druid
 Contains a template file and varitaions of an item. For example an base Face of a celtic druid but with different clothes based on followed deity
 ## helpertemplates
-Contains templates for various Items to be used like Bow, Arrows, Amphore, etc... 
+Contains templates for various Items to be used like Bow, Arrows, Amphore, etc...
+## old 
+Variants I used initially but scrapped. Maybe will be used in Future.
 
 ## Naming Convention
 Icons should use similar naming as the Item they are used by. 

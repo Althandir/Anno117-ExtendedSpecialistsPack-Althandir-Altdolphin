@@ -684,17 +684,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityByFuelAllFuelConsumers-E -->
+  <!-- Specialist AdditionalSilverAllMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Decimus Igneus, Erfahrener Anzünder</Text>
+          <Text>Decimus Argentarius, Erfahrener Silbergeologe</Text>
           <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Weiß genau, wie viel Wärme für eine Reaktion erforderlich ist.</Text>
+          <Text>Hat ein Händchen für Silbervorkommen.</Text>
           <LineId>1600000123</LineId> 
       </Text>
     </ModOp>

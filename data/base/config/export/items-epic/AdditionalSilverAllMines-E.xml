@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000122</GUID>
-            <Name>Specialist ProductivityByFuelAllFuelConsumers-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
+            <Name>Specialist AdditionalSilverAllMines-E</Name>
+            <IconFilename>data/base/graphics/icons/other/roman_male_AdditionalSilverAllMines-E.png</IconFilename>
             <InfoDescription>1600000123</InfoDescription>
           </Standard>
           <Effect>
@@ -21,7 +21,7 @@
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>71197</GUID>
+                <GUID>50225</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -52,22 +52,14 @@
             <Values>
                 <Standard>
                     <GUID>1600000123</GUID>
-                    <Name>Specialist ProductivityByFuelAllFuelConsumers-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ProdByFuelE.png</IconFilename>
+                    <Name>Specialist AdditionalSilverAllMines-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/roman_male_AdditionalSilverAllMines-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000122</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                  <AdditionalAttributes>
-                    <FireSafety>
-                      <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
-                      </AmountOrPercent>
-                    </FireSafety>
-                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -75,14 +67,25 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>40</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-15</FuelDurationPercent>
+                  <AdditionalOutput>
+                    <Item>
+                      <Product>2079</Product>
+                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>200</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>200</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

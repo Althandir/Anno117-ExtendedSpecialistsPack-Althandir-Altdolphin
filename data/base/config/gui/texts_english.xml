@@ -695,17 +695,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityByFuelAllFuelConsumers-E -->
+  <!-- Specialist AdditionalSilverAllMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Decimus Igneus, Expert Igniter</Text>
+          <Text>Decimus Argentarius, Experienced Silver Geologist</Text>
           <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Knows exactly how much heat is required for a reaction.</Text>
+          <Text>Has a talent for finding silver deposits.</Text>
           <LineId>1600000123</LineId> 
       </Text>
     </ModOp>

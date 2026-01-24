@@ -81,6 +81,7 @@
     <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
     <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
     <Include File="items-epic/AdditionalTinAllMines-E.xml" />
+    <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
 
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
@@ -121,7 +122,7 @@
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
-    <Include File="items-epic/ProductivityByFuelAllFuelConsumers-E.xml" />
+
     <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
     <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
     <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
