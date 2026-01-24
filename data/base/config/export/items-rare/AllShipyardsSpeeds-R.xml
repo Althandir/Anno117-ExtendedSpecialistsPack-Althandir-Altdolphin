@@ -70,7 +70,7 @@
               <ModuleOwnerUpgrade/>
               <MaintenanceUpgrade>
                 <MaintenanceFactorUpgrade>
-                  <Value>100</Value>
+                  <Value>0</Value>
                   <Percental>1</Percental>
                 </MaintenanceFactorUpgrade>
               </MaintenanceUpgrade>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000160</GUID>
-            <Name>Specialist AllPublicServicesEffectRange R</Name>
+            <Name>Specialist AllPublicServicesEffectRange-R</Name>
             <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
             <InfoDescription>1600000161</InfoDescription>
           </Standard>
@@ -47,7 +47,7 @@
           <Values>
             <Standard>
               <GUID>1600000161</GUID>
-              <Name>Specialist AllPublicServicesEffectRange R AreaBuff</Name>
+              <Name>Specialist AllPublicServicesEffectRange-R AreaBuff</Name>
               <IconFilename>data/base/graphics/icons/other/male_PublicServiceEffectRangeR.png</IconFilename>
             </Standard>
             <Text>
