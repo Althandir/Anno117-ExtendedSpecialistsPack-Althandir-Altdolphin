@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000035 - 1600000036 | LineID:1600000035 - 1600000036 #TODO: Evaluate Rarity -->
+<!-- Item Definition GUID:1600000035 - 1600000036 | LineID:1600000035 - 1600000036 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
