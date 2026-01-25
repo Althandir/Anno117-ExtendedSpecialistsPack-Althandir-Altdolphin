@@ -1,0 +1,1749 @@
+<ModOps>
+  <!-- 
+    UNEVEN NUMBER == TITLE
+    EVEN NUMBER == DESCRIPTION
+  --> 
+  
+  <!-- Specialist Specialist Dolphin-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Majestic Dolphin</Text>
+          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Housing such a majestic Creature here attracts many visitors from far shores. Just look at it.. wiggling with his fins. Meb Meb. </Text>
+          <LineId>1600000001</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AdditionalGoodsAllExtractors-C-Boost -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Alchemy Apprentice</Text>
+          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Begins to study the fundamentals of the natural elements. With a few accidents...</Text>
+          <LineId>1600000003</LineId> 
+      </Text>
+      <!-- Boost Description -->
+      <Text>
+          <Text>In dire need of a master...</Text>
+          <LineId>1600000004</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-BardicHallBelief-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Unwanted Bard</Text>
+          <LineId>1600000005</LineId> <!-- <GUID>1600000005</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Here's to a little serenade"... "NOoooo! By Cernunnos stop him!"</Text>
+          <LineId>1600000006</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-CelcicBarrowHealthPrestige-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Celtic Grave Keeper</Text>
+          <LineId>1600000009</LineId> <!-- <GUID>1600000009</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Preserves the ancient burial mounds.</Text>
+          <LineId>1600000010</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-MarketBelief-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Religious Merchant</Text>
+          <LineId>1600000013</LineId> <!-- <GUID>1600000013</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Offers a variety of different religious items for any deity.</Text>
+          <LineId>1600000014</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-SancFanumBeliefbyMoney-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Impoverished Priestess</Text>
+          <LineId>1600000017</LineId> <!-- <GUID>1600000017</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Demonstrates to believers how to thrive without material resources.</Text>
+          <LineId>1600000018</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-TabernaMoney-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Tavern Guard</Text>
+          <LineId>1600000021</LineId> <!-- <GUID>1600000021</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Makes sure every denarii is payed.</Text>
+          <LineId>1600000022</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaUpgradeForestries-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Young Arborist</Text>
+          <LineId>1600000025</LineId> <!-- <GUID>1600000025</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Enjoys caring for trees.</Text>
+          <LineId>1600000026</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaUpgradePonies-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Wild Pony Huntress</Text>
+          <LineId>1600000027</LineId> <!-- <GUID>1600000027</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Keeps behaving like a wild pony.</Text>
+          <LineId>1600000028</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist CaptianMoreSlots-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Overloaded Sailor</Text>
+          <LineId>1600000029</LineId> <!-- <GUID>1600000029</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese."</Text>
+          <LineId>1600000030</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist DrainageIrrigationUpgrade-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Drainage Worker</Text>
+          <LineId>1600000031</LineId> <!-- <GUID>1600000031</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Loves to drain the real swamp. Literally.</Text>
+          <LineId>1600000032</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist WarehouseCapacityUpgrade-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Warehouse Worker</Text>
+          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Uses some extra hands to organize the goods here and there.</Text>
+          <LineId>1600000034</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsResolverUpgrade-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aulus Pius, the Watchful Inspirator</Text>
+          <LineId>1600000035</LineId> <!-- <GUID>1600000035</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Inspires all city guards with tales of heroic deeds performed by humans during terrifying disasters. Seizes this opportunity to offer improved training.</Text>
+          <LineId>1600000036</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllPublicServicesAndWondersEffectRange-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aurelius Cautus, the Bureaucrat</Text>
+          <LineId>1600000037</LineId> <!-- <GUID>1600000037</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
+          <LineId>1600000038</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-ArmsToCustodes-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Gaius Armifex, Local Armorist</Text>
+          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Reroutes local armaments for the Custodes. Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
+          <LineId>1600000041</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Valerius Saponius, Master of the Soap</Text>
+          <LineId>1600000044</LineId> <!-- <GUID>1600000044</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>By using soap in big pools of water we can clean so many people at once. Hint: The Effects are applying to every building in Street Range.</Text>
+          <LineId>1600000045</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vidumaros, Celtic Traditionalist</Text>
+          <LineId>1600000048</LineId> <!-- <GUID>1600000048</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Keeps celtic tradition alive through tellings of former generations.</Text>
+          <LineId>1600000049</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CisternToVigilesMedici-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aquarius, the Watersupplier</Text>
+          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range. Maintenance will be only increased for the cistern.</Text>
+          <LineId>1600000053</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-GamblingHousePrestigeHappiness-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Probus, Honest Gambler</Text>
+          <LineId>1600000056</LineId> <!-- <GUID>1600000056</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Checks every dice with a keen eye, so only fate decides your chances.</Text>
+          <LineId>1600000057</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-LibraryKnowledgePrestigebyFireSafety-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Julia Archivola, the Living Bibliothēcaria</Text>
+          <LineId>1600000060</LineId> <!-- <GUID>1600000060</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Expands the library up to the ceiling with knowledge from distant lands. Let's hope there's no fire nearby.</Text>
+          <LineId>1600000061</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-LibraryPopulationHealth-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Varius Flexus, Human Biologist</Text>
+          <LineId>1600000064</LineId> <!-- <GUID>1600000064</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Traveled to many coasts to observe and study all different types of human bodies. One of the first writers of scrolls on the flexibilty of human anatomy.</Text>
+          <LineId>1600000065</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleMars-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Priestess of Mars</Text>
+          <LineId>1600000068</LineId> <!-- <GUID>1600000068</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Mars.</Text>
+          <LineId>1600000069</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Mars...</Text>
+          <LineId>1600000070</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleCeres-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Priestess of Ceres</Text>
+          <LineId>1600000072</LineId> <!-- <GUID>1600000072</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Ceres.</Text>
+          <LineId>1600000073</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Ceres...</Text>
+          <LineId>1600000074</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleCernunnos-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Elder Druid of Cernunnos</Text>
+          <LineId>1600000076</LineId> <!-- <GUID>1600000076</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows the old celtic virtues of the deity Cernunnos.</Text>
+          <LineId>1600000077</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Cernunnos...</Text>
+          <LineId>1600000078</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleEpona-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Elder Druid of Epona</Text>
+          <LineId>1600000080</LineId> <!-- <GUID>1600000080</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows the old celtic virtues of the deity Epona.</Text>
+          <LineId>1600000081</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Epona...</Text>
+          <LineId>1600000082</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleMercury-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Priestess of Mercury</Text>
+          <LineId>1600000084</LineId> <!-- <GUID>1600000084</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Mercury.</Text>
+          <LineId>1600000085</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Mercury...</Text>
+          <LineId>1600000086</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleMinerva-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Priestess of Minerva</Text>
+          <LineId>1600000088</LineId> <!-- <GUID>1600000088</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Minerva.</Text>
+          <LineId>1600000089</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Minerva...</Text>
+          <LineId>1600000090</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TempleNeptune-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Priestess of Neptune</Text>
+          <LineId>1600000092</LineId> <!-- <GUID>1600000092</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Highly devoted and preaches the roman virtues of the deity Neptune.</Text>
+          <LineId>1600000093</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Needs certainty that the island follows the deity Neptune...</Text>
+          <LineId>1600000094</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterHealthBelief-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ethelia, Hag Actress</Text>
+          <LineId>1600000096</LineId> <!-- <GUID>1600000096</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Plays the role of a ugly hag, who loves to collect in other peoples eyeballs. Always open for a deal. In her favor of course.</Text>
+          <LineId>1600000097</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptianArchersRange-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ocumare, Eagle of the Sea</Text>
+          <LineId>1600000100</LineId> <!-- <GUID>1600000100</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Swift and with an eagles eye is a force to be reckoned with.</Text>
+          <LineId>1600000101</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptianMoreSlots-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ames, Ship Distorter</Text>
+          <LineId>1600000102</LineId> <!-- <GUID>1600000102</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so.</Text>
+          <LineId>1600000103</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist GoodConsumptionDecrease-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Iana Rodericia, Young Environmentalist</Text>
+          <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Rejects decadence and instead demonstrates an ecological lifestyle in harmony with nature.</Text>
+          <LineId>1600000105</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Marcus Speculator, Mineral Expert</Text>
+          <LineId>1600000106</LineId> <!-- <GUID>1600000106</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows where to find any needed minerals.</Text>
+          <LineId>1600000107</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradeAllFarms-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Piso Agricola, Custodes of the Land</Text>
+          <LineId>1600000108</LineId> <!-- <GUID>1600000108</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Enjoys the countrylife.</Text>
+          <LineId>1600000109</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+    <!-- Specialist ModuleUpgradeAllPlantations-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Publius Arboreus, the Planter For Generations</Text>
+          <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Reaps the fruits of what was planted generations ago.</Text>
+          <LineId>1600000111</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradePastures-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Junia Pascua, Animal Caretaker</Text>
+          <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Best caretaker any animal could dream of.</Text>
+          <LineId>1600000113</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ulpius, Bacchus Blessed</Text>
+          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"And the next round goes on me!"</Text>
+          <LineId>1600000115</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Sericus Garum, Far Eastern Spicer</Text>
+          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Adds a particularly salty flavor to everything. Creates a taste of the desert on the tongue.</Text>
+          <LineId>1600000117</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist ProductivityAllUpholsterers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucius Textor, the Textile Craftsmen.</Text>
+          <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Always stocks up on every kind of fabric.</Text>
+          <LineId>1600000119</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllVictuallers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cornelia Fusilla, Fluid Artista</Text>
+          <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows how to work with Liquids and Jars.</Text>
+          <LineId>1600000121</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalSilverAllMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Decimus Argentarius, Experienced Silver Geologist</Text>
+          <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Has a talent for finding silver deposits.</Text>
+          <LineId>1600000123</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Domitia Regilla, Always Accompanied</Text>
+          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Always in need of a group of Liberti for her luxurious needs.</Text>
+          <LineId>1600000125</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cornelia Operosa, the Fascinated One</Text>
+          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Is fascinated by the hard work of plebeians. Enjoys the bustling and artisanal activities.</Text>
+          <LineId>1600000127</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Gnaeus Geranus, the Cranebird</Text>
+          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick.</Text>
+          <LineId>1600000129</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vitrearios, the Glassmaker</Text>
+          <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Shapes the glass in form directly in front of your eyes.</Text>
+          <LineId>1600000131</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Gaius Septicius, the Silversmith</Text>
+          <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Silver is the new Gold!</Text>
+          <LineId>1600000133</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vullius Brixantus, the Master Alchemist</Text>
+          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>A true master of the natural elements. Ready and at your service.</Text>
+          <LineId>1600000135</LineId> 
+      </Text>
+      <!-- Boost Hint -->
+      <Text>
+          <Text>Ready for a young apprentice.</Text>
+          <LineId>1600000136</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalGoodsHoney-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Wojtecus, the adopted persian Bear</Text>
+          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Quick! Follow the bear! He will lead us to the honey!... or catches a spy again."</Text>
+          <LineId>1600000138</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllWorkshops-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Apprilia, Early Engineer</Text>
+          <LineId>1600000139</LineId> <!-- <GUID>1600000139</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Dreams of an age of machines and steam.</Text>
+          <LineId>1600000140</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Buritus, Architectus Bureaucraticus</Text>
+          <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. Hint: This Effect can Stack.</Text>
+          <LineId>1600000142</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CollosseumGladiator-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Leo Victor, Roaring Gladiator</Text>
+          <LineId>1600000144</LineId> <!-- <GUID>1600000144</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Roars loud like a lion! Ready to fight for glory!</Text>
+          <LineId>1600000145</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterHappinessPrestigeKnowledge-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Marcus Favor, the Beloved Crowdfavorite</Text>
+          <LineId>1600000148</LineId> <!-- <GUID>1600000148</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“What an exquisite performance!” “What an amazing talent!” “When I grow up, I want to be just like him!”</Text>
+          <LineId>1600000149</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CrazyLatiumFisheries-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aquarius Crassicius, Neptune Blessed Fisherman</Text>
+          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Catches everything with giant nets. Sandales inclusive... and sometimes... a sheep? How?!</Text>
+          <LineId>1600000153</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProdAreaUpgradeHuntersAndEels-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Silvius Vercannos, Legendary Hunter</Text>
+          <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Such a great hunter, he would even catch mystical creatures.</Text>
+          <LineId>1600000155</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Marcus Pius, Fair and Thoughtful Patronus</Text>
+          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Knows without a mass of Liberti, he would be nothing.</Text>
+          <LineId>1600000157</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllInstitutionsResolverRange-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vigilant Sentry</Text>
+          <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Checks every corner.</Text>
+          <LineId>1600000159</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AllPublicServicesEffectRange-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Motivtated Bureaucrat</Text>
+          <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Tries his best to optimize processes. Hint: This Effect can Stack.</Text>
+          <LineId>1600000161</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Angry Bath Attendent</Text>
+          <LineId>1600000162</LineId> <!-- <GUID>1600000162</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"By Neptune, don't jump off the edge into the bath!"</Text>
+          <LineId>1600000163</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelcicSacredGroveBeliefByPrestige-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Pagan Ritualist</Text>
+          <LineId>1600000166</LineId> <!-- <GUID>1600000166</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Executes celtic pagan rituals to the Romans' detriment.</Text>
+          <LineId>1600000167</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Rushed Roaster</Text>
+          <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Cooks the roast very quickly... unfortunately not long enough. Note: The effect applies to all residential buildings within Street Range of the Alder Council.</Text>
+          <LineId>1600000171</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Gambling Debt Collector</Text>
+          <LineId>1600000174</LineId> <!-- <GUID>1600000174</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Allows high-risk bets just as an excuse to visit your home. Or better said his new home.</Text>
+          <LineId>1600000175</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-GrammaticusKnowledgebyMoney-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Public Teacher</Text>
+          <LineId>1600000178</LineId> <!-- <GUID>1600000178</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Investing into the future results in investing into Knowledge.</Text>
+          <LineId>1600000179</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Toga Designer</Text>
+          <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Uses the theater stage to present his first toga collection. Hint: The effect applies to all residential buildings within Street Range of the theater.</Text>
+          <LineId>1600000183</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-TheaterHappinessbyPrestige-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Mischievous Actor</Text>
+          <LineId>1600000186</LineId> <!-- <GUID>1600000186</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Brings nearly everyone to a good laught, except the nobility.</Text>
+          <LineId>1600000187</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Retired Smith</Text>
+          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>The youth can always learn from the elder ones.</Text>
+          <LineId>1600000191</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalClayWaterSlots-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Clay Digger</Text>
+          <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Kept the fun from digging into Clay since the childhood.</Text>
+          <LineId>1600000193</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist MaintenanceAllUpholsterers-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Upholsterer Trainer</Text>
+          <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Teaches how to handle needle tools to prevent worker outages.</Text>
+          <LineId>1600000195</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist MaintenanceMiniInstitutions-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Roman Amenity Planner</Text>
+          <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Everyone should enjoy the amenities of the romans.</Text>
+          <LineId>1600000197</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ModuleUpgradeReed-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Mud-covered Reedgrower</Text>
+          <LineId>1600000198</LineId> <!-- <GUID>1600000198</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Huh? What are you doing in my swamp?! "</Text>
+          <LineId>1600000199</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProdAreaUpgradeHuntersAndEels-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Eager Huntress</Text>
+          <LineId>1600000200</LineId> <!-- <GUID>1600000200</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Yearns for the hunt.</Text>
+          <LineId>1600000201</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllCoastalProductions-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Beachworker</Text>
+          <LineId>1600000202</LineId> <!-- <GUID>1600000202</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Could work at the beach all the time.</Text>
+          <LineId>1600000203</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityByFuelAllFuelConsumers-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Habitual Heater</Text>
+          <LineId>1600000204</LineId> <!-- <GUID>1600000204</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Baking stuff makes it taste better, why shouldn't it work for other things?"</Text>
+          <LineId>1600000205</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Plebeian</Text>
+          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Thanks to her hard work, she is ready to move up to the next roman stratum.</Text>
+          <LineId>1600000207</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aspiring Equites</Text>
+          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Rich, but not rich enough to be considered that relevant.</Text>
+          <LineId>1600000209</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Grounded Nobleman</Text>
+          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Not as aloof as other nobles.</Text>
+          <LineId>1600000211</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist WarehouseCapacityUpgrade-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Expericened Warehouse Worker</Text>
+          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>A living catalog for the warehouses.</Text>
+          <LineId>1600000213</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist WorkforceRomanCelticTowers-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Noble Archer</Text>
+          <LineId>1600000214</LineId> <!-- <GUID>1600000214</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Brings his hunting lessions to good use.</Text>
+          <LineId>1600000215</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-ForumIncomePrestigeProductivity-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cornelia Regula Rectrix, Strict Economist</Text>
+          <LineId>1600000216</LineId> <!-- <GUID>1600000216</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Triggers the heart of roman Craftsmanship and Trade. Hint I: Productivity applies to All Production Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
+          <LineId>1600000217</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-ForumWorkforce-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aurelia Ordinata, Worker Organizer</Text>
+          <LineId>1600000220</LineId> <!-- <GUID>1600000220</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Manages workers for greater efficiency and organizes them to the best suited profession. Hint I: Workforce Modifier applies to All Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
+          <LineId>1600000221</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CaptianHealthByLessSlots-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Armored Sailor</Text>
+          <LineId>1600000224</LineId> <!-- <GUID>1600000224</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Sacrifices storage space for more defense.</Text>
+          <LineId>1600000225</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AllShipyardsSpeeds-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Motivated Shipyard Worker</Text>
+          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Swings the hammer quicker for your fleet.</Text>
+          <LineId>1600000227</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist OrnamentRopeShip-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Strong Rope</Text>
+          <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>A tough rope keeps this ship at bay.</Text>
+          <LineId>1600000229</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Fabia Novella, Experimental Crafter</Text>
+          <LineId>1600000230</LineId> <!-- <GUID>1600000230</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Teaches experimental craftmanship which causes people stop trusting the gods.</Text>
+          <LineId>1600000231</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Illuminata, Enlightened Housekeeper</Text>
+          <LineId>1600000234</LineId> <!-- <GUID>1600000234</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Expert in caring for specialists from everywhere. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
+          <LineId>1600000235</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Domitius Catavignus, Romano-Celtic Envoy</Text>
+          <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Closes the cultural gaps between Romans and Celts.</Text>
+          <LineId>1600000239</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist RC02ResidencesAdditionalWorkforceC01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Merchant with Entourage</Text>
+          <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Has so much to trade, always in need a company of strong man around.</Text>
+          <LineId>1600000241</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- Specialist C02ResidencesAdditionalWorkforceC01-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lovestruck Wader</Text>
+          <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Wants to bring flowers to his love, but only finds herbs.</Text>
+          <LineId>1600000243</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Quintus Merula, Master of Invitations</Text>
+          <LineId>1600000244</LineId> <!-- <GUID>1600000244</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost are applied to Marvel, Officia and Villa.</Text>
+          <LineId>1600000245</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllCookhouses-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Julia Culinaria</Text>
+          <LineId>1600000248</LineId> <!-- <GUID>1600000248</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Show me the kitchen and I'll whip up something delicious faster than you can blink."</Text>
+          <LineId>1600000249</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllDressers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Bennicus Sartor Steckus, Swift with the Needle</Text>
+          <LineId>1600000250</LineId> <!-- <GUID>1600000250</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Fine feathers make fine birds! You can never have enough clothes!"</Text>
+          <LineId>1600000251</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+  <!-- Specialist ProductivityAllArtisans-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Junia Daedala, Master Embellisher</Text>
+          <LineId>1600000252</LineId> <!-- <GUID>1600000252</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Through her artistry, she shows the world her own beauty.</Text>
+          <LineId>1600000253</LineId> 
+      </Text>
+    </ModOp>
+  </Group>  
+
+    <!-- Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Irresponsible Arms Trader</Text>
+          <LineId>1600000254</LineId> <!-- <GUID>1600000254</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“Everyone should have at least one, if not several, weapons! What could possibly go wrong?”</Text>
+          <LineId>1600000255</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Food Artist</Text>
+          <LineId>1600000258</LineId> <!-- <GUID>1600000258</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Prepares food like an inspiring spectacle. But who cleans up the mess?</Text>
+          <LineId>1600000259</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Vercatullos, Sweaty Trainer</Text>
+          <LineId>1600000262</LineId> <!-- <GUID>1600000262</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready. Hint: The effect applies to all residential buildings within Street Range of the Sportsground.</Text>
+          <LineId>1600000263</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Practice-oriented Instructor</Text>
+          <LineId>1600000266</LineId> <!-- <GUID>1600000266</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>“Only through practice you can solidify knowledge!... Ouch! Medicus!”</Text>
+          <LineId>1600000267</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllForestries-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Ambitious Forester</Text>
+          <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Making trees usable is his calling.</Text>
+          <LineId>1600000271</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllFarms-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Quiet Farmer</Text>
+          <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>His mind is always on his fields.</Text>
+          <LineId>1600000273</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPastures-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Prudent Livestock Breeder</Text>
+          <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Make sure that every animal fulfills its contribution.</Text>
+          <LineId>1600000275</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProductivityAllPlantations-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Happy Plantation Helper</Text>
+          <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"You don't need much variation to be happy."</Text>
+          <LineId>1600000277</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalCocklesRomanCelticSeashell-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Morigenos Conchylius, Noble Shellcollector</Text>
+          <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>The sea can always be heard whispering nearby.</Text>
+          <LineId>1600000279</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalCopperAllMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Coperovicos, the first Rock-born</Text>
+          <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Similar to his brother Stannos, he has a sixth sense for copper deposits.</Text>
+          <LineId>1600000281</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalTinAllMines-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Stannos, the second Rock-born</Text>
+          <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Similar to his brother Coperovicos, he has a sixth sense for tin deposits.</Text>
+          <LineId>1600000283</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-AllProdMoneyFromResidencesStackable-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Supplier</Text>
+          <LineId>1600000284</LineId> <!-- <GUID>1600000284</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Fulfills delivery orders for residents in the surrounding area. Hint: This area effect only affects residential buildings around the production building, but can stack.</Text>
+          <LineId>1600000285</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-AllStoneCutterMoneyByHealth-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Independent Sculptor</Text>
+          <LineId>1600000309</LineId> <!-- <GUID>1600000309</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Uses the best stone in the region to create busts of his clients.</Text>
+          <LineId>1600000310</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassiocaseos, Culinarius Casei</Text>
+          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Came up with the idea of melting cheese and combining it with sweet fruit. Some love this experimental cuisine, others hate it and give free rein to their anger. Note: The effect applies to all residential buildings within Street Range of the Market or Forum.</Text>
+          <LineId>1600000314</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+  
+  <!-- ############################################################### -->
+  <!-- Specialist Placeholder -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>0</LineId> <!-- <GUID>0</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>[PH]</Text>
+          <LineId>0</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+</ModOps>

@@ -8,24 +8,56 @@
 
   ],
   "Difficulty": "easier",
+  "DLCDependencies": null,
   "GameSetup": {
     "RequiresNewGame": false,
     "SafeToRemove": true,
     "Multiplayer": true,
     "Campaign": true
   },
+
   "ModName": {
     "English": "Extended Specialists Pack by Althandir / Altdolphin",
-    "German": "Erweitertes Spezialisten Pack von Althandir / Altdolphin"
+    "German": "Erweitertes Spezialisten Pack von Althandir / Altdolphin",
+    "French": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Italian": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Polish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Spanish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Chinese": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Japanese": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Korean": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Taiwanese": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "Russian": "[EN] Extended Specialists Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "",
-    "German": "Fügt Variationen von verschiedenen Spezialisten zu Anno 117 hinzu."
+    "English": "Adds new different Specialists to Anno 117.",
+    "German": "Fügt neue verschiedene Spezialisten zu Anno 117 hinzu.",
+    "French": "[EN] Adds new different Specialists to Anno 117.",
+    "Italian": "[EN] Adds new different Specialists to Anno 117.",
+    "Polish": "[EN] Adds new different Specialists to Anno 117.",
+    "Spanish": "[EN] Adds new different Specialists to Anno 117.",
+    "Chinese": "[EN] Adds new different Specialists to Anno 117.",
+    "Japanese": "[EN] Adds new different Specialists to Anno 117.",
+    "Korean": "[EN] Adds new different Specialists to Anno 117.",
+    "Taiwanese": "[EN] Adds new different Specialists to Anno 117.",
+    "Russian": "[EN] Adds new different Specialists to Anno 117."
   },
   "Category": {
     "English": "Gameplay",
-    "German": "Gameplay"
+    "German": "Gameplay",
+    "French": "Gameplay",
+    "Italian": "Gameplay",
+    "Polish": "Gameplay",
+    "Spanish": "Gameplay",
+    "Chinese": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Taiwanese": "Gameplay",
+    "Russian": "Gameplay"
   },
+
   "CreatorName": "Althandir / Altdolphin",
-  "CreatorContact": "althandir via Anno-Modding-Discord / https://github.com/Althandir/Anno117-ExtendedSpecialistsPack-Althandir-Altdolphin"
+  "CreatorContact": "althandir via Anno-Modding-Discord / https://github.com/Althandir/Anno117-ExtendedSpecialistsPack-Althandir-Altdolphin",
+  "Image": "ModListingImg.png"
+
 }
