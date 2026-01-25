@@ -3,7 +3,7 @@
 # Mod.io Description Text:
 This mods adds a variety of Specialists into the game. I hope you will find them lso as insteresting & enjoyable.
 
-Initially started as I was missing the "Service Range Increase für Public Services" Items from Anno 1800 this mod went a bit out of scope and everything went all over the place :D.
+Initially started as I was missing the "Service Range Increase für Public Services" Items from Anno 1800 this mod went a bit out of scope and everything went all over the place :D. 
 
 Current Features: (as of 24.01.2026)
 
@@ -36,8 +36,8 @@ Example Features:
   - Chained into requireing a Marvel (Forum/Bath/Sacred Grove/Barrow) in Range
   - Can Increase total Slot Amount of Officia up to 6
 - New Captians  
-  - 3 of them playing around with the Slot Amount of Ships ;)
-  - The mighty ROPE to prevent your Ships from running away. Or a cheaper to use a ship as decoration in your harbor.
+  - 3 of them playing around with the Slot Amount of Ships
+  - The mighty ROPE to prevent your Ships from running away. Or a cheaper way to use a ship as decoration in your harbor.
 - Workforce Specialists
   - e.g. Higher Population Tier can generate Workforce for lower Stratum at a Cost
 - (Chained) Need Reward Modifying Specialists 
