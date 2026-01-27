@@ -58,7 +58,7 @@
                 </Standard>
                 <HealthUpgrade>
                   <BaseHealthUpgrade>
-                    <Value>-25</Value>
+                    <Value>-10</Value>
                     <Percental>1</Percental>
                   </BaseHealthUpgrade>
                 </HealthUpgrade>
@@ -71,10 +71,10 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <MovementUpgrade>
-                  <BuffBaseSpeedUpgrade>
-                    <Value>-20</Value>
+                  <BuffReduceCargoImpactUpgrade>
+                    <Value>-25</Value>
                     <Percental>0</Percental>
-                  </BuffBaseSpeedUpgrade>
+                  </BuffReduceCargoImpactUpgrade>
                 </MovementUpgrade>
                 <MaintenanceUpgrade/>
                 <UnitUpgrade/>

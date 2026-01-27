@@ -249,7 +249,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E -->
+  <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -993,7 +993,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R -->
+  <!-- Specialist AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1041,7 +1041,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R -->
+  <!-- Specialist AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1537,7 +1537,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E -->
+  <!-- Specialist AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

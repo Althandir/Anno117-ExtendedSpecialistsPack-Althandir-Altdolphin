@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000202</GUID>
-            <Name>Specialist Productivity AllCoastalProductions R</Name>
+            <Name>Specialist ProductivityAllCoastalProductions-R</Name>
             <IconFilename>data/base/graphics/icons/unchanged/roman_female_AllCoastalProdR.png</IconFilename>
             <InfoDescription>1600000203</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000203</GUID>
-                    <Name>Specialist Productivity AllCoastalProductions R BuildingBuff</Name>
+                    <Name>Specialist ProductivityAllCoastalProductions-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/unchanged/roman_female_AllCoastalProdR.png</IconFilename>
                 </Standard>
                 <Text>

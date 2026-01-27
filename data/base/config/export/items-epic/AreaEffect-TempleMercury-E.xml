@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000084 - 1600000087 + 1600000300 - 1600000302| LineID:1600000084 - 1600000086 -->
+<!-- Item Definition GUID:1600000084 - 1600000087 + 1600000300 - 1600000302 | LineID:1600000084 - 1600000086 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>

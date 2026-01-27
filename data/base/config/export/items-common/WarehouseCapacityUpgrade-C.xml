@@ -89,7 +89,7 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
+                  <StorageCapacityModifier>15</StorageCapacityModifier>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000200</GUID>
-            <Name>Specialist ProdAreaUpgrade HuntersAndEels R</Name>
+            <Name>Specialist ProdAreaUpgradeHuntersAndEels-R</Name>
             <IconFilename>data/base/graphics/icons/other/female_ProdAreaUpgradeHunterAndEelsR.png</IconFilename>
             <InfoDescription>1600000201</InfoDescription>
           </Standard>
@@ -55,7 +55,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000201</GUID>
-                    <Name>Specialist ProdAreaUpgrade HuntersAndEels R BuildingBuff</Name>
+                    <Name>Specialist ProdAreaUpgradeHuntersAndEels-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/female_ProdAreaUpgradeHunterAndEelsR.png</IconFilename>
                 </Standard>
                 <Text>

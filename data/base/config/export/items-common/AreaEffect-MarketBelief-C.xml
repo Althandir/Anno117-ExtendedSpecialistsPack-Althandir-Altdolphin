@@ -146,7 +146,7 @@
                                 <Value>0</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-				                </Money>
+				        </Money>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
