@@ -233,7 +233,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ArmsToCustodes-E -->
+  <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -281,7 +281,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CisternToVigilesMedici-E -->
+  <!-- Specialist AreaEffect-ChainedCisternToVigilesMedici-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
