@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expert in caring for specialists from everywhere. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
+          <Text>Expert in caring for specialists from everywhere. Hint: Effect applies to the Villa and all Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1451,7 +1451,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost are applied to Marvel, Officia and Villa.</Text>
+          <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost and Health are applied to Marvel, Officia and Villa.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>

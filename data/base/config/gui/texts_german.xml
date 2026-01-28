@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. Hinweis: Der Slot-Effekt gilt die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
+          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. Hinweis: Der Effekt gilt die Villa und alle Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1451,7 +1451,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt gilt für Prachtbauten, Officia und Villen.</Text>
+          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt und Trefferpunkte gelten für Prachtbauten, Officia und Villen.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>
