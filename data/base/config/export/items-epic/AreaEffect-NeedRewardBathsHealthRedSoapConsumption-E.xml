@@ -82,7 +82,7 @@
                     <AdditionalNeedAttributes>
                         <Population>
                             <AmountOrPercent>
-                            <Value>0.5</Value>
+                            <Value>0</Value>
                             <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
