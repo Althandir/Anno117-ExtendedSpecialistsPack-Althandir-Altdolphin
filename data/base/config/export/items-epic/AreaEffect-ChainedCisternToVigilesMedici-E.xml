@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000052</GUID>
-            <Name>Specialist AreaEffect-CisternToVigilesMedici-E</Name>
+            <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E</Name>
             <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
             <InfoDescription>1600000053</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000053</GUID>
-                    <Name>Specialist AreaEffect-CisternToVigilesMedici-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
@@ -118,7 +118,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000054</GUID>
-                    <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -153,7 +153,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000055</GUID>
-                    <Name>Specialist AreaEffect-CisternToVigilesMedici-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>

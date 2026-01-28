@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000040</GUID>
-            <Name>Specialist AreaEffect-ArmsToCustodes-E</Name>
+            <Name>Specialist AreaEffect-ChainedArmouriesToCustodes-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
             <InfoDescription>1600000041</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000041</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-ChainedArmouriesToCustodes-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
@@ -109,7 +109,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000042</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-ChainedArmouriesToCustodes-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -141,7 +141,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000043</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-ChainedArmouriesToCustodes-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
                 </Standard>
                 <Text>
