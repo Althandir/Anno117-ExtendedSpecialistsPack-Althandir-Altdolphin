@@ -63,24 +63,24 @@
                   <AdditionalAttributes>
                     <Happiness>
                       <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
+                        <Value>-1.5</Value>
+                        <Percental>0</Percental>
                       </AmountOrPercent>
                     </Happiness>
                     <Health>
                       <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
+                        <Value>-1.5</Value>
+                        <Percental>0</Percental>
                       </AmountOrPercent>
                     </Health>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-10</Value>
-                        <Percental>1</Percental>
+                        <Value>-1.5</Value>
+                        <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
-                  <WorkforceModifierInPercent>-20</WorkforceModifierInPercent>
+                  <WorkforceModifierInPercent>-10</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
                       <WorkforceGUID>2196</WorkforceGUID>
