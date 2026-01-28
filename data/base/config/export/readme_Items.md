@@ -45,3 +45,25 @@ See: AdditionalSpecialistsGuesthouses-L.xml
 # Double <AdditionalFunctionalEffects> are not working as of now. Each Buff can only have one AdditionalFunctionalEffect
 # Multiple Buffs per Items are possible
 - I would recommend against it as this will cause the Item appearing twice in the Building Overview with only the Effects from the first Buff. Thats very difficult to ecplain to the Player.
+
+# Additional Attributes by Rarity
+Based on some other Official Specialists
+- Area Effects
+  - Common: max postive ~0.5
+  - Rare: max positive ~1
+  - Epic: max positive ~2
+  - Legendary: max positive ~3
+  - Legendary Boosted: max positive ~5
+
+- Productivity:
+  - Common: + 10%
+  - Rare: + 20%
+  - Epic: + 35%
+  - Legendary: +50%
+  - Legendary Boosted: ?
+
+- Maintenance: | Workforce & Maintenance
+  - Common: -25% & 50% 
+  - Rare: -33% & -66&  
+  - Epic: -40% & 80%
+  - Legendary ? & ?
