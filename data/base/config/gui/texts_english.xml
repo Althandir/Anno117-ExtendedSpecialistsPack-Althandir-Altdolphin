@@ -1371,7 +1371,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Teaches experimental craftmanship which causes people stop trusting the gods.</Text>
+          <Text>Teaches experimental craftmanship which causes citizens to stop trusting the gods. Hint: Additional Goods are created by all Productionchains in Street Range.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
