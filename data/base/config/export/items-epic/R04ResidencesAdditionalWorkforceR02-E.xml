@@ -80,7 +80,7 @@
                       </AmountOrPercent>
                     </Health>
                   </AdditionalAttributes>
-                  <WorkforceModifierInPercent>-5</WorkforceModifierInPercent>
+                  <WorkforceModifierInPercent>-10</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
                       <WorkforceGUID>2184</WorkforceGUID>

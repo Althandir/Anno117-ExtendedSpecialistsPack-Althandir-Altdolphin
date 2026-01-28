@@ -80,7 +80,7 @@
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
-                  <WorkforceModifierInPercent>-15</WorkforceModifierInPercent>
+                  <WorkforceModifierInPercent>-25</WorkforceModifierInPercent>
                   <AdditionalWorkforces>
                     <Item>
                       <WorkforceGUID>2192</WorkforceGUID>
