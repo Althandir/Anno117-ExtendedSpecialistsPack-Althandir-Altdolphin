@@ -135,19 +135,19 @@
                         </Money>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Health>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
 				        </Health>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>-1</Value>
+                                <Value>-0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
 				        </FireSafety>

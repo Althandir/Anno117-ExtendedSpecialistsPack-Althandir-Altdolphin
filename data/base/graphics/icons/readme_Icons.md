@@ -1,4 +1,4 @@
-# Cute Dolphin Icon 
+# Cute Dolphin Icon - DolphinHappy.png
 © from https://www.twitch.tv/dolphinchemist - only used as placeholder & DebugIcon
 Important: 
 THAT'S NOT THE CREATOR OF THIS MOD. 

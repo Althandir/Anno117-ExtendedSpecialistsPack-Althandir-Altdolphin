@@ -55,7 +55,7 @@
     <Include File="items-rare/AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
     <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R.xml" />
+    <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
     
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>

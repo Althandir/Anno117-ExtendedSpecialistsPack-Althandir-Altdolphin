@@ -28,12 +28,11 @@ Example Features:
   - Mostly classic AreaEffect Additions for Public Services
     - e.g. Specialists based on current Deities for the Temple - With Boosted Variant
   - Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range)
-  - new Area Effects some Productions
 - Chained AreaEffects Specialists (experimental)
   - One for Armories -> Custodia
   - One for Cisterns -> Vigiles & Medicus
 - 2x Specialists increasing the amount of Specialists useable in your Villa & Officium
-  - Chained into requireing a Marvel (Forum/Bath/Sacred Grove/Barrow) in Range
+  - Chained into requiring a Marvel (Forum/Bath/Sacred Grove/Barrow) in Range
   - Can Increase total Slot Amount of Officia up to 6
 - New Captians  
   - 3 of them playing around with the Slot Amount of Ships
@@ -62,6 +61,10 @@ Some of the Items might be unbalanced so reach out to me if some Items feel to s
 Download this mod via mod.io Download Button.
 Unpack the zip file into the Anno 117 mods directory:
 – Either "<user documents>/Anno 117 - Pax Romana/mods/" or "<installation dir>/Anno 117 - Pax Romana/mods/"
+
+# Recommended other Mods:
+Increased Trader Item Slots (Taludas) - https://mod.io/g/anno-117-pax-romana/m/increased-trader-item-slots#description
+The perfect fertilities pack (Hier0nimus) - https://mod.io/g/anno-117-pax-romana/m/the-perfect-fertilities-pack#description
 
 # How to Uninstall:
 

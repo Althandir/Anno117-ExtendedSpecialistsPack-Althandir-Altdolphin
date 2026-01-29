@@ -1521,7 +1521,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R -->
+  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByMaintenance-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
