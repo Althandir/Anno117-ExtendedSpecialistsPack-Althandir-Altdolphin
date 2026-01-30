@@ -73,5 +73,5 @@ Remove the extracted Folder from your Anno 117 mods directory
 # If you want to contibute with translations feel free to reach out to me on Discord
 
 ## Known Issues
-- GUID 160.000.000 points to "Specialist AdditionalGoodsAllExtractors-C BuildingBuff" 
+- GUID 160.000.000 points to "Specialist ProductivityAllExtractors-C BuildingBuff" 
 - Manx RewardPool (Trader) contains Voada RewardList

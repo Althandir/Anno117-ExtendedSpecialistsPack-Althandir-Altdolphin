@@ -25,7 +25,8 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/AdditionalGoodsAllExtractors-C-Boost.xml" />
+    <Include File="items-common/ProductivityAllExtractors-C-Boost.xml" />
+    
     <Include File="items-common/AreaEffect-AllProdMoneyFromResidencesStackable-C.xml" />
     <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
     <Include File="items-common/AreaEffect-MarketBelief-C.xml" />

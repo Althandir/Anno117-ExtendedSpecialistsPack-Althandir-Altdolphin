@@ -20,7 +20,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AdditionalGoodsAllExtractors-C-Boost -->
+  <!-- Specialist ProductivityAllExtractors-C-Boost -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
