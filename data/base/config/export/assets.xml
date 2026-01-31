@@ -32,7 +32,8 @@
     <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
     <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
-    <Include File="items-common/AreaUpgradeForestries-C.xml" />
+
+    <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
     <Include File="items-common/CaptianMoreSlots-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradePonies-C.xml" />

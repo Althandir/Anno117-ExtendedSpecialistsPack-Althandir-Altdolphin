@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000025</GUID>
-            <Name>Specialist AreaUpgradeForestries-C</Name>
+            <Name>Specialist ProdAreaUpgradeForestries-C</Name>
             <IconFilename>data/base/graphics/icons/other/celtic_male_forestries.png</IconFilename>
             <InfoDescription>1600000026</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000026</GUID>
-                    <Name>Specialist AreaUpgradeForestries-C BuildingBuff</Name>
+                    <Name>Specialist ProdAreaUpgradeForestries-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/celtic_male_forestries.png</IconFilename>
                 </Standard>
                 <Text>
@@ -67,14 +67,16 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>10</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
                   <NeededAreaUpgrade>
                     <Value>-15</Value>
                     <Percental>1</Percental>
                   </NeededAreaUpgrade>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>20</ModuleLimitPercent>
-                </ModuleOwnerUpgrade>
+                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
