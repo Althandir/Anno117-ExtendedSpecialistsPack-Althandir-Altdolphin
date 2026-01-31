@@ -8,9 +8,9 @@ Initially started as I was missing the "Service Range Increase für Public Servi
 Current Features: (as of 24.01.2026)
 
 Adds: 
-- 13 new Common Specialists
+- 14 new Common Specialists
 - 34 new Rare Specialists
-- 45 new Epic Specialists
+- 49 new Epic Specialists
 - 13 new Legendary Specialists
 
 - All Specialists are added to Trader Specialists Pool
