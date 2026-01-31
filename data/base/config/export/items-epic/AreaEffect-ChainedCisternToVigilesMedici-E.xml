@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000040 - 1600000043 | LineID:1600000040 - 1600000041 -->
+<!-- Item Definition GUID:1600000052 - 1600000055 | LineID:1600000052 - 1600000053 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000040</GUID>
-            <Name>Specialist AreaEffect-ArmsToCustodes-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
-            <InfoDescription>1600000041</InfoDescription>
+            <GUID>1600000052</GUID>
+            <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E</Name>
+            <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
+            <InfoDescription>1600000053</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000041</GUID>
+                <GUID>1600000053</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50614</GUID>
+                <GUID>50228</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Military</Niche>
+            <Niche>Agriculture</Niche>
             <TradePrice>63000</TradePrice> 
-            <BarkPool>83302</BarkPool> <!-- <GUID>83302</GUID> -->
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000040</OasisId>
+            <OasisId>1600000052</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,30 +51,40 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000041</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000053</GUID>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000042</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000054</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>-25</Value>
+                <AqueductUpgrade> <!-- There is no "Upgrade" to change the WaterConsumption of a Distributor 
+                  <AqueductWaterSupplyUpgrade>
+                    <Value>50</Value>
                     <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                </FactoryUpgrade>
+                  </AqueductWaterSupplyUpgrade>
+                  <AqueductConsumedWaterUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </AqueductConsumedWaterUpgrade> -->
+                </AqueductUpgrade>
+                <FactoryUpgrade/>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade> 
                   <!-- 
                   This is here to inform the player about the Buffs on TargetBuildings! 
@@ -82,11 +92,11 @@
                   Buff itself will have no effect on Building. Workaround is to inform Player via Description. 
                   -->
                   <ResolverRangeUpgrade>
-                    <Value>15</Value>
+                    <Value>10</Value>
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
                   <ResolverUnitCountUpgrade>
-				            <Value>1</Value>
+				            <Value>0</Value>
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>
@@ -96,7 +106,6 @@
                 </CityInstitutionUpgrade>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
@@ -108,28 +117,31 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000042</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000054</GUID>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Effect>
-                    <EffectScope>Radius</EffectScope>
+                    <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000043</GUID>
+                            <GUID>1600000055</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>38560</GUID>
+                            <GUID>38559</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>38561</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -140,12 +152,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000043</GUID>
-                    <Name>Specialist AreaEffect-ArmsToCustodes-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ArmsToCustodes.png</IconFilename>
+                    <GUID>1600000055</GUID>
+                    <Name>Specialist AreaEffect-ChainedCisternToVigilesMedici-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/nb_cisternToVigilesAndMedici.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000040</OasisId>
+                    <OasisId>1600000052</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -160,11 +172,11 @@
                 <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade>
                   <ResolverRangeUpgrade>
-                    <Value>15</Value>
+                    <Value>10</Value>
                     <Percental>1</Percental>
                   </ResolverRangeUpgrade>
                   <ResolverUnitCountUpgrade>
-				            <Value>1</Value>
+				            <Value>0</Value>
 				            <Percental>0</Percental>
 			            </ResolverUnitCountUpgrade>
                   <ResolverResolveDurationUpgrade>

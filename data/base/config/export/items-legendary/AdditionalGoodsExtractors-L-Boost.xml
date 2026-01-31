@@ -29,7 +29,7 @@
           <Item>
             <Niche>Economy</Niche> 
             <TradePrice>650000</TradePrice>
-            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
+            <BarkPool>83322</BarkPool> <!-- <GUID>83322</GUID> -->
             <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
@@ -101,8 +101,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                      <Amount>2</Amount> <!-- Equals 40% Prod Buff  -->
+                      <AdditionalOutputCycle>3</AdditionalOutputCycle>
+                      <Amount>1</Amount> <!-- Equals 33% Prod Buff  -->
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
@@ -159,19 +159,19 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                      <Amount>3</Amount> <!-- Equals 60% Prod Buff  -->
+                      <AdditionalOutputCycle>2</AdditionalOutputCycle>
+                      <Amount>1</Amount> <!-- Equals 50% Prod Buff  -->
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-33</Value>
+                    <Value>-20</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-66</Value>
+                    <Value>-40</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>

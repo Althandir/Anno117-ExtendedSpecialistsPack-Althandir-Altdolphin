@@ -77,16 +77,15 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>66</Value>
+                    <Value>25</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
                   <AdditionalOutput>
-                    <!--
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
-                      <Amount>4</Amount>
-                    </Item> -->
+                      <AdditionalOutputCycle>2</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item> <!--
                     <Item>
                       <Product>2088</Product>
                       <AdditionalOutputCycle>10</AdditionalOutputCycle>
@@ -106,7 +105,7 @@
                       <Product>2112</Product>
                       <AdditionalOutputCycle>10</AdditionalOutputCycle>
                       <Amount>1</Amount>
-                    </Item>
+                    </Item> -->
                     <Item>
                       <Product>2144</Product>
                       <AdditionalOutputCycle>32</AdditionalOutputCycle>

@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000002</GUID>
-            <Name>Specialist AdditionalGoodsAllExtractors-C-Boost</Name>
+            <Name>Specialist ProductivityAllExtractors-C-Boost</Name>
             <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
             <InfoDescription>1600000003</InfoDescription>
           </Standard>
@@ -29,7 +29,7 @@
           <Item>
             <Niche>Economy</Niche> 
             <TradePrice>5000</TradePrice>
-            <BarkPool>83322</BarkPool> <!-- <GUID>83322</GUID> -->
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>
@@ -83,7 +83,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000003</GUID>
-                    <Name>Specialist AdditionalGoodsAllExtractors-C BuildingBuff</Name>
+                    <Name>Specialist ProductivityAllExtractors-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
@@ -112,13 +112,10 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
-                      <Amount>1</Amount> <!-- Equals 12,5% Prod Buff --> 
-                    </Item>
-                  </AdditionalOutput>
+                  <ProductivityUpgrade>
+                    <Value>15</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -137,7 +134,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000004</GUID>
-                    <Name>Specialist AdditionalGoodsAllExtractors-C-Boost BuildingBuff</Name>
+                    <Name>Specialist ProductivityAllExtractors-C-Boost BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
@@ -160,13 +157,10 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
-                      <Amount>1</Amount> <!-- Equals 16,6% Prod Buff --> 
-                    </Item>
-                  </AdditionalOutput>
+                  <ProductivityUpgrade>
+                    <Value>15</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

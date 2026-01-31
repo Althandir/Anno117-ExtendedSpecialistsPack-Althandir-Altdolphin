@@ -1,42 +1,41 @@
 <ModOps>
-<!-- Item Definition GUID: 1600000226 - 1600000227 | LineID:1600000226 - 1600000227 -->
+<!-- Item Definition GUID:1600000325 - 1600000326 | LineID:1600000325 - 1600000326 --> 
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000226</GUID>
-            <Name>Specialist AllShipyardsSpeeds-R</Name>
-            <IconFilename>data/base/graphics/icons/other/female_AllShipyardSpeed.png</IconFilename>
-            <InfoDescription>1600000227</InfoDescription>
+            <GUID>1600000325</GUID>
+            <Name>Specialist ProductivityAllFisheries-E</Name>
+            <IconFilename>data/base/graphics/icons/other/roman_male_ProductivityAllFisheries-E.png</IconFilename>
+            <InfoDescription>1600000326</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000227</GUID>
+                <GUID>1600000326</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>32363</GUID>
+                <GUID>50601</GUID>
               </Item>
             </Targets>
-            <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Nautics</Niche> 
-            <TradePrice>12000</TradePrice>
-            <BarkPool>83327</BarkPool> <!-- <GUID>83327</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <Niche>Economy</Niche> 
+            <TradePrice>80000</TradePrice>
+            <BarkPool>80241</BarkPool> <!-- <GUID>80241</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000226</OasisId>
+            <OasisId>1600000325</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,14 +50,14 @@
             <Template>BuildingBuff</Template>
             <Values>
               <Standard>
-                  <GUID>1600000227</GUID>
-                  <Name>Specialist AllShipyardsSpeeds-R BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/female_AllShipyardSpeed.png</IconFilename>
+                  <GUID>1600000326</GUID>
+                  <Name>Specialist ProductivityAllFisheries-E BuildingBuff</Name>
+                  <IconFilename>data/base/graphics/icons/other/roman_male_ProductivityAllFisheries-E.png</IconFilename>
               </Standard>
-              <Text>
-                  <OasisId>1600000226</OasisId>
-              </Text>
               <HealthUpgrade/>
+              <Text>
+                  <OasisId>1600000325</OasisId>
+              </Text>
               <BuildingUpgrade>
               </BuildingUpgrade>
               <DistributionUpgrade/>
@@ -66,20 +65,17 @@
                   <SourceCategory>Item</SourceCategory>
               </Buff>
               <ResidenceUpgrade/>
-              <FactoryUpgrade/>
-              <ModuleOwnerUpgrade/>
-              <MaintenanceUpgrade>
-                <MaintenanceFactorUpgrade>
-                  <Value>0</Value>
+              <FactoryUpgrade>
+                <ProductivityUpgrade>
+                  <Value>35</Value>
                   <Percental>1</Percental>
-                </MaintenanceFactorUpgrade>
-              </MaintenanceUpgrade>
+                </ProductivityUpgrade>
+              </FactoryUpgrade>
+              <ModuleOwnerUpgrade/>
+              <MaintenanceUpgrade/>
               <CityInstitutionUpgrade/>
               <IncidentInfectableUpgrade/>
-              <RecruitmentUpgrade>
-                <ConstructionCostInPercent>0</ConstructionCostInPercent>
-                <ConstructionSpeedInPercent>33</ConstructionSpeedInPercent>
-		          </RecruitmentUpgrade>
+              <RecruitmentUpgrade/>
               <AqueductUpgrade/>
               <WarehouseUpgrade/>
               <IrrigationUpgrade/>

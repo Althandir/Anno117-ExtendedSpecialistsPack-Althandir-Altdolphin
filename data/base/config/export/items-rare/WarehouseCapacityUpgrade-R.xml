@@ -80,7 +80,7 @@
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value>-50</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -89,7 +89,7 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>50</StorageCapacityModifier>
+                  <StorageCapacityModifier>30</StorageCapacityModifier>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>

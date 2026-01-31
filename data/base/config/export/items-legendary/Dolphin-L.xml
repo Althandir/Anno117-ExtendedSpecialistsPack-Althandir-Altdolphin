@@ -62,19 +62,19 @@
                   <BonusAttributes>
                     <Money>
                       <ValueOrPercent>
-                        <Value>3</Value>
+                        <Value>1</Value>
                         <Percental>1</Percental>
                       </ValueOrPercent>
                     </Money>
                     <Belief>
                       <ValueOrPercent>
-                        <Value>5</Value>
+                        <Value>3</Value>
                         <Percental>1</Percental>
                       </ValueOrPercent>
                     </Belief>
                     <Prestige>
                       <ValueOrPercent>
-                        <Value>10</Value>
+                        <Value>5</Value>
                         <Percental>1</Percental>
                       </ValueOrPercent>
                     </Prestige>
@@ -86,7 +86,7 @@
                   <IsStackable>0</IsStackable> <!-- Ignored as this is an AreaBuff -->
                 </Buff>
                 <AreaPassiveTradeUpgrade>
-			            <PassiveTradeProfitModifier>10</PassiveTradeProfitModifier>
+			            <PassiveTradeProfitModifier>15</PassiveTradeProfitModifier>
 		            </AreaPassiveTradeUpgrade>
                 <AreaMaintenanceUpgrade/>
                 <AreaFestivalAttributeUpgrade/>

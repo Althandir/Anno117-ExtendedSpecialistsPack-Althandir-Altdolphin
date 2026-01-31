@@ -20,7 +20,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AdditionalGoodsAllExtractors-C-Boost -->
+  <!-- Specialist ProductivityAllExtractors-C-Boost -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -121,7 +121,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaUpgradeForestries-C -->
+  <!-- Specialist ProdAreaUpgradeForestries-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -233,7 +233,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ArmsToCustodes-E -->
+  <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -249,7 +249,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E -->
+  <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -281,7 +281,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CisternToVigilesMedici-E -->
+  <!-- Specialist AreaEffect-ChainedCisternToVigilesMedici-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -870,7 +870,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Marcus Favor, der Geliebte Publikumsfavorit</Text>
+          <Text>Marcia Favor, die Geliebte Publikumsfavoritin</Text>
           <LineId>1600000148</LineId> <!-- <GUID>1600000148</GUID> -->
       </Text>
       <!-- Description -->
@@ -993,7 +993,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CelcicTownHallNeedRewardMoneyIncConsumptionRoast-R -->
+  <!-- Specialist AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1041,7 +1041,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-TheaterNeedRewardIncomeIncConsumptionTogas-R -->
+  <!-- Specialist AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1110,7 +1110,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Polsterer-Ausbilder</Text>
+          <Text>Polsterer-Ausbilderin</Text>
           <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
       </Text>
       <!-- Description -->
@@ -1371,7 +1371,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Lehrt experimentelles Handwerk, wodurch die Menschen ihren Glauben an die Götter verlieren.</Text>
+          <Text>Lehrt experimentelles Handwerk, sodass die Bürger ihren Glauben an die Götter verlieren. Hinweis: Zusatzwaren werden von allen Produktionsketten in Straßenreichweite erzeugt.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. Hinweis: Der Slot-Effekt gilt die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
+          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. Hinweis: Der Effekt gilt die Villa und alle Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1451,7 +1451,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt gilt für Prachtbauten, Officia und Villen.</Text>
+          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt und Trefferpunkte gelten für Prachtbauten, Officia und Villen.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>
@@ -1521,7 +1521,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByProductivityMaintenance-R -->
+  <!-- Specialist AreaEffect-CookhousesPrestigeHappinessByMaintenance-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1537,7 +1537,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-CelticSportsgroundNeedRewardIncomeIncConsumptionTunicTrousers-E -->
+  <!-- Specialist AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -1729,19 +1729,84 @@
     </ModOp>
   </Group>
 
-  <!-- ############################################################### -->
-  <!-- Specialist Placeholder -->
+  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>MissingID</LineId> <!-- <GUID>MissingID</GUID> -->
+          <Text>Vielversprechender Liberti</Text>
+          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>MissingID</LineId> 
+          <Text>Hat Hart für seinen Erfolg gearbeitet.</Text>
+          <LineId>1600000318</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalMarbleAllQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Marmoria, Marmor Geologin</Text>
+          <LineId>1600000319</LineId> <!-- <GUID>1600000319</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Nesitzt einen sechsten Sinn für Marmor.</Text>
+          <LineId>1600000320</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+    
+  <!-- Specialist ModuleUpgradeSandarak-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aurelia Sandaracina Furiosa</Text>
+          <LineId>1600000321</LineId> <!-- <GUID>1600000321</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Wird wütend, wenn die Sandarak-Bäume nicht perfekt in Form sind.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllPitsAndQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassia Ferrata, Grubenvorarbeiterin</Text>
+          <LineId>1600000323</LineId> <!-- <GUID>1600000323</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Lässt die Erde allein durch ihre Anwesenheit erzittern.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllFisheries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucius Amnius Piscator, Sprechender Fischer</Text>
+          <LineId>1600000325</LineId> <!-- <GUID>1600000325</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Kann mit den Fischen sprechen.</Text>
+          <LineId>1600000326</LineId> 
       </Text>
     </ModOp>
   </Group>

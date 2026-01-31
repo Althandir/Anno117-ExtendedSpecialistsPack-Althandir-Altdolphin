@@ -90,7 +90,12 @@
                 <Text>
                     <OasisId>1600000234</OasisId>
                 </Text>
-                <HealthUpgrade/>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>100</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000236</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
@@ -132,7 +137,12 @@
                     <Name>Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L ShipBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_female_SpecialistGuesthouses.png</IconFilename>
                 </Standard>
-                <HealthUpgrade/>
+                <HealthUpgrade>
+                  <BaseHealthUpgrade>
+                    <Value>150</Value>
+                    <Percental>1</Percental>
+                  </BaseHealthUpgrade>
+                </HealthUpgrade>
                 <VehicleUpgrade/>
                 <TradeShipUpgrade/>
                 <Text>

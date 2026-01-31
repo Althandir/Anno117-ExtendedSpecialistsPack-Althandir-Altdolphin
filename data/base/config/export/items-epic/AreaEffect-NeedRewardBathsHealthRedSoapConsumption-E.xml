@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000044</GUID>
-            <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E</Name>
+            <Name>Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E</Name>
             <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
             <InfoDescription>1600000045</InfoDescription>
           </Standard>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000045</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>
@@ -82,7 +82,7 @@
                     <AdditionalNeedAttributes>
                         <Population>
                             <AmountOrPercent>
-                            <Value>0.5</Value>
+                            <Value>0</Value>
                             <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
@@ -114,7 +114,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000046</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E FunctionalEffect</Name>
+                    <Name>Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -146,7 +146,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000047</GUID>
-                    <Name>Specialist AreaEffect-BathsNeedRewardHealthRedSoapConsumption-E FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/roman_male_bathSoapMaster.png</IconFilename>
                 </Standard>
                 <Text>

@@ -148,7 +148,7 @@
                         </Money>
                         <Prestige>
                         <AmountOrPercent>
-                            <Value>1</Value>
+                            <Value>0.5</Value>
                             <Percental>0</Percental>
                         </AmountOrPercent>
                         </Prestige>
