@@ -1729,19 +1729,84 @@
     </ModOp>
   </Group>
   
-  <!-- ############################################################### -->
-  <!-- Specialist Placeholder -->
+  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>0</LineId> <!-- <GUID>0</GUID> -->
+          <Text>Promising Liberti</Text>
+          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>0</LineId> 
+          <Text>Worked hard for his success.</Text>
+          <LineId>1600000318</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalMarbleAllQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Marmoria, Marble Geologist</Text>
+          <LineId>1600000319</LineId> <!-- <GUID>1600000319</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Has a keen sense for marble.</Text>
+          <LineId>1600000320</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+    
+  <!-- Specialist ModuleUpgradeSandarak-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aurelia Sandaracina Furiosa</Text>
+          <LineId>1600000321</LineId> <!-- <GUID>1600000321</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Gets angry if the sandarak trees aren't perfectly in shape.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllPitsAndQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassia Ferrata, Pit Foreman</Text>
+          <LineId>1600000323</LineId> <!-- <GUID>1600000323</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Makes the earth tremble by her mere presence.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllFisheries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucius Amnius Piscator, Talking Fisherman</Text>
+          <LineId>1600000325</LineId> <!-- <GUID>1600000325</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Can communicate with the Fish.</Text>
+          <LineId>1600000326</LineId> 
       </Text>
     </ModOp>
   </Group>

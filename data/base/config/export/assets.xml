@@ -18,7 +18,6 @@
     <!--
     <Include File="testing/specialists-test.xml" />
     <Include File="testing/pools-test.xml" />
-    
     <Include File="testing/pools-forceSpawnTesting.xml"/> 
     -->
   </Group>
@@ -37,9 +36,12 @@
     <Include File="items-common/CaptianMoreSlots-C.xml" />
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
     <Include File="items-common/AreaUpgradePonies-C.xml" />
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
-    <Include File="items-common/OrnamentRopeShip-C.xml" />
+    
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
+    <Include File="items-common/OrnamentRopeShip-C.xml" />
+
+    <Include File="items-common/R02ResidencesAdditionalWorkforceR01-C.xml" />
+    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
@@ -87,6 +89,7 @@
   <Group>
     <Include File="items-epic/AdditionalCocklesRomanCelticSeashell-E.xml" />
     <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
+    <Include File="items-epic/AdditionalMarbleAllQuarries-E.xml" />
     <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
     <Include File="items-epic/AdditionalTinAllMines-E.xml" />
     <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
@@ -118,16 +121,20 @@
     <Include File="items-epic/CaptianMoreSlots-E.xml" />
 
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
+
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
     <Include File="items-epic/ModuleUpgradePastures-E.xml" />
-    
+    <Include File="items-epic/ModuleUpgradeSandarak-E.xml" />
+
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
     <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
     <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
     <Include File="items-epic/ProductivityAllDressers-E.xml" />
+    <Include File="items-epic/ProductivityAllFisheries-E.xml" />
+    <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />

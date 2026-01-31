@@ -1110,7 +1110,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Polsterer-Ausbilder</Text>
+          <Text>Polsterer-Ausbilderin</Text>
           <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
       </Text>
       <!-- Description -->
@@ -1729,19 +1729,84 @@
     </ModOp>
   </Group>
 
-  <!-- ############################################################### -->
-  <!-- Specialist Placeholder -->
+  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>MissingID</LineId> <!-- <GUID>MissingID</GUID> -->
+          <Text>Vielversprechender Liberti</Text>
+          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>[PH]</Text>
-          <LineId>MissingID</LineId> 
+          <Text>Hat Hart für seinen Erfolg gearbeitet.</Text>
+          <LineId>1600000318</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AdditionalMarbleAllQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucia Marmoria, Marmor Geologin</Text>
+          <LineId>1600000319</LineId> <!-- <GUID>1600000319</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Nesitzt einen sechsten Sinn für Marmor.</Text>
+          <LineId>1600000320</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+    
+  <!-- Specialist ModuleUpgradeSandarak-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aurelia Sandaracina Furiosa</Text>
+          <LineId>1600000321</LineId> <!-- <GUID>1600000321</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Wird wütend, wenn die Sandarak-Bäume nicht perfekt in Form sind.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllPitsAndQuarries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Cassia Ferrata, Grubenvorarbeiterin</Text>
+          <LineId>1600000323</LineId> <!-- <GUID>1600000323</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Lässt die Erde allein durch ihre Anwesenheit erzittern.</Text>
+          <LineId>1600000322</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+      
+  <!-- Specialist ProductivityAllFisheries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Lucius Amnius Piscator, Sprechender Fischer</Text>
+          <LineId>1600000325</LineId> <!-- <GUID>1600000325</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Kann mit den Fischen sprechen.</Text>
+          <LineId>1600000326</LineId> 
       </Text>
     </ModOp>
   </Group>
