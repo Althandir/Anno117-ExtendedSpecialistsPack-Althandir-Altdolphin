@@ -1,78 +1,87 @@
 # Extended Specialists Pack by Althandir / Altdolphin - README
 
 # Mod.io Description Text:
-This mods adds a variety of Specialists into the game. I hope you will find them lso as insteresting & enjoyable.
-
-Initially started as I was missing the "Service Range Increase für Public Services" Items from Anno 1800 this mod went a bit out of scope and everything went all over the place :D. 
+This mods adds a variety of Productivity, PublicService Range Effect, AreaEffect-Specialists into the game. Inclusive Icons and Descriptions.
 
 Current Features: (as of 01.02.2026)
+Adds:
+14 new Common Specialists
+34 new Rare Specialists
+49 new Epic Specialists
+13 new Legendary Specialists
 
-Adds: 
-- 14 new Common Specialists
-- 34 new Rare Specialists
-- 49 new Epic Specialists
-- 13 new Legendary Specialists
-
-- All Specialists are added to Trader Specialists Pool
-- All Specialists can also drop from Raider Ships
-
+All Specialists are added to Trader Specialists Pool
+All Specialists can also drop from Raider Ships
+All Specialists can be aquired by some Contracts (from Traders)
 Example Features:
-- Islandwide EffectRange Specialists for Public Services and Marvels 
-- Resolver Range Upgrade Specialists for Institutions
-- Productivity Specialists:
-  - Many Productivity Specialists for various Buildingtypes (e.g. Kitchens, Upholsterers, etc...)
-  - ModuleUpgrade Items for your Farms & Plantations & Pastures
-  - Some Additional Goods & ReplaceInput Specialists 
-  - Productivity Increase based on higher Fuel Consumption
-- Many AreaEffect Specialists 
-  - Mostly classic AreaEffect Additions for Public Services
-    - e.g. Specialists based on current Deities for the Temple - With Boosted Variant
-  - Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range)
-- Chained AreaEffects Specialists (experimental)
-  - One for Armories -> Custodia
-  - One for Cisterns -> Vigiles & Medicus
-- 2x Specialists increasing the amount of Specialists useable in your Villa & Officium
-  - Chained into requiring a Marvel (Forum/Bath/Sacred Grove/Barrow) in Range
-  - Can Increase total Slot Amount of Officia up to 6
-- New Captians  
-  - 3 of them playing around with the Slot Amount of Ships
-  - The mighty ROPE to prevent your Ships from running away. Or a cheaper way to use a ship as decoration in your harbor.
-- Workforce Specialists
-  - e.g. Higher Population Tier can generate Workforce for lower Stratum at a Cost
-- (Chained) Need Reward Modifying Specialists 
-  - Some are chained in requiring a Public Service in Range to enable their effect
-  - Consumption Decrease / Increase Specialists
+Islandwide EffectRange Specialists for Public Services and Marvels 
+Resolver Range Upgrade Specialists for Institutions
+Productivity Specialists:
+Many Productivity Specialists for various Buildingtypes (e.g. Kitchens, Upholsterers, etc...)
+ModuleUpgrade Items for your Farms & Plantations & Pastures
+Some Additional Goods & ReplaceInput Specialists 
+Productivity Increase based on higher Fuel Consumption
+Many AreaEffect Specialists 
+Mostly classic AreaEffect Additions for Public Services
+e.g. Specialists based on current Deities for the Temple - With Boosted Variant (experimental)
+Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range)
+Chained AreaEffects Specialists (experimental)
+One for Armories -> Custodia
+One for Cisterns -> Vigiles & Medicus
+2 Specialists increasing the amount of Specialists useable in your Villa & Officium
+Chained into requiring a Marvel (Forum/Bath/Sacred Grove/Barrow) in Range
+Can Increase total Slot Amount of Officia up to 6
+New Captians  
+3 of them playing around with the Slot Amount of Ships
+The mighty "Rope" to prevent your Ships from running away. Or a cheaper way to use a ship as decoration in your harbor.
+Workforce Specialists
+e.g. Higher Population Tier can generate Workforce for lower Stratum at a Cost
+(Chained) Need Reward Modifying Specialists 
+Some are chained in requiring a Public Service in Range to enable their effect
+Consumption Decrease / Increase Specialists
 
-- Warehouse / Depot Capacity Upgrade Specialists
-- 2 Fancy Animals
+Warehouse / Depot Capacity Upgrade Specialists
+2 Fancy Animals
 
-- Many new Icons created by my non existing art skills (reused original Icons and remixed them with some Icons from 117 and 1800)
+Many new Icons created by my non existing art skills (reused original Icons and remixed them with some Icons from 117 and 1800)
 
-- Translations into: 
-  - DE 
-  - EN
 
-  - Every other Language should Fallback to EN 
 
+
+Translations into: 
+DE 
+EN
+Every other Language should Fallback to EN
+
+Notes from Creator:
 Some of the Items might be unbalanced so reach out to me if some Items feel to strong / weak as this is my first mod ever. :3
+Initially started as I was missing the "Service Range Increase für Public Services" Items from Anno 1800 this mod went a bit out of scope and everything went all over the place :D.
+Therefore many Specialists might feel out of place or without clear direction but I think it would be sad to delete them to I left them in. Again a result of me being unexpericented :3. 
 
-# How to Install: 
-
+How to Install:
 Download this mod via mod.io Download Button.
 Unpack the zip file into the Anno 117 mods directory:
-- Either "<user documents>/Anno 117 - Pax Romana/mods/" 
+- Either "<user documents>/Anno 117 - Pax Romana/mods/"
 - "<installation dir>/Anno 117 - Pax Romana/mods/"
 
-# Recommended other Mods:
-Increased Trader Item Slots (Taludas) - https://mod.io/g/anno-117-pax-romana/m/increased-trader-item-slots#description
-The perfect fertilities pack (Hier0nimus) - https://mod.io/g/anno-117-pax-romana/m/the-perfect-fertilities-pack#description
+Recommended other Mods:
+Increased Trader Item Slots (Taludas) - Link to Mod
+Increases Chance of getting the new Specialists due to having  a bigger offer pool from the Traders
+The perfect fertilities pack (Hier0nimus) - Link to Mod
+Reason why I didn't add any fertilites Specialists ;)
 
-# How to Uninstall:
+How to Uninstall:
+Clean Uninstall: 
+Remove all Specialists added by this mod by selling them / throwing them overboard
+Especially from Ships (Otherwise your Ships might have an unclickable unremovable Item in their Cargoslot)
 
 Remove the extracted Folder from your Anno 117 mods directory
+Unclean Uninstall: 
+Remove the extracted Folder from your Anno 117 mods directory
+Destroy Ships / Buildings / Islands still affected by removed Items
 
-# If you want to contibute with translations feel free to reach out to me on Discord
-
-## Known Issues
-- GUID 160.000.000 points to "Specialist ProductivityAllExtractors-C BuildingBuff" 
-- Manx RewardPool (Trader) contains Voada RewardPool
+Known Issues
+Islandwide Specialists can always stack 
+This is due to an IslandBuff ignoring the <IsStackable>0</IsStackable>
+Non-legendary Boosted Specialists don't show their Boost Hint when Tech for showing hints is researched 
+Seems to be a Code Thing as Boost Hints are only valid for Legendary - But the Boost Hint and "Happy" is still shown on non-Legendary if the Condition is fullfilled. The Boostes Effect still works. 
