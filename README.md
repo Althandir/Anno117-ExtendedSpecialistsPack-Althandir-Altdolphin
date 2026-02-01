@@ -5,7 +5,7 @@ This mods adds a variety of Specialists into the game. I hope you will find them
 
 Initially started as I was missing the "Service Range Increase für Public Services" Items from Anno 1800 this mod went a bit out of scope and everything went all over the place :D. 
 
-Current Features: (as of 24.01.2026)
+Current Features: (as of 01.02.2026)
 
 Adds: 
 - 14 new Common Specialists
@@ -20,11 +20,11 @@ Example Features:
 - Islandwide EffectRange Specialists for Public Services and Marvels 
 - Resolver Range Upgrade Specialists for Institutions
 - Productivity Specialists:
-  - Many Productivity Specialists for various Buildingtypes (e.g. Kitchens, MaterialProducers, etc...)
+  - Many Productivity Specialists for various Buildingtypes (e.g. Kitchens, Upholsterers, etc...)
   - ModuleUpgrade Items for your Farms & Plantations & Pastures
   - Some Additional Goods & ReplaceInput Specialists 
   - Productivity Increase based on higher Fuel Consumption
-- Many new AreaEffect Specialists 
+- Many AreaEffect Specialists 
   - Mostly classic AreaEffect Additions for Public Services
     - e.g. Specialists based on current Deities for the Temple - With Boosted Variant
   - Other more complex AreaEffects (e.g. Additional Goods for all Productions when Grammaticus is in Range)
@@ -52,7 +52,7 @@ Example Features:
   - DE 
   - EN
 
-  - Every other Language should Fallback to EN
+  - Every other Language should Fallback to EN 
 
 Some of the Items might be unbalanced so reach out to me if some Items feel to strong / weak as this is my first mod ever. :3
 
@@ -60,7 +60,8 @@ Some of the Items might be unbalanced so reach out to me if some Items feel to s
 
 Download this mod via mod.io Download Button.
 Unpack the zip file into the Anno 117 mods directory:
-– Either "<user documents>/Anno 117 - Pax Romana/mods/" or "<installation dir>/Anno 117 - Pax Romana/mods/"
+- Either "<user documents>/Anno 117 - Pax Romana/mods/" 
+- "<installation dir>/Anno 117 - Pax Romana/mods/"
 
 # Recommended other Mods:
 Increased Trader Item Slots (Taludas) - https://mod.io/g/anno-117-pax-romana/m/increased-trader-item-slots#description
@@ -74,4 +75,4 @@ Remove the extracted Folder from your Anno 117 mods directory
 
 ## Known Issues
 - GUID 160.000.000 points to "Specialist ProductivityAllExtractors-C BuildingBuff" 
-- Manx RewardPool (Trader) contains Voada RewardList
+- Manx RewardPool (Trader) contains Voada RewardPool
