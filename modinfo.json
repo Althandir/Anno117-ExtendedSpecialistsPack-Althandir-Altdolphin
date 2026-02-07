@@ -1,6 +1,6 @@
 {
   "ModID": "extended-specialists-pack-althandir-altdolphin",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -19,7 +19,7 @@
   "ModName": {
     "English": "Extended Specialists Pack by Althandir / Altdolphin",
     "German": "Erweitertes Spezialisten Pack von Althandir / Altdolphin",
-    "French": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
+    "French": "Pack Spécialistes Étendu par Althandir / Altdolphin",
     "Italian": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
     "Polish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
     "Spanish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
@@ -32,7 +32,7 @@
   "Description": {
     "English": "Adds new different Specialists to Anno 117.",
     "German": "Fügt neue verschiedene Spezialisten zu Anno 117 hinzu.",
-    "French": "[EN] Adds new different Specialists to Anno 117.",
+    "French": "Ajoute de nouveaux spécialistes à Anno 117.",
     "Italian": "[EN] Adds new different Specialists to Anno 117.",
     "Polish": "[EN] Adds new different Specialists to Anno 117.",
     "Spanish": "[EN] Adds new different Specialists to Anno 117.",
