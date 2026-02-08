@@ -291,7 +291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range. Maintenance will be only increased for the cistern.</Text>
+          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range. </Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
