@@ -107,7 +107,7 @@
                 </Standard>
                 <Effect>
                     <EffectScope>ObjectsInArea</EffectScope>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
                             <GUID>1600000247</GUID>
@@ -149,7 +149,7 @@
                     <OasisId>1600000244</OasisId>
                 </Text>
                 <Buff>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                     <IsStackable>0</IsStackable>
                 </Buff>
                 <MovementUpgrade/>
