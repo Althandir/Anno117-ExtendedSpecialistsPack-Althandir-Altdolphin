@@ -227,7 +227,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." Hint: This Effect can Stack.</Text>
+          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." &#xD;Hint: This Effect can Stack.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -243,7 +243,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reroutes local armaments for the Custodes. Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
+          <Text>Reroutes local armaments for the Custodes. &#xD;Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
@@ -259,7 +259,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>By using soap in big pools of water we can clean so many people at once. Hint: The Effects are applying to every building in Street Range.</Text>
+          <Text>By using soap in big pools of water we can clean so many people at once. &#xD;Hint: The Effects are applying to every building in Street Range.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -291,7 +291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range.</Text>
+          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. &#xD;Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range.</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
@@ -843,7 +843,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. Hint: This Effect can Stack.</Text>
+          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. &#xD;Hint: This Effect can Stack.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -955,7 +955,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Tries his best to optimize processes. Hint: This Effect can Stack.</Text>
+          <Text>Tries his best to optimize processes. &#xD;Hint: This Effect can Stack.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>
@@ -1051,7 +1051,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses the theater stage to present his first toga collection. Hint: The effect applies to all residential buildings within Street Range of the theater.</Text>
+          <Text>Uses the theater stage to present his first toga collection. &#xD;Hint: The effect applies to all residential buildings within Street Range of the theater.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1291,7 +1291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Triggers the heart of roman Craftsmanship and Trade. Hint I: Productivity applies to All Production Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
+          <Text>Triggers the heart of roman Craftsmanship and Trade. &#xD;Hint I: Productivity applies to All Production Buildings in Street Range. &#xD;Hint II: In Albion, the temple counts as a forum.</Text>
           <LineId>1600000217</LineId> 
       </Text>
     </ModOp>
@@ -1307,7 +1307,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Manages workers for greater efficiency and organizes them to the best suited profession. Hint I: Workforce Modifier applies to All Buildings in Street Range. Hint II: In Albion, the temple counts as a forum.</Text>
+          <Text>Manages workers for greater efficiency and organizes them to the best suited profession. &#xD;Hint I: Workforce Modifier applies to All Buildings in Street Range. &#xD;Hint II: In Albion, the temple counts as a forum.</Text>
           <LineId>1600000221</LineId> 
       </Text>
     </ModOp>
@@ -1371,7 +1371,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Teaches experimental craftmanship which causes citizens to stop trusting the gods. Hint: Additional Goods are created by all Productionchains in Street Range.</Text>
+          <Text>Teaches experimental craftmanship which causes citizens to stop trusting the gods. &#xD;Hint: Additional Goods are created by all Productionchains in Street Range.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expert in caring for specialists from everywhere. Hint: Effect applies to the Villa and all Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
+          <Text>Expert in caring for specialists from everywhere. &#xD;Hint: Effect applies to the Villa and all Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1451,7 +1451,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Writes invitations for specialists from all over the known realm. Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost and Health are applied to Marvel, Officia and Villa.</Text>
+          <Text>Writes invitations for specialists from all over the known realm. &#xD;Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost and Health are applied to Marvel, Officia and Villa.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>
@@ -1547,7 +1547,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready. Hint: The effect applies to all residential buildings within Street Range of the Sportsground.</Text>
+          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready. &#xD;Hint: The effect applies to all residential buildings within Street Range of the Sportsground.</Text>
           <LineId>1600000263</LineId> 
       </Text>
     </ModOp>
@@ -1691,7 +1691,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Fulfills delivery orders for residents in the surrounding area. Hint: This area effect only affects residential buildings around the production building, but can stack.</Text>
+          <Text>Fulfills delivery orders for residents in the surrounding area. &#xD;Hint: This area effect only affects residential buildings around the production building, but can stack.</Text>
           <LineId>1600000285</LineId> 
       </Text>
     </ModOp>

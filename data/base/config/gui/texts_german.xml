@@ -227,7 +227,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Verwendet Denarii um bürokratische Prozesse zu optimieren. Dabei wandert die ein oder andere Münze woanders hin. „Bitte ziehen Sie nun eine Nummer und warten Sie, bis wir uns bei Ihnen melden.“ Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Verwendet Denarii um bürokratische Prozesse zu optimieren. Dabei wandert die ein oder andere Münze woanders hin. „Bitte ziehen Sie nun eine Nummer und warten Sie, bis wir uns bei Ihnen melden.“ &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -243,7 +243,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Leitet lokale Rüstungen für mehr Custodes um. Hinweis: Waffenkammern in Reichweite wenden den Flächeneffekt auf alle Custodia in ihrer Reichweite an.</Text>
+          <Text>Leitet lokale Rüstungen für mehr Custodes um. &#xD;Hinweis: Waffenkammern in Reichweite wenden den Flächeneffekt auf alle Custodia in ihrer Reichweite an.</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
@@ -259,7 +259,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Durch die Verwendung von Seife in großen Wasserbecken können wir viele Menschen gleichzeitig reinigen. Hinweis: Die Effekte gelten für jedes Gebäude in Straßenreichweite.</Text>
+          <Text>Durch die Verwendung von Seife in großen Wasserbecken können wir viele Menschen gleichzeitig reinigen. &#xD;Hinweis: Die Effekte gelten für jedes Gebäude in Straßenreichweite.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -291,7 +291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Zeigt die Bedeutung von Wassersystemen auf, indem eine Wasserversorgung für Medici und Vigiles geschaffen wird. Hinweis: Zisternen im Radius wenden den Flächeneffekt auf alle Medici und Vigiles in ihrer Straßenreichweite an.</Text>
+          <Text>Zeigt die Bedeutung von Wassersystemen auf, indem eine Wasserversorgung für Medici und Vigiles geschaffen wird. &#xD;Hinweis: Zisternen im Radius wenden den Flächeneffekt auf alle Medici und Vigiles in ihrer Straßenreichweite an.</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
@@ -662,7 +662,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat immer alle Arten von Stoffen auf Lager. Hinweis: Polsterer = Handwerksstube</Text>
+          <Text>Hat immer alle Arten von Stoffen auf Lager. &#xD;Hinweis: Polsterer = Handwerksstube</Text>
           <LineId>1600000119</LineId> 
       </Text>
     </ModOp>
@@ -678,7 +678,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Weiß, wie man mit Flüssigkeiten und Gefäßen umgeht. Hinweis: Schankwirte = Manufakturen</Text>
+          <Text>Weiß, wie man mit Flüssigkeiten und Gefäßen umgeht. &#xD;Hinweis: Schankwirte = Manufakturen</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -843,7 +843,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architekt des bürokratischen Systems und Meister darin, alles für jeden zu regeln. Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Architekt des bürokratischen Systems und Meister darin, alles für jeden zu regeln. &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -955,7 +955,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Versucht sein Bestes, um Prozesse zu optimieren. Hinweis: Dieser Effekt ist stapelbar.</Text>
+          <Text>Versucht sein Bestes, um Prozesse zu optimieren. &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>
@@ -1003,7 +1003,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Brät den Braten sehr schnell... leider nicht lang genug. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Ältestensrats.</Text>
+          <Text>Brät den Braten sehr schnell... leider nicht lang genug. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Ältestensrats.</Text>
           <LineId>1600000171</LineId> 
       </Text>
     </ModOp>
@@ -1051,7 +1051,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen. Hinweis: Der Effekt wirkt auf alle Wohnhäuser in Straßenreichweite des Theaters.</Text>
+          <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen. &#xD;Hinweis: Der Effekt wirkt auf alle Wohnhäuser in Straßenreichweite des Theaters.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1115,7 +1115,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Vermittelt den Umgang mit Nadelwerkzeugen, um Arbeitsausfälle zu vermeiden. Hinweis: Polsterer = Handwerksstube</Text>
+          <Text>Vermittelt den Umgang mit Nadelwerkzeugen, um Arbeitsausfälle zu vermeiden. &#xD;Hinweis: Polsterer = Handwerksstube</Text>
           <LineId>1600000195</LineId> 
       </Text>
     </ModOp>
@@ -1291,7 +1291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Entfacht das Herzstück römischer Handwerkskunst und Handels. Hinweis I: Der Produktivitätbonus gilt für alle Produktionsgebäude im Straßenreichweite. Hinweis II: In Albion zählt der Tempel als Forum.</Text>
+          <Text>Entfacht das Herzstück römischer Handwerkskunst und Handels. &#xD;Hinweis I: Der Produktivitätbonus gilt für alle Produktionsgebäude im Straßenreichweite. &#xD;Hinweis II: In Albion zählt der Tempel als Forum.</Text>
           <LineId>1600000217</LineId> 
       </Text>
     </ModOp>
@@ -1307,7 +1307,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Verwaltet Arbeiter für mehr Effizienz und ordnet sie den am besten geeigneten Berufen zu. Hinweis I: Der Arbeitskräfte-Modifikator gilt für alle Gebäude im Straßenreichweite. Hinweis II: In Albion zählt der Tempel als Forum.</Text>
+          <Text>Verwaltet Arbeiter für mehr Effizienz und ordnet sie den am besten geeigneten Berufen zu. &#xD;Hinweis I: Der Arbeitskräfte-Modifikator gilt für alle Gebäude im Straßenreichweite. &#xD;Hinweis II: In Albion zählt der Tempel als Forum.</Text>
           <LineId>1600000221</LineId> 
       </Text>
     </ModOp>
@@ -1371,7 +1371,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Lehrt experimentelles Handwerk, sodass die Bürger ihren Glauben an die Götter verlieren. Hinweis: Zusatzwaren werden von allen Produktionsketten in Straßenreichweite erzeugt.</Text>
+          <Text>Lehrt experimentelles Handwerk, sodass die Bürger ihren Glauben an die Götter verlieren. &#xD;Hinweis: Zusatzwaren werden von allen Produktionsketten in Straßenreichweite erzeugt.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. Hinweis: Der Effekt gilt die Villa und alle Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
+          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. &#xD;Hinweis: Der Effekt gilt die Villa und alle Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1451,7 +1451,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt und Trefferpunkte gelten für Prachtbauten, Officia und Villen.</Text>
+          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. &#xD;Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt und Trefferpunkte gelten für Prachtbauten, Officia und Villen.</Text>
           <LineId>1600000245</LineId> 
       </Text>
     </ModOp>
@@ -1547,7 +1547,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte extra Tuniken und Hosten parat haben. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite der Wettkampfwiese.</Text>
+          <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte extra Tuniken und Hosten parat haben. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite der Wettkampfwiese.</Text>
           <LineId>1600000263</LineId> 
       </Text>
     </ModOp>
@@ -1691,7 +1691,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Erfüllt Lieferaufträge für die Bewohner in der Umgebung. Hinweis: Dieser Bereichseffekt wirkt nur auf Wohngebäude um das Produktionsgebäude herum, kann sich dafür stapeln.</Text>
+          <Text>Erfüllt Lieferaufträge für die Bewohner in der Umgebung. &#xD;Hinweis: Dieser Bereichseffekt wirkt nur auf Wohngebäude um das Produktionsgebäude herum, kann sich dafür stapeln.</Text>
           <LineId>1600000285</LineId> 
       </Text>
     </ModOp>
@@ -1723,7 +1723,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.</Text>
+          <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.</Text>
           <LineId>1600000314</LineId> 
       </Text>
     </ModOp>

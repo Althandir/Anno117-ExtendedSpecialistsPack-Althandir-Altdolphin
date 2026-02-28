@@ -227,7 +227,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Utilise des deniers pour optimiser les processus bureaucratiques. Au cours du processus, une ou deux pièces finissent ailleurs. "Veuillez prendre un numéro et attendre que nous vous appelions." Indice : cet effet peut se cumuler.</Text>
+          <Text>Utilise des deniers pour optimiser les processus bureaucratiques. Au cours du processus, une ou deux pièces finissent ailleurs. "Veuillez prendre un numéro et attendre que nous vous appelions." &#xD;Indice: cet effet peut se cumuler.</Text>
           <LineId>1600000038</LineId> 
       </Text>
     </ModOp>
@@ -243,7 +243,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Réoriente les armements locaux. Indice : les armureries à portée appliquent l'effet de zone à toutes les Custodia situées dans leur rayon d'action.</Text>
+          <Text>Réoriente les armements locaux. &#xD;Indice: les armureries à portée appliquent l'effet de zone à toutes les Custodia situées dans leur rayon d'action.</Text>
           <LineId>1600000041</LineId> 
       </Text>
     </ModOp>
@@ -259,7 +259,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nettoie de nombreuses personnes en utilisant de grands bassins. Indice: les effets s'appliquent à tous les bâtiments situés dans la zone de la rue.</Text>
+          <Text>Nettoie de nombreuses personnes en utilisant de grands bassins. &#xD;Indice: les effets s'appliquent à tous les bâtiments situés dans la zone de la rue.</Text>
           <LineId>1600000045</LineId> 
       </Text>
     </ModOp>
@@ -291,7 +291,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Montre l'importance des systèmes d'approvisionnement en eau en créant des chaînes d'approvisionnement en eau pour les Médicis et les Vigiles. Indice: les citernes dans la zone d'effet appliquent l'effet de zone à tous les Médicis et Vigiles dans leur zone d'effet.</Text>
+          <Text>Montre l'importance des systèmes d'approvisionnement en eau en créant des chaînes d'approvisionnement en eau pour les Médicis et les Vigiles. &#xD;Indice: les citernes dans la zone d'effet appliquent l'effet de zone à tous les Médicis et Vigiles dans leur zone d'effet.</Text>
           <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
@@ -843,7 +843,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Architecte du système bureaucratique, il est passé maître dans l'art de tout régler pour tout le monde. Indice: cet effet peut se cumuler.</Text>
+          <Text>Architecte du système bureaucratique, il est passé maître dans l'art de tout régler pour tout le monde. &#xD;Indice: cet effet peut se cumuler.</Text>
           <LineId>1600000142</LineId> 
       </Text>
     </ModOp>
@@ -955,7 +955,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Fait de son mieux pour optimiser les processus. Indice: cet effet peut se cumuler.</Text>
+          <Text>Fait de son mieux pour optimiser les processus. &#xD;Indice: cet effet peut se cumuler.</Text>
           <LineId>1600000161</LineId> 
       </Text>
     </ModOp>
@@ -1051,7 +1051,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Utilise la scène du théâtre pour présenter sa première collection de toges. Indice: l'effet s'applique à tous les bâtiments résidentiels situés dans le rayon d'action du théâtre.</Text>
+          <Text>Utilise la scène du théâtre pour présenter sa première collection de toges. &#xD;Indice: l'effet s'applique à tous les bâtiments résidentiels situés dans le rayon d'action du théâtre.</Text>
           <LineId>1600000183</LineId> 
       </Text>
     </ModOp>
@@ -1371,7 +1371,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enseigne l'artisanat expérimental qui fait perdre confiance aux citoyens envers les dieux. Indice : les biens supplémentaires sont créés par toutes les chaînes de production dans la zone de rue.</Text>
+          <Text>Enseigne l'artisanat expérimental qui fait perdre confiance aux citoyens envers les dieux. &#xD;Indice: les biens supplémentaires sont créés par toutes les chaînes de production dans la zone de rue.</Text>
           <LineId>1600000231</LineId> 
       </Text>
     </ModOp>
@@ -1387,7 +1387,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Expert dans la prise en charge des spécialistes venus de partout. Indice : l'effet s'applique à la villa et à tous les officiels de l'île, mais nécessite la présence d'une merveille dans le rayon d'action de ce spécialiste.</Text>
+          <Text>Expert dans la prise en charge des spécialistes venus de partout. &#xD;Indice: l'effet s'applique à la villa et à tous les officiels de l'île, mais nécessite la présence d'une merveille dans le rayon d'action de ce spécialiste.</Text>
           <LineId>1600000235</LineId> 
       </Text>
     </ModOp>
@@ -1547,7 +1547,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il va vraiment faire transpirer les gens. Tout le monde devrait prévoir des tuniques et des robes supplémentaires. Indice : l'effet s'applique à tous les bâtiments résidentiels situés dans le périmètre de la rue du terrain de sport.</Text>
+          <Text>Il va vraiment faire transpirer les gens. Tout le monde devrait prévoir des tuniques et des robes supplémentaires. &#xD;Indice: l'effet s'applique à tous les bâtiments résidentiels situés dans le périmètre de la rue du terrain de sport.</Text>
           <LineId>1600000263</LineId> 
       </Text>
     </ModOp>
@@ -1691,7 +1691,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Réalise les commandes de livraison pour les résidents des environs. Indice : cet effet de zone n'affecte que les bâtiments résidentiels situés autour du bâtiment de production, mais peut se cumuler.</Text>
+          <Text>Réalise les commandes de livraison pour les résidents des environs. &#xD;Indice: cet effet de zone n'affecte que les bâtiments résidentiels situés autour du bâtiment de production, mais peut se cumuler.</Text>
           <LineId>1600000285</LineId> 
       </Text>
     </ModOp>
