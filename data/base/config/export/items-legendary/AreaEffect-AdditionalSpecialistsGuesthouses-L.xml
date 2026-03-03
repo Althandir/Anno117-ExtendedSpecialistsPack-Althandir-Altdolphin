@@ -101,7 +101,7 @@
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade/>
@@ -149,7 +149,7 @@
                     <OasisId>1600000234</OasisId>
                 </Text>
                 <Buff>
-                    <SourceCategory>Item</SourceCategory>
+                    <SourceCategory>Adjacency</SourceCategory>
                     <IsStackable>0</IsStackable>
                 </Buff>
                 <MovementUpgrade/>
