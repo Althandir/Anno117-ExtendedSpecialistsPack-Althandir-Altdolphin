@@ -9,9 +9,6 @@
     <Group>
       <ModOp Type="add" GUID="83450,83462,83466,83470,83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
         <Item>
-            <ItemLink>1600000282</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000037</ItemLink>
         </Item>
         <Item>
@@ -23,7 +20,6 @@
         <Item>
             <ItemLink>1600000048</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000052</ItemLink>
         </Item>
@@ -39,7 +35,6 @@
         <Item>
             <ItemLink>1600000068</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000072</ItemLink>
         </Item>
@@ -55,7 +50,6 @@
         <Item>
             <ItemLink>1600000088</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000092</ItemLink>
         </Item>
@@ -71,39 +65,15 @@
         <Item>
             <ItemLink>1600000104</ItemLink>
         </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>1600000106</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000108</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000110</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000112</ItemLink>
-        </Item>
         <Item>
             <ItemLink>1600000114</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000116</ItemLink>
         </Item>
         <Item>
-            <ItemLink>1600000118</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000120</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000122</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000124</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000126</ItemLink>
         </Item>
@@ -111,58 +81,19 @@
             <ItemLink>1600000128</ItemLink>
         </Item>
         <Item>
-            <ItemLink>1600000130</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000132</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000220</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000230</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000139</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000244</ItemLink>
         </Item>
         <Item>
-            <ItemLink>1600000248</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000250</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>1600000252</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000262</ItemLink>
         </Item>
         <Item>
-            <ItemLink>1600000278</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000280</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000313</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>1600000319</ItemLink>
-        </Item>      
-        <Item>
-            <ItemLink>1600000321</ItemLink>
-        </Item>        
-        <Item>
-            <ItemLink>1600000323</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000325</ItemLink>
         </Item>
       </ModOp>
     </Group>

@@ -29,7 +29,6 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/ProductivityAllExtractors-C-Boost.xml" />
     
     <Include File="items-common/AreaEffect-AllProdMoneyFromResidencesStackable-C.xml" />
     <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
@@ -37,16 +36,12 @@
     <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
 
-    <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
     <Include File="items-common/CaptianMoreSlots-C.xml" />
-    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
-    <Include File="items-common/AreaUpgradePonies-C.xml" />
-    
-    <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
     <Include File="items-common/OrnamentRopeShip-C.xml" />
 
     <Include File="items-common/R02ResidencesAdditionalWorkforceR01-C.xml" />
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
+
+    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
@@ -67,24 +62,18 @@
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
     
-    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
     <Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
     <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
-    <Include File="items-rare/AdditionalClayWaterSlots-R.xml"/>
-    <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
-    <Include File="items-rare/ModuleUpgradeReed-R.xml" />
-    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
-    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
-    <Include File="items-rare/ProductivityAllFarms-R.xml" />
-    <Include File="items-rare/ProductivityAllForestries-R.xml" />
-    <Include File="items-rare/ProductivityAllPastures-R.xml" />
-    <Include File="items-rare/ProductivityAllPlantations-R.xml" />
-    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
+
     <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
     <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
     <Include File="items-rare/RC02ResidencesAdditionalWorkforceC01-R.xml" />
     <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
-    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
+
+    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
+
+    <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
+
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
     <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
 
@@ -92,13 +81,6 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AdditionalCocklesRomanCelticSeashell-E.xml" />
-    <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
-    <Include File="items-epic/AdditionalMarbleAllQuarries-E.xml" />
-    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
-    <Include File="items-epic/AdditionalTinAllMines-E.xml" />
-    <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
-
     <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
     <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
 
@@ -127,36 +109,18 @@
 
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
 
-    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
-    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
-    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
-    <Include File="items-epic/ModuleUpgradeSandarak-E.xml" />
+    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
+    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
 
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
-    <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
-    <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
-    <Include File="items-epic/ProductivityAllDressers-E.xml" />
-    <Include File="items-epic/ProductivityAllFisheries-E.xml" />
-    <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
-    <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
-    <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
-    <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
-
-    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
-    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
     <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
-    <Include File="items-epic/ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.xml" />
-    <Include File="items-epic/ReplaceInputNecklaces-SilberReplaceGold-E.xml" />
 
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
-    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
-
     <Include File="items-legendary/AreaEffect-AdditionalSpecialistsGuesthouses-L.xml" />
 
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
@@ -165,12 +129,11 @@
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
-    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
     <Include File="items-legendary/Dolphin-L.xml" />
-    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
     
     <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
     <Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />
+
   </Group>
 
   <!-- Add to Pools -->

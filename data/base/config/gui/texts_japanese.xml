@@ -668,22 +668,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllVictuallers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cornelia Fusilla, Fluid Artista</Text>
-          <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Knows how to work with Liquids and Jars.</Text>
-          <LineId>1600000121</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AdditionalSilverAllMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
