@@ -19,28 +19,7 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist ProductivityAllExtractors-C-Boost -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Alchemielehrling</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Beginnt, die Grundlagen der Naturelemente zu studieren. Mit ein paar Unfällen...</Text>
-          <LineId>1600000003</LineId> 
-      </Text>
-      <!-- Boost Description -->
-      <Text>
-          <Text>Sucht dringend einen Meister...</Text>
-          <LineId>1600000004</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
+
   <!-- Specialist AreaEffect-BardicHallBelief-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -120,39 +99,7 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist ProdAreaUpgradeForestries-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Junger Baumpfleger</Text>
-          <LineId>1600000025</LineId> <!-- <GUID>1600000025</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Mag es, sich um Bäume zu kümmern.</Text>
-          <LineId>1600000026</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist AreaUpgradePonies-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wilde Ponyjägerin</Text>
-          <LineId>1600000027</LineId> <!-- <GUID>1600000027</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Verhält sich wie ein wildes Pony.</Text>
-          <LineId>1600000028</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
+
   <!-- Specialist CaptianMoreSlots-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -181,22 +128,6 @@
       <Text>
           <Text>Liebt es den echten Sumpf trockenzulegen. Im wahrsten Sinne des Wortes.</Text>
           <LineId>1600000032</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lagerarbeiter</Text>
-          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.</Text>
-          <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -556,70 +487,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marcus Speculator, Mineralienexperte</Text>
-          <LineId>1600000106</LineId> <!-- <GUID>1600000106</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Weiß wie man alle nötigen Mineralern findet.</Text>
-          <LineId>1600000107</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ModuleUpgradeAllFarms-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Piso Agricola, Wächter des Landes</Text>
-          <LineId>1600000108</LineId> <!-- <GUID>1600000108</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Genießt das Landleben.</Text>
-          <LineId>1600000109</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-    <!-- Specialist ModuleUpgradeAllPlantations-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Publius Arboreus, der Pflanzer für Generationen</Text>
-          <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Erntet die Früchte einer Saat, die vor Generationen gelegt wurde.</Text>
-          <LineId>1600000111</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ModuleUpgradePastures-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Junia Pascua, Tierpflegerin</Text>
-          <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Die beste Tierpflegerin, den sich jedes Tier nur wünschen kann.</Text>
-          <LineId>1600000113</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -648,54 +515,6 @@
       <Text>
           <Text>Würzt alles besonders salzig und erzeugt dabei einen Hauch von Wüste im Gaumen.</Text>
           <LineId>1600000117</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist ProductivityAllUpholsterers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucius Textor, der Textilhandwerker.</Text>
-          <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat immer alle Arten von Stoffen auf Lager. &#xD;Hinweis: Polsterer = Handwerksstube</Text>
-          <LineId>1600000119</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllVictuallers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cornelia Fusilla, Flüssigkeitskünstlerin</Text>
-          <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Weiß, wie man mit Flüssigkeiten und Gefäßen umgeht. &#xD;Hinweis: Schankwirte = Manufakturen</Text>
-          <LineId>1600000121</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalSilverAllMines-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Decimus Argentarius, Erfahrener Silbergeologe</Text>
-          <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat ein Händchen für Silbervorkommen.</Text>
-          <LineId>1600000123</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -748,91 +567,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vitrearios, Der Glasmacher</Text>
-          <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Brennt das Glas direkt vor deinen Augen in Form.</Text>
-          <LineId>1600000131</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gaius Septicius, der Silberschmied</Text>
-          <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Silver ist das neue Gold!</Text>
-          <LineId>1600000133</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vullius Brixantus, der Meisteralchemist</Text>
-          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ein wahrer Meister der Naturelemente. Bereit und zu deinen Diensten.</Text>
-          <LineId>1600000135</LineId> 
-      </Text>
-      <!-- Boost Hint -->
-      <Text>
-          <Text>Bereit für einen jungen Lehrling.</Text>
-          <LineId>1600000136</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsHoney-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wojtecus, der adoptierte persische Bär</Text>
-          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Schnell! Folgt dem Bären! Er wird uns zum Honig führen! ... oder wieder einen Spion fangen."</Text>
-          <LineId>1600000138</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllWorkshops-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Apprilia, Frühe Ingenieurin</Text>
-          <LineId>1600000139</LineId> <!-- <GUID>1600000139</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Träumt von einem Zeitalter der Maschinen und des Dampfes.</Text>
-          <LineId>1600000140</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -877,38 +611,6 @@
       <Text>
           <Text>„Was für eine exquisite Darbietung!“ „Was für ein unglaubliches Talent!“ „Wenn ich groß bin, möchte ich genau wie er sein!“</Text>
           <LineId>1600000149</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CrazyLatiumFisheries-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius Crassicius, von Neptun Gesegneter Fischer</Text>
-          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Fängt alles mit riesigen Netzen. Sandalen inklusive... und manchmal... ein Schaf? Wie?!</Text>
-          <LineId>1600000153</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProdAreaUpgradeHuntersAndEels-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Silvius Vercannos, Legendärer Jäger</Text>
-          <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Er ist ein so großartiger Jäger, er könnte sogar mystische Kreaturen fangen.</Text>
-          <LineId>1600000155</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -1089,38 +791,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalClayWaterSlots-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Tongräber</Text>
-          <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat sich den Kindheitsspaß vom Graben im Lehn erhalten.</Text>
-          <LineId>1600000193</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist MaintenanceAllUpholsterers-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Polsterer-Ausbilderin</Text>
-          <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Vermittelt den Umgang mit Nadelwerkzeugen, um Arbeitsausfälle zu vermeiden. &#xD;Hinweis: Polsterer = Handwerksstube</Text>
-          <LineId>1600000195</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist MaintenanceMiniInstitutions-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -1133,70 +803,6 @@
       <Text>
           <Text>Jeder sollte die Annehmlichkeiten der Römer genießen können.</Text>
           <LineId>1600000197</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ModuleUpgradeReed-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Schlammbedeckte Schilfzüchterin</Text>
-          <LineId>1600000198</LineId> <!-- <GUID>1600000198</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Huh? Was macht ihr hier in meinem Sumpf?!"</Text>
-          <LineId>1600000199</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProdAreaUpgradeHuntersAndEels-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Eifrige Jägerin</Text>
-          <LineId>1600000200</LineId> <!-- <GUID>1600000200</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Sehnt sich nach der Jagd.</Text>
-          <LineId>1600000201</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllCoastalProductions-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Strandarbeiterin</Text>
-          <LineId>1600000202</LineId> <!-- <GUID>1600000202</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Könnte die ganze Zeit am Strand arbeiten.</Text>
-          <LineId>1600000203</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityByFuelAllFuelConsumers-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Chronischer Heizer</Text>
-          <LineId>1600000204</LineId> <!-- <GUID>1600000204</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>„Backen lässt es doch besser schmecken, warum sollte das nicht auch bei anderen Dingen funktionieren?“</Text>
-          <LineId>1600000205</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -1245,22 +851,6 @@
       <Text>
           <Text>Nicht so abgehoben wie andere Edelmänner.</Text>
           <LineId>1600000211</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Erfahrener Lagerarbeiter</Text>
-          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ein lebender Katalog für das Warenlager.</Text>
-          <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -1457,54 +1047,6 @@
     </ModOp>
   </Group>  
 
-  <!-- Specialist ProductivityAllCookhouses-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Julia Culinaria</Text>
-          <LineId>1600000248</LineId> <!-- <GUID>1600000248</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Zeigt mir die Küche und ich zaubere euch Köstlichkeiten schneller als ihr blinzeln könnt."</Text>
-          <LineId>1600000249</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
-
-  <!-- Specialist ProductivityAllDressers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Bennicus Sartor Steckus, Geschickt mit der Nadel</Text>
-          <LineId>1600000250</LineId> <!-- <GUID>1600000250</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Kleider machen Leute! Man kann nie genug Kleider haben."</Text>
-          <LineId>1600000251</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
-
-  <!-- Specialist ProductivityAllArtisans-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Junia Daedala, Meisterverziererin</Text>
-          <LineId>1600000252</LineId> <!-- <GUID>1600000252</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Durch ihre Handwerkskünste zeigt Sie der Welt ihre eigene Schönheit.</Text>
-          <LineId>1600000253</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
   <!-- Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -1565,118 +1107,6 @@
       <Text>
           <Text>"Nur durch Praxis kann man Wissen festigen!... Auaa! Medicus!"</Text>
           <LineId>1600000267</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllForestries-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ambitionierter Förster</Text>
-          <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Bäume nutzbar machen ist seine Berufung.</Text>
-          <LineId>1600000271</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllFarms-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ruhiger Farmer</Text>
-          <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Gedanklich immer bei seinen Feldern.</Text>
-          <LineId>1600000273</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllPastures-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Umsichtiger Viehzüchter</Text>
-          <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Achtet darauf das jedes Vieh seinen Betrag leistet.</Text>
-          <LineId>1600000275</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist ProductivityAllPlantations-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Glückliche Plantagenhelferin</Text>
-          <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Man braucht nicht viel Abwechslung um Glücklich zu werden."</Text>
-          <LineId>1600000277</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalCocklesRomanCelticSeashell-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Morigenos Conchylius, Nobler Muschelfischer</Text>
-          <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>In seiner Nähe hört immer leise das Meer rauschen.</Text>
-          <LineId>1600000279</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalCopperAllMines-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Copervicos, der erste Felsgeborene</Text>
-          <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat wie sein Bruder Stannos ein Gespür für Kupfervorkommen.</Text>
-          <LineId>1600000281</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalTinAllMines-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Stannos, der zweite Felsgeborene</Text>
-          <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat wie sein Bruder Copervicos ein Gespür für Zinnvorkommen.</Text>
-          <LineId>1600000283</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -1744,72 +1174,5 @@
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist AdditionalMarbleAllQuarries-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucia Marmoria, Marmor Geologin</Text>
-          <LineId>1600000319</LineId> <!-- <GUID>1600000319</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nesitzt einen sechsten Sinn für Marmor.</Text>
-          <LineId>1600000320</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-    
-  <!-- Specialist ModuleUpgradeSandarak-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aurelia Sandaracina Furiosa</Text>
-          <LineId>1600000321</LineId> <!-- <GUID>1600000321</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Wird wütend, wenn die Sandarak-Bäume nicht perfekt in Form sind.</Text>
-          <LineId>1600000322</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-      
-  <!-- Specialist ProductivityAllPitsAndQuarries-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cassia Ferrata, Grubenvorarbeiterin</Text>
-          <LineId>1600000323</LineId> <!-- <GUID>1600000323</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Lässt die Erde allein durch ihre Anwesenheit erzittern.</Text>
-          <LineId>1600000324</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-      
-  <!-- Specialist ProductivityAllFisheries-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucius Amnius Piscator, Sprechender Fischer</Text>
-          <LineId>1600000325</LineId> <!-- <GUID>1600000325</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Kann mit den Fischen sprechen.</Text>
-          <LineId>1600000326</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
 
 </ModOps>

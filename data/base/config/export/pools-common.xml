@@ -9,9 +9,6 @@
     <Group>
         <ModOp Type="add" GUID="83448,83460,83464,83468,83476,83472,83480" Path="/Values/RewardPool/ItemsPool">
         <Item>
-            <ItemLink>1600000002</ItemLink>
-        </Item>
-        <Item>
             <ItemLink>1600000005</ItemLink>
         </Item>
         <Item>
@@ -23,28 +20,14 @@
         <Item>
             <ItemLink>1600000017</ItemLink>
         </Item>
-        <!-- 5 -->
         <Item>
             <ItemLink>1600000021</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000025</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000029</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000031</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000027</ItemLink>
-        </Item>
-        <!-- 5 -->
-        <Item>
-            <ItemLink>1600000033</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000194</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000228</ItemLink>
