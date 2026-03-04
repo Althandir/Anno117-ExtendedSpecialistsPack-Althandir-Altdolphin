@@ -39,8 +39,6 @@
     <Include File="items-common/CaptianMoreSlots-C.xml" />
     <Include File="items-common/OrnamentRopeShip-C.xml" />
 
-    <Include File="items-common/R02ResidencesAdditionalWorkforceR01-C.xml" />
-
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
   </Group>
 
@@ -61,14 +59,6 @@
     <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
-    
-    <Include File="items-rare/C02ResidencesAdditionalWorkforceC01-R.xml"/>
-    <Include File="items-rare/C03ResidencesAdditionalWorkforceC02-R.xml"/>
-
-    <Include File="items-rare/R03ResidencesAdditionalWorkforceR02-R.xml" />
-    <Include File="items-rare/R04ResidencesAdditionalWorkforceR03-R.xml" />
-    <Include File="items-rare/RC02ResidencesAdditionalWorkforceC01-R.xml" />
-    <Include File="items-rare/RC03ResidencesAdditionalWorkforceRC02-R.xml" />
 
     <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
 
@@ -109,9 +99,6 @@
 
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
 
-    <Include File="items-epic/R03ResidencesAdditionalWorkforceR01-E.xml" />
-    <Include File="items-epic/R04ResidencesAdditionalWorkforceR02-E.xml" />
-
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
@@ -130,9 +117,6 @@
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
     <Include File="items-legendary/Dolphin-L.xml" />
-    
-    <Include File="items-legendary/R04ResidencesAdditionalWorkforceR01-L.xml" />
-    <Include File="items-legendary/RC03C03ResidencesAdditionalWorkforceC01-L.xml" />
 
   </Group>
 
