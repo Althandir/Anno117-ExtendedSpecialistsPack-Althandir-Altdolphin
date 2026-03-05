@@ -599,38 +599,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Domitia Regilla, toujours accompagnée</Text>
-          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Toujours à la recherche d'un groupe de Liberti pour satisfaire ses besoins luxueux.</Text>
-          <LineId>1600000125</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cornelia Operosa, la fascinée</Text>
-          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Est fasciné par le travail acharné des plébéiens. Apprécie l'effervescence et les activités artisanales.</Text>
-          <LineId>1600000127</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -691,22 +659,6 @@
       <Text>
           <Text>“Quelle performance exquise ! » « Quel talent incroyable ! » « Quand je serai grande, je veux être comme elle!”</Text>
           <LineId>1600000149</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marcus Pius, patron loyal et réfléchi</Text>
-          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il sait que sans Liberti, il ne serait rien.</Text>
-          <LineId>1600000157</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -855,22 +807,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Smith à la retraite</Text>
-          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Les jeunes peuvent toujours apprendre des plus âgés.</Text>
-          <LineId>1600000191</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist MaintenanceMiniInstitutions-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -899,54 +835,6 @@
       <Text>
           <Text>"Hein ? Qu'est-ce que tu fais dans mon marais ?! "</Text>
           <LineId>1600000199</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aspirant plébéien</Text>
-          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Grâce à son travail acharné, elle est prête à passer au niveau supérieur.</Text>
-          <LineId>1600000207</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aspirants Equites</Text>
-          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Riche, mais pas assez riche pour être considéré comme pertinent.</Text>
-          <LineId>1600000209</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Noble terre-à-terre</Text>
-          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Pas aussi distant que les autres nobles.</Text>
-          <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -1094,54 +982,6 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucia Domitius Catavignus, envoyé romano-celtique</Text>
-          <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Comble le fossé culturel entre les Romains et les Celtes.</Text>
-          <LineId>1600000239</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist RC02ResidencesAdditionalWorkforceC01-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marchand avec entourage</Text>
-          <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Elle a tellement à offrir qu'elle a toujours besoin d'être entourée d'hommes forts.</Text>
-          <LineId>1600000241</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist C02ResidencesAdditionalWorkforceC01-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Chevalier épervier</Text>
-          <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il veut offrir des fleurs à sa bien-aimée, mais ne trouve que des herbes.</Text>
-          <LineId>1600000243</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
 
   <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E -->
   <Group>
@@ -1267,22 +1107,6 @@
       <Text>
           <Text>A eu l'idée de faire fondre du fromage et de le mélanger à des fruits sucrés. Certains adorent cette cuisine expérimentale, d'autres la détestent et laissent libre cours à leur colère. Remarque : l'effet s'applique à tous les bâtiments résidentiels situés dans le rayon d'action du marché ou du forum.</Text>
           <LineId>1600000314</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Prometteur Liberti</Text>
-          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il a travaillé dur pour réussir.</Text>
-          <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
   </Group>

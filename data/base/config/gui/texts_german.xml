@@ -519,38 +519,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist R03ResidencesAdditionalWorkforceR01-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Domitia Regilla, Allzeit Begleitet</Text>
-          <LineId>1600000124</LineId> <!-- <GUID>1600000124</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat immer eine Gruppe von Liberti für ihre luxuriösen Bedürfnisse nötig.</Text>
-          <LineId>1600000125</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR02-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cornelia Operosa, die Faszinierte</Text>
-          <LineId>1600000126</LineId> <!-- <GUID>1600000126</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ist fasziniert von der harten Arbeit der einfachen Plebejer. Genießt das geschäftige Treiben und die handwerklichen Tätigkeiten.</Text>
-          <LineId>1600000127</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -611,22 +579,6 @@
       <Text>
           <Text>„Was für eine exquisite Darbietung!“ „Was für ein unglaubliches Talent!“ „Wenn ich groß bin, möchte ich genau wie er sein!“</Text>
           <LineId>1600000149</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR01-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marcus Pius, Fairer und Umsichtiger Patronus</Text>
-          <LineId>1600000156</LineId> <!-- <GUID>1600000156</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ist sich bewusst, dass er ohne die Massen an Liberti ein Niemand wäre.</Text>
-          <LineId>1600000157</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -775,22 +727,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist C03ResidencesAdditionalWorkforceC02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Schmied im Ruhestand</Text>
-          <LineId>1600000190</LineId> <!-- <GUID>1600000190</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Die Jugend kann immer von den Älteren lernen.</Text>
-          <LineId>1600000191</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist MaintenanceMiniInstitutions-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -803,54 +739,6 @@
       <Text>
           <Text>Jeder sollte die Annehmlichkeiten der Römer genießen können.</Text>
           <LineId>1600000197</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R03ResidencesAdditionalWorkforceR02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aufstrebende Plebejerin</Text>
-          <LineId>1600000206</LineId> <!-- <GUID>1600000206</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Dank ihrer harten Arbeit ist sie bereit, in die nächste römische Gesellschaftsschicht aufzusteigen.</Text>
-          <LineId>1600000207</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R04ResidencesAdditionalWorkforceR03-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aufstrebender Equites</Text>
-          <LineId>1600000208</LineId> <!-- <GUID>1600000208</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Reich, aber nicht reich genug, um als relevant zu gelten.</Text>
-          <LineId>1600000209</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist RC03ResidencesAdditionalWorkforceRC02-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Bodenständiger Edelmann</Text>
-          <LineId>1600000210</LineId> <!-- <GUID>1600000210</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nicht so abgehoben wie andere Edelmänner.</Text>
-          <LineId>1600000211</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -982,54 +870,6 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucia Domitius Catavignus, Römisch-Keltische Botschafterin</Text>
-          <LineId>1600000238</LineId> <!-- <GUID>1600000238</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Schließt die kulturelle Kluft zwischen Römern und Kelten.</Text>
-          <LineId>1600000239</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist RC02ResidencesAdditionalWorkforceC01-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Händlerin mit Gefolgschaft</Text>
-          <LineId>1600000240</LineId> <!-- <GUID>1600000240</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat so viel zu handeln, dass sie immer die Gesellschaft von starken Männern braucht.</Text>
-          <LineId>1600000241</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist C02ResidencesAdditionalWorkforceC01-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Verliebter Wanderer</Text>
-          <LineId>1600000242</LineId> <!-- <GUID>1600000242</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Er möchte seiner Liebsten Blumen bringen, findet aber nur Kräuter.</Text>
-          <LineId>1600000243</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
 
   <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E -->
   <Group>
@@ -1155,22 +995,6 @@
       <Text>
           <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.</Text>
           <LineId>1600000314</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist R02ResidencesAdditionalWorkforceR01-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vielversprechender Liberti</Text>
-          <LineId>1600000317</LineId> <!-- <GUID>1600000317</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Hat Hart für seinen Erfolg gearbeitet.</Text>
-          <LineId>1600000318</LineId> 
       </Text>
     </ModOp>
   </Group>
