@@ -148,22 +148,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aurelius Cautus, der Bürokrat</Text>
-          <LineId>1600000037</LineId> <!-- <GUID>1600000037</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Verwendet Denarii um bürokratische Prozesse zu optimieren. Dabei wandert die ein oder andere Münze woanders hin. „Bitte ziehen Sie nun eine Nummer und warten Sie, bis wir uns bei Ihnen melden.“ &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
-          <LineId>1600000038</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -535,22 +519,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Buritus, Architectus Bureaucraticus</Text>
-          <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Architekt des bürokratischen Systems und Meister darin, alles für jeden zu regeln. &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
-          <LineId>1600000142</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -599,22 +567,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AllPublicServicesEffectRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivierter Beamter</Text>
-          <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Versucht sein Bestes, um Prozesse zu optimieren. &#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
-          <LineId>1600000161</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">

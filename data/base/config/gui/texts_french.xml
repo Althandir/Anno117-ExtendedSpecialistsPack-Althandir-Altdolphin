@@ -180,22 +180,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aurelius Cautus, le Bureaucrate</Text>
-          <LineId>1600000037</LineId> <!-- <GUID>1600000037</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Utilise des deniers pour optimiser les processus bureaucratiques. Au cours du processus, une ou deux pièces finissent ailleurs. "Veuillez prendre un numéro et attendre que nous vous appelions." &#xD;Indice: cet effet peut se cumuler.</Text>
-          <LineId>1600000038</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -615,22 +599,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Buritus, Architecte bureaucratique</Text>
-          <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Architecte du système bureaucratique, il est passé maître dans l'art de tout régler pour tout le monde. &#xD;Indice: cet effet peut se cumuler.</Text>
-          <LineId>1600000142</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -675,22 +643,6 @@
       <Text>
           <Text>Vérifie chaque recoin.</Text>
           <LineId>1600000159</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
-  <!-- Specialist AllPublicServicesEffectRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Fonctionnaire motivé</Text>
-          <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Fait de son mieux pour optimiser les processus. &#xD;Indice: cet effet peut se cumuler.</Text>
-          <LineId>1600000161</LineId> 
       </Text>
     </ModOp>
   </Group>
