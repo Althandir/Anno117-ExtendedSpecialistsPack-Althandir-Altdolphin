@@ -37,7 +37,6 @@
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
 
     <Include File="items-common/CaptianMoreSlots-C.xml" />
-    <Include File="items-common/OrnamentRopeShip-C.xml" />
 
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
   </Group>

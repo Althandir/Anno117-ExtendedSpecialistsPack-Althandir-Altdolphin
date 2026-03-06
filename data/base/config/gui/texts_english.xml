@@ -839,22 +839,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist OrnamentRopeShip-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Strong Rope</Text>
-          <LineId>1600000228</LineId> <!-- <GUID>1600000228</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>A tough rope keeps this ship at bay.</Text>
-          <LineId>1600000229</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
   <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
