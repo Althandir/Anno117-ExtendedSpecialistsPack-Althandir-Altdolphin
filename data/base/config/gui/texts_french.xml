@@ -116,22 +116,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist CaptianMoreSlots-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marin surchargé</Text>
-          <LineId>1600000029</LineId> <!-- <GUID>1600000029</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Un peu moins d’armure ici, et qui a besoin de voiles en plus ? Nous avons du fret à transporter et nous ne sommes pas des canards assis."</Text>
-          <LineId>1600000030</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
   <!-- Specialist DrainageIrrigationUpgrade-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -451,38 +435,6 @@
       <Text>
           <Text>Joue le rôle d'une vieille sorcière laide qui adore collectionner les globes oculaires des autres. Toujours prête à conclure un marché. À son avantage, bien sûr.</Text>
           <LineId>1600000097</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CaptianArchersRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ocumare, l'aigle de la mer</Text>
-          <LineId>1600000100</LineId> <!-- <GUID>1600000100</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Rapide et doté d'un œil de lynx, c'est une force avec laquelle il faut compter.</Text>
-          <LineId>1600000101</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CaptianMoreSlots-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ames, Distorsionneur de vaisseaux</Text>
-          <LineId>1600000102</LineId> <!-- <GUID>1600000102</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Dispose les armures et les marchandises de manière à ce que tout semble plus grand et plus imposant. Et cela devient effectivement le cas.</Text>
-          <LineId>1600000103</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -839,21 +791,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianHealthByLessSlots-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Marin en armure</Text>
-          <LineId>1600000224</LineId> <!-- <GUID>1600000224</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Sacrifie l'espace de stockage au profit d'une meilleure défense.</Text>
-          <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
   <Group>

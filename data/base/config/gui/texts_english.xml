@@ -99,22 +99,6 @@
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist CaptianMoreSlots-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Overloaded Sailor</Text>
-          <LineId>1600000029</LineId> <!-- <GUID>1600000029</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"A little less armor here and who needs extra sails? We have cargo to ship and aren't sitting geese."</Text>
-          <LineId>1600000030</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
   
   <!-- Specialist DrainageIrrigationUpgrade-C -->
   <Group>
@@ -423,37 +407,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianArchersRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ocumare, Eagle of the Sea</Text>
-          <LineId>1600000100</LineId> <!-- <GUID>1600000100</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Swift and with an eagles eye is a force to be reckoned with.</Text>
-          <LineId>1600000101</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CaptianMoreSlots-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ames, Ship Distorter</Text>
-          <LineId>1600000102</LineId> <!-- <GUID>1600000102</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Arranges armor and goods in such a way that everything appears larger and more formidable. And indeed becomes so.</Text>
-          <LineId>1600000103</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist GoodConsumptionDecrease-E -->
   <Group>
@@ -743,21 +696,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianHealthByLessSlots-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Armored Sailor</Text>
-          <LineId>1600000224</LineId> <!-- <GUID>1600000224</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Sacrifices storage space for more defense.</Text>
-          <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
   
   <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
   <Group>

@@ -36,8 +36,6 @@
     <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
 
-    <Include File="items-common/CaptianMoreSlots-C.xml" />
-
     <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
   </Group>
 
@@ -57,8 +55,6 @@
     <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
-
-    <Include File="items-rare/CaptianHealthByLessSlots-R.xml"/>
 
     <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
 
@@ -91,9 +87,6 @@
     <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E.xml" />
     
-    <Include File="items-epic/CaptianArchersRange-E.xml" />
-    <Include File="items-epic/CaptianMoreSlots-E.xml" />
-
     <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
 
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />

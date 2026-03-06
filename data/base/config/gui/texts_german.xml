@@ -99,22 +99,6 @@
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist CaptianMoreSlots-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Überladener Seemann</Text>
-          <LineId>1600000029</LineId> <!-- <GUID>1600000029</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>„Ein bisschen weniger Schutz hier und wer braucht schon zusätzliche Segel? Wir haben Fracht zu transportieren und sind keine sitzenden Gänse.“</Text>
-          <LineId>1600000030</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
   
   <!-- Specialist DrainageIrrigationUpgrade-C -->
   <Group>
@@ -423,38 +407,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianArchersRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ocumare, Adler des Meeres</Text>
-          <LineId>1600000100</LineId> <!-- <GUID>1600000100</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Geschwind und mit dem Blick eines Adlers ist er eine Macht, mit der man rechnen sollte.</Text>
-          <LineId>1600000101</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CaptianMoreSlots-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ames, Schiffsverzerrer</Text>
-          <LineId>1600000102</LineId> <!-- <GUID>1600000102</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Reiht Panzerung und Waren so an, dass alles irgendwie größer und mächtiger aussieht. Und auch ist.</Text>
-          <LineId>1600000103</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist GoodConsumptionDecrease-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -727,21 +679,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist CaptianHealthByLessSlots-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gepanzerter Seemann</Text>
-          <LineId>1600000224</LineId> <!-- <GUID>1600000224</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Opfert Stauraum für mehr Verteidigung.</Text>
-          <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
   
   <!-- Specialist AreaEffect-GrammaticusAdditionalGoodsbyBelief-E -->
   <Group>
