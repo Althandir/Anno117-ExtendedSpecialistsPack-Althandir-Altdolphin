@@ -583,22 +583,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gnaeus Geranus, l'oiseau-grue</Text>
-          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il apprécie tout ce qui touche aux grues. Il aimerait beaucoup naviguer pour voir davantage de grues, s'il ne souffrait pas du mal de mer.</Text>
-          <LineId>1600000129</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -867,22 +851,6 @@
       <Text>
           <Text>Sacrifie l'espace de stockage au profit d'une meilleure défense.</Text>
           <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AllShipyardsSpeeds-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ouvrier motivé dans un chantier naval</Text>
-          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Manipule le marteau plus rapidement pour votre flotte.</Text>
-          <LineId>1600000227</LineId> 
       </Text>
     </ModOp>
   </Group>

@@ -503,22 +503,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gnaeus Geranus, the Cranebird</Text>
-          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Enjoys everything with a crane. Would love to sail to see more cranes, if he wouldn't be seasick.</Text>
-          <LineId>1600000129</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -771,22 +755,6 @@
       <Text>
           <Text>Sacrifices storage space for more defense.</Text>
           <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AllShipyardsSpeeds-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivated Shipyard Worker</Text>
-          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Swings the hammer quicker for your fleet.</Text>
-          <LineId>1600000227</LineId> 
       </Text>
     </ModOp>
   </Group>

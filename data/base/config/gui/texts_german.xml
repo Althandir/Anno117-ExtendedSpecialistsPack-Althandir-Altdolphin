@@ -503,22 +503,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist RepairCranesPierKontorEnjoyer-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gnaeus Geranus, der Kranich</Text>
-          <LineId>1600000128</LineId> <!-- <GUID>1600000128</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Erfreut sich über alles, was mit einem Kran zu tun hat. Würde gerne die Welt erkunden, um mehr Kräne zu sehen, wenn er nicht seekrank wäre.</Text>
-          <LineId>1600000129</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -755,22 +739,6 @@
       <Text>
           <Text>Opfert Stauraum für mehr Verteidigung.</Text>
           <LineId>1600000225</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AllShipyardsSpeeds-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivierter Werftarbeiter</Text>
-          <LineId>1600000226</LineId> <!-- <GUID>1600000226</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Schwingt den Hammer schneller für deine Flotte.</Text>
-          <LineId>1600000227</LineId> 
       </Text>
     </ModOp>
   </Group>

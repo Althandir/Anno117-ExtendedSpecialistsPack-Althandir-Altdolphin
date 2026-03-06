@@ -63,8 +63,7 @@
     <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
 
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
-    <Include File="items-rare/AllShipyardsSpeeds-R.xml" />
-
+    
   </Group>
 
   <!-- Epic Specialists -->
@@ -100,7 +99,7 @@
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
-    <Include File="items-epic/RepairCranesPierKontorEnjoyer-E.xml" />  
+    
 
   </Group>
 
