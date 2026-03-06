@@ -116,22 +116,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist DrainageIrrigationUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Travailleur du drainage</Text>
-          <LineId>1600000031</LineId> <!-- <GUID>1600000031</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Aime drainer le véritable marécage. Littéralement.</Text>
-          <LineId>1600000032</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
   <!-- Specialist WarehouseCapacityUpgrade-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">

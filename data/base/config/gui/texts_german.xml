@@ -99,22 +99,6 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist DrainageIrrigationUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Entwässerungsarbeiter</Text>
-          <LineId>1600000031</LineId> <!-- <GUID>1600000031</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Liebt es den echten Sumpf trockenzulegen. Im wahrsten Sinne des Wortes.</Text>
-          <LineId>1600000032</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AllInstitutionsResolverUpgrade-L -->
   <Group>

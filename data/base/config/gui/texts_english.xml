@@ -99,22 +99,6 @@
       </Text>
     </ModOp>
   </Group>
-  
-  <!-- Specialist DrainageIrrigationUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Drainage Worker</Text>
-          <LineId>1600000031</LineId> <!-- <GUID>1600000031</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Loves to drain the real swamp. Literally.</Text>
-          <LineId>1600000032</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AllInstitutionsResolverUpgrade-L -->
   <Group>
@@ -406,7 +390,6 @@
       </Text>
     </ModOp>
   </Group>
-
 
   <!-- Specialist GoodConsumptionDecrease-E -->
   <Group>

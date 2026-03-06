@@ -36,7 +36,7 @@
     <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
     <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
 
-    <Include File="items-common/DrainageIrrigationUpgrade-C.xml" />
+    
   </Group>
 
   <!-- Rare Specialists -->
