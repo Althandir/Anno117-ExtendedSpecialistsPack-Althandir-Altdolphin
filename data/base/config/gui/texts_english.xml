@@ -697,21 +697,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucia Illuminata, Enlightened Housekeeper</Text>
-          <LineId>1600000234</LineId> <!-- <GUID>1600000234</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Expert in caring for specialists from everywhere. &#xD;Hint: Effect applies to the Villa and all Officia on the Island, but requires a Marvel in Radius of this Specialist.</Text>
-          <LineId>1600000235</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
   
   <!-- Specialist RC03C03ResidencesAdditionalWorkforceC01-L -->
   <Group>
@@ -728,22 +714,6 @@
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Quintus Merula, Master of Invitations</Text>
-          <LineId>1600000244</LineId> <!-- <GUID>1600000244</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Writes invitations for specialists from all over the known realm. &#xD;Hint: Slot Effect applies to the Villa and Officia on the Island, but requires a Marvel in Radius of this Specialist. Increased Cost and Health are applied to Marvel, Officia and Villa.</Text>
-          <LineId>1600000245</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
 
   <!-- Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R -->
   <Group>

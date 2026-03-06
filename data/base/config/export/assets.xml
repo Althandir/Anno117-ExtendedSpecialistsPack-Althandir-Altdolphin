@@ -18,11 +18,9 @@
     For Properties see properties-meta.xml from game.rda
   -->
 
-  <!-- Testing & Learning -->
+  <!-- Testing -->
   <Group>
     <!--
-    <Include File="testing/specialists-test.xml" />
-    <Include File="testing/pools-test.xml" />
     <Include File="testing/pools-forceSpawnTesting.xml"/> 
     -->
   </Group>
@@ -64,9 +62,6 @@
 
   <!-- Epic Specialists -->
   <Group>
-    
-    <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
-
     <Include File="items-epic/AreaEffect-ChainedArmouriesToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
@@ -98,8 +93,6 @@
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AreaEffect-AdditionalSpecialistsGuesthouses-L.xml" />
-
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
     
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />

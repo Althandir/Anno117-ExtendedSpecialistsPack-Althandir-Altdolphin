@@ -681,37 +681,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lucia Illuminata, Erleuchtete Haushälterin</Text>
-          <LineId>1600000234</LineId> <!-- <GUID>1600000234</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Expertin für die Betreuung von Spezialisten aus aller Welt. &#xD;Hinweis: Der Effekt gilt die Villa und alle Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten.</Text>
-          <LineId>1600000235</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
-  <!-- Specialist AreaEffect-AdditionalSpecialistsGuesthouses-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Quintus Merula, Meister der Einladungen</Text>
-          <LineId>1600000244</LineId> <!-- <GUID>1600000244</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Schreibt Einladungen an Spezialisten aus dem gesamten bekannten Reich. &#xD;Hinweis: Der Slot-Effekt gilt für die Villa und Officia auf der Insel, erfordert jedoch einen Prachtbau im Umkreis dieses Spezialisten. Erhöhter Unterhalt und Trefferpunkte gelten für Prachtbauten, Officia und Villen.</Text>
-          <LineId>1600000245</LineId> 
-      </Text>
-    </ModOp>
-  </Group>  
 
   <!-- Specialist AreaEffect-ArmoriesMoneyByHealthHappiness-R -->
   <Group>
