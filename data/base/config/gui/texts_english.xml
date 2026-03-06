@@ -148,22 +148,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aurelius Cautus, the Bureaucrat</Text>
-          <LineId>1600000037</LineId> <!-- <GUID>1600000037</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Uses Denarii to optimize bureaucratic processes. In the process, one or two coins end up somewhere else. "Now please take a number and wait until you hear from us." &#xD;Hint: This Effect can Stack.</Text>
-          <LineId>1600000038</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -535,22 +519,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllPublicServicesAndWondersEffectRange-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Buritus, Architectus Bureaucraticus</Text>
-          <LineId>1600000141</LineId> <!-- <GUID>1600000141</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Architect of the bureaucratic system and is a master getting everything sorted out for anyone. &#xD;Hint: This Effect can Stack.</Text>
-          <LineId>1600000142</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -599,22 +567,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AllPublicServicesEffectRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Motivtated Bureaucrat</Text>
-          <LineId>1600000160</LineId> <!-- <GUID>1600000160</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Tries his best to optimize processes. &#xD;Hint: This Effect can Stack.</Text>
-          <LineId>1600000161</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">

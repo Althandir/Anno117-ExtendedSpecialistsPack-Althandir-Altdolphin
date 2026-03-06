@@ -2,7 +2,7 @@
   <!--
     # By Althandir / Altdolphin
     # NOTE: 
-    # GUIDs mitght be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
+    # GUIDs might be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
     # or my stupid brain getting new Ideas all the time and never finishing something >~<
  
     ###  
@@ -44,7 +44,6 @@
   <!-- Rare Specialists -->
   <Group>
     <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
-    <Include File="items-rare/AllPublicServicesEffectRange-R.xml" />
 
     <Include File="items-rare/AreaEffect-AllStoneCutterMoneyByHealth-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicBarrowHealthPrestige-R.xml" />
@@ -70,7 +69,7 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AllPublicServicesAndWondersEffectRange-E.xml" />
+    
     <Include File="items-epic/AreaEffect-AdditionalSpecialistsGuesthouses-E.xml" />
 
     <Include File="items-epic/AreaEffect-ChainedArmouriesToCustodes-E.xml" />
@@ -110,8 +109,7 @@
     <Include File="items-legendary/AreaEffect-AdditionalSpecialistsGuesthouses-L.xml" />
 
     <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
-    <Include File="items-legendary/AllPublicServicesAndWondersEffectRange-L.xml" />
-
+    
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
