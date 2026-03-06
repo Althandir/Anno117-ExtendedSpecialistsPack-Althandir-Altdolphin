@@ -4,22 +4,6 @@
     EVEN NUMBER == DESCRIPTION
   --> 
 
-  <!-- Specialist Specialist Dolphin-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Majestätischer Delfin</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Die Beherbergung eines solch majestätischen Tieres zieht viele Besucher aus fernen Ländern an. Schau nur, wie es mit seinen Flossen wackelt. Meb Meb.</Text>
-          <LineId>1600000001</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-BardicHallBelief-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -100,37 +84,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsResolverUpgrade-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aulus Pius, der wachsame Inspirator</Text>
-          <LineId>1600000035</LineId> <!-- <GUID>1600000035</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Inspiriert alle Stadtwachen mit Erzählungen von Heldentaten der Menschen während schrecklicher Katastrophen. Nutzt diese Gelegenheit direkt um ein verbessertes Training anzubieten.</Text>
-          <LineId>1600000036</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gaius Armifex, örtlicher Rüstungsschmied</Text>
-          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Leitet lokale Rüstungen für mehr Custodes um. &#xD;Hinweis: Waffenkammern in Reichweite wenden den Flächeneffekt auf alle Custodia in ihrer Reichweite an.</Text>
-          <LineId>1600000041</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
   <Group>
@@ -160,22 +113,6 @@
       <Text>
           <Text>Hält die keltische Tradition durch Erzählungen früherer Generationen am Leben.</Text>
           <LineId>1600000049</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AreaEffect-ChainedCisternToVigilesMedici-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius, der Wasserversorger</Text>
-          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Zeigt die Bedeutung von Wassersystemen auf, indem eine Wasserversorgung für Medici und Vigiles geschaffen wird. &#xD;Hinweis: Zisternen im Radius wenden den Flächeneffekt auf alle Medici und Vigiles in ihrer Straßenreichweite an.</Text>
-          <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -470,22 +407,6 @@
       </Text>
     </ModOp>
   </Group>
-
-  <!-- Specialist AllInstitutionsResolverRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wachsamer Wächter</Text>
-          <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Überprüft jeden Winkel.</Text>
-          <LineId>1600000159</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
   
   <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
   <Group>
@@ -595,22 +516,6 @@
       <Text>
           <Text>Bringt fast alle zum Lachen, mit Ausnahme von der Obrigkeit.</Text>
           <LineId>1600000187</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist MaintenanceMiniInstitutions-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Römischer Gemeinschaftsraumplaner</Text>
-          <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Jeder sollte die Annehmlichkeiten der Römer genießen können.</Text>
-          <LineId>1600000197</LineId> 
       </Text>
     </ModOp>
   </Group>

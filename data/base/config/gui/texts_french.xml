@@ -4,22 +4,6 @@
     EVEN NUMBER == DESCRIPTION
   --> 
   
-  <!-- Specialist Specialist Dolphin-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Dauphin majestueux</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Héberger ici une créature aussi majestueuse attire de nombreux visiteurs de contrées lointaines. Regardez-le… agitant ses nageoires. Meb Meb.</Text>
-          <LineId>1600000001</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-BardicHallBelief-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -132,38 +116,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsResolverUpgrade-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aulus Pius, l’Inspirateur vigilant</Text>
-          <LineId>1600000035</LineId> <!-- <GUID>1600000035</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Inspire tous les gardes de la ville avec des récits d'actes héroïques accomplis par des humains lors de catastrophes terrifiantes. Profite de cette occasion pour proposer une formation améliorée.</Text>
-          <LineId>1600000036</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gaius Armifex, armurier local</Text>
-          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Réoriente les armements locaux. &#xD;Indice: les armureries à portée appliquent l'effet de zone à toutes les Custodia situées dans leur rayon d'action.</Text>
-          <LineId>1600000041</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -196,21 +148,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ChainedCisternToVigilesMedici-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius, le fournisseur d’eau</Text>
-          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Montre l'importance des systèmes d'approvisionnement en eau en créant des chaînes d'approvisionnement en eau pour les Médicis et les Vigiles. &#xD;Indice: les citernes dans la zone d'effet appliquent l'effet de zone à tous les Médicis et Vigiles dans leur zone d'effet.</Text>
-          <LineId>1600000053</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-GamblingHousePrestigeHappiness-E -->
   <Group>
@@ -551,21 +489,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsResolverRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Sentinelle vigilante</Text>
-          <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Vérifie chaque recoin.</Text>
-          <LineId>1600000159</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
   <Group>
@@ -679,21 +603,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MaintenanceMiniInstitutions-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Planificateur d'équipements romains</Text>
-          <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Tout le monde devrait pouvoir profiter des commodités offertes par les Romains.</Text>
-          <LineId>1600000197</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist ModuleUpgradeReed-R -->
   <Group>

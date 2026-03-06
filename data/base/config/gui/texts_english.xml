@@ -4,21 +4,7 @@
     EVEN NUMBER == DESCRIPTION
   --> 
   
-  <!-- Specialist Specialist Dolphin-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Majestic Dolphin</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Housing such a majestic Creature here attracts many visitors from far shores. Just look at it.. wiggling with his fins. Meb Meb. </Text>
-          <LineId>1600000001</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
   
   <!-- Specialist AreaEffect-BardicHallBelief-C -->
   <Group>
@@ -100,38 +86,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsResolverUpgrade-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aulus Pius, the Watchful Inspirator</Text>
-          <LineId>1600000035</LineId> <!-- <GUID>1600000035</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Inspires all city guards with tales of heroic deeds performed by humans during terrifying disasters. Seizes this opportunity to offer improved training.</Text>
-          <LineId>1600000036</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AreaEffect-ChainedArmouriesToCustodes-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gaius Armifex, Local Armorist</Text>
-          <LineId>1600000040</LineId> <!-- <GUID>1600000040</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Reroutes local armaments for the Custodes. &#xD;Hint: Armories in Range apply the Area Effect for all Custodia in their range.</Text>
-          <LineId>1600000041</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -160,22 +114,6 @@
       <Text>
           <Text>Keeps celtic tradition alive through tellings of former generations.</Text>
           <LineId>1600000049</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AreaEffect-ChainedCisternToVigilesMedici-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius, the Watersupplier</Text>
-          <LineId>1600000052</LineId> <!-- <GUID>1600000052</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Shows the importance of water systems by creating supply chains of water for Medici and Vigiles. &#xD;Hint: Cistern in Range apply the Area Effect to all Medici and Vigiles in their Street Range.</Text>
-          <LineId>1600000053</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -471,22 +409,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AllInstitutionsResolverRange-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vigilant Sentry</Text>
-          <LineId>1600000158</LineId> <!-- <GUID>1600000158</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Checks every corner.</Text>
-          <LineId>1600000159</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-  
   <!-- Specialist AreaEffect-BathsHealthbyHappiness-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -595,22 +517,6 @@
       <Text>
           <Text>Brings nearly everyone to a good laught, except the nobility.</Text>
           <LineId>1600000187</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist MaintenanceMiniInstitutions-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Roman Amenity Planner</Text>
-          <LineId>1600000196</LineId> <!-- <GUID>1600000196</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Everyone should enjoy the amenities of the romans.</Text>
-          <LineId>1600000197</LineId> 
       </Text>
     </ModOp>
   </Group>

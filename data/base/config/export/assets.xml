@@ -6,7 +6,7 @@
     # or my stupid brain getting new Ideas all the time and never finishing something >~<
  
     ###  
-    #   Starting GUID:  1600000000
+    #   Starting GUID:  1600000002
     #   Ending GUID:    1600000326
     ###
 
@@ -39,8 +39,6 @@
 
   <!-- Rare Specialists -->
   <Group>
-    <Include File="items-rare/AllInstitutionsResolverRange-R.xml" />
-
     <Include File="items-rare/AreaEffect-AllStoneCutterMoneyByHealth-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicBarrowHealthPrestige-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
@@ -54,18 +52,15 @@
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
 
-    <Include File="items-rare/MaintenanceMiniInstitutions-R.xml"/>
-
     <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
     
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AreaEffect-ChainedArmouriesToCustodes-E.xml" />
     <Include File="items-epic/AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
-    <Include File="items-epic/AreaEffect-ChainedCisternToVigilesMedici-E.xml" />
+
     <Include File="items-epic/AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E.xml" />
     <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
     <Include File="items-epic/AreaEffect-GamblingHousePrestigeHappiness-E.xml" />
@@ -87,18 +82,14 @@
     <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
     <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
 
-    
-
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AllInstitutionsResolverUpgrade-L.xml" />
-    
+
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
     <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
     <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
-    <Include File="items-legendary/Dolphin-L.xml" />
 
   </Group>
 
