@@ -27,25 +27,13 @@
   
   <!-- Common Specialists -->
   <Group>
-    
     <Include File="items-common/AreaEffect-AllProdMoneyFromResidencesStackable-C.xml" />
-    <Include File="items-common/AreaEffect-BardicHallBelief-C.xml" />
-    <Include File="items-common/AreaEffect-MarketBelief-C.xml" />
-    <Include File="items-common/AreaEffect-SancFanumBeliefbyMoney-C.xml" />
-    <Include File="items-common/AreaEffect-TabernaMoney-C.xml" />
-
-    
   </Group>
 
   <!-- Rare Specialists -->
   <Group>
     <Include File="items-rare/AreaEffect-AllStoneCutterMoneyByHealth-R.xml" />
-    <Include File="items-rare/AreaEffect-CelcicBarrowHealthPrestige-R.xml" />
-    <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByPrestige-R.xml" />
-    <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
-    <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
-    <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
+
     <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
     <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
@@ -56,30 +44,13 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
 
-    <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
-    <Include File="items-epic/AreaEffect-GamblingHousePrestigeHappiness-E.xml" />
-    <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBelief-E.xml" />
-    <Include File="items-epic/AreaEffect-LibraryKnowledgePrestigebyFireSafety-E.xml" />
-    <Include File="items-epic/AreaEffect-LibraryPopulationHealthHappiness-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleMars-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleCeres-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleCernunnos-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleEpona-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleMercury-E.xml" />
-    <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
-    <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
-    <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
-    
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
 
     <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
-    <Include File="items-legendary/AreaEffect-TheaterHappinessPrestigeKnowledge-L.xml" />
-    <Include File="items-legendary/AreaEffect-ForumIncomePrestigeProductivity-L.xml"/>
 
   </Group>
 
