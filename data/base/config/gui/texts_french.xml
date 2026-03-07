@@ -116,21 +116,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Valerius Saponius, maître du savon</Text>
-          <LineId>1600000044</LineId> <!-- <GUID>1600000044</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nettoie de nombreuses personnes en utilisant de grands bassins. &#xD;Indice: les effets s'appliquent à tous les bâtiments situés dans la zone de la rue.</Text>
-          <LineId>1600000045</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E -->
   <Group>
@@ -361,101 +347,9 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist GoodConsumptionDecrease-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Iana Rodericia, jeune environnementaliste</Text>
-          <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Rejette la décadence et prône plutôt un mode de vie écologique en harmonie avec la nature.</Text>
-          <LineId>1600000105</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
-  <!-- Specialist ModuleUpgradeAllFarms-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Piso Agricola, gardiens de la terre</Text>
-          <LineId>1600000108</LineId> <!-- <GUID>1600000108</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Aime la vie à la campagne.</Text>
-          <LineId>1600000109</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
-    <!-- Specialist ModuleUpgradeAllPlantations-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Publius Arboreus, le planteur pour les générations futures</Text>
-          <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Récolte les fruits de ce qui a été semé il y a plusieurs générations.</Text>
-          <LineId>1600000111</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
-  <!-- Specialist ModuleUpgradePastures-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Junia Pascua, gardienne d'animaux</Text>
-          <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Le meilleur gardien dont un animal puisse rêver.</Text>
-          <LineId>1600000113</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ulpius, Bacchus le Bienheureux</Text>
-          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Et la prochaine tournée est pour moi!"</Text>
-          <LineId>1600000115</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Sericus Garum, épicier d'Extrême-Orient</Text>
-          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ajoute une saveur particulièrement salée à tout. Crée un goût de désert sur la langue.</Text>
-          <LineId>1600000117</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
@@ -523,21 +417,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Torréfacteur rapide</Text>
-          <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Cuisson très rapide du rôti... malheureusement pas assez longue. Note : l'effet s'applique à tous les bâtiments résidentiels situés dans la zone d'influence du conseil municipal d'Alder.</Text>
-          <LineId>1600000171</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R -->
   <Group>
@@ -571,21 +451,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aspirant créateur de toges</Text>
-          <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Utilise la scène du théâtre pour présenter sa première collection de toges. &#xD;Indice: l'effet s'applique à tous les bâtiments résidentiels situés dans le rayon d'action du théâtre.</Text>
-          <LineId>1600000183</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AreaEffect-TheaterHappinessbyPrestige-R -->
   <Group>
@@ -735,21 +600,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vercatullos, entraîneur en sueur</Text>
-          <LineId>1600000262</LineId> <!-- <GUID>1600000262</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Il va vraiment faire transpirer les gens. Tout le monde devrait prévoir des tuniques et des robes supplémentaires. &#xD;Indice: l'effet s'applique à tous les bâtiments résidentiels situés dans le périmètre de la rue du terrain de sport.</Text>
-          <LineId>1600000263</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R -->
   <Group>
@@ -799,20 +650,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cassiocaseos, Culinarius Casei</Text>
-          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>A eu l'idée de faire fondre du fromage et de le mélanger à des fruits sucrés. Certains adorent cette cuisine expérimentale, d'autres la détestent et laissent libre cours à leur colère. Remarque : l'effet s'applique à tous les bâtiments résidentiels situés dans le rayon d'action du marché ou du forum.</Text>
-          <LineId>1600000314</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
 </ModOps>

@@ -43,10 +43,8 @@
     <Include File="items-rare/AreaEffect-CelcicBarrowHealthPrestige-R.xml" />
     <Include File="items-rare/AreaEffect-BathsHealthbyHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CelcicSacredGroveBeliefByPrestige-R.xml" />
-    <Include File="items-rare/AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R.xml"/>
     <Include File="items-rare/AreaEffect-GamblingHouseMoneybyHappinessBelief-R.xml"/>
     <Include File="items-rare/AreaEffect-GrammaticusKnowledgebyMoney-R.xml"/>
-    <Include File="items-rare/AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R.xml"/>
     <Include File="items-rare/AreaEffect-TheaterHappinessbyPrestige-R.xml"/>
     <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
     <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
@@ -58,10 +56,8 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E.xml" />
     <Include File="items-epic/AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E.xml" />
 
-    <Include File="items-epic/AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E.xml" />
     <Include File="items-epic/AreaEffect-ForumWorkforce-E.xml" />
     <Include File="items-epic/AreaEffect-GamblingHousePrestigeHappiness-E.xml" />
     <Include File="items-epic/AreaEffect-GrammaticusAdditionalGoodsbyBelief-E.xml" />
@@ -75,13 +71,7 @@
     <Include File="items-epic/AreaEffect-TempleMinerva-E.xml" />  
     <Include File="items-epic/AreaEffect-TempleNeptune-E.xml" />
     <Include File="items-epic/AreaEffect-TheaterHealthBeliefHappiness-E.xml" />
-    <Include File="items-epic/AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E.xml" />
     
-    <Include File="items-epic/GoodConsumptionDecrease-E.xml" />
-
-    <Include File="items-epic/NeedRewardbyConsumptionIncBeerHappiness-E.xml" />
-    <Include File="items-epic/NeedRewardbyConsumptionIncGarum-E.xml" />
-
   </Group>
 
   <!-- Legendary Specialists -->

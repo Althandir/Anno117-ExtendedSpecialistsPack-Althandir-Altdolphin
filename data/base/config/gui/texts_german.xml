@@ -85,21 +85,6 @@
   </Group>
 
 
-  <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Valerius Saponius, Meister der Seife</Text>
-          <LineId>1600000044</LineId> <!-- <GUID>1600000044</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Durch die Verwendung von Seife in großen Wasserbecken können wir viele Menschen gleichzeitig reinigen. &#xD;Hinweis: Die Effekte gelten für jedes Gebäude in Straßenreichweite.</Text>
-          <LineId>1600000045</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E -->
   <Group>
@@ -328,54 +313,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist GoodConsumptionDecrease-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Iana Rodericia, Junge Umweltschützerin</Text>
-          <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Lehnt die Dekadenz ab und demonstiert stattdessen einen ökologischen Lebensstils ganz im Sinne der Natur.</Text>
-          <LineId>1600000105</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ulpius, von Bacchus gesegnet</Text>
-          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Und die nächste Runde geht auf mich!"</Text>
-          <LineId>1600000115</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Sericus Garum, Würzer aus Fernost</Text>
-          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Würzt alles besonders salzig und erzeugt dabei einen Hauch von Wüste im Gaumen.</Text>
-          <LineId>1600000117</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -440,22 +377,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Gehetzte Bräterin</Text>
-          <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Brät den Braten sehr schnell... leider nicht lang genug. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Ältestensrats.</Text>
-          <LineId>1600000171</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -488,21 +409,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Angehender Toga-Designer</Text>
-          <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nutzt die Theaterbühne um seine erste Toga-Kollektion vorzustellen. &#xD;Hinweis: Der Effekt wirkt auf alle Wohnhäuser in Straßenreichweite des Theaters.</Text>
-          <LineId>1600000183</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-TheaterHappinessbyPrestige-R -->
   <Group>
@@ -620,21 +527,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vercatullos, Schwitzender Ausbilder</Text>
-          <LineId>1600000262</LineId> <!-- <GUID>1600000262</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Bringt die Leute so richtig ins Schwitzen. Jeder sollte extra Tuniken und Hosten parat haben. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite der Wettkampfwiese.</Text>
-          <LineId>1600000263</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R -->
   <Group>
@@ -684,20 +577,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cassiocaseos, Culinarius Casei</Text>
-          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Kam auf die Idee den Käse zu schmelzen und mit einer Süßfrucht zu kombinieren. Einige lieben diese experimentelle Küche, andere Hassen es und lassen ihrer Wut freien Lauf. &#xD;Hinweis: Der Effekt wirkt auf alle Wohngebäude in Straßenreichweite des Markts oder Forums.</Text>
-          <LineId>1600000314</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
 </ModOps>

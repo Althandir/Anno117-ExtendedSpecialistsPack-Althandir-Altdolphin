@@ -86,22 +86,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardBathsHealthRedSoapConsumption-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Valerius Saponius, Master of the Soap</Text>
-          <LineId>1600000044</LineId> <!-- <GUID>1600000044</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>By using soap in big pools of water we can clean so many people at once. &#xD;Hint: The Effects are applying to every building in Street Range.</Text>
-          <LineId>1600000045</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-CelcicTownHallHappinessPrestigeKnowledge-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -329,53 +313,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist GoodConsumptionDecrease-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Iana Rodericia, Young Environmentalist</Text>
-          <LineId>1600000104</LineId> <!-- <GUID>1600000104</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Rejects decadence and instead demonstrates an ecological lifestyle in harmony with nature.</Text>
-          <LineId>1600000105</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
-  <!-- Specialist NeedRewardbyConsumptionIncBeerHappiness-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ulpius, Bacchus Blessed</Text>
-          <LineId>1600000114</LineId> <!-- <GUID>1600000114</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"And the next round goes on me!"</Text>
-          <LineId>1600000115</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist NeedRewardbyConsumptionIncGarum-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Sericus Garum, Far Eastern Spicer</Text>
-          <LineId>1600000116</LineId> <!-- <GUID>1600000116</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Adds a particularly salty flavor to everything. Creates a taste of the desert on the tongue.</Text>
-          <LineId>1600000117</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AreaEffect-CollosseumGladiator-L -->
   <Group>
@@ -441,21 +379,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelcicTownHallMoneyIncConsumptionRoast-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Rushed Roaster</Text>
-          <LineId>1600000170</LineId> <!-- <GUID>1600000170</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Cooks the roast very quickly... unfortunately not long enough. Note: The effect applies to all residential buildings within Street Range of the Alder Council.</Text>
-          <LineId>1600000171</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-GamblingHouseMoneybyHappinessBelief-R -->
   <Group>
@@ -489,21 +413,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardTheaterIncomeIncConsumptionTogas-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aspiring Toga Designer</Text>
-          <LineId>1600000182</LineId> <!-- <GUID>1600000182</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Uses the theater stage to present his first toga collection. &#xD;Hint: The effect applies to all residential buildings within Street Range of the theater.</Text>
-          <LineId>1600000183</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AreaEffect-TheaterHappinessbyPrestige-R -->
   <Group>
@@ -653,22 +563,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-NeedRewardCelticSportsgroundIncomeIncConsumptionTunicTrousers-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Vercatullos, Sweaty Trainer</Text>
-          <LineId>1600000262</LineId> <!-- <GUID>1600000262</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>He will really make people sweaty. Everyone should have extra tunics and robes ready. &#xD;Hint: The effect applies to all residential buildings within Street Range of the Sportsground.</Text>
-          <LineId>1600000263</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -717,20 +611,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AreaEffect-ForumMarketNeedRewardIncomeIncConsumptionCheese-E -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Cassiocaseos, Culinarius Casei</Text>
-          <LineId>1600000313</LineId> <!-- <GUID>1600000313</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Came up with the idea of melting cheese and combining it with sweet fruit. Some love this experimental cuisine, others hate it and give free rein to their anger. Note: The effect applies to all residential buildings within Street Range of the Market or Forum.</Text>
-          <LineId>1600000314</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
 </ModOps>
