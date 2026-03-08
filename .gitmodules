@@ -1,0 +1,24 @@
+[submodule "[Gameplay] Industry-Specialists-Pack-Altdolphin"]
+	path = [Gameplay] Industry-Specialists-Pack-Altdolphin
+	url = https://github.com/Althandir/Anno-117-Industry-Specialists-Pack.git
+	branch = Release
+[submodule "[Gameplay] Public Services Specialists Pack"]
+	path = [Gameplay] Public Services Specialists Pack
+	url = https://github.com/Althandir/Anno-117-PublicServices-AreaEffect-Specialists.git
+	branch = Release
+[submodule "[Gameplay] Residence Workforce Pack - Altdolphin"]
+	path = [Gameplay] Residence Workforce Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
+	branch = Release
+[submodule "[Gameplay] Public Service Effect Range Specialists - Altdolphin"]
+	path = [Gameplay] Public Service Effect Range Specialists - Altdolphin
+	url = https://github.com/Althandir/Anno-117-PublicServiceEffectRange-Specialists-Pack.git
+	branch = Release
+[submodule "[Gameplay] Majestic Dolphin Specialist - Altdolphin"]
+	path = [Gameplay] Majestic Dolphin Specialist - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
+	branch = Release
+[submodule "[Gameplay] General Institutions Specialists Pack - Altdolphin"]
+	path = [Gameplay] General Institutions Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-General-Institutions-Pack
+	branch = Release
