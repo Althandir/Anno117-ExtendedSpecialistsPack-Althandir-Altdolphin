@@ -26,19 +26,9 @@
   </Group>
   
   <!-- Common Specialists -->
-  <Group>
-    <Include File="items-common/AreaEffect-AllProdMoneyFromResidencesStackable-C.xml" />
-  </Group>
 
   <!-- Rare Specialists -->
   <Group>
-    <Include File="items-rare/AreaEffect-AllStoneCutterMoneyByHealth-R.xml" />
-
-    <Include File="items-rare/AreaEffect-ArmoriesMoneyByHealthHappiness-R.xml" />
-    <Include File="items-rare/AreaEffect-CookhousesPrestigeHappinessByMaintenance-R.xml" />
-    <Include File="items-rare/AreaEffect-WorkshopsMaterialProducersArtisansKnowledgeByHealth-R.xml" />
-
-    <Include File="items-rare/WorkforceRomanCelticTowers-R.xml" />
     
   </Group>
 
@@ -49,8 +39,6 @@
 
   <!-- Legendary Specialists -->
   <Group>
-
-    <Include File="items-legendary/AreaEffect-CollosseumGladiator-L.xml" />
 
   </Group>
 
