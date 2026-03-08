@@ -22,3 +22,39 @@
 	path = [Gameplay] General Institutions Specialists Pack - Altdolphin
 	url = https://github.com/Althandir/Anno-117-General-Institutions-Pack
 	branch = Release
+[submodule "[Gameplay] ConsumptionReward Specialists Pack - Altdolphin"]
+	path = [Gameplay] ConsumptionReward Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-ConsumptionReward-Specialists-Pack.git
+	branch = Release
+[submodule "[Gameplay] Industry AreaEffects Specialists - Altdolphin"]
+	path = [Gameplay] Industry AreaEffects Specialists - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Industry-Areaeffect-Specialists
+	branch = Release
+[submodule "[Gameplay] Defense Specialists Pack - Altdolphin"]
+	path = [Gameplay] Defense Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Defense-Specialists-Pack
+	branch = Release
+[submodule "[Gameplay] Collosseum Specialists Pack - Altdolphin"]
+	path = [Gameplay] Collosseum Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Collosseum-Specialists-Pack.git
+	branch = Release
+[submodule "[Gameplay] Harbor Specialists - Altdolphin"]
+	path = [Gameplay] Harbor Specialists - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Harbor-Specialists-Pack
+	branch = Release
+[submodule "[Gameplay] Captian Specialists Pack - Altdolphin"]
+	path = [Gameplay] Captian Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Captian-Specialists-Pack
+	branch = Release
+[submodule "[Gameplay] Infrastructure Specialists Pack - Altdolphin"]
+	path = [Gameplay] Infrastructure Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Infrastructure-Specialist-Pack.git
+	branch = Release
+[submodule "[Gameplay] Shrine Specialist Pack - Altdolphin"]
+	path = [Gameplay] Shrine Specialist Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
+	branch = Release
+[submodule "[Gameplay] Officia Specialists Pack - Altdolphin"]
+	path = [Gameplay] Officia Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Officia-Specialists-Pack
+	branch = Release
