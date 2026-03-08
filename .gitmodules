@@ -58,3 +58,7 @@
 	path = [Gameplay] Officia Specialists Pack - Altdolphin
 	url = https://github.com/Althandir/Anno-117-Officia-Specialists-Pack
 	branch = Release
+[submodule "[Gameplay] Misc Specialists - Altdolphin"]
+	path = [Gameplay] Misc Specialists - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
+	branch = Release
