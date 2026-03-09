@@ -34,9 +34,9 @@
 	path = [Gameplay] Defense Specialists Pack - Altdolphin
 	url = https://github.com/Althandir/Anno-117-Defense-Specialists-Pack
 	branch = Release
-[submodule "[Gameplay] Collosseum Specialists Pack - Altdolphin"]
-	path = [Gameplay] Collosseum Specialists Pack - Altdolphin
-	url = https://github.com/Althandir/Anno-117-Collosseum-Specialists-Pack.git
+[submodule "[Gameplay] Colosseum Specialists Pack - Altdolphin"]
+	path = [Gameplay] Colosseum Specialists Pack - Altdolphin
+	url = https://github.com/Althandir/Anno-117-Colosseum-Specialists-Pack.git
 	branch = Release
 [submodule "[Gameplay] Harbor Specialists - Altdolphin"]
 	path = [Gameplay] Harbor Specialists - Altdolphin
