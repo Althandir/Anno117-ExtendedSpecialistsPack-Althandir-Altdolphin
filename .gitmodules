@@ -1,0 +1,64 @@
+[submodule "Industry-Pack"]
+	path = Industry-Pack
+	url = https://github.com/Althandir/Anno-117-Industry-Specialists-Pack.git
+	branch = Release
+[submodule "PublicServices-Pack"]
+	path = PublicServices-Pack
+	url = https://github.com/Althandir/Anno-117-PublicServices-AreaEffect-Specialists.git
+	branch = Release
+[submodule "ResidenceWorkforce-Pack"]
+	path = ResidenceWorkforce-Pack
+	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
+	branch = Release
+[submodule "PublicService-EffectRange-Pack"]
+	path = PublicService-EffectRange-Pack
+	url = https://github.com/Althandir/Anno-117-PublicServiceEffectRange-Specialists-Pack.git
+	branch = Release
+[submodule "Majestic-Dolphin"]
+	path = Majestic-Dolphin
+	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
+	branch = Release
+[submodule "Institutions-Pack"]
+	path = Institutions-Pack
+	url = https://github.com/Althandir/Anno-117-General-Institutions-Pack
+	branch = Release
+[submodule "Consumption-Pack"]
+	path = Consumption-Pack
+	url = https://github.com/Althandir/Anno-117-ConsumptionReward-Specialists-Pack.git
+	branch = Release
+[submodule "Industry-AreaEffects-Pack"]
+	path = Industry-AreaEffects-Pack
+	url = https://github.com/Althandir/Anno-117-Industry-Areaeffect-Specialists
+	branch = Release
+[submodule "Defense-Pack"]
+	path = Defense-Pack
+	url = https://github.com/Althandir/Anno-117-Defense-Specialists-Pack
+	branch = Release
+[submodule "Colosseum-Pack"]
+	path = Colosseum-Pack
+	url = https://github.com/Althandir/Anno-117-Colosseum-Specialists-Pack.git
+	branch = Release
+[submodule "Harbor-Pack"]
+	path = Harbor-Pack
+	url = https://github.com/Althandir/Anno-117-Harbor-Specialists-Pack
+	branch = Release
+[submodule "Captians-Pack"]
+	path = Captians-Pack
+	url = https://github.com/Althandir/Anno-117-Captian-Specialists-Pack
+	branch = Release
+[submodule "Infrastructure-Pack"]
+	path = Infrastructure-Pack
+	url = https://github.com/Althandir/Anno-117-Infrastructure-Specialist-Pack.git
+	branch = Release
+[submodule "Shrine-Pack"]
+	path = Shrine-Pack
+	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
+	branch = Release
+[submodule "Officia-Pack"]
+	path = Officia-Pack
+	url = https://github.com/Althandir/Anno-117-Officia-Specialists-Pack
+	branch = Release
+[submodule "Misc-Pack"]
+	path = Misc-Pack
+	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
+	branch = Release
