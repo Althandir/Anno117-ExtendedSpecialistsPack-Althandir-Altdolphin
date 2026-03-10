@@ -44,7 +44,7 @@
 	branch = Release
 [submodule "Captians-Pack"]
 	path = Captians-Pack
-	url = https://github.com/Althandir/Anno-117-Captian-Specialists-Pack
+url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	branch = Release
 [submodule "Infrastructure-Pack"]
 	path = Infrastructure-Pack
