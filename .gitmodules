@@ -42,7 +42,7 @@
 	path = Harbor-Pack
 	url = https://github.com/Althandir/Anno-117-Harbor-Specialists-Pack
 	branch = Release
-[submodule "Captians-Pack"]
+[submodule "Captains-Pack"]
 	path = Captains-Pack
 url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	branch = Release
