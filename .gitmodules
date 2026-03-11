@@ -62,3 +62,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	path = Misc-Pack
 	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
 	branch = Release
+[submodule "WarehouseCapa-Pack"]
+	path = WarehouseCapa-Pack
+	url = https://github.com/Althandir/Anno-117-WarehouseCapa-Specialists-Pack.git
