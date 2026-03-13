@@ -65,3 +65,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "WarehouseCapa-Pack"]
 	path = WarehouseCapa-Pack
 	url = https://github.com/Althandir/Anno-117-WarehouseCapa-Specialists-Pack.git
+[submodule "_testing-ForcedSpawn"]
+	path = _testing-ForcedSpawn
+	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
