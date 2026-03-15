@@ -657,7 +657,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucius Textor, the Textile Craftsmen.</Text>
+          <Text>Lucius Textor, the Textile Craftsmen</Text>
           <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
       </Text>
       <!-- Description -->
