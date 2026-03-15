@@ -18,10 +18,6 @@
 	path = Majestic-Dolphin
 	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
 	branch = Release
-[submodule "Institutions-Pack"]
-	path = Institutions-Pack
-	url = https://github.com/Althandir/Anno-117-General-Institutions-Pack
-	branch = Release
 [submodule "Consumption-Pack"]
 	path = Consumption-Pack
 	url = https://github.com/Althandir/Anno-117-ConsumptionReward-Specialists-Pack.git
@@ -68,3 +64,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "_testing-ForcedSpawn"]
 	path = _testing-ForcedSpawn
 	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
+[submodule "CityWatch-Range-Pack"]
+	path = CityWatch-Range-Pack
+	url = https://github.com/Althandir/Anno-117-CityWatch-Range-Pack.git
