@@ -67,3 +67,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "CityWatch-Range-Pack"]
 	path = CityWatch-Range-Pack
 	url = https://github.com/Althandir/Anno-117-CityWatch-Range-Pack.git
+[submodule "Amenities-Pack"]
+	path =Amenities-Pack
+	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
