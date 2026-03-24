@@ -50,10 +50,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	path = Shrine-Pack
 	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
 	branch = Release
-[submodule "Officia-Pack"]
-	path = Officia-Pack
-	url = https://github.com/Althandir/Anno-117-Officia-Specialists-Pack
-	branch = Release
 [submodule "Misc-Pack"]
 	path = Misc-Pack
 	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
@@ -70,3 +66,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "Amenities-Pack"]
 	path =Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
+[submodule "MoreSlots-Pack"]
+	path = MoreSlots-Pack
+	url = https://github.com/Althandir/Anno-117-MoreSlots-Specialist-Pack.git
