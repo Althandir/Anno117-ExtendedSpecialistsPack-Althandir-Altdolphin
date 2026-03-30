@@ -63,12 +63,12 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "Amenities-Pack"]
 	path =Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
-[submodule "MoreSlots-Pack"]
-	path = MoreSlots-Pack
-	url = https://github.com/Althandir/Anno-117-MoreSlots-Specialist-Pack.git
 [submodule "CityWatch-EffectRange-Pack"]
 	path = CityWatch-EffectRange-Pack
 	url = https://github.com/Althandir/Anno-117-CityWatch-EffectRange-Pack.git
 [submodule "CityWatch-ResolverRange-Pack"]
 	path = CityWatch-ResolverRange-Pack
 	url = https://github.com/Althandir/Anno-117-CityWatch-ResolverRange-Pack.git
+[submodule "MoreSpecialistSlots-Pack"]
+	path = MoreSpecialistSlots-Pack
+	url = https://github.com/Althandir/Anno-117-MoreSpecialistSlots-Specialist-Pack.git
