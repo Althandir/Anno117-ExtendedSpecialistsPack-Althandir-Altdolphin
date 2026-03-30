@@ -60,12 +60,15 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "_testing-ForcedSpawn"]
 	path = _testing-ForcedSpawn
 	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
-[submodule "CityWatch-Range-Pack"]
-	path = CityWatch-Range-Pack
-	url = https://github.com/Althandir/Anno-117-CityWatch-Range-Pack.git
 [submodule "Amenities-Pack"]
 	path =Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
 [submodule "MoreSlots-Pack"]
 	path = MoreSlots-Pack
 	url = https://github.com/Althandir/Anno-117-MoreSlots-Specialist-Pack.git
+[submodule "CityWatch-EffectRange-Pack"]
+	path = CityWatch-EffectRange-Pack
+	url = https://github.com/Althandir/Anno-117-CityWatch-EffectRange-Pack.git
+[submodule "CityWatch-ResolverRange-Pack"]
+	path = CityWatch-ResolverRange-Pack
+	url = https://github.com/Althandir/Anno-117-CityWatch-ResolverRange-Pack.git
