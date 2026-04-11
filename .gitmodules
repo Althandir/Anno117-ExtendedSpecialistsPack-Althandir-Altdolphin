@@ -42,10 +42,6 @@
 	path = Captains-Pack
 url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	branch = Release
-[submodule "Infrastructure-Pack"]
-	path = Infrastructure-Pack
-	url = https://github.com/Althandir/Anno-117-Infrastructure-Specialist-Pack.git
-	branch = Release
 [submodule "Shrine-Pack"]
 	path = Shrine-Pack
 	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
@@ -72,3 +68,6 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "MoreSpecialistSlots-Pack"]
 	path = MoreSpecialistSlots-Pack
 	url = https://github.com/Althandir/Anno-117-MoreSpecialistSlots-Specialist-Pack.git
+[submodule "Aqueduct-Pack"]
+	path = Aqueduct-Pack
+	url = https://github.com/Althandir/Anno-117-Aqueduct-Specialist-Pack.git
