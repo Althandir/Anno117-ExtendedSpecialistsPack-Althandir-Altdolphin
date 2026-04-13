@@ -40,7 +40,7 @@
 	branch = Release
 [submodule "Captains-Pack"]
 	path = Captains-Pack
-url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
+	url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	branch = Release
 [submodule "Shrine-Pack"]
 	path = Shrine-Pack
@@ -53,21 +53,27 @@ url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 [submodule "WarehouseCapa-Pack"]
 	path = WarehouseCapa-Pack
 	url = https://github.com/Althandir/Anno-117-WarehouseCapa-Specialists-Pack.git
+	branch = Release
 [submodule "_testing-ForcedSpawn"]
 	path = _testing-ForcedSpawn
 	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
 [submodule "Amenities-Pack"]
-	path =Amenities-Pack
+	path = Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
+	branch = Release
 [submodule "CityWatch-EffectRange-Pack"]
 	path = CityWatch-EffectRange-Pack
 	url = https://github.com/Althandir/Anno-117-CityWatch-EffectRange-Pack.git
+	branch = Release
 [submodule "CityWatch-ResolverRange-Pack"]
 	path = CityWatch-ResolverRange-Pack
 	url = https://github.com/Althandir/Anno-117-CityWatch-ResolverRange-Pack.git
+	branch = Release
 [submodule "MoreSpecialistSlots-Pack"]
 	path = MoreSpecialistSlots-Pack
 	url = https://github.com/Althandir/Anno-117-MoreSpecialistSlots-Specialist-Pack.git
+	branch = Release
 [submodule "Aqueduct-Pack"]
 	path = Aqueduct-Pack
 	url = https://github.com/Althandir/Anno-117-Aqueduct-Specialist-Pack.git
+	branch = Release
