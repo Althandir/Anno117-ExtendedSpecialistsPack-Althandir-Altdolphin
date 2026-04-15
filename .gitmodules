@@ -26,10 +26,6 @@
 	path = Industry-AreaEffects-Pack
 	url = https://github.com/Althandir/Anno-117-Industry-Areaeffect-Specialists
 	branch = Release
-[submodule "Defense-Pack"]
-	path = Defense-Pack
-	url = https://github.com/Althandir/Anno-117-Defense-Specialists-Pack
-	branch = Release
 [submodule "Colosseum-Pack"]
 	path = Colosseum-Pack
 	url = https://github.com/Althandir/Anno-117-Colosseum-Specialists-Pack.git
@@ -45,10 +41,6 @@
 [submodule "Shrine-Pack"]
 	path = Shrine-Pack
 	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
-	branch = Release
-[submodule "Misc-Pack"]
-	path = Misc-Pack
-	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
 	branch = Release
 [submodule "WarehouseCapa-Pack"]
 	path = WarehouseCapa-Pack
