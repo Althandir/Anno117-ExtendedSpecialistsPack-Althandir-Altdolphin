@@ -49,7 +49,3 @@
 	path = Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
 	branch = Release
-[submodule "Aqueduct-Pack"]
-	path = Aqueduct-Pack
-	url = https://github.com/Althandir/Anno-117-Aqueduct-Specialist-Pack.git
-	branch = Release
