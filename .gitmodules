@@ -10,10 +10,6 @@
 	path = ResidenceWorkforce-Pack
 	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
 	branch = Release
-[submodule "PublicService-EffectRange-Pack"]
-	path = PublicService-EffectRange-Pack
-	url = https://github.com/Althandir/Anno-117-PublicServiceEffectRange-Specialists-Pack.git
-	branch = Release
 [submodule "Majestic-Dolphin"]
 	path = Majestic-Dolphin
 	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
@@ -52,18 +48,6 @@
 [submodule "Amenities-Pack"]
 	path = Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
-	branch = Release
-[submodule "CityWatch-EffectRange-Pack"]
-	path = CityWatch-EffectRange-Pack
-	url = https://github.com/Althandir/Anno-117-CityWatch-EffectRange-Pack.git
-	branch = Release
-[submodule "CityWatch-ResolverRange-Pack"]
-	path = CityWatch-ResolverRange-Pack
-	url = https://github.com/Althandir/Anno-117-CityWatch-ResolverRange-Pack.git
-	branch = Release
-[submodule "MoreSpecialistSlots-Pack"]
-	path = MoreSpecialistSlots-Pack
-	url = https://github.com/Althandir/Anno-117-MoreSpecialistSlots-Specialist-Pack.git
 	branch = Release
 [submodule "Aqueduct-Pack"]
 	path = Aqueduct-Pack
