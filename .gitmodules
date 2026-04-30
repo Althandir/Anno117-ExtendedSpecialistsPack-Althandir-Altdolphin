@@ -10,17 +10,9 @@
 	path = ResidenceWorkforce-Pack
 	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
 	branch = Release
-[submodule "PublicService-EffectRange-Pack"]
-	path = PublicService-EffectRange-Pack
-	url = https://github.com/Althandir/Anno-117-PublicServiceEffectRange-Specialists-Pack.git
-	branch = Release
 [submodule "Majestic-Dolphin"]
 	path = Majestic-Dolphin
 	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
-	branch = Release
-[submodule "Institutions-Pack"]
-	path = Institutions-Pack
-	url = https://github.com/Althandir/Anno-117-General-Institutions-Pack
 	branch = Release
 [submodule "Consumption-Pack"]
 	path = Consumption-Pack
@@ -30,10 +22,6 @@
 	path = Industry-AreaEffects-Pack
 	url = https://github.com/Althandir/Anno-117-Industry-Areaeffect-Specialists
 	branch = Release
-[submodule "Defense-Pack"]
-	path = Defense-Pack
-	url = https://github.com/Althandir/Anno-117-Defense-Specialists-Pack
-	branch = Release
 [submodule "Colosseum-Pack"]
 	path = Colosseum-Pack
 	url = https://github.com/Althandir/Anno-117-Colosseum-Specialists-Pack.git
@@ -42,23 +30,22 @@
 	path = Harbor-Pack
 	url = https://github.com/Althandir/Anno-117-Harbor-Specialists-Pack
 	branch = Release
-[submodule "Captians-Pack"]
-	path = Captians-Pack
-	url = https://github.com/Althandir/Anno-117-Captian-Specialists-Pack
-	branch = Release
-[submodule "Infrastructure-Pack"]
-	path = Infrastructure-Pack
-	url = https://github.com/Althandir/Anno-117-Infrastructure-Specialist-Pack.git
+[submodule "Captains-Pack"]
+	path = Captains-Pack
+	url=https://github.com/Althandir/Anno-117-Captain-Specialists-Pack
 	branch = Release
 [submodule "Shrine-Pack"]
 	path = Shrine-Pack
 	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
 	branch = Release
-[submodule "Officia-Pack"]
-	path = Officia-Pack
-	url = https://github.com/Althandir/Anno-117-Officia-Specialists-Pack
+[submodule "WarehouseCapa-Pack"]
+	path = WarehouseCapa-Pack
+	url = https://github.com/Althandir/Anno-117-WarehouseCapa-Specialists-Pack.git
 	branch = Release
-[submodule "Misc-Pack"]
-	path = Misc-Pack
-	url = https://github.com/Althandir/Anno-117-Misc-Specialists-Pack.git
+[submodule "_testing-ForcedSpawn"]
+	path = _testing-ForcedSpawn
+	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
+[submodule "Amenities-Pack"]
+	path = Amenities-Pack
+	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
 	branch = Release
