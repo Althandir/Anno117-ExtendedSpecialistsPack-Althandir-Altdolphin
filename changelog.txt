@@ -1,0 +1,60 @@
+2.0.0 
+Init Release
+
+2.0.1
+Captians-Pack @ 1.0.1
+- Fix minor translation issues
+
+PublicServices-Pack @ 1.0.1
+- Minor Translation Fixes in German Version
+2.0.2
+
+Consumption-Pack @ 1.0.1
+- Rebalance Consumption Increase: 
+--- Rare down to 25% from 30%
+--- Epic down to 35% from 40%
+- Nerv Iana Rodericia: -15% Overall Consumption down to -5% Overall Consumption (To be weaker than HoF Specialist added)
+- Update: Changed Religious Need Reward Specialists from Common to Rare 
+--- Consumption from +15% to +25% but also Buff from +1 Belief -> +2 Belief
+- Reduce Happiness Impact from Cheese Specialist (was -2 -> now -1)
+- optional modification of consumption via Options (streamlining)
+
+Harbor-Pack @ 1.0.1
+- Remove Negatives from Common Items
+- Common Specialist Changes: 
+--- Harbor Upkeep:
+----- Flip Maintenanance and Workforceneeds Buff (Money now -25% and Workforce now -50%)
+--- PierKontorSpeed:
+----- Increase Goodtransfer Speed from 20% to 25%
+--- RepairRange:
+----- Reduce Repairradius from 25% to 20%
+
+Industry-AreaEffect-Pack @ 1.0.1
+- Unify Productivity Buff for All Legendary Specialists
+--- e.g Nerv Lounger Specialists from 25% (75% Boosted) to 15% (50% Boosted)
+--- o.e.g Buff Chairiot Specialist from 10% (40% Boosted) to 15% (50% Boosted)
+- Buff Additional Goods for all Legendary Specialists
+--- Additional Good now per 8th Cycle (3rd Cycle when Boosted) instead of 10th Cycle (4th when Boosted)
+- Internal Rename of Birrus Specialist to PeltHat Specialist
+- Minor Buffs for Area Effects on different Specialists
+--- Mostly 0.5 higher
+
+Industry-Pack @ 1.0.1
+- Overall Code cleanup
+- Added Options (streamlining all buffs, especially the productivity buffs)
+--- Changed Default for RequiredAreaUpgrade
+----- Common now 10% (from 15%)
+----- Rare unchanged
+----- Epic now 35% (from 40%)
+- Changed ReplaceInput for Jewelers Specialist from Epic to Rare
+--- Added -2 Prestige on Jeweler itself as Debuff
+- Removed Additional Goods from Specialists for:
+--- Farms
+--- Plantations
+- Added Maintenance Increase on Specialists for: 
+--- Farms (+75% Money)
+--- Plantations (+75% Money)
+--- Pastures (125% Money)
+Shrine-Pack @ 1.0.1
+- Update all Common Specialists to Rare
+--- Increase Values based on Deity from 0.5 to 1.0 (same as Shrine)
