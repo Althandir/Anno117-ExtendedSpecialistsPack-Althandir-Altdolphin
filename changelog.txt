@@ -1,10 +1,10 @@
 
 2.0.3
-Industry-AreaEffect-Pack @ 1.0.1
+Industry-AreaEffect-Pack @ 1.0.2
 - Fix wrong Productivity Value for Chariot - Legendary (non Boosted)
 - Fix wrong used Bark for One Specialist
 
-Industry-Pack @ 1.0.1
+Industry-Pack @ 1.0.2
 - Fix Broken Specialists: 
 --- Pits & Quarries - Epic
 --- Fishieres - Legendary
