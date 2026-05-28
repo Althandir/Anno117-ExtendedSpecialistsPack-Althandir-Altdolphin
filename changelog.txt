@@ -1,14 +1,15 @@
-2.0.0 
-Init Release
 
-2.0.1
-Captians-Pack @ 1.0.1
-- Fix minor translation issues
+2.0.3
+Industry-AreaEffect-Pack @ 1.0.1
+- Fix wrong Productivity Value for Chariot - Legendary (non Boosted)
+- Fix wrong used Bark for One Specialist
 
-PublicServices-Pack @ 1.0.1
-- Minor Translation Fixes in German Version
+Industry-Pack @ 1.0.1
+- Fix Broken Specialists: 
+--- Pits & Quarries - Epic
+--- Fishieres - Legendary
+
 2.0.2
-
 - Add Changelog.txt
 
 Consumption-Pack @ 1.0.1
@@ -34,7 +35,7 @@ Harbor-Pack @ 1.0.1
 Industry-AreaEffect-Pack @ 1.0.1
 - Unify Productivity Buff for All Legendary Specialists
 --- e.g Nerv Lounger Specialists from 25% (75% Boosted) to 15% (50% Boosted)
---- o.e.g Buff Chairiot Specialist from 10% (40% Boosted) to 15% (50% Boosted)
+--- o.e.g Buff Chariot Specialist from 10% (40% Boosted) to 15% (50% Boosted)
 - Buff Additional Goods for all Legendary Specialists
 --- Additional Good now per 8th Cycle (3rd Cycle when Boosted) instead of 10th Cycle (4th when Boosted)
 - Internal Rename of Birrus Specialist to PeltHat Specialist
@@ -60,3 +61,12 @@ Industry-Pack @ 1.0.1
 Shrine-Pack @ 1.0.1
 - Update all Common Specialists to Rare
 --- Increase Values based on Deity from 0.5 to 1.0 (same as Shrine)
+
+2.0.1
+Captians-Pack @ 1.0.1
+- Fix minor translation issues
+PublicServices-Pack @ 1.0.1
+- Minor Translation Fixes in German Version
+
+2.0.0 
+Init Release
