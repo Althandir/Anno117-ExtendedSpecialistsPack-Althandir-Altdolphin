@@ -49,3 +49,6 @@
 	path = Amenities-Pack
 	url = https://github.com/Althandir/Anno-117-Amenities-Pack.git
 	branch = Release
+[submodule "DLC1-Pack"]
+	path = DLC1-Pack
+	url = https://github.com/Althandir/Anno-117-DLC1-Specialist-Pack.git

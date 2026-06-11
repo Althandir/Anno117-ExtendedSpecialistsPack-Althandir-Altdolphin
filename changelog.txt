@@ -1,3 +1,47 @@
+2.0.4
+
+DLC1-Pack Release @ 1.0.0
+-> Init Release of new Specialists for Caecilia and focused on DLC-1 Content.
+- Specialists are aquired via Obisidian Trade with Caecilia.
+-- With Option to allow spawning of these Specialists at other Traders
+- Adds 15 new Specialists
+-- some Examples are:
+--- Specialist to gain Obsidian via Farms, Plantations, Pastures. Like collecting traces of obsidian on the countryside.
+--- Replace Input Obsidian for Figures with Armor | Replace Input Obsidian for Boards with Weapons (Common and fairly cheap)
+---- Ideal for players who don't like the volcano for obsidian but still want to access the new goods of the DLC
+--- Shrine Specialists for Vulcan shrines
+--- Consumption Specialists for DLC1 Goods
+--- Additional Area-Effects for your Figure / Boardgame Industry
+
+- Known Issue:
+-- I am currenlty unable to find out what the exact tag is for the Requirement of DLC1 in the mod options.
+-- Therefore you will currenty have an error in your mod-loader.log of "missing requirement". 
+-- The pack should still load.
+-- I already tried out "DLC1","DLC01","Dlc01","dlc1","PropheciesOfAsh","DLC01_PropheciesOfAsh"
+-- When I find out the tag -> I will update it
+
+Shrine-Pack @ 1.0.3
+- Rebalance of:
+-- Epic Additional Goods Specialists
+--- Now grants 2 Goods per 7th Cycle (was 5th)
+--- Now grants -33% Workforce Maintenanance (was -25%)
+-- Legendary Specialists
+--- Overall rebalance to +1.5 per corresponding attribute (2.0 when Boosted)
+--- Added Maintenanance Reduction to -50% (-100% when Boosted)
+---- Reason: 
+---- These Legendary Specialists in their current state make attribute management very obsolete 
+---- as +3 per Attribute trivialises many elements of the game. They still offer a good buff for using shrines in your city.
+---- The Boosted Buff was nerved more as the condition is fairly easy to achieve 
+-- Rare Specialists
+--- Overall rebalance to 0.8 per corresponding attribute
+- Overall Code Cleanup
+-- Internal Rename of Specialists & Filename shorting to reduce probability of Windows' "Path to Long" Issue.
+- Added Options / Variables to nearly all attributes
+-- This allows you to balance these Specialists yourself or revert a balance change I do here if you prefer the old version ;)
+- Fix wrong Ref in AssetListPools (Asset instead of ItemLink (non-critical Issue but to keep stuff correct as much as possible))
+Industry-Pack @ 1.0.3
+- Per Request: Restored Legendary Specialist for Honey Gatherers 
+- Fix wrong Ref in AssetListPools (Asset instead of ItemLink (non-critical Issue but to keep stuff correct as much as possible))
 
 2.0.3
 Industry-AreaEffect-Pack @ 1.0.2
