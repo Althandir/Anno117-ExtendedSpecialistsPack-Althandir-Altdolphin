@@ -1,0 +1,78 @@
+{
+  "ModID": "althandir-altdolphin-specialists-pack",
+  "Version": "2.1.0",
+  "Anno": 8,
+  "LoadAfterIds": [  
+    
+  ],
+  "Difficulty": "easier",
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [
+      "althandir-altdolphin-specialists-amenities-pack",
+      "althandir-altdolphin-specialists-captain-pack",
+      "althandir-altdolphin-specialists-colosseum-pack",
+      "althandir-altdolphin-specialists-consumptionreward-pack",
+      "althandir-altdolphin-dlc1-specialists-pack",
+      "althandir-altdolphin-specialists-harbor-pack",
+      "althandir-altdolphin-specialists-industry-areaeffects-pack",
+      "althandir-altdolphin-specialists-industry-pack",
+      "althandir-altdolphin-specialists-dolphin",
+      "althandir-altdolphin-specialists-publicservice-areaeffects-pack",
+      "althandir-altdolphin-specialists-residenceworkforce-pack",
+      "althandir-altdolphin-specialists-shrine-pack",
+      "althandir-altdolphin-specialists-warehousecapacity-pack"],
+    "Deprecate": []
+  },
+  "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+
+  "ModName": {
+    "English": "Specialist Pack by Althandir / Altdolphin",
+    "German": "Spezialisten Pack von Althandir / Altdolphin",
+    "French": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Italian": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Polish": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Spanish": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Chinese": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Japanese": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Korean": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Taiwanese": "[EN] Specialist Pack by Althandir / Altdolphin",
+    "Russian": "[EN] Specialist Pack by Althandir / Altdolphin"
+  },
+  "Description": {
+    "English": "Adds new Specialists to Anno 117.",
+    "German": "Fügt neue Spezialisten zu Anno 117 hinzu.",
+    "French": "[EN] Adds new Specialists to Anno 117.",
+    "Italian": "[EN] Adds new Specialists to Anno 117.",
+    "Polish": "[EN] Adds new Specialists to Anno 117.",
+    "Spanish": "[EN] Adds new Specialists to Anno 117.",
+    "Chinese": "[EN] Adds new Specialists to Anno 117.",
+    "Japanese": "[EN] Adds new Specialists to Anno 117.",
+    "Korean": "[EN] Adds new Specialists to Anno 117.",
+    "Taiwanese": "[EN] Adds new Specialists to Anno 117.",
+    "Russian": "[EN] Adds new Specialists to Anno 117."
+  },
+  "Category": {
+    "English": "Content",
+    "German": "Content",
+    "French": "Content",
+    "Italian": "Content",
+    "Polish": "Content",
+    "Spanish": "Content",
+    "Chinese": "Content",
+    "Japanese": "Content",
+    "Korean": "Content",
+    "Taiwanese": "Content",
+    "Russian": "Content"
+  },
+
+  "CreatorName": "Althandir / Altdolphin",
+  "CreatorContact": "althandir via Anno-Modding-Discord",
+  "Image": "ModListingImg.png"
+}

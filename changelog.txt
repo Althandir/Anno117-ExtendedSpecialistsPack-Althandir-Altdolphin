@@ -1,4 +1,5 @@
-2.0.4
+#######################################################################
+2.1.0
 
 DLC1-Pack Release @ 1.0.0
 -> Init Release of new Specialists for Caecilia and focused on DLC-1 Content.
@@ -19,6 +20,21 @@ DLC1-Pack Release @ 1.0.0
 -- The pack should still load.
 -- I already tried out "DLC1","DLC01","Dlc01","dlc1","PropheciesOfAsh","DLC01_PropheciesOfAsh"
 -- When I find out the tag -> I will update it
+
+General Package: 
+- Added Bundle for Modloader
+-- Pack will now be indentified as nested by mod-loader
+- Known-Issue?:
+-- When Bundling the pack all Icon Refs are lost. And only when bundled.
+-- Reason is that for some magical reason all submods start using the parent mod as path reference.
+-- This caused all icons to disappear.
+-- Workaround is an Additional Folder containing all Icons with the same data structure from each submod
+-- Bundle is sadly required to be identified by Community Modloader
+-- Disadvantage: Now each Icon is saved 2 times.
+-- And yes I tried already adding "*/", "<sub-mod-name>/, and every different variant in front of the IconFilename -- still dont work.
+-- Also when bundled the load order is relevant...
+-- the parent mod needs to be loaded >last<. Otherwise Icons are again broken...
+-- its so annoying... >.<
 
 Shrine-Pack @ 1.0.3
 - Rebalance of:
@@ -43,6 +59,13 @@ Industry-Pack @ 1.0.3
 - Per Request: Restored Legendary Specialist for Honey Gatherers 
 - Fix wrong Ref in AssetListPools (Asset instead of ItemLink (non-critical Issue but to keep stuff correct as much as possible))
 
+WarehouseCapa-Pack @ 1.0.2
+- Minor Internal Renaming
+
+Dolphin-Pack @ 1.0.0
+- Pack Renamed from Majestic-Dolphin (just for consistency)
+
+#######################################################################
 2.0.3
 Industry-AreaEffect-Pack @ 1.0.2
 - Fix wrong Productivity Value for Chariot - Legendary (non Boosted)
@@ -52,7 +75,7 @@ Industry-Pack @ 1.0.2
 - Fix Broken Specialists: 
 --- Pits & Quarries - Epic
 --- Fishieres - Legendary
-
+#######################################################################
 2.0.2
 - Add Changelog.txt
 
@@ -105,12 +128,12 @@ Industry-Pack @ 1.0.1
 Shrine-Pack @ 1.0.1
 - Update all Common Specialists to Rare
 --- Increase Values based on Deity from 0.5 to 1.0 (same as Shrine)
-
+#######################################################################
 2.0.1
 Captians-Pack @ 1.0.1
 - Fix minor translation issues
 PublicServices-Pack @ 1.0.1
 - Minor Translation Fixes in German Version
-
+#######################################################################
 2.0.0 
 Init Release
