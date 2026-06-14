@@ -26,7 +26,7 @@ DLC1-Pack Release @ 1.0.0
 General Package: 
 - Added Bundle for Modloader
 -- Pack will now be indentified as nested by mod-loader
-- Known-Issue?:
+- Known-Issue?: (technical stuff)
 -- When Bundling the pack all Icon Refs are lost. And only when bundled.
 -- Reason is that for some magical reason all submods start using the parent mod as path reference.
 -- This caused all icons to disappear.
@@ -37,6 +37,13 @@ General Package:
 -- Also when bundled the load order is relevant...
 -- the parent mod needs to be loaded >last<. Otherwise Icons are again broken...
 -- its so annoying... >.<
+
+-- If you want this pack mod manager compatible you keed to keep the modinfo.json & data\... folder.
+-- the game mod loader don't care.
+-- If you rip the submods out you can ignore the modinfo.json & the data-folder from the main directory.
+
+--- TLDR:
+--- You use mod manager? Keep everything as is and only update main-package
 
 - Updated "SaveToRemove" to "false". 
 -- To Remove savely please read on mod.io what you have to consider
