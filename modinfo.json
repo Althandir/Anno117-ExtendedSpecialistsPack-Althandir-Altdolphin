@@ -27,7 +27,7 @@
   },
   "GameSetup": {
     "RequiresNewGame": false,
-    "SafeToRemove": true,
+    "SafeToRemove": false,
     "Multiplayer": true,
     "Campaign": true
   },
