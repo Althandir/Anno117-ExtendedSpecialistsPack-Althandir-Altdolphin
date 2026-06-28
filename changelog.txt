@@ -66,7 +66,7 @@ Shrine-Pack @ 1.0.3
 - Overall Code Cleanup
 -- Internal Rename of Specialists & Filename shorting to reduce probability of Windows' "Path to Long" Issue.
 - Added Options / Variables to nearly all attributes
--- This allows you to balance these Specialists yourself or revert a balance change I do here if you prefer the old version ;)
+-- This allows you to balance these Specialists yourself or revert a balance change if you prefer a previous version ;)
 - Fix wrong Ref in AssetListPools (Asset instead of ItemLink (non-critical Issue but to keep stuff correct as much as possible))
 
 Industry-Pack @ 1.0.3
