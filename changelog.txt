@@ -9,7 +9,7 @@ DLC1-Pack Release @ 1.0.0
 -- some Examples are:
 --- Specialist to gain Obsidian via Farms, Plantations, Pastures. Like collecting traces of obsidian on the countryside.
 --- Replace Input Obsidian for Figures with Armor | Replace Input Obsidian for Boards with Weapons (Common and fairly cheap)
----- Ideal for players who don't like the volcano for obsidian but still want to access the new goods of the DLC
+---- Ideal for players who don't like the volcano eruption. but still want to access the new goods of the DLC.
 --- Shrine Specialists for Vulcan shrines
 --- Consumption Specialists for DLC1 Goods
 --- Additional Area-Effects for your Figure / Boardgame Industry
@@ -26,6 +26,7 @@ DLC1-Pack Release @ 1.0.0
 General Package: 
 - Added Bundle for Modloader
 -- Pack will now be identified as nested by mod-loader
+-- To Disable a specific package: Rename Package with an "-" infromt of the Folder Name. E.g. "-Dolphin-Pack"
 - Known-Issue?: (technical stuff)
 -- When Bundling the pack all Icon Refs are lost. And only when bundled.
 -- Reason is that for some magical reason all submods start using the parent mod as path reference.
@@ -38,7 +39,7 @@ General Package:
 -- the parent mod needs to be loaded >last<. Otherwise Icons are again broken...
 -- its so annoying... >.<
 
--- If you want this pack to be compatible with mod manager you keed to keep the modinfo.json & data\... folder.
+-- If you want this pack to be compatible with mod manager you need to keep the modinfo.json & data\... folder.
 -- the game mod loader does not care.
 -- If you rip the submods out you can ignore the modinfo.json & the data-folder from the main directory.
 
