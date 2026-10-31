@@ -34,10 +34,6 @@
 	path = Shrine-Pack
 	url = https://github.com/Althandir/Anno-117-Shrine-Specialist-Pack
 	branch = Release
-[submodule "WarehouseCapa-Pack"]
-	path = WarehouseCapa-Pack
-	url = https://github.com/Althandir/Anno-117-WarehouseCapa-Specialists-Pack.git
-	branch = Release
 [submodule "_testing-ForcedSpawn"]
 	path = _testing-ForcedSpawn
 	url = https://github.com/Althandir/Anno-117-Testing-ForcedSpawnSpecialist.git
@@ -52,3 +48,6 @@
 	path = Dolphin-Pack
 	url = https://github.com/Althandir/Anno-117-Majestic-Dolphin-Specialist
 	branch = Release
+[submodule "Warehouse-Pack"]
+	path = Warehouse-Pack
+	url = https://github.com/Althandir/Anno-117-Warehouse-Specialists-Pack
