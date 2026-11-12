@@ -6,14 +6,6 @@
 	path = PublicServices-Pack
 	url = https://github.com/Althandir/Anno-117-PublicServices-AreaEffect-Specialists.git
 	branch = Release
-[submodule "ResidenceWorkforce-Pack"]
-	path = ResidenceWorkforce-Pack
-	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
-	branch = Release
-[submodule "Consumption-Pack"]
-	path = Consumption-Pack
-	url = https://github.com/Althandir/Anno-117-ConsumptionReward-Specialists-Pack.git
-	branch = Release
 [submodule "Industry-AreaEffects-Pack"]
 	path = Industry-AreaEffects-Pack
 	url = https://github.com/Althandir/Anno-117-Industry-Areaeffect-Specialists
@@ -51,3 +43,9 @@
 [submodule "Warehouse-Pack"]
 	path = Warehouse-Pack
 	url = https://github.com/Althandir/Anno-117-Warehouse-Specialists-Pack
+[submodule "ResiNeeds-Pack"]
+	path = ResiNeeds-Pack
+	url = https://github.com/Althandir/Anno-117-ResidenceNeeds-Specialists-Pack.git
+[submodule "ResiWF-Pack"]
+	path = ResiWF-Pack
+	url = https://github.com/Althandir/Anno-117-ResidenceWorkforce-Specialists-Pack.git
